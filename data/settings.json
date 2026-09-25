@@ -1,0 +1,7 @@
+{
+  "models": {
+    "annotate": "google/gemini-2.5-flash",
+    "translate": "google/gemini-2.5-flash",
+    "ocr": "google/gemini-2.5-flash"
+  }
+}

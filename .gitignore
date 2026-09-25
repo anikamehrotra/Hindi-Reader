@@ -1,0 +1,7 @@
+# secrets
+.env
+# rebuildable: python scripts/build_dictionary.py (start.bat does it on first run)
+data/raw/
+data/dictionary.sqlite
+data/library/*.tmp
+__pycache__/

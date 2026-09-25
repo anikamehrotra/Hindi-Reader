@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en" data-theme="sepia">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hindi Reader</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23a3542e'/><text x='16' y='23' font-size='19' text-anchor='middle' fill='white' font-family='serif'>अ</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi:ital@0;1&family=Noto+Serif+Devanagari:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <button class="icon-btn" id="libraryBtn" title="Library" aria-label="Library">
+    <svg viewBox="0 0 24 24" width="20" height="20"><path d="M4 6h16M4 12h16M4 18h10" stroke="currentColor" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>
+  </button>
+  <div class="doc-title" id="docTitle">Hindi Reader</div>
+  <div class="status" id="status"></div>
+  <div class="toggles" id="toggles">
+    <label class="chip idiom" title="Underline idioms and proverbs"><input type="checkbox" id="tIdioms" checked><span>idioms</span></label>
+    <label class="chip phrase" title="Underline compound verbs, conjunct verbs, compound postpositions, set phrases"><input type="checkbox" id="tPhrases"><span>phrases &amp; verbs</span></label>
+    <label class="chip" title="Transliteration above every word"><input type="checkbox" id="tRoman"><span>transliteration</span></label>
+    <label class="chip" title="Show every paragraph's translation"><input type="checkbox" id="tTrans"><span>translations</span></label>
+  </div>
+  <div class="tools">
+    <button class="icon-btn" id="smaller" title="Smaller text">A−</button>
+    <button class="icon-btn" id="bigger" title="Bigger text">A+</button>
+    <button class="icon-btn" id="themeBtn" title="Theme: sepia / light / dark">
+      <svg viewBox="0 0 24 24" width="18" height="18"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z" fill="currentColor"/></svg>
+    </button>
+    <button class="icon-btn" id="settingsBtn" title="Settings">
+      <svg viewBox="0 0 24 24" width="18" height="18"><circle cx="12" cy="12" r="3.2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+</header>
+
+<aside class="drawer" id="drawer">
+  <div class="drawer-head">
+    <h2>Library</h2>
+    <button class="btn primary" id="addBtn">+ Add text</button>
+  </div>
+  <ul class="library" id="library"></ul>
+</aside>
+<div class="scrim" id="scrim"></div>
+
+<main id="main">
+  <div class="empty" id="empty">
+    <div class="empty-mark">अ</div>
+    <h1>Hindi Reader</h1>
+    <p>Paste a story or upload a PDF or scan. Hover any word for its transliteration and meaning; select a passage to translate it or pin a note to it.</p>
+    <button class="btn primary" id="emptyAdd">+ Add your first text</button>
+  </div>
+  <div id="review" class="review" hidden></div>
+  <article id="reader" class="reader" hidden></article>
+</main>
+
+<div id="popover" class="popover" hidden></div>
+<div id="selbar" class="selbar" hidden>
+  <button data-act="translate">Translate</button>
+  <button data-act="note">Note</button>
+</div>
+
+<dialog id="addDialog" class="dialog">
+  <form method="dialog" id="addForm">
+    <h2>Add a text</h2>
+    <input id="addTitle" class="field" placeholder="Title (optional) -- e.g. ईदगाह, Premchand">
+    <div class="tabs" role="tablist">
+      <button type="button" class="tab active" data-tab="paste">Paste text</button>
+      <button type="button" class="tab" data-tab="file">PDF or image</button>
+    </div>
+    <div class="tabpane" data-pane="paste">
+      <textarea id="addText" class="field hindi" rows="12" placeholder="यहाँ हिंदी पाठ चिपकाइए… (Rekhta, a website, a doc -- blank lines separate paragraphs)"></textarea>
+    </div>
+    <div class="tabpane" data-pane="file" hidden>
+      <label class="drop" id="drop">
+        <input type="file" id="addFile" accept=".pdf,image/*" hidden>
+        <div><strong>Drop a PDF or page photo</strong><br><span class="muted">or click to choose. Scans are read by the OCR model; you'll get to check the text before it's annotated.</span></div>
+        <div class="filename" id="fileName"></div>
+      </label>
+    </div>
+    <div class="dialog-actions">
+      <button type="button" class="btn" value="cancel" id="addCancel">Cancel</button>
+      <button type="submit" class="btn primary" id="addSubmit">Add</button>
+    </div>
+  </form>
+</dialog>
+
+<dialog id="settingsDialog" class="dialog">
+  <form method="dialog" id="settingsForm">
+    <h2>Settings</h2>
+    <label class="lbl">OpenRouter API key <span id="keyState" class="muted"></span></label>
+    <input id="apiKey" class="field" type="password" placeholder="sk-or-… (saved only to this project's .env)" autocomplete="off">
+    <p class="muted small">Prices are per million tokens, input / output. A 3,000-word story costs roughly 10-25¢ to annotate with the default model.</p>
+    <label class="lbl">Word-by-word annotation + idioms</label>
+    <input id="mAnnotate" class="field" list="modelList">
+    <label class="lbl">Highlight → translate</label>
+    <input id="mTranslate" class="field" list="modelList">
+    <label class="lbl">OCR for scans (needs an image model)</label>
+    <input id="mOcr" class="field" list="modelList">
+    <datalist id="modelList"></datalist>
+    <div id="modelTable" class="model-table"></div>
+    <div class="dialog-actions">
+      <button type="button" class="btn" id="settingsCancel">Close</button>
+      <button type="submit" class="btn primary">Save</button>
+    </div>
+  </form>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>
