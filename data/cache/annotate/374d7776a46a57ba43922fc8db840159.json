@@ -1,0 +1,196 @@
+{
+ "translation": "\"Just wait, Rehana, I'll be right there.\" I tried to stop her, but Rahat stopped my hand. \"Rehana, what is it? You're completely a child. Listen, don't you know that...\"",
+ "words": {
+  "1": [
+   "just/a little",
+   "ज़रा",
+   ""
+  ],
+  "3": [
+   "wait",
+   "ठहरना",
+   "imperative, 2nd sg"
+  ],
+  "5": [
+   "Rehana",
+   "रेहाना",
+   "proper noun, f"
+  ],
+  "7": [
+   "I",
+   "मैं",
+   "1st sg pron"
+  ],
+  "9": [
+   "right now",
+   "अभी",
+   "adverb"
+  ],
+  "11": [
+   "will come",
+   "आना",
+   "fut. 1st sg f"
+  ],
+  "15": [
+   "I",
+   "मैं",
+   "ergative, 1st sg"
+  ],
+  "17": [
+   "her",
+   "वह",
+   "obl. 3rd sg"
+  ],
+  "19": [
+   "to stop",
+   "रोकना",
+   "infinitive"
+  ],
+  "21": [
+   "wanted",
+   "चाहना",
+   "perf. m.sg"
+  ],
+  "24": [
+   "but",
+   "लेकिन",
+   "conjunction"
+  ],
+  "26": [
+   "Rahat",
+   "राहत",
+   "proper noun, f"
+  ],
+  "28": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "30": [
+   "my",
+   "मैं",
+   "poss. m.sg"
+  ],
+  "32": [
+   "hand",
+   "हाथ",
+   "noun, m.sg"
+  ],
+  "34": [
+   "having stopped",
+   "रोकना",
+   "conj. participle"
+  ],
+  "36": [
+   "gave/did",
+   "देना",
+   "perf. m.sg"
+  ],
+  "40": [
+   "Rehana",
+   "रेहाना",
+   "proper noun, f"
+  ],
+  "42": [
+   "what",
+   "क्या",
+   "interrogative pron"
+  ],
+  "44": [
+   "is",
+   "होना",
+   "pres. 3rd sg"
+  ],
+  "47": [
+   "you",
+   "तुम",
+   "2nd sg pron"
+  ],
+  "49": [
+   "completely",
+   "बिल्कुल",
+   "adverb"
+  ],
+  "51": [
+   "emphatic",
+   "ही",
+   "particle"
+  ],
+  "53": [
+   "child",
+   "बच्चा",
+   "noun, f.sg"
+  ],
+  "55": [
+   "are",
+   "होना",
+   "pres. 2nd sg"
+  ],
+  "60": [
+   "listen",
+   "सुनना",
+   "imperative, 2nd sg"
+  ],
+  "62": [
+   "to you",
+   "तुम",
+   "obl. 2nd sg"
+  ],
+  "64": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "66": [
+   "known",
+   "मालूम",
+   "adjective"
+  ],
+  "68": [
+   "known",
+   "मालूम",
+   "adjective"
+  ],
+  "70": [
+   "that",
+   "कि",
+   "conjunction"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3
+   ],
+   "type": "phrase",
+   "literal": "a little wait",
+   "meaning": "just wait",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    34,
+    36
+   ],
+   "type": "compound_verb",
+   "literal": "having stopped gave",
+   "meaning": "stopped",
+   "note": "देना (denā) as vector verb indicates completion or intensity of the action, often with a sense of finality or doing something for someone else's benefit/detriment.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    66,
+    68
+   ],
+   "type": "conjunct_verb",
+   "literal": "known",
+   "meaning": "to know",
+   "note": "मालूम होना (mālūm honā) is a common way to express 'to know' or 'to be known'.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

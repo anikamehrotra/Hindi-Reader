@@ -1,0 +1,318 @@
+{
+ "translation": "Once a month, these people would come to visit and, after inquiring about his well-being, would leave. This continued for a long time, but when the Pakistan-Hindustan disturbances began, their visits stopped.",
+ "words": {
+  "0": [
+   "month",
+   "महीना",
+   "sg.obl"
+  ],
+  "2": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "4": [
+   "one",
+   "एक",
+   "numeral"
+  ],
+  "6": [
+   "time",
+   "बार",
+   "noun"
+  ],
+  "8": [
+   "these",
+   "यह",
+   "dem. pron. pl"
+  ],
+  "10": [
+   "people",
+   "लोग",
+   "m.pl"
+  ],
+  "12": [
+   "visit",
+   "मुलाक़ात",
+   "f.sg"
+  ],
+  "14": [
+   "for",
+   "का",
+   "postposition"
+  ],
+  "16": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "18": [
+   "would come",
+   "आना",
+   "impf. m.pl"
+  ],
+  "20": [
+   "were",
+   "होना",
+   "past aux. pl"
+  ],
+  "22": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "24": [
+   "his",
+   "वह",
+   "poss. pron. m.sg"
+  ],
+  "26": [
+   "well-being",
+   "खैर-ख़बर",
+   "f.sg"
+  ],
+  "28": [
+   "having asked",
+   "पूछना",
+   "conj. participle"
+  ],
+  "30": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "32": [
+   "would go",
+   "चलना",
+   "impf. m.pl"
+  ],
+  "34": [
+   "would go",
+   "जाना",
+   "impf. m.pl"
+  ],
+  "36": [
+   "were",
+   "होना",
+   "past aux. pl"
+  ],
+  "40": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "42": [
+   "period",
+   "अरसा",
+   "m.sg.obl"
+  ],
+  "44": [
+   "until",
+   "तक",
+   "postposition"
+  ],
+  "46": [
+   "this",
+   "यह",
+   "dem. pron. sg"
+  ],
+  "48": [
+   "sequence",
+   "सिलसिला",
+   "m.sg"
+  ],
+  "50": [
+   "continuing",
+   "जारी",
+   "adj"
+  ],
+  "52": [
+   "remained",
+   "रहना",
+   "perf. m.sg"
+  ],
+  "56": [
+   "but",
+   "पर",
+   "conj."
+  ],
+  "58": [
+   "when",
+   "जब",
+   "conj."
+  ],
+  "60": [
+   "Pakistan-Hindustan",
+   "पाकिस्तान-हिन्दुस्तान",
+   "prop. noun"
+  ],
+  "62": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "64": [
+   "disturbance",
+   "गड़बड़",
+   "f.sg"
+  ],
+  "66": [
+   "began",
+   "शुरू",
+   "adj"
+  ],
+  "68": [
+   "happened",
+   "होना",
+   "perf. f.sg"
+  ],
+  "70": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "72": [
+   "their",
+   "वह",
+   "poss. pron. m.pl"
+  ],
+  "74": [
+   "coming",
+   "आना",
+   "m.sg"
+  ],
+  "76": [
+   "stopped",
+   "बन्द",
+   "adj"
+  ],
+  "78": [
+   "to be",
+   "होना",
+   "verb stem"
+  ],
+  "80": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    0,
+    2
+   ],
+   "type": "phrase",
+   "literal": "in month",
+   "meaning": "monthly, once a month",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    4,
+    6
+   ],
+   "type": "phrase",
+   "literal": "one time",
+   "meaning": "once",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    12,
+    14,
+    16
+   ],
+   "type": "postposition",
+   "literal": "for meeting for",
+   "meaning": "for a visit",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    18,
+    20
+   ],
+   "type": "compound_verb",
+   "literal": "used to come",
+   "meaning": "would come (habitual past)",
+   "note": "आना (main verb) + होना (auxiliary verb for habitual past)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    26,
+    28,
+    30
+   ],
+   "type": "conjunct_verb",
+   "literal": "having asked well-being having done",
+   "meaning": "after inquiring about well-being",
+   "note": "खैर-ख़बर पूछना is a conjunct verb, here in conjunctive participle form",
+   "source": "model"
+  },
+  {
+   "idx": [
+    32,
+    34,
+    36
+   ],
+   "type": "compound_verb",
+   "literal": "used to go away",
+   "meaning": "would leave (habitual past)",
+   "note": "चलना (main verb) + जाना (vector verb indicating completion/finality) + होना (auxiliary verb for habitual past)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    40,
+    42,
+    44
+   ],
+   "type": "phrase",
+   "literal": "one period until",
+   "meaning": "for a long time",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    50,
+    52
+   ],
+   "type": "conjunct_verb",
+   "literal": "continuing remained",
+   "meaning": "continued",
+   "note": "जारी रहना means 'to continue' or 'to remain in effect'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    66,
+    68
+   ],
+   "type": "conjunct_verb",
+   "literal": "began happened",
+   "meaning": "began",
+   "note": "शुरू होना means 'to begin' or 'to start'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    76,
+    78,
+    80
+   ],
+   "type": "compound_verb",
+   "literal": "stopped to be went",
+   "meaning": "stopped",
+   "note": "बन्द होना (conjunct verb 'to stop') + जाना (vector verb indicating completion/finality)",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

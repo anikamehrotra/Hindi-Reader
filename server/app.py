@@ -16,6 +16,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from urllib.parse import parse_qs, unquote, urlparse
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import cache  # noqa: E402
 import llm  # noqa: E402
 from dictionary import Dictionary  # noqa: E402
 
@@ -213,9 +214,11 @@ def annotate_one(doc_id, pi):
                     units.append(u)
             prev = " ".join(w for _, w in chunk)
 
+        result = {"translation": " ".join(translation), "words": words, "units": units, "model": model}
+        cache.put("annotate", para_key(p), result)
+
         def apply(d):
-            d["paragraphs"][pi]["ann"] = {"status": "done", "translation": " ".join(translation),
-                                          "words": words, "units": units, "model": model}
+            d["paragraphs"][pi]["ann"] = {"status": "done", **result}
             d["cost"] = d.get("cost", 0) + cost
             add_llm_lemmas(d, words)
             refresh_status(d)
@@ -242,15 +245,13 @@ def refresh_status(doc):
         doc["status"] = "ready"
 
 
+def para_key(p):
+    return cache.key(llm.ANNOTATE_VERSION, "".join(t["t"] for t in p["tokens"]))
+
+
 def start_annotation(doc_id, only_failed=False):
-    if not llm.api_key():
-        def no_key(d):
-            for p in d["paragraphs"]:
-                if p["ann"].get("status") != "done":
-                    p["ann"] = {"status": "error", "error": "no OpenRouter key yet -- add one in Settings, then retry"}
-            refresh_status(d)
-        update(doc_id, no_key)
-        return
+    """Paragraphs someone already paid for come straight from data/cache/; the rest go to the model."""
+    has_key = bool(llm.api_key())
     todo = []
 
     def mark(d):
@@ -258,8 +259,15 @@ def start_annotation(doc_id, only_failed=False):
             s = p["ann"].get("status")
             if s == "done" or (only_failed and s != "error"):
                 continue
-            p["ann"] = {"status": "running"}
-            todo.append(i)
+            hit = cache.get("annotate", para_key(p))
+            if hit:
+                p["ann"] = {"status": "done", "cached": True, **hit}
+                add_llm_lemmas(d, hit.get("words", {}))
+            elif has_key:
+                p["ann"] = {"status": "running"}
+                todo.append(i)
+            else:
+                p["ann"] = {"status": "error", "error": "no OpenRouter key yet -- add one in Settings, then retry"}
         refresh_status(d)
     update(doc_id, mark)
     for i in todo:
@@ -277,13 +285,19 @@ def text_layer_ok(text):
     return broken / words < 0.02
 
 
-def ocr_one(doc_id, n, jpeg):
-    try:
-        text, cost = llm.ocr_page(settings()["models"]["ocr"], jpeg)
-        err = None
-    except Exception as e:
-        traceback.print_exc()
-        text, cost, err = "", 0, str(e)[:300]
+def ocr_one(doc_id, n, jpeg, force=False):
+    k = cache.key(llm.OCR_VERSION, jpeg)
+    hit = None if force else cache.get("ocr", k)
+    if hit:
+        text, cost, err = hit["text"], 0, None
+    else:
+        try:
+            text, cost = llm.ocr_page(settings()["models"]["ocr"], jpeg)
+            err = None
+            cache.put("ocr", k, {"text": text, "model": settings()["models"]["ocr"]})
+        except Exception as e:
+            traceback.print_exc()
+            text, cost, err = "", 0, str(e)[:300]
 
     def apply(d):
         d["pages"][n].update(text=unicodedata.normalize("NFC", text), status="error" if err else "done", error=err)
@@ -330,6 +344,12 @@ def ingest_file(doc_id, filename, blob):
         d["pages"] = pages
         d["status"] = "ocr" if jobs else "review"
     update(doc_id, apply)
+    if not llm.api_key():
+        # pages someone already read are still free; only the rest need a key
+        cached = [(n, jpeg) for n, jpeg in jobs if cache.has("ocr", cache.key(llm.OCR_VERSION, jpeg))]
+        for n, jpeg in cached:
+            ocr_one(doc_id, n, jpeg)
+        jobs = [j for j in jobs if j not in cached]
     if jobs and not llm.api_key():
         def no_key(d):
             for pg in d["pages"]:
@@ -454,7 +474,13 @@ class Handler(BaseHTTPRequestHandler):
 
         if p == ["translate"] and method == "POST":
             b = self.json_body()
-            result, cost = llm.translate_selection(settings()["models"]["translate"], b["text"], b.get("context", ""))
+            k = cache.key(llm.TRANSLATE_VERSION, b["text"], b.get("context", ""))
+            hit = cache.get("translate", k)
+            if hit:
+                return self.send_json({**hit, "cost": 0, "cached": True})
+            model = settings()["models"]["translate"]
+            result, cost = llm.translate_selection(model, b["text"], b.get("context", ""))
+            cache.put("translate", k, {**result, "model": model})
             if b.get("doc"):
                 update(b["doc"], lambda d: d.__setitem__("cost", d.get("cost", 0) + cost))
             result["cost"] = cost
@@ -527,7 +553,7 @@ class Handler(BaseHTTPRequestHandler):
                 jpeg = open(os.path.join(LIBRARY, doc_id, f"{n}.jpg"), "rb").read()
                 update(doc_id, lambda d: (d["pages"][n - 1].update(status="running", text="", error=None),
                                           d.__setitem__("status", "ocr")))
-                POOL.submit(ocr_one, doc_id, n - 1, jpeg)
+                POOL.submit(ocr_one, doc_id, n - 1, jpeg, True)  # explicit re-run skips the cache
                 return self.send_json({"ok": True})
             if rest == ["annotate"] and method == "POST":
                 start_annotation(doc_id, only_failed=True)
@@ -574,8 +600,31 @@ def resume_jobs():
             start_annotation(doc["id"], only_failed=True)
 
 
+def seed_cache():
+    """Every paragraph already annotated in the library goes into the shared cache."""
+    added = 0
+    for fn in os.listdir(LIBRARY):
+        if not fn.endswith(".json"):
+            continue
+        try:
+            doc = load(fn[:-5])
+        except Exception:
+            continue
+        for p in doc.get("paragraphs", []):
+            ann = p.get("ann", {})
+            if ann.get("status") != "done":
+                continue
+            k = para_key(p)
+            if not cache.has("annotate", k):
+                cache.put("annotate", k, {f: ann[f] for f in ("translation", "words", "units", "model") if f in ann})
+                added += 1
+    if added:
+        print(f"cache: added {added} annotated paragraphs from the library")
+
+
 def main():
     os.makedirs(LIBRARY, exist_ok=True)
+    seed_cache()
     if not DICT.ok:
         print("! dictionary missing -- run:  python scripts/build_dictionary.py")
     resume_jobs()

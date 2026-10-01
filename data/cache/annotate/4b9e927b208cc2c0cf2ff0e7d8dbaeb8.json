@@ -1,0 +1,870 @@
+{
+ "translation": "One day the committee members also went out to campaign in the evening and eventually reached the stronghold of the conservatives. Outside the temple, around a peepal tree, several devotees were sitting on a cement platform, and the story of the Ramayana was being narrated. Narayan Baba was narrating that part of the Ramayana where a washerman had expelled his wife from the house and had said, \"I am not King Ramachandra who would take back Sita even after she lived with Ravana for so many years.\" And Ramachandraji had expelled the supremely chaste Sita from the house. In such a situation, when she was pregnant, could there be any greater proof of Ramraj? Narayan Baba said, \"This is Ramraj, in which even the words of a washerman are viewed with such respect.\"",
+ "words": {
+  "0": [
+   "one",
+   "एक",
+   "indef. art."
+  ],
+  "2": [
+   "day",
+   "रोज़",
+   "n.m.sg"
+  ],
+  "4": [
+   "committee members",
+   "कमेटीवाले",
+   "n.m.pl"
+  ],
+  "6": [
+   "evening",
+   "साँझ",
+   "n.f.sg"
+  ],
+  "8": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "10": [
+   "time",
+   "समय",
+   "n.m.sg"
+  ],
+  "12": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "14": [
+   "campaign",
+   "प्रचार",
+   "n.m.sg"
+  ],
+  "16": [
+   "to do",
+   "करना",
+   "v.inf"
+  ],
+  "18": [
+   "went",
+   "चलना",
+   "perf. m.pl"
+  ],
+  "20": [
+   "came",
+   "आना",
+   "perf. m.pl"
+  ],
+  "22": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "24": [
+   "gradually",
+   "होना",
+   "conj. participle"
+  ],
+  "26": [
+   "conservatives",
+   "क़दामतपसंदों",
+   "n.m.obl.pl"
+  ],
+  "28": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "30": [
+   "stronghold",
+   "गढ़",
+   "n.m.sg"
+  ],
+  "32": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "34": [
+   "having reached",
+   "पहुँचना",
+   "conj. participle"
+  ],
+  "36": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "39": [
+   "temple",
+   "मंदिर",
+   "n.m.sg"
+  ],
+  "41": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "43": [
+   "outside",
+   "बाहर",
+   "adv."
+  ],
+  "45": [
+   "peepal tree",
+   "पीपल",
+   "n.m.sg"
+  ],
+  "47": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "49": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "51": [
+   "tree",
+   "पेड़",
+   "n.m.sg"
+  ],
+  "53": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "55": [
+   "around",
+   "इर्द-गिर्द",
+   "adv."
+  ],
+  "57": [
+   "cement",
+   "सीमेंट",
+   "n.m.sg"
+  ],
+  "59": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "61": [
+   "platform",
+   "थड़े",
+   "n.m.obl.sg"
+  ],
+  "63": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "65": [
+   "many",
+   "कई",
+   "adj."
+  ],
+  "67": [
+   "devotees",
+   "श्रद्धालु",
+   "n.m.pl"
+  ],
+  "69": [
+   "sitting",
+   "बैठना",
+   "perf. m.pl"
+  ],
+  "71": [
+   "were",
+   "होना",
+   "past. m.pl"
+  ],
+  "73": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "75": [
+   "Ramayana",
+   "रामायण",
+   "n.f.sg"
+  ],
+  "77": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "79": [
+   "story",
+   "कथा",
+   "n.f.sg"
+  ],
+  "81": [
+   "being",
+   "होना",
+   "v.inf"
+  ],
+  "83": [
+   "staying",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "85": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "88": [
+   "Narayan",
+   "नारायण",
+   "n.prop.m"
+  ],
+  "90": [
+   "Baba",
+   "बाबा",
+   "n.m.sg"
+  ],
+  "92": [
+   "Ramayana",
+   "रामायण",
+   "n.f.sg"
+  ],
+  "94": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "96": [
+   "that",
+   "वह",
+   "pron.dem.sg"
+  ],
+  "98": [
+   "part",
+   "हिस्सा",
+   "n.m.sg"
+  ],
+  "100": [
+   "narrating",
+   "सुनाना",
+   "pres. part. m.sg"
+  ],
+  "102": [
+   "staying",
+   "रहना",
+   "pres. part. m.pl"
+  ],
+  "104": [
+   "were",
+   "होना",
+   "past. m.pl"
+  ],
+  "107": [
+   "where",
+   "जहाँ",
+   "adv."
+  ],
+  "109": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "111": [
+   "washerman",
+   "धोबी",
+   "n.m.sg"
+  ],
+  "113": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "115": [
+   "his/her own",
+   "अपना",
+   "pron.poss.f.sg"
+  ],
+  "117": [
+   "washerwoman",
+   "धोबन",
+   "n.f.sg"
+  ],
+  "119": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "121": [
+   "house",
+   "घर",
+   "n.m.sg"
+  ],
+  "123": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "125": [
+   "having expelled",
+   "निकालना",
+   "conj. participle"
+  ],
+  "127": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "129": [
+   "had",
+   "होना",
+   "past. m.sg"
+  ],
+  "131": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "133": [
+   "having said",
+   "कहना",
+   "conj. participle"
+  ],
+  "135": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "137": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "139": [
+   "I",
+   "मैं",
+   "pron.1sg"
+  ],
+  "141": [
+   "king",
+   "राजा",
+   "n.m.sg"
+  ],
+  "143": [
+   "Ramachandra",
+   "रामचंद्र",
+   "n.prop.m"
+  ],
+  "145": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "147": [
+   "who",
+   "जो",
+   "pron.rel.sg"
+  ],
+  "149": [
+   "so many",
+   "इतना",
+   "adj."
+  ],
+  "151": [
+   "years",
+   "साल",
+   "n.m.pl"
+  ],
+  "153": [
+   "Ravana",
+   "रावण",
+   "n.prop.m"
+  ],
+  "155": [
+   "with",
+   "के",
+   "postposition"
+  ],
+  "157": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "159": [
+   "having lived",
+   "रहना",
+   "conj. participle"
+  ],
+  "161": [
+   "having come",
+   "आना",
+   "conj. participle"
+  ],
+  "163": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "165": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "167": [
+   "Sita",
+   "सीता",
+   "n.prop.f"
+  ],
+  "169": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "171": [
+   "settle",
+   "बसना",
+   "v.inf"
+  ],
+  "173": [
+   "will take",
+   "लेना",
+   "fut. 3sg m"
+  ],
+  "175": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "177": [
+   "Ramachandraji",
+   "रामचंद्रजी",
+   "n.prop.m"
+  ],
+  "179": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "181": [
+   "supremely chaste",
+   "महासतवंती",
+   "adj.f.sg"
+  ],
+  "183": [
+   "Sita",
+   "सीता",
+   "n.prop.f"
+  ],
+  "185": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "187": [
+   "house",
+   "घर",
+   "n.m.sg"
+  ],
+  "189": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "191": [
+   "having expelled",
+   "निकालना",
+   "conj. participle"
+  ],
+  "193": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "195": [
+   "such",
+   "ऐसा",
+   "adj.f.sg"
+  ],
+  "197": [
+   "situation",
+   "हालत",
+   "n.f.sg"
+  ],
+  "199": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "202": [
+   "while",
+   "जबकि",
+   "conj."
+  ],
+  "204": [
+   "she",
+   "वह",
+   "pron.3sg"
+  ],
+  "206": [
+   "pregnant",
+   "गर्भवती",
+   "adj.f.sg"
+  ],
+  "208": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "211": [
+   "what",
+   "क्या",
+   "interrog. pron."
+  ],
+  "213": [
+   "than this",
+   "यह",
+   "pron.dem.obl.sg"
+  ],
+  "215": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "217": [
+   "greater",
+   "बढ़ना",
+   "conj. participle"
+  ],
+  "219": [
+   "Ramraj",
+   "रामराज",
+   "n.m.sg"
+  ],
+  "221": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "223": [
+   "any",
+   "कोई",
+   "pron.indef.sg"
+  ],
+  "225": [
+   "proof",
+   "सुबूत",
+   "n.m.sg"
+  ],
+  "227": [
+   "be found",
+   "मिलना",
+   "v.inf"
+  ],
+  "229": [
+   "can",
+   "सकना",
+   "v.aux"
+  ],
+  "231": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "235": [
+   "Narayan",
+   "नारायण",
+   "n.prop.m"
+  ],
+  "237": [
+   "Baba",
+   "बाबा",
+   "n.m.sg"
+  ],
+  "239": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "241": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "246": [
+   "this",
+   "यह",
+   "pron.dem.sg"
+  ],
+  "248": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "250": [
+   "Ramraj",
+   "रामराज",
+   "n.m.sg"
+  ],
+  "254": [
+   "in which",
+   "जो",
+   "pron.rel.obl.sg"
+  ],
+  "256": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "258": [
+   "washerman",
+   "धोबी",
+   "n.m.sg"
+  ],
+  "260": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "262": [
+   "word",
+   "बात",
+   "n.f.sg"
+  ],
+  "264": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "266": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "268": [
+   "that much",
+   "उतना",
+   "adj.f.sg"
+  ],
+  "270": [
+   "emphatic",
+   "ही",
+   "emphatic particle"
+  ],
+  "272": [
+   "respect",
+   "कद्र",
+   "n.f.sg"
+  ],
+  "274": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "276": [
+   "view",
+   "निगाह",
+   "n.f.sg"
+  ],
+  "278": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "280": [
+   "seen",
+   "देखना",
+   "perf. m.sg"
+  ],
+  "282": [
+   "goes",
+   "जाना",
+   "v.aux"
+  ],
+  "284": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    18,
+    20
+   ],
+   "type": "compound_verb",
+   "literal": "went came",
+   "meaning": "went (and arrived)",
+   "note": "आना as a vector verb adds a sense of completion or direction towards the speaker/subject.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    24
+   ],
+   "type": "phrase",
+   "literal": "being-being",
+   "meaning": "gradually, eventually",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    34,
+    36
+   ],
+   "type": "compound_verb",
+   "literal": "having reached went",
+   "meaning": "reached",
+   "note": "जाना as a vector verb indicates completion of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    55
+   ],
+   "type": "postposition",
+   "literal": "around-around",
+   "meaning": "around",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    81,
+    83,
+    85
+   ],
+   "type": "compound_verb",
+   "literal": "being staying was",
+   "meaning": "was being narrated",
+   "note": "होना + रहना + होना forms a continuous passive construction.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    100,
+    102,
+    104
+   ],
+   "type": "compound_verb",
+   "literal": "narrating staying were",
+   "meaning": "were narrating",
+   "note": "रहना as a vector verb indicates continuous action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    125,
+    127
+   ],
+   "type": "compound_verb",
+   "literal": "having expelled given",
+   "meaning": "expelled",
+   "note": "देना as a vector verb indicates completion and often that the action was done for someone else's benefit or detriment.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    133,
+    135
+   ],
+   "type": "compound_verb",
+   "literal": "having said given",
+   "meaning": "said",
+   "note": "देना as a vector verb indicates completion and often that the action was done for someone else's benefit or detriment.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    159,
+    161
+   ],
+   "type": "compound_verb",
+   "literal": "having lived having come",
+   "meaning": "having lived (and returned)",
+   "note": "आना as a vector verb adds a sense of completion or direction towards the speaker/subject.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    191,
+    193
+   ],
+   "type": "compound_verb",
+   "literal": "having expelled given",
+   "meaning": "expelled",
+   "note": "देना as a vector verb indicates completion and often that the action was done for someone else's benefit or detriment.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    213,
+    215
+   ],
+   "type": "phrase",
+   "literal": "than this even",
+   "meaning": "even more than this",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    217
+   ],
+   "type": "conjunct_verb",
+   "literal": "having grown",
+   "meaning": "greater",
+   "note": "बढ़कर is used here as an adjective meaning 'greater' or 'more'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    227,
+    229
+   ],
+   "type": "compound_verb",
+   "literal": "be found can",
+   "meaning": "can be found",
+   "note": "सकना as a vector verb indicates possibility or ability.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    268,
+    270
+   ],
+   "type": "phrase",
+   "literal": "that much emphatic",
+   "meaning": "with such (great) respect",
+   "note": "ही emphasizes the degree.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    272,
+    274,
+    276,
+    278
+   ],
+   "type": "postposition",
+   "literal": "respect of view from",
+   "meaning": "with respect",
+   "note": "A set phrase meaning 'with a respectful view'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    280,
+    282
+   ],
+   "type": "compound_verb",
+   "literal": "seen goes",
+   "meaning": "is seen",
+   "note": "जाना as a vector verb forms the passive voice.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

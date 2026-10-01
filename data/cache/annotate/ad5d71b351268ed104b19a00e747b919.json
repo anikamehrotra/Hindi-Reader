@@ -1,0 +1,926 @@
+{
+ "translation": "This was being said in front of me, about my brother. If I too were as powerful as Emperor Akbar, I would have had this dishonest girl walled up alive like Anarkali. These artful girls make foolish boys cry tears of blood and laugh the laughter of death, and then quickly become someone else's. I knew very well that Zameer is and will remain an owl. What is Sir's third-class preference? That girl who has no sense to speak of, who has no passion for the progress of the nation, no spirit of sacrifice, no love for the country. Who, even after doing a B.A., neither understood the true nature of a man nor was acquainted with the feelings of a woman. But why do you approve of her so much? You play with others, let's see who can stop you.",
+ "words": {
+  "1": [
+   "this",
+   "यह",
+   "dem. pron. sg"
+  ],
+  "3": [
+   "my",
+   "मेरा",
+   "poss. pron. m.sg"
+  ],
+  "5": [
+   "brother",
+   "भाई",
+   "n. m. sg"
+  ],
+  "7": [
+   "sir (polite address)",
+   "साहब",
+   "n. m. sg"
+  ],
+  "9": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "11": [
+   "glory/honor",
+   "शान",
+   "n. f. sg"
+  ],
+  "13": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "15": [
+   "my",
+   "मेरा",
+   "poss. pron. m.sg"
+  ],
+  "17": [
+   "face/mouth",
+   "मुँह",
+   "n. m. sg"
+  ],
+  "19": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "21": [
+   "said (polite)",
+   "फ़रमाना",
+   "perf. m.sg"
+  ],
+  "23": [
+   "going",
+   "जाना",
+   "aux. verb"
+  ],
+  "25": [
+   "remaining",
+   "रहना",
+   "aux. verb"
+  ],
+  "27": [
+   "was",
+   "होना",
+   "past aux. m.sg"
+  ],
+  "29": [
+   "if",
+   "अगर",
+   "conj."
+  ],
+  "31": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "33": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "35": [
+   "emperor",
+   "शहनशाह",
+   "n. m. sg"
+  ],
+  "37": [
+   "Akbar",
+   "अकबर",
+   "n. prop. m. sg"
+  ],
+  "39": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "41": [
+   "like",
+   "तरह",
+   "n. f. sg"
+  ],
+  "43": [
+   "powerful",
+   "ताक़तवर",
+   "adj. sg"
+  ],
+  "45": [
+   "were",
+   "होना",
+   "conj. perf. f.sg"
+  ],
+  "47": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "49": [
+   "this",
+   "यह",
+   "dem. pron. sg"
+  ],
+  "51": [
+   "dishonest",
+   "बेईमान",
+   "adj. sg"
+  ],
+  "53": [
+   "girl",
+   "छोकरी",
+   "n. f. sg"
+  ],
+  "55": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "57": [
+   "pomegranate",
+   "अनार",
+   "n. m. sg"
+  ],
+  "59": [
+   "bud/Anarkali",
+   "कली",
+   "n. f. sg"
+  ],
+  "61": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "63": [
+   "like",
+   "तरह",
+   "n. f. sg"
+  ],
+  "65": [
+   "wall",
+   "दीवार",
+   "n. f. sg"
+  ],
+  "67": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "69": [
+   "alive",
+   "ज़िंदा",
+   "adj. sg"
+  ],
+  "71": [
+   "had walled up",
+   "चिनवाना",
+   "perf. f.sg"
+  ],
+  "73": [
+   "would give",
+   "देना",
+   "cond. f.sg"
+  ],
+  "78": [
+   "these",
+   "यह",
+   "dem. pron. pl"
+  ],
+  "80": [
+   "artful",
+   "पुर-फ़न",
+   "adj. pl"
+  ],
+  "82": [
+   "girls",
+   "लड़की",
+   "n. f. pl"
+  ],
+  "84": [
+   "foolish",
+   "बेवक़ूफ़",
+   "adj. pl"
+  ],
+  "86": [
+   "boys",
+   "लड़का",
+   "n. m. pl. obl"
+  ],
+  "88": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "90": [
+   "blood",
+   "ख़ून",
+   "n. m. sg"
+  ],
+  "92": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "94": [
+   "tears",
+   "आँसू",
+   "n. m. pl"
+  ],
+  "96": [
+   "make cry",
+   "रुलवाना",
+   "pres. pl"
+  ],
+  "98": [
+   "are",
+   "होना",
+   "pres. pl"
+  ],
+  "100": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "102": [
+   "death",
+   "मौत",
+   "n. f. sg"
+  ],
+  "104": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "106": [
+   "laughter",
+   "हंसी",
+   "n. f. sg"
+  ],
+  "108": [
+   "make laugh",
+   "हंसवाना",
+   "pres. pl"
+  ],
+  "110": [
+   "are",
+   "होना",
+   "pres. pl"
+  ],
+  "113": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "115": [
+   "then",
+   "फिर",
+   "adv."
+  ],
+  "117": [
+   "quickly",
+   "चट",
+   "adv."
+  ],
+  "119": [
+   "somewhere",
+   "कहीं",
+   "adv."
+  ],
+  "121": [
+   "else",
+   "और",
+   "adv."
+  ],
+  "123": [
+   "someone",
+   "कोई",
+   "pron. obl. sg"
+  ],
+  "125": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "127": [
+   "become",
+   "होना",
+   "conj. perf."
+  ],
+  "129": [
+   "remain",
+   "रहना",
+   "aux. verb"
+  ],
+  "131": [
+   "are",
+   "होना",
+   "pres. pl"
+  ],
+  "134": [
+   "to me",
+   "मैं",
+   "pron. 1sg obl"
+  ],
+  "136": [
+   "well",
+   "अच्छा",
+   "adj. f.sg"
+  ],
+  "138": [
+   "way/manner",
+   "तरह",
+   "n. f. sg"
+  ],
+  "140": [
+   "known",
+   "मालूम",
+   "adj. sg"
+  ],
+  "142": [
+   "known",
+   "मालूम",
+   "adj. sg"
+  ],
+  "144": [
+   "was",
+   "होना",
+   "past aux. m.sg"
+  ],
+  "146": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "148": [
+   "Zameer",
+   "ज़मीर",
+   "n. prop. m. sg"
+  ],
+  "150": [
+   "owl",
+   "उल्लू",
+   "n. m. sg"
+  ],
+  "152": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "154": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "156": [
+   "will remain",
+   "रहना",
+   "fut. 3sg m"
+  ],
+  "159": [
+   "what",
+   "क्या",
+   "interrog. pron."
+  ],
+  "161": [
+   "sir (polite address)",
+   "जनाब",
+   "n. m. sg"
+  ],
+  "163": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "165": [
+   "third",
+   "थर्ड",
+   "adj. sg"
+  ],
+  "167": [
+   "class",
+   "क्लास",
+   "n. f. sg"
+  ],
+  "169": [
+   "preference",
+   "पसंद",
+   "n. f. sg"
+  ],
+  "171": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "174": [
+   "that",
+   "वह",
+   "dem. pron. sg"
+  ],
+  "176": [
+   "girl",
+   "लड़की",
+   "n. f. sg"
+  ],
+  "178": [
+   "in whom",
+   "जो",
+   "rel. pron. obl. f.sg"
+  ],
+  "180": [
+   "name",
+   "नाम",
+   "n. m. sg"
+  ],
+  "182": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "184": [
+   "sense",
+   "अक़्ल",
+   "n. f. sg"
+  ],
+  "186": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "188": [
+   "in whom",
+   "जो",
+   "rel. pron. obl. f.sg"
+  ],
+  "190": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "192": [
+   "nation",
+   "क़ौम",
+   "n. f. sg"
+  ],
+  "194": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "196": [
+   "progress",
+   "तरक़्क़ी",
+   "n. f. sg"
+  ],
+  "198": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "200": [
+   "passion",
+   "जोश",
+   "n. m. sg"
+  ],
+  "202": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "204": [
+   "sacrifice",
+   "क़ुर्बानी",
+   "n. f. sg"
+  ],
+  "206": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "208": [
+   "spirit",
+   "जज़्बा",
+   "n. m. sg"
+  ],
+  "213": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "215": [
+   "country",
+   "मुल्क",
+   "n. m. sg"
+  ],
+  "217": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "219": [
+   "love",
+   "प्यार",
+   "n. m. sg"
+  ],
+  "222": [
+   "who",
+   "जो",
+   "rel. pron. sg"
+  ],
+  "224": [
+   "B",
+   "बी",
+   "n. prop. f. sg"
+  ],
+  "227": [
+   "A",
+   "ए",
+   "n. prop. f. sg"
+  ],
+  "230": [
+   "to do",
+   "करना",
+   "inf. obl."
+  ],
+  "232": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "234": [
+   "after",
+   "बाद",
+   "postposition"
+  ],
+  "236": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "238": [
+   "neither",
+   "ना",
+   "neg. particle"
+  ],
+  "240": [
+   "man",
+   "मर्द",
+   "n. m. sg"
+  ],
+  "242": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "244": [
+   "true",
+   "असली",
+   "adj. f.sg"
+  ],
+  "246": [
+   "nature",
+   "फ़ित्रत",
+   "n. f. sg"
+  ],
+  "248": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "250": [
+   "understood",
+   "समझना",
+   "perf. f.sg"
+  ],
+  "252": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "254": [
+   "neither",
+   "ना",
+   "neg. particle"
+  ],
+  "256": [
+   "woman",
+   "औरत",
+   "n. f. sg"
+  ],
+  "258": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "260": [
+   "feelings",
+   "जज़्बात",
+   "n. m. pl"
+  ],
+  "262": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "264": [
+   "acquainted",
+   "वाक़िफ़",
+   "adj. sg"
+  ],
+  "268": [
+   "but",
+   "मगर",
+   "conj."
+  ],
+  "270": [
+   "you",
+   "आप",
+   "pron. 2pl polite"
+  ],
+  "272": [
+   "that",
+   "वह",
+   "dem. pron. obl. f.sg"
+  ],
+  "274": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "276": [
+   "so much",
+   "इतना",
+   "adv."
+  ],
+  "278": [
+   "favor/support",
+   "दिलदारी",
+   "n. f. sg"
+  ],
+  "280": [
+   "why",
+   "क्यों",
+   "interrog. adv."
+  ],
+  "282": [
+   "approved",
+   "मंज़ूर",
+   "adj. sg"
+  ],
+  "284": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "289": [
+   "you",
+   "आप",
+   "pron. 2pl polite"
+  ],
+  "291": [
+   "others",
+   "दूसरा",
+   "pron. obl. pl"
+  ],
+  "293": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "295": [
+   "play",
+   "खेलना",
+   "imp. 2pl polite"
+  ],
+  "300": [
+   "see",
+   "देखना",
+   "imp. 2pl polite"
+  ],
+  "302": [
+   "who",
+   "कौन",
+   "interrog. pron."
+  ],
+  "304": [
+   "you",
+   "आप",
+   "pron. 2pl polite"
+  ],
+  "306": [
+   "stop",
+   "रोकना",
+   "v. root"
+  ],
+  "308": [
+   "can",
+   "सकना",
+   "pres. 3sg"
+  ],
+  "310": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    11,
+    13,
+    15,
+    17,
+    19
+   ],
+   "type": "phrase",
+   "literal": "in my face/mouth in the glory",
+   "meaning": "in front of me, about my honor",
+   "note": "A slightly unusual construction, but means 'in front of me, regarding my honor/reputation'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    21,
+    23,
+    25,
+    27
+   ],
+   "type": "compound_verb",
+   "literal": "was going being said",
+   "meaning": "was being said",
+   "note": "फ़रमाया जाना is a passive construction of 'to say' (polite), with जाना as the passive auxiliary.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    57,
+    59,
+    61,
+    63
+   ],
+   "type": "phrase",
+   "literal": "like Anarkali",
+   "meaning": "like Anarkali",
+   "note": "Refers to the legend of Anarkali, who was supposedly walled up alive by Emperor Akbar.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    71,
+    73
+   ],
+   "type": "compound_verb",
+   "literal": "alive had walled up would give",
+   "meaning": "would have had walled up alive",
+   "note": "चिनवा देना is a compound verb meaning 'to have something walled up', with देना adding a sense of completion/finality. The conditional 'होती तो' implies 'would have'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    90,
+    92,
+    94
+   ],
+   "type": "idiom",
+   "literal": "tears of blood",
+   "meaning": "to cry bitterly, to suffer greatly",
+   "note": "ख़ून के आँसू रुलाना (to make someone cry tears of blood) is a common idiom for causing extreme suffering.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    96,
+    98
+   ],
+   "type": "compound_verb",
+   "literal": "make cry are",
+   "meaning": "make cry",
+   "note": "रुलवाना is the causative form of रोना (to cry).",
+   "source": "model"
+  },
+  {
+   "idx": [
+    106,
+    108,
+    110
+   ],
+   "type": "compound_verb",
+   "literal": "laughter make laugh are",
+   "meaning": "make laugh the laughter",
+   "note": "हंसी हंसवाना is a causative construction, meaning 'to make someone laugh a certain kind of laughter'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    127,
+    129,
+    131
+   ],
+   "type": "compound_verb",
+   "literal": "become remain are",
+   "meaning": "become",
+   "note": "हो रहना implies a state of becoming or remaining in a state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    136,
+    138
+   ],
+   "type": "phrase",
+   "literal": "good way",
+   "meaning": "very well",
+   "note": "अच्छी तरह is a common adverbial phrase.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    140,
+    142,
+    144
+   ],
+   "type": "conjunct_verb",
+   "literal": "known was",
+   "meaning": "knew",
+   "note": "मालूम होना is a common conjunct verb meaning 'to be known' or 'to know'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    150,
+    152
+   ],
+   "type": "idiom",
+   "literal": "is an owl",
+   "meaning": "is foolish/stupid",
+   "note": "उल्लू होना (to be an owl) is an idiom meaning to be foolish or stupid.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    165,
+    167,
+    169
+   ],
+   "type": "phrase",
+   "literal": "third class preference",
+   "meaning": "third-class preference (meaning poor taste)",
+   "note": "Implies a low-quality or undesirable choice.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    180,
+    182,
+    184,
+    186
+   ],
+   "type": "phrase",
+   "literal": "name to sense not",
+   "meaning": "no sense to speak of",
+   "note": "नाम को अक़्ल नहीं is an idiom meaning 'not even a trace of sense'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    230,
+    232,
+    234
+   ],
+   "type": "postposition",
+   "literal": "to do of after",
+   "meaning": "after doing",
+   "note": "के बाद is a compound postposition meaning 'after'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    262,
+    264
+   ],
+   "type": "conjunct_verb",
+   "literal": "with acquainted",
+   "meaning": "acquainted with",
+   "note": "से वाक़िफ़ होना is a conjunct verb meaning 'to be acquainted with'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    306,
+    308,
+    310
+   ],
+   "type": "compound_verb",
+   "literal": "stop can is",
+   "meaning": "can stop",
+   "note": "रोक सकना is a compound verb with सकना indicating ability.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

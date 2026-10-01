@@ -1,0 +1,56 @@
+{
+ "translation": "To avoid his sorrow, he had focused his attention, concentration, and mind on the conservative majority's spirit of dedication.",
+ "words": {
+  "3": [
+   "attracted attention",
+   "ध्यानाकर्षित",
+   ""
+  ],
+  "9": [
+   "concentration",
+   "एकाग्रता",
+   "f.sg"
+  ],
+  "15": [
+   "mind",
+   "ध्यान",
+   "n.sg"
+  ],
+  "21": [
+   "stolen/diverted",
+   "अपहृत",
+   "perf. m.sg"
+  ],
+  "27": [
+   "conservative",
+   "रूढ़िवादी",
+   "adj. m.sg"
+  ],
+  "33": [
+   "majority",
+   "बहुमत",
+   "m.sg"
+  ],
+  "39": [
+   "spirit of dedication",
+   "समर्पण-भावना",
+   "f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    3,
+    9,
+    15,
+    21
+   ],
+   "type": "phrase",
+   "literal": "attention-attracted concentration mind stolen",
+   "meaning": "diverted his attention, concentration, and mind",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

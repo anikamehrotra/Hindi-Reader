@@ -1,0 +1,265 @@
+{
+ "translation": "You will force his mother to refrain from his murder. But she... she is afraid of their mother, I am. My soft voice had restored her courage.",
+ "words": {
+  "1": [
+   "you",
+   "तुम",
+   "pron. 2nd sg"
+  ],
+  "3": [
+   "that/his",
+   "वह",
+   "pron. 3rd sg. obl"
+  ],
+  "5": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "7": [
+   "mother",
+   "माँ",
+   "noun. f. sg"
+  ],
+  "9": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "11": [
+   "compelled",
+   "मजबूर",
+   "adj"
+  ],
+  "13": [
+   "will do",
+   "करना",
+   "fut. 2nd sg. f"
+  ],
+  "15": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "17": [
+   "she",
+   "वह",
+   "pron. 3rd sg"
+  ],
+  "19": [
+   "that/his",
+   "वह",
+   "pron. 3rd sg. obl"
+  ],
+  "21": [
+   "of",
+   "के",
+   "postposition"
+  ],
+  "23": [
+   "murder",
+   "क़त्ल",
+   "noun. m. sg"
+  ],
+  "25": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "27": [
+   "refraining",
+   "बाज़",
+   "adj"
+  ],
+  "29": [
+   "come",
+   "आना",
+   "subj. 3rd sg"
+  ],
+  "34": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "36": [
+   "she",
+   "वह",
+   "pron. 3rd sg"
+  ],
+  "41": [
+   "she",
+   "वह",
+   "pron. 3rd sg"
+  ],
+  "43": [
+   "emphatic",
+   "तो",
+   "particle"
+  ],
+  "48": [
+   "sister",
+   "बहन",
+   "noun. f. sg"
+  ],
+  "50": [
+   "their",
+   "उनका",
+   "pron. 3rd pl. obl"
+  ],
+  "52": [
+   "mother",
+   "माँ",
+   "noun. f. sg"
+  ],
+  "54": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "56": [
+   "fear",
+   "डर",
+   "noun. m. sg"
+  ],
+  "58": [
+   "is felt",
+   "लगना",
+   "verb. pres. 3rd sg"
+  ],
+  "60": [
+   "is",
+   "होना",
+   "verb. pres. 3rd sg"
+  ],
+  "62": [
+   "to me",
+   "मैं",
+   "pron. 1st sg. obl"
+  ],
+  "66": [
+   "my",
+   "मेरा",
+   "pron. 1st sg. f"
+  ],
+  "68": [
+   "voice",
+   "आवाज़",
+   "noun. f. sg"
+  ],
+  "70": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "72": [
+   "softness",
+   "नरमी",
+   "noun. f. sg"
+  ],
+  "74": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "76": [
+   "this",
+   "यह",
+   "pron. dem. obl"
+  ],
+  "78": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "80": [
+   "gone",
+   "जाना",
+   "perf. f. sg"
+  ],
+  "82": [
+   "been",
+   "होना",
+   "perf. f. sg"
+  ],
+  "84": [
+   "courage",
+   "हिम्मत",
+   "noun. f. sg"
+  ],
+  "86": [
+   "back",
+   "वापिस",
+   "adv"
+  ],
+  "88": [
+   "come",
+   "आना",
+   "verb. stem"
+  ],
+  "90": [
+   "went",
+   "जाना",
+   "perf. f. sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    11,
+    13
+   ],
+   "type": "conjunct_verb",
+   "literal": "to do compelled",
+   "meaning": "to compel, to force",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    27,
+    29
+   ],
+   "type": "conjunct_verb",
+   "literal": "to come back",
+   "meaning": "to refrain, to desist",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    56,
+    58,
+    60
+   ],
+   "type": "conjunct_verb",
+   "literal": "fear is felt is",
+   "meaning": "to be afraid (impersonal construction)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    80,
+    82
+   ],
+   "type": "compound_verb",
+   "literal": "gone been",
+   "meaning": "had gone (emphasizes completion)",
+   "note": "जाना as main verb, होना as vector verb indicating completion/state",
+   "source": "model"
+  },
+  {
+   "idx": [
+    86,
+    88,
+    90
+   ],
+   "type": "compound_verb",
+   "literal": "back come went",
+   "meaning": "returned, came back (emphasizes completion)",
+   "note": "आना as main verb, जाना as vector verb indicating completion/finality",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

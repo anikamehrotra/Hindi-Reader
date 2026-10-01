@@ -1,0 +1,236 @@
+{
+ "translation": "Enough, Rahat, don't be so excessive. I'm fed up with your Kishwar's stories. Finish it too. Rahat made a face, drew up her legs, and lay down.",
+ "words": {
+  "1": [
+   "enough",
+   "बस",
+   ""
+  ],
+  "3": [
+   "Rahat (name)",
+   "राहत",
+   "f.sg. voc."
+  ],
+  "5": [
+   "too much",
+   "ज़्यादा",
+   "adv"
+  ],
+  "7": [
+   "don't",
+   "मत",
+   "prohibitive particle"
+  ],
+  "9": [
+   "become",
+   "बनना",
+   "imp. 2sg"
+  ],
+  "14": [
+   "from you",
+   "तुम",
+   "2nd pl. obl. + postposition"
+  ],
+  "16": [
+   "more",
+   "ज़्यादा",
+   "adv"
+  ],
+  "23": [
+   "oh",
+   "ए",
+   "interjection"
+  ],
+  "25": [
+   "hey",
+   "हे",
+   "interjection"
+  ],
+  "27": [
+   "forgive",
+   "माफ़",
+   "adj"
+  ],
+  "29": [
+   "do",
+   "करना",
+   "imp. 2sg"
+  ],
+  "34": [
+   "fed up",
+   "बाज़",
+   "adj"
+  ],
+  "36": [
+   "came",
+   "आना",
+   "perf. f.sg"
+  ],
+  "38": [
+   "I",
+   "मैं",
+   "1st sg. nom."
+  ],
+  "40": [
+   "your",
+   "तुम",
+   "2nd pl. gen. f.sg"
+  ],
+  "42": [
+   "Kishwar (name)",
+   "किश्वर",
+   "f.sg"
+  ],
+  "44": [
+   "of",
+   "का",
+   "gen. f.sg"
+  ],
+  "46": [
+   "stories",
+   "क़िस्सा",
+   "m.pl. obl."
+  ],
+  "48": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "51": [
+   "finish",
+   "ख़त्म",
+   "adj"
+  ],
+  "53": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "55": [
+   "do",
+   "करना",
+   "imp. 2sg"
+  ],
+  "61": [
+   "Rahat (name)",
+   "राहत",
+   "f.sg. nom."
+  ],
+  "63": [
+   "face",
+   "मुँह",
+   "m.sg"
+  ],
+  "65": [
+   "making",
+   "बनाना",
+   "conj. participle"
+  ],
+  "67": [
+   "legs",
+   "टांग",
+   "f.pl"
+  ],
+  "69": [
+   "drawing up",
+   "सुकेड़",
+   "root"
+  ],
+  "71": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "73": [
+   "lie down",
+   "लेटना",
+   "root"
+  ],
+  "75": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    5,
+    7,
+    9
+   ],
+   "type": "phrase",
+   "literal": "don't become too much",
+   "meaning": "don't be so excessive/dramatic",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    27,
+    29
+   ],
+   "type": "conjunct_verb",
+   "literal": "do forgive",
+   "meaning": "forgive me",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    34,
+    36
+   ],
+   "type": "conjunct_verb",
+   "literal": "came fed up",
+   "meaning": "I am fed up",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    51,
+    55
+   ],
+   "type": "conjunct_verb",
+   "literal": "do finish",
+   "meaning": "finish it",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    63,
+    65
+   ],
+   "type": "conjunct_verb",
+   "literal": "making face",
+   "meaning": "made a face",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    71
+   ],
+   "type": "conjunct_verb",
+   "literal": "having done drawing up",
+   "meaning": "having drawn up",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    73,
+    75
+   ],
+   "type": "compound_verb",
+   "literal": "lie down went",
+   "meaning": "lay down",
+   "note": "जाना (jana) as a vector verb indicates completion or suddenness of the action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

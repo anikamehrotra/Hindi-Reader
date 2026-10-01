@@ -1,0 +1,289 @@
+{
+ "translation": "“Oh, should I turn on the light? My dear sister, I'm going to die!” Rahat screamed like a coward and quickly put her feet on the bed, as if Kishwar's spirit was already pulling her feet from under it.",
+ "words": {
+  "1": [
+   "oh",
+   "हाय",
+   ""
+  ],
+  "3": [
+   "light",
+   "बिजली",
+   "f.sg"
+  ],
+  "5": [
+   "should I turn on?",
+   "जलाना",
+   "subj. 1sg"
+  ],
+  "7": [
+   "I",
+   "मैं",
+   "1sg.nom"
+  ],
+  "12": [
+   "good",
+   "अच्छा",
+   "f.sg"
+  ],
+  "14": [
+   "sister",
+   "बहन",
+   "f.sg"
+  ],
+  "16": [
+   "my",
+   "मैं",
+   "poss. m.sg"
+  ],
+  "18": [
+   "breath/life",
+   "दम",
+   "m.sg"
+  ],
+  "20": [
+   "exit",
+   "निकलना",
+   "verb stem"
+  ],
+  "22": [
+   "will go",
+   "जाना",
+   "fut. 3sg m"
+  ],
+  "26": [
+   "Rahat",
+   "राहत",
+   "f.sg"
+  ],
+  "28": [
+   "cowards",
+   "बुज़दिल",
+   "m.pl.obl"
+  ],
+  "30": [
+   "of",
+   "का",
+   "f.sg.obl"
+  ],
+  "32": [
+   "manner",
+   "तरह",
+   "f.sg"
+  ],
+  "34": [
+   "screamed",
+   "चिल्लाना",
+   "perf. f.sg"
+  ],
+  "36": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "38": [
+   "quickly",
+   "जल्दी",
+   "adv"
+  ],
+  "40": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "42": [
+   "her own",
+   "अपना",
+   "m.pl"
+  ],
+  "44": [
+   "feet",
+   "पैर",
+   "m.pl"
+  ],
+  "46": [
+   "bed/platform",
+   "तख़्त",
+   "m.sg"
+  ],
+  "48": [
+   "of",
+   "का",
+   "m.sg.obl"
+  ],
+  "50": [
+   "on",
+   "ऊपर",
+   "postposition"
+  ],
+  "52": [
+   "put",
+   "रखना",
+   "verb stem"
+  ],
+  "54": [
+   "took",
+   "लेना",
+   "perf. m.pl"
+  ],
+  "56": [
+   "as if",
+   "गोया",
+   "conj"
+  ],
+  "58": [
+   "under",
+   "तहत",
+   "postposition"
+  ],
+  "60": [
+   "of",
+   "का",
+   "m.sg.obl"
+  ],
+  "62": [
+   "below",
+   "नीचे",
+   "postposition"
+  ],
+  "64": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "66": [
+   "Kishwar",
+   "किश्वर",
+   "f.sg"
+  ],
+  "68": [
+   "of",
+   "का",
+   "f.sg"
+  ],
+  "70": [
+   "spirit",
+   "रूह",
+   "f.sg"
+  ],
+  "72": [
+   "already",
+   "अभी",
+   "adv"
+  ],
+  "74": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "76": [
+   "her",
+   "वह",
+   "poss. m.sg"
+  ],
+  "78": [
+   "feet",
+   "पैर",
+   "m.pl"
+  ],
+  "80": [
+   "pulling",
+   "खींचना",
+   "pres.part"
+  ],
+  "82": [
+   "remaining",
+   "रहना",
+   "aux.verb"
+  ],
+  "84": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    12,
+    14
+   ],
+   "type": "phrase",
+   "literal": "good sister",
+   "meaning": "my dear sister",
+   "note": "An affectionate address.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    18,
+    20,
+    22
+   ],
+   "type": "idiom",
+   "literal": "my breath will exit",
+   "meaning": "I will die / I am going to die",
+   "note": "Common expression for extreme fear or distress.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    28,
+    30,
+    32
+   ],
+   "type": "postposition",
+   "literal": "in the manner of cowards",
+   "meaning": "like a coward",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    38,
+    40
+   ],
+   "type": "phrase",
+   "literal": "with quickness",
+   "meaning": "quickly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    52,
+    54
+   ],
+   "type": "compound_verb",
+   "literal": "put took",
+   "meaning": "put (for oneself)",
+   "note": "लेना (lena) as a vector verb adds the sense of the action being done for the benefit of the subject.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    58,
+    60,
+    62
+   ],
+   "type": "postposition",
+   "literal": "under of below",
+   "meaning": "from under",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    80,
+    82,
+    84
+   ],
+   "type": "compound_verb",
+   "literal": "pulling remaining is",
+   "meaning": "was pulling / is pulling",
+   "note": "रहना (rahna) as a vector verb indicates continuous action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

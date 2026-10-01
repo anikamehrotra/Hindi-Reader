@@ -1,0 +1,283 @@
+{
+ "translation": "Whatever was meant to happen, happened. My fate. This is right. She showed a bottle to Rahat. Nothing happened. Whatever you want, that will happen. No one has the audacity to throw you into the fire of this unwanted marriage against your will.",
+ "words": {
+  "1": [
+   "whatever",
+   "जो",
+   ""
+  ],
+  "3": [
+   "whatever",
+   "कुछ",
+   ""
+  ],
+  "5": [
+   "to happen",
+   "होना",
+   "infinitive"
+  ],
+  "7": [
+   "was",
+   "होना",
+   "past.sg"
+  ],
+  "9": [
+   "having happened",
+   "होना",
+   "conj. participle"
+  ],
+  "11": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "16": [
+   "my",
+   "मेरा",
+   "poss. f.sg"
+  ],
+  "18": [
+   "fate",
+   "क़िस्मत",
+   "f.sg"
+  ],
+  "23": [
+   "Rahat",
+   "राहत",
+   "f.sg"
+  ],
+  "25": [
+   "this",
+   "यह",
+   "dem. pron"
+  ],
+  "27": [
+   "right",
+   "ठीक",
+   "adj"
+  ],
+  "29": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "33": [
+   "she",
+   "वह",
+   "pron. 3sg.obl"
+  ],
+  "35": [
+   "Rahat",
+   "राहत",
+   "f.sg"
+  ],
+  "37": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "39": [
+   "one",
+   "एक",
+   "num"
+  ],
+  "41": [
+   "bottle",
+   "शीशी",
+   "f.sg"
+  ],
+  "43": [
+   "showed",
+   "दिखाना",
+   "perf. f.sg"
+  ],
+  "47": [
+   "anything",
+   "कुछ",
+   "pron"
+  ],
+  "49": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "51": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "53": [
+   "happened",
+   "होना",
+   "perf. m.sg"
+  ],
+  "58": [
+   "you",
+   "तुम",
+   "pron. 2pl"
+  ],
+  "60": [
+   "whatever",
+   "जो",
+   "rel. pron"
+  ],
+  "62": [
+   "will want",
+   "चाहना",
+   "fut. 2pl"
+  ],
+  "67": [
+   "that very thing",
+   "वही",
+   "emphatic pron"
+  ],
+  "69": [
+   "will happen",
+   "होना",
+   "fut. 3sg"
+  ],
+  "72": [
+   "anyone's",
+   "कोई",
+   "obl. sg"
+  ],
+  "74": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "76": [
+   "audacity",
+   "मजाल",
+   "f.sg"
+  ],
+  "78": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "80": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "82": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "84": [
+   "your",
+   "तुम्हारा",
+   "poss. f.sg"
+  ],
+  "86": [
+   "will",
+   "मर्ज़ी",
+   "f.sg"
+  ],
+  "88": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "90": [
+   "without",
+   "बग़ैर",
+   "postposition"
+  ],
+  "92": [
+   "you",
+   "तुम",
+   "pron. 2pl.obl"
+  ],
+  "94": [
+   "this",
+   "यह",
+   "dem. pron"
+  ],
+  "96": [
+   "unwanted",
+   "बे-पसंद",
+   "adj"
+  ],
+  "98": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "100": [
+   "marriage",
+   "शादी",
+   "f.sg"
+  ],
+  "102": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "104": [
+   "fire",
+   "आग",
+   "f.sg"
+  ],
+  "106": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "108": [
+   "throw",
+   "झोंकना",
+   "subj. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3
+   ],
+   "type": "phrase",
+   "literal": "whatever",
+   "meaning": "whatever",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    9,
+    11
+   ],
+   "type": "compound_verb",
+   "literal": "having happened went",
+   "meaning": "happened (completely)",
+   "note": "जाना as a vector verb indicates completion or finality of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    88,
+    90
+   ],
+   "type": "postposition",
+   "literal": "of without",
+   "meaning": "without",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    96,
+    98,
+    100
+   ],
+   "type": "phrase",
+   "literal": "unwanted of marriage",
+   "meaning": "unwanted marriage",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

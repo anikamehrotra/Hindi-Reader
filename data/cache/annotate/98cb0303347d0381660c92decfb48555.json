@@ -1,0 +1,527 @@
+{
+ "translation": "You and I will force her mother not to bury Kishwar alive. \"Yes, you will, Rehana. You are very brave. You are truly a formidable personality. You are the best embodiment of humanity, Rehana. If only a few such girls were born in our nation, why would we remain slaves?\" \"And now you turn on the light. I won't get down on the ground. My shoe, too, who knows where it is.\" She was returning in a trembling voice from a lost path.",
+ "words": {
+  "1": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "3": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "5": [
+   "you",
+   "तुम",
+   "pron. 2sg"
+  ],
+  "7": [
+   "her",
+   "वह",
+   "pron. 3sg obl."
+  ],
+  "9": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "11": [
+   "mother",
+   "माँ",
+   "noun f.sg"
+  ],
+  "13": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "15": [
+   "forced",
+   "मजबूर",
+   "adj."
+  ],
+  "17": [
+   "will do",
+   "करना",
+   "fut. 1pl"
+  ],
+  "19": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "21": [
+   "she",
+   "वो",
+   "pron. 3sg"
+  ],
+  "23": [
+   "Kishwar",
+   "किश्वर",
+   "noun f.sg"
+  ],
+  "25": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "27": [
+   "alive",
+   "ज़िंदा",
+   "adj."
+  ],
+  "29": [
+   "bury",
+   "दफ़न",
+   "noun m.sg"
+  ],
+  "31": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "33": [
+   "do",
+   "करना",
+   "subj. 3sg"
+  ],
+  "40": [
+   "yes",
+   "हाँ",
+   "interj."
+  ],
+  "42": [
+   "you",
+   "तुम",
+   "pron. 2sg"
+  ],
+  "44": [
+   "will do",
+   "करना",
+   "fut. 2sg"
+  ],
+  "49": [
+   "Rehana",
+   "रेहाना",
+   "noun f.sg"
+  ],
+  "51": [
+   "you",
+   "तुम",
+   "pron. 2sg"
+  ],
+  "53": [
+   "very",
+   "बहुत",
+   "adv."
+  ],
+  "55": [
+   "brave",
+   "बहादुर",
+   "adj."
+  ],
+  "57": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ],
+  "62": [
+   "you",
+   "तुम",
+   "pron. 2sg"
+  ],
+  "67": [
+   "you",
+   "तुम",
+   "pron. 2sg"
+  ],
+  "69": [
+   "truly",
+   "वाक़ई",
+   "adv."
+  ],
+  "71": [
+   "very",
+   "बहुत",
+   "adv."
+  ],
+  "73": [
+   "formidable",
+   "ज़बरदस्त",
+   "adj."
+  ],
+  "75": [
+   "personality",
+   "हस्ती",
+   "noun f.sg"
+  ],
+  "77": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ],
+  "80": [
+   "you",
+   "तुम",
+   "pron. 2sg"
+  ],
+  "82": [
+   "humanity",
+   "इन्सानियत",
+   "noun f.sg"
+  ],
+  "84": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "86": [
+   "best",
+   "बेहतरीन",
+   "adj."
+  ],
+  "88": [
+   "embodiment",
+   "मुजस्सिमा",
+   "noun m.sg"
+  ],
+  "90": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ],
+  "93": [
+   "Rehana",
+   "रेहाना",
+   "noun f.sg"
+  ],
+  "95": [
+   "if",
+   "अगर",
+   "conj."
+  ],
+  "97": [
+   "our",
+   "हमारा",
+   "pron. 1pl poss."
+  ],
+  "99": [
+   "nation",
+   "क़ौम",
+   "noun f.sg"
+  ],
+  "101": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "103": [
+   "such",
+   "ऐसा",
+   "adj. f.pl"
+  ],
+  "105": [
+   "emphatic",
+   "ही",
+   "particle"
+  ],
+  "107": [
+   "a few",
+   "चंद",
+   "adj."
+  ],
+  "109": [
+   "girls",
+   "लड़की",
+   "noun f.pl"
+  ],
+  "111": [
+   "born",
+   "पैदा",
+   "adj."
+  ],
+  "113": [
+   "become",
+   "होना",
+   "conj. participle"
+  ],
+  "115": [
+   "go",
+   "जाना",
+   "vector verb"
+  ],
+  "117": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "119": [
+   "we",
+   "हम",
+   "pron. 1pl"
+  ],
+  "121": [
+   "slaves",
+   "ग़ुलाम",
+   "noun m.pl"
+  ],
+  "123": [
+   "why",
+   "क्यों",
+   "adv."
+  ],
+  "125": [
+   "remain",
+   "रहना",
+   "subj. 1pl"
+  ],
+  "127": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "129": [
+   "now",
+   "अब",
+   "adv."
+  ],
+  "131": [
+   "you",
+   "तुम",
+   "pron. 2sg"
+  ],
+  "133": [
+   "light",
+   "बिजली",
+   "noun f.sg"
+  ],
+  "135": [
+   "turn on",
+   "जलाना",
+   "verb root"
+  ],
+  "137": [
+   "give",
+   "देना",
+   "vector verb"
+  ],
+  "142": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "144": [
+   "ground",
+   "ज़मीन",
+   "noun f.sg"
+  ],
+  "146": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "148": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "150": [
+   "will descend",
+   "उतरना",
+   "fut. 1sg"
+  ],
+  "153": [
+   "my",
+   "मैं",
+   "pron. 1sg poss. m.sg"
+  ],
+  "155": [
+   "shoe",
+   "जूता",
+   "noun m.sg"
+  ],
+  "157": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "159": [
+   "emphatic",
+   "तो",
+   "particle"
+  ],
+  "161": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "163": [
+   "know",
+   "जानना",
+   "subj. 3sg"
+  ],
+  "165": [
+   "where",
+   "किधर",
+   "adv."
+  ],
+  "167": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "173": [
+   "she",
+   "वो",
+   "pron. 3sg"
+  ],
+  "175": [
+   "trembling",
+   "काँपना",
+   "pres. part. f.sg"
+  ],
+  "177": [
+   "having been",
+   "होना",
+   "perf. part. f.sg"
+  ],
+  "179": [
+   "voice",
+   "आवाज़",
+   "noun f.sg"
+  ],
+  "181": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "183": [
+   "a",
+   "एक",
+   "num. adj."
+  ],
+  "185": [
+   "lost",
+   "भटकना",
+   "perf. part. m.sg"
+  ],
+  "187": [
+   "having been",
+   "होना",
+   "perf. part. m.sg"
+  ],
+  "189": [
+   "path",
+   "रास्ता",
+   "noun m.sg"
+  ],
+  "191": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "193": [
+   "back",
+   "वापस",
+   "adv."
+  ],
+  "195": [
+   "returning",
+   "लौटना",
+   "verb root"
+  ],
+  "197": [
+   "remaining",
+   "रहना",
+   "aux. verb"
+  ],
+  "199": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    15,
+    17
+   ],
+   "type": "conjunct_verb",
+   "literal": "to do forced",
+   "meaning": "to force",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    33
+   ],
+   "type": "conjunct_verb",
+   "literal": "to do burial",
+   "meaning": "to bury",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    111,
+    113,
+    115
+   ],
+   "type": "compound_verb",
+   "literal": "born become go",
+   "meaning": "to be born",
+   "note": "जाना as a vector verb adds a sense of completion or suddenness.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    135,
+    137
+   ],
+   "type": "compound_verb",
+   "literal": "burn give",
+   "meaning": "to turn on (light)",
+   "note": "देना as a vector verb implies doing something for someone else or completing an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    175,
+    177
+   ],
+   "type": "phrase",
+   "literal": "trembling having been",
+   "meaning": "trembling",
+   "note": "A common way to form an adjective from a verb, similar to a present participle.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    185,
+    187
+   ],
+   "type": "phrase",
+   "literal": "lost having been",
+   "meaning": "lost",
+   "note": "A common way to form an adjective from a verb, similar to a past participle.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    193,
+    195,
+    197
+   ],
+   "type": "compound_verb",
+   "literal": "back returning remaining",
+   "meaning": "was returning",
+   "note": "रहना as an auxiliary verb indicates continuous action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

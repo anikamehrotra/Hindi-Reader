@@ -1,0 +1,883 @@
+{
+ "translation": "Bedi probably knows how bravely she is living, how she is staring at death with stony eyes in such a world where even her husband doesn't recognize her. Then, among them, someone repeats her name 'Suhagwanti, Suhagwali' to herself and, seeing her brother in the huge crowd, says for the last time, \"You don't recognize me either, Bihari? I fed you in my lap!\" And Bihari wanted to shout. Then he would look at his parents, and his parents, placing their hands on their hearts, would look towards Narayan Baba, and in a state of utter helplessness, Narayan Baba would look towards the sky, which in reality holds no truth and is merely an illusion of our sight, which is merely a limit beyond which our eyes cannot see.",
+ "words": {
+  "0": [
+   "Bedi",
+   "बेदी",
+   ""
+  ],
+  "2": [
+   "probably",
+   "समग्र",
+   "adv"
+  ],
+  "10": [
+   "knows",
+   "पता",
+   "noun"
+  ],
+  "12": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "14": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "16": [
+   "alive",
+   "ज़िंदा",
+   "adj"
+  ],
+  "18": [
+   "remaining",
+   "रहना",
+   "conj. participle"
+  ],
+  "20": [
+   "what",
+   "क्या",
+   "pron. interrogative"
+  ],
+  "22": [
+   "bravery",
+   "बहादुरी",
+   "noun. f"
+  ],
+  "24": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "26": [
+   "work",
+   "काम",
+   "noun. m"
+  ],
+  "28": [
+   "taking",
+   "लेना",
+   "verb. stem"
+  ],
+  "30": [
+   "is",
+   "रहना",
+   "aux. verb. f.pl"
+  ],
+  "32": [
+   "is",
+   "होना",
+   "verb. 3pl"
+  ],
+  "35": [
+   "how",
+   "कैसे",
+   "adv"
+  ],
+  "37": [
+   "turned to stone",
+   "पथराना",
+   "perf. participle"
+  ],
+  "39": [
+   "having been",
+   "होना",
+   "conj. participle"
+  ],
+  "41": [
+   "eyes",
+   "आँख",
+   "noun. f.obl.pl"
+  ],
+  "43": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "45": [
+   "death",
+   "मौत",
+   "noun. f"
+  ],
+  "47": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "49": [
+   "staring",
+   "घूरना",
+   "verb. stem"
+  ],
+  "51": [
+   "is",
+   "रहना",
+   "aux. verb. f.pl"
+  ],
+  "53": [
+   "is",
+   "होना",
+   "verb. 3pl"
+  ],
+  "56": [
+   "such",
+   "ऐसा",
+   "adj"
+  ],
+  "58": [
+   "world",
+   "दुनिया",
+   "noun. f"
+  ],
+  "60": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "63": [
+   "where",
+   "जहाँ",
+   "adv"
+  ],
+  "65": [
+   "their",
+   "वह",
+   "pron. 3pl.obl.gen"
+  ],
+  "67": [
+   "husband",
+   "शौहर",
+   "noun. m"
+  ],
+  "69": [
+   "even",
+   "तक",
+   "postposition"
+  ],
+  "71": [
+   "them",
+   "वह",
+   "pron. 3pl.obl"
+  ],
+  "73": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "75": [
+   "recognize",
+   "पहचानना",
+   "verb. 3pl.pres"
+  ],
+  "78": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "80": [
+   "among them",
+   "वह",
+   "pron. 3pl.obl"
+  ],
+  "82": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "84": [
+   "someone",
+   "कोई",
+   "pron. indefinite"
+  ],
+  "86": [
+   "self",
+   "जी",
+   "noun. m"
+  ],
+  "88": [
+   "emphatic",
+   "ही",
+   "particle"
+  ],
+  "90": [
+   "self",
+   "जी",
+   "noun. m"
+  ],
+  "92": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "94": [
+   "her own",
+   "अपना",
+   "pron. poss. refl"
+  ],
+  "96": [
+   "name",
+   "नाम",
+   "noun. m"
+  ],
+  "98": [
+   "repeats",
+   "दोहराना",
+   "verb. 3sg.f.pres"
+  ],
+  "102": [
+   "Suhagwanti",
+   "सुहागवंती",
+   "noun. f"
+  ],
+  "105": [
+   "Suhagwali",
+   "सुहागवाली",
+   "noun. f"
+  ],
+  "111": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "113": [
+   "her own",
+   "अपना",
+   "pron. poss. refl"
+  ],
+  "115": [
+   "brother",
+   "भाई",
+   "noun. m"
+  ],
+  "117": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "119": [
+   "huge crowd",
+   "जम्मे-ग़फीर",
+   "noun. m"
+  ],
+  "122": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "124": [
+   "seeing",
+   "देखना",
+   "conj. participle"
+  ],
+  "126": [
+   "last",
+   "आखिरी",
+   "adj"
+  ],
+  "128": [
+   "time",
+   "बार",
+   "noun. f"
+  ],
+  "130": [
+   "so much",
+   "इतना",
+   "adv"
+  ],
+  "132": [
+   "says",
+   "कहना",
+   "verb. 3sg.f.pres"
+  ],
+  "137": [
+   "you",
+   "तू",
+   "pron. 2sg.fam"
+  ],
+  "139": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "141": [
+   "me",
+   "मैं",
+   "pron. 1sg.obl"
+  ],
+  "143": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "145": [
+   "recognize",
+   "पहचानना",
+   "verb. 2sg.pres"
+  ],
+  "147": [
+   "Bihari",
+   "बिहारी",
+   "noun. m"
+  ],
+  "151": [
+   "I",
+   "मैं",
+   "pron. 1sg.obl"
+  ],
+  "153": [
+   "you",
+   "तू",
+   "pron. 2sg.fam.obl"
+  ],
+  "155": [
+   "lap",
+   "गोदी",
+   "noun. f"
+  ],
+  "157": [
+   "fed",
+   "खिलाना",
+   "verb. perf. m.sg"
+  ],
+  "159": [
+   "was",
+   "होना",
+   "verb. past. 3sg"
+  ],
+  "162": [
+   "hey",
+   "रे",
+   "interjection"
+  ],
+  "167": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "169": [
+   "Bihari",
+   "बिहारी",
+   "noun. m"
+  ],
+  "171": [
+   "shout",
+   "चिल्लाना",
+   "verb. stem"
+  ],
+  "173": [
+   "give",
+   "देना",
+   "vector verb"
+  ],
+  "175": [
+   "wanted",
+   "चाहना",
+   "verb. perf. m.sg"
+  ],
+  "177": [
+   "was",
+   "होना",
+   "verb. past. 3sg"
+  ],
+  "180": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "182": [
+   "he",
+   "वह",
+   "pron. 3sg"
+  ],
+  "184": [
+   "parents",
+   "माँ-बाप",
+   "noun. m.pl"
+  ],
+  "186": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "188": [
+   "direction",
+   "तरफ",
+   "noun. f"
+  ],
+  "190": [
+   "looks",
+   "देखना",
+   "verb. 3sg.pres"
+  ],
+  "192": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "194": [
+   "parents",
+   "माँ-बाप",
+   "noun. m.pl"
+  ],
+  "196": [
+   "their own",
+   "अपना",
+   "pron. poss. refl"
+  ],
+  "198": [
+   "heart",
+   "जिगर",
+   "noun. m"
+  ],
+  "200": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "202": [
+   "hand",
+   "हाथ",
+   "noun. m"
+  ],
+  "204": [
+   "placing",
+   "रखना",
+   "conj. participle"
+  ],
+  "206": [
+   "Narayan",
+   "नारायण",
+   "noun. m"
+  ],
+  "208": [
+   "Baba",
+   "बाबा",
+   "noun. m"
+  ],
+  "210": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "212": [
+   "direction",
+   "तरफ",
+   "noun. f"
+  ],
+  "214": [
+   "look",
+   "देखना",
+   "verb. 3pl.pres"
+  ],
+  "216": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "218": [
+   "utterly",
+   "निहायत",
+   "adv"
+  ],
+  "220": [
+   "helplessness",
+   "बेबसी",
+   "noun. f"
+  ],
+  "222": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "224": [
+   "state",
+   "आलम",
+   "noun. m"
+  ],
+  "226": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "228": [
+   "Narayan",
+   "नारायण",
+   "noun. m"
+  ],
+  "230": [
+   "Baba",
+   "बाबा",
+   "noun. m"
+  ],
+  "232": [
+   "sky",
+   "आसमान",
+   "noun. m"
+  ],
+  "234": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "236": [
+   "direction",
+   "तरफ",
+   "noun. f"
+  ],
+  "238": [
+   "looks",
+   "देखना",
+   "verb. 3sg.pres"
+  ],
+  "240": [
+   "which",
+   "जो",
+   "pron. relative"
+  ],
+  "242": [
+   "in reality",
+   "दरअस्ल",
+   "adv"
+  ],
+  "244": [
+   "any",
+   "कोई",
+   "pron. indefinite"
+  ],
+  "246": [
+   "truth",
+   "हकीकत",
+   "noun. f"
+  ],
+  "248": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "250": [
+   "holds",
+   "रखना",
+   "verb. 3sg.pres"
+  ],
+  "252": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "254": [
+   "which",
+   "जो",
+   "pron. relative"
+  ],
+  "256": [
+   "only",
+   "सिर्फ",
+   "particle"
+  ],
+  "258": [
+   "our",
+   "हम",
+   "pron. 1pl.obl.gen"
+  ],
+  "260": [
+   "sight",
+   "नज़र",
+   "noun. f"
+  ],
+  "262": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "264": [
+   "illusion",
+   "धोखा",
+   "noun. m"
+  ],
+  "266": [
+   "is",
+   "होना",
+   "verb. 3sg"
+  ],
+  "269": [
+   "which",
+   "जो",
+   "pron. relative"
+  ],
+  "271": [
+   "only",
+   "सिर्फ",
+   "particle"
+  ],
+  "273": [
+   "one",
+   "एक",
+   "num"
+  ],
+  "275": [
+   "limit",
+   "हद",
+   "noun. f"
+  ],
+  "277": [
+   "is",
+   "होना",
+   "verb. 3sg"
+  ],
+  "280": [
+   "whose",
+   "जिस",
+   "pron. relative.obl.gen"
+  ],
+  "282": [
+   "beyond",
+   "पार",
+   "adv"
+  ],
+  "284": [
+   "our",
+   "हम",
+   "pron. 1pl.obl.gen"
+  ],
+  "286": [
+   "eyes",
+   "निगाह",
+   "noun. f.pl"
+  ],
+  "288": [
+   "work",
+   "काम",
+   "noun. m"
+  ],
+  "290": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "292": [
+   "do",
+   "करना",
+   "verb. 3pl.pres"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    18,
+    30,
+    32
+   ],
+   "type": "compound_verb",
+   "literal": "remaining is",
+   "meaning": "is living",
+   "note": "रहना as a vector verb adds continuity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    26,
+    28,
+    30,
+    32
+   ],
+   "type": "conjunct_verb",
+   "literal": "work taking is",
+   "meaning": "is working/doing",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    37,
+    39
+   ],
+   "type": "phrase",
+   "literal": "turned to stone having been",
+   "meaning": "stony, petrified",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    49,
+    51,
+    53
+   ],
+   "type": "compound_verb",
+   "literal": "staring is",
+   "meaning": "is staring",
+   "note": "रहना as a vector verb adds continuity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    86,
+    88,
+    90
+   ],
+   "type": "phrase",
+   "literal": "self only self",
+   "meaning": "to herself",
+   "note": "emphatic repetition",
+   "source": "model"
+  },
+  {
+   "idx": [
+    119,
+    122
+   ],
+   "type": "phrase",
+   "literal": "in huge crowd",
+   "meaning": "in the huge crowd",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    126,
+    128
+   ],
+   "type": "phrase",
+   "literal": "last time",
+   "meaning": "for the last time",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    155,
+    157
+   ],
+   "type": "conjunct_verb",
+   "literal": "lap fed",
+   "meaning": "fed in the lap",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    171,
+    173
+   ],
+   "type": "compound_verb",
+   "literal": "shout give",
+   "meaning": "to shout out",
+   "note": "देना as a vector verb indicates completion or intensity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    184,
+    186,
+    188
+   ],
+   "type": "postposition",
+   "literal": "parents of direction",
+   "meaning": "towards parents",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    198,
+    200,
+    202,
+    204
+   ],
+   "type": "idiom",
+   "literal": "on heart hand placing",
+   "meaning": "placing a hand on one's heart (out of grief/shock)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    210,
+    212
+   ],
+   "type": "postposition",
+   "literal": "of direction",
+   "meaning": "towards",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    218,
+    220,
+    222,
+    224,
+    226
+   ],
+   "type": "phrase",
+   "literal": "utterly helplessness of state in",
+   "meaning": "in a state of utter helplessness",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    234,
+    236
+   ],
+   "type": "postposition",
+   "literal": "of direction",
+   "meaning": "towards",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    242,
+    244,
+    246,
+    248,
+    250
+   ],
+   "type": "phrase",
+   "literal": "in reality any truth not holds",
+   "meaning": "which in reality holds no truth",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    258,
+    260,
+    262,
+    264
+   ],
+   "type": "phrase",
+   "literal": "our sight of illusion",
+   "meaning": "an illusion of our sight",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    280,
+    282
+   ],
+   "type": "postposition",
+   "literal": "whose beyond",
+   "meaning": "beyond which",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    288,
+    290,
+    292
+   ],
+   "type": "conjunct_verb",
+   "literal": "work not do",
+   "meaning": "do not work/function",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

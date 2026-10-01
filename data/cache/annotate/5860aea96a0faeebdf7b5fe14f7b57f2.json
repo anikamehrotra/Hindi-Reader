@@ -1,0 +1,82 @@
+{
+ "translation": "abundance, effect, positive, intensity, achievement, moral, torment, regret, action, emotionality, honor, neglect, zero, unexpected.",
+ "words": {
+  "3": [
+   "abundance",
+   "अधिकता",
+   "f.sg"
+  ],
+  "9": [
+   "effect",
+   "प्रभाव",
+   "m.sg"
+  ],
+  "15": [
+   "positive",
+   "सकारात्मक",
+   "adj"
+  ],
+  "21": [
+   "intensity",
+   "तीव्रता",
+   "f.sg"
+  ],
+  "23": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "29": [
+   "achievement",
+   "उपलब्धि",
+   "f.sg"
+  ],
+  "35": [
+   "moral",
+   "नैतिक",
+   "adj"
+  ],
+  "41": [
+   "torment",
+   "यातना",
+   "f.sg"
+  ],
+  "47": [
+   "regret",
+   "अफसोस",
+   "m.sg"
+  ],
+  "53": [
+   "action",
+   "कर्म",
+   "m.sg"
+  ],
+  "59": [
+   "emotionality",
+   "भावुकता",
+   "f.sg"
+  ],
+  "65": [
+   "honor",
+   "मान",
+   "m.sg"
+  ],
+  "71": [
+   "neglect",
+   "उपेक्षा",
+   "f.sg"
+  ],
+  "77": [
+   "zero",
+   "शून्य",
+   "m.sg"
+  ],
+  "83": [
+   "unexpected",
+   "अप्रत्याशित",
+   "adj"
+  ]
+ },
+ "units": [],
+ "model": "google/gemini-2.5-flash"
+}

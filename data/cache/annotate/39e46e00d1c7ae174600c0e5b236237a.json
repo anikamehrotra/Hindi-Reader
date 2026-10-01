@@ -1,0 +1,658 @@
+{
+ "translation": "Bishan Singh stood silently. Fazaldeen began to speak. \"He had told me to keep asking about your well-being. Now I have heard that you are going to Hindustan. Give my regards to Bhai Balbir Singh and Bhai Badhawa Singh, and also to Behan Amrit Kaur. Tell Bhai Balbir that Fazaldeen is well and happy. One of the two brown buffaloes they left behind has given birth to a calf. The other had also given birth, but that one died after six days. And tell him that whatever service I can render, I am always ready. And for you, I have brought these few maroondas.\"",
+ "words": {
+  "0": [
+   "Bishan",
+   "बिशन",
+   ""
+  ],
+  "2": [
+   "Singh",
+   "सिंह",
+   ""
+  ],
+  "4": [
+   "silently",
+   "चुपचाप",
+   "adv"
+  ],
+  "6": [
+   "standing",
+   "खड़ा",
+   "perf. m.sg"
+  ],
+  "8": [
+   "remained",
+   "रहना",
+   "perf. m.sg"
+  ],
+  "12": [
+   "Fazaldeen",
+   "फ़ज़लदीन",
+   ""
+  ],
+  "14": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "16": [
+   "to say",
+   "कहना",
+   "infinitive"
+  ],
+  "18": [
+   "beginning",
+   "शुरू",
+   "noun"
+  ],
+  "20": [
+   "did",
+   "करना",
+   "perf. m.sg"
+  ],
+  "24": [
+   "he",
+   "वह",
+   "obl. pl"
+  ],
+  "26": [
+   "from me",
+   "मैं",
+   "obl. sg"
+  ],
+  "28": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "30": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "32": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "34": [
+   "your",
+   "तुम",
+   "poss. 2sg"
+  ],
+  "36": [
+   "well-being",
+   "खैर-खैरियत",
+   "noun"
+  ],
+  "38": [
+   "asking",
+   "पूछना",
+   "pres. part."
+  ],
+  "40": [
+   "remain",
+   "रहना",
+   "subj. 1sg"
+  ],
+  "43": [
+   "now",
+   "अब",
+   "adverb"
+  ],
+  "45": [
+   "I",
+   "मैं",
+   "obl. sg"
+  ],
+  "47": [
+   "heard",
+   "सुनना",
+   "perf. m.sg"
+  ],
+  "49": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "51": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "53": [
+   "you",
+   "तुम",
+   "dir. sg"
+  ],
+  "55": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "noun"
+  ],
+  "57": [
+   "going",
+   "जाना",
+   "pres. part."
+  ],
+  "59": [
+   "are",
+   "रहना",
+   "pres. part."
+  ],
+  "61": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ],
+  "65": [
+   "brother",
+   "भाई",
+   "noun"
+  ],
+  "67": [
+   "Balbir",
+   "बलबीर",
+   ""
+  ],
+  "69": [
+   "Singh",
+   "सिंह",
+   ""
+  ],
+  "71": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "73": [
+   "brother",
+   "भाई",
+   "noun"
+  ],
+  "75": [
+   "Badhawa",
+   "बधावा",
+   ""
+  ],
+  "77": [
+   "Singh",
+   "सिंह",
+   ""
+  ],
+  "79": [
+   "to",
+   "से",
+   "postposition"
+  ],
+  "81": [
+   "my",
+   "मैं",
+   "poss. 1sg"
+  ],
+  "83": [
+   "greetings",
+   "सलाम",
+   "noun"
+  ],
+  "85": [
+   "say",
+   "कहना",
+   "imperative"
+  ],
+  "87": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "89": [
+   "sister",
+   "बहन",
+   "noun"
+  ],
+  "91": [
+   "Amrit",
+   "अमृत",
+   ""
+  ],
+  "93": [
+   "Kaur",
+   "कौर",
+   ""
+  ],
+  "95": [
+   "to",
+   "से",
+   "postposition"
+  ],
+  "97": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "105": [
+   "brother",
+   "भाई",
+   "noun"
+  ],
+  "107": [
+   "Balbir",
+   "बलबीर",
+   ""
+  ],
+  "109": [
+   "to",
+   "से",
+   "postposition"
+  ],
+  "111": [
+   "say",
+   "कहना",
+   "imperative"
+  ],
+  "113": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "115": [
+   "Fazaldeen",
+   "फ़ज़लदीन",
+   ""
+  ],
+  "117": [
+   "well and happy",
+   "राज़ी-खुशी",
+   "adjective"
+  ],
+  "119": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "122": [
+   "two",
+   "दो",
+   "numeral"
+  ],
+  "124": [
+   "brown",
+   "भूरा",
+   "adj. f.pl"
+  ],
+  "126": [
+   "buffaloes",
+   "भैंस",
+   "noun. f.pl"
+  ],
+  "129": [
+   "which",
+   "जो",
+   "relative pronoun"
+  ],
+  "131": [
+   "they",
+   "वह",
+   "dir. pl"
+  ],
+  "133": [
+   "leaving",
+   "छोड़ना",
+   "conj. participle"
+  ],
+  "135": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "137": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "140": [
+   "among them",
+   "वह",
+   "obl. pl"
+  ],
+  "142": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "144": [
+   "one",
+   "एक",
+   "numeral"
+  ],
+  "146": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "148": [
+   "calf",
+   "पाड़ा",
+   "noun. m.sg"
+  ],
+  "150": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "152": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "155": [
+   "other",
+   "दूसरा",
+   "adj. f.sg"
+  ],
+  "157": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "159": [
+   "calf",
+   "पाड़ी",
+   "noun. f.sg"
+  ],
+  "161": [
+   "had happened",
+   "होना",
+   "perf. f.sg"
+  ],
+  "163": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "166": [
+   "but",
+   "पर",
+   "conjunction"
+  ],
+  "168": [
+   "that",
+   "वह",
+   "pronoun"
+  ],
+  "170": [
+   "six",
+   "छै",
+   "numeral"
+  ],
+  "172": [
+   "days",
+   "दिन",
+   "noun. m.pl"
+  ],
+  "174": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "176": [
+   "having been",
+   "होना",
+   "conj. participle"
+  ],
+  "178": [
+   "died",
+   "मरना",
+   "perf. f.sg"
+  ],
+  "180": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "184": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "186": [
+   "my",
+   "मैं",
+   "poss. 1sg"
+  ],
+  "188": [
+   "suitable",
+   "लायक़",
+   "adjective"
+  ],
+  "190": [
+   "whatever",
+   "जो",
+   "relative pronoun"
+  ],
+  "192": [
+   "service",
+   "ख़िदमत",
+   "noun. f.sg"
+  ],
+  "194": [
+   "may be",
+   "होना",
+   "subj. 3sg"
+  ],
+  "197": [
+   "say",
+   "कहना",
+   "imperative"
+  ],
+  "201": [
+   "I",
+   "मैं",
+   "dir. sg"
+  ],
+  "203": [
+   "every",
+   "हर",
+   "adjective"
+  ],
+  "205": [
+   "time",
+   "वक़्त",
+   "noun. m.sg"
+  ],
+  "207": [
+   "ready",
+   "तैयार",
+   "adjective"
+  ],
+  "209": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "212": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "214": [
+   "your",
+   "तुम",
+   "poss. 2sg"
+  ],
+  "216": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "218": [
+   "these",
+   "यह",
+   "dem. pron. pl"
+  ],
+  "220": [
+   "a few",
+   "थोड़े-से",
+   "adjective"
+  ],
+  "222": [
+   "maroondas",
+   "मरूंडे",
+   "noun. m.pl"
+  ],
+  "224": [
+   "brought",
+   "लाना",
+   "perf. m.sg"
+  ],
+  "226": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6,
+    8
+   ],
+   "type": "compound_verb",
+   "literal": "silent standing remained",
+   "meaning": "stood silently",
+   "note": "रहना as vector verb indicates continuation or completion of the action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    16,
+    18,
+    20
+   ],
+   "type": "conjunct_verb",
+   "literal": "to say beginning did",
+   "meaning": "began to speak",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    36,
+    38,
+    40
+   ],
+   "type": "phrase",
+   "literal": "well-being asking remain",
+   "meaning": "keep asking about your well-being",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    57,
+    59,
+    61
+   ],
+   "type": "compound_verb",
+   "literal": "going are are",
+   "meaning": "are going",
+   "note": "रहना as vector verb indicates continuous action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    81,
+    83,
+    85
+   ],
+   "type": "phrase",
+   "literal": "my greetings say",
+   "meaning": "give my regards",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    117,
+    119
+   ],
+   "type": "phrase",
+   "literal": "well-happy is",
+   "meaning": "is well and happy",
+   "note": "A common collocation for 'doing well'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    133,
+    135
+   ],
+   "type": "compound_verb",
+   "literal": "having left went",
+   "meaning": "had left behind",
+   "note": "जाना as vector verb indicates completion and finality of the action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    176,
+    178,
+    180
+   ],
+   "type": "compound_verb",
+   "literal": "having been died went",
+   "meaning": "died after being",
+   "note": "जाना as vector verb indicates completion of the action of dying",
+   "source": "model"
+  },
+  {
+   "idx": [
+    188,
+    190,
+    192,
+    194
+   ],
+   "type": "phrase",
+   "literal": "suitable whatever service",
+   "meaning": "whatever service I can render",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    203,
+    205
+   ],
+   "type": "phrase",
+   "literal": "every time",
+   "meaning": "always",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    214,
+    216
+   ],
+   "type": "postposition",
+   "literal": "your for",
+   "meaning": "for you",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    220,
+    222
+   ],
+   "type": "phrase",
+   "literal": "a few maroondas",
+   "meaning": "a few maroondas",
+   "note": "थोड़े-से is a common way to say 'a few'",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

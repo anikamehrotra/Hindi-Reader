@@ -1,0 +1,1053 @@
+{
+ "translation": "So, to implement the 'Embrace in your heart' program, this committee of neighborhood Mullah Shakur organized several morning processions. Four or five in the morning was the most opportune time for them. There was no noise from people, no traffic congestion. Even the dogs, who had been on guard duty all night, would be lying with their heads buried in extinguished ovens. People, huddled in their beds, would hear the voices of the morning procession participants and just say, \"Oh, it's that same group again!\" And then, sometimes with patience and sometimes with irritation, they would listen to Babu Sundarlal's propaganda. Those women who had safely reached the other side would lie spread out like cauliflower florets, and their husbands, stiff like stalks beside them, would protest the noise of the morning procession, muttering something under their breath as they went along. Or somewhere, a child would open their eyes for a little while, and understanding the 'Embrace in your heart' program's plaintive and sorrowful propaganda as just a song, would fall back asleep.",
+ "words": {
+  "0": [
+   "so",
+   "गोया",
+   ""
+  ],
+  "3": [
+   "heart",
+   "दिल",
+   "m.sg"
+  ],
+  "5": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "7": [
+   "embrace",
+   "बसाना",
+   "imperative"
+  ],
+  "10": [
+   "program",
+   "प्रोग्राम",
+   "m.sg"
+  ],
+  "12": [
+   "object marker",
+   "को",
+   "postposition"
+  ],
+  "14": [
+   "practical",
+   "अमली",
+   "adj"
+  ],
+  "16": [
+   "garment",
+   "जामा",
+   "m.sg"
+  ],
+  "18": [
+   "to make wear",
+   "पहनाना",
+   "infinitive"
+  ],
+  "20": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "22": [
+   "for",
+   "लिए",
+   "postposition"
+  ],
+  "24": [
+   "neighborhood",
+   "मुहल्ला",
+   "m.sg"
+  ],
+  "26": [
+   "mullah",
+   "मुल्ला",
+   "m.sg"
+  ],
+  "28": [
+   "Shakur",
+   "शकूर",
+   "proper noun"
+  ],
+  "30": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "32": [
+   "this",
+   "यह",
+   "pron.sg"
+  ],
+  "34": [
+   "committee",
+   "कमेटी",
+   "f.sg"
+  ],
+  "36": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "38": [
+   "many",
+   "कई",
+   "adj"
+  ],
+  "40": [
+   "morning processions",
+   "प्रभातफेरी",
+   "f.pl"
+  ],
+  "42": [
+   "took out",
+   "निकालना",
+   "perf. f.pl"
+  ],
+  "45": [
+   "morning",
+   "सुब्ह",
+   "f.sg"
+  ],
+  "47": [
+   "four-five",
+   "चार-पाँच",
+   "num"
+  ],
+  "49": [
+   "o'clock",
+   "बजे",
+   "postposition"
+  ],
+  "51": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "53": [
+   "time",
+   "वक्त",
+   "m.sg"
+  ],
+  "55": [
+   "their",
+   "वह",
+   "obl. pl"
+  ],
+  "57": [
+   "for",
+   "लिए",
+   "postposition"
+  ],
+  "59": [
+   "most opportune",
+   "मौजूँतरीन",
+   "adj. superlative"
+  ],
+  "62": [
+   "time",
+   "वक़्त",
+   "m.sg"
+  ],
+  "64": [
+   "used to be",
+   "होना",
+   "impf. m.sg"
+  ],
+  "66": [
+   "was",
+   "होना",
+   "past.sg"
+  ],
+  "69": [
+   "neither",
+   "न",
+   "conj"
+  ],
+  "71": [
+   "people",
+   "लोग",
+   "m.pl"
+  ],
+  "73": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "75": [
+   "noise",
+   "शोर",
+   "m.sg"
+  ],
+  "78": [
+   "nor",
+   "न",
+   "conj"
+  ],
+  "80": [
+   "traffic",
+   "ट्रैफिक",
+   "m.sg"
+  ],
+  "82": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "84": [
+   "congestion",
+   "उलझन",
+   "f.sg"
+  ],
+  "88": [
+   "all night",
+   "रात-भर",
+   "adv"
+  ],
+  "90": [
+   "guard duty",
+   "चौकीदारी",
+   "f.sg"
+  ],
+  "92": [
+   "doing",
+   "करना",
+   "participle"
+  ],
+  "94": [
+   "dogs",
+   "कुत्ता",
+   "m.pl"
+  ],
+  "96": [
+   "even",
+   "तक",
+   "postposition"
+  ],
+  "98": [
+   "extinguished",
+   "बुझना",
+   "perf. m.pl"
+  ],
+  "100": [
+   "auxiliary verb",
+   "होना",
+   "perf. m.pl"
+  ],
+  "102": [
+   "ovens",
+   "तनूर",
+   "m.pl"
+  ],
+  "104": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "106": [
+   "head",
+   "सर",
+   "m.sg"
+  ],
+  "108": [
+   "giving",
+   "देना",
+   "conj. participle"
+  ],
+  "110": [
+   "lying",
+   "पड़ना",
+   "perf. m.pl"
+  ],
+  "112": [
+   "used to be",
+   "होना",
+   "impf. m.pl"
+  ],
+  "114": [
+   "were",
+   "होना",
+   "past.pl"
+  ],
+  "117": [
+   "their respective",
+   "अपने-अपने",
+   "pron. pl"
+  ],
+  "119": [
+   "beds",
+   "बिस्तर",
+   "m.pl"
+  ],
+  "121": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "123": [
+   "huddled",
+   "दुबकना",
+   "perf. m.pl"
+  ],
+  "125": [
+   "auxiliary verb",
+   "होना",
+   "perf. m.pl"
+  ],
+  "127": [
+   "people",
+   "लोग",
+   "m.pl"
+  ],
+  "129": [
+   "of morning procession",
+   "प्रभातफेरीवाला",
+   "m.pl"
+  ],
+  "131": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "133": [
+   "voice",
+   "आवाज़",
+   "f.sg"
+  ],
+  "135": [
+   "hearing",
+   "सुनना",
+   "conj. participle"
+  ],
+  "137": [
+   "only",
+   "सिर्फ",
+   "adv"
+  ],
+  "139": [
+   "this much",
+   "इतना",
+   "pron.sg"
+  ],
+  "141": [
+   "would say",
+   "कहना",
+   "impf. m.pl"
+  ],
+  "146": [
+   "oh",
+   "ओ",
+   "interjection"
+  ],
+  "150": [
+   "that same",
+   "वही",
+   "pron.sg"
+  ],
+  "152": [
+   "group",
+   "मंडली",
+   "f.sg"
+  ],
+  "154": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "159": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "161": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "163": [
+   "sometimes",
+   "कभी",
+   "adv"
+  ],
+  "165": [
+   "patience",
+   "सब्र",
+   "m.sg"
+  ],
+  "167": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "169": [
+   "sometimes",
+   "कभी",
+   "adv"
+  ],
+  "171": [
+   "irritation",
+   "तुनकमिज़ाजी",
+   "f.sg"
+  ],
+  "173": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "175": [
+   "he",
+   "वह",
+   "pron.sg"
+  ],
+  "177": [
+   "Babu",
+   "बाबू",
+   "m.sg"
+  ],
+  "179": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "proper noun"
+  ],
+  "181": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "183": [
+   "propaganda",
+   "प्रोपेगेंडा",
+   "m.sg"
+  ],
+  "185": [
+   "heard",
+   "सुनना",
+   "perf. m.sg"
+  ],
+  "187": [
+   "used to do",
+   "करना",
+   "impf. m.pl"
+  ],
+  "191": [
+   "those",
+   "वह",
+   "pron.pl"
+  ],
+  "193": [
+   "women",
+   "औरत",
+   "f.pl"
+  ],
+  "195": [
+   "who",
+   "जो",
+   "pron.pl"
+  ],
+  "197": [
+   "very",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "199": [
+   "safe",
+   "महफूज़",
+   "adj"
+  ],
+  "202": [
+   "that",
+   "वह",
+   "obl.sg"
+  ],
+  "204": [
+   "side",
+   "पार",
+   "m.sg"
+  ],
+  "206": [
+   "reaching",
+   "पहुँचना",
+   "conj. participle"
+  ],
+  "208": [
+   "went",
+   "जाना",
+   "perf. f.pl"
+  ],
+  "210": [
+   "were",
+   "होना",
+   "past.pl"
+  ],
+  "213": [
+   "cauliflower",
+   "गोभी",
+   "f.sg"
+  ],
+  "215": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "217": [
+   "florets",
+   "फूल",
+   "m.pl"
+  ],
+  "219": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "221": [
+   "like",
+   "तरह",
+   "f.sg"
+  ],
+  "223": [
+   "spread",
+   "फैलना",
+   "perf. f.pl"
+  ],
+  "225": [
+   "lying",
+   "पड़ना",
+   "perf. f.pl"
+  ],
+  "227": [
+   "would remain",
+   "रहना",
+   "impf. f.pl"
+  ],
+  "229": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "231": [
+   "their",
+   "वह",
+   "obl. pl"
+  ],
+  "233": [
+   "husbands",
+   "खाविंद",
+   "m.pl"
+  ],
+  "235": [
+   "their",
+   "वह",
+   "obl. pl"
+  ],
+  "237": [
+   "side",
+   "पहलू",
+   "m.sg"
+  ],
+  "239": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "241": [
+   "stalks",
+   "डंठल",
+   "m.pl"
+  ],
+  "243": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "245": [
+   "like",
+   "तरह",
+   "f.sg"
+  ],
+  "247": [
+   "stiff",
+   "अकड़ना",
+   "perf. m.pl"
+  ],
+  "249": [
+   "lying",
+   "पड़ना",
+   "conj. participle"
+  ],
+  "251": [
+   "morning procession",
+   "प्रभातफेरी",
+   "f.sg"
+  ],
+  "254": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "256": [
+   "noise",
+   "शोर",
+   "m.sg"
+  ],
+  "258": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "260": [
+   "protest",
+   "एहतजार्ज",
+   "m.sg"
+  ],
+  "263": [
+   "doing",
+   "करना",
+   "participle"
+  ],
+  "265": [
+   "auxiliary verb",
+   "होना",
+   "participle"
+  ],
+  "267": [
+   "mouth",
+   "मुँह",
+   "m.sg"
+  ],
+  "269": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "271": [
+   "something",
+   "कुछ",
+   "pron.sg"
+  ],
+  "273": [
+   "muttering",
+   "मिनमिनाना",
+   "participle"
+  ],
+  "275": [
+   "went",
+   "चलना",
+   "perf. m.pl"
+  ],
+  "277": [
+   "used to go",
+   "जाना",
+   "impf. m.pl"
+  ],
+  "280": [
+   "or",
+   "या",
+   "conj"
+  ],
+  "282": [
+   "somewhere",
+   "कहीं",
+   "adv"
+  ],
+  "284": [
+   "some",
+   "कोई",
+   "pron.sg"
+  ],
+  "286": [
+   "child",
+   "बच्चा",
+   "m.sg"
+  ],
+  "288": [
+   "a little",
+   "थोड़ा",
+   "adj. f.sg"
+  ],
+  "290": [
+   "while",
+   "देर",
+   "f.sg"
+  ],
+  "292": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "294": [
+   "for",
+   "लिए",
+   "postposition"
+  ],
+  "296": [
+   "eyes",
+   "आँख",
+   "f.pl"
+  ],
+  "298": [
+   "would open",
+   "खोलना",
+   "impf. m.sg"
+  ],
+  "300": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "303": [
+   "heart",
+   "दिल",
+   "m.sg"
+  ],
+  "305": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "307": [
+   "embrace",
+   "बसाना",
+   "imperative"
+  ],
+  "310": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "312": [
+   "plaintive",
+   "फ़रियादी",
+   "adj"
+  ],
+  "314": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "316": [
+   "sorrowful",
+   "अंदोहगीं",
+   "adj"
+  ],
+  "318": [
+   "propaganda",
+   "प्रोपेगेंडा",
+   "m.sg"
+  ],
+  "320": [
+   "object marker",
+   "को",
+   "postposition"
+  ],
+  "322": [
+   "only",
+   "सिर्फ",
+   "adv"
+  ],
+  "324": [
+   "one",
+   "एक",
+   "num"
+  ],
+  "326": [
+   "song",
+   "गाना",
+   "m.sg"
+  ],
+  "328": [
+   "understanding",
+   "समझना",
+   "conj. participle"
+  ],
+  "330": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "332": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "334": [
+   "would sleep",
+   "सोना",
+   "perf. m.sg"
+  ],
+  "336": [
+   "would go",
+   "जाना",
+   "impf. m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    0
+   ],
+   "type": "phrase",
+   "literal": "as if",
+   "meaning": "so, therefore",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    3,
+    5,
+    7
+   ],
+   "type": "phrase",
+   "literal": "embrace in heart",
+   "meaning": "to embrace wholeheartedly, to take to heart",
+   "note": "This is the name of the program, so it's treated as a fixed phrase.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    14,
+    16,
+    18
+   ],
+   "type": "conjunct_verb",
+   "literal": "to make wear a practical garment",
+   "meaning": "to implement, to put into practice",
+   "note": "Literally 'to make wear a practical dress', meaning to give something a practical form.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    24,
+    26,
+    28
+   ],
+   "type": "phrase",
+   "literal": "neighborhood Mullah Shakur",
+   "meaning": "Mullah Shakur of the neighborhood",
+   "note": "A common way to refer to someone by their title and location.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    49
+   ],
+   "type": "phrase",
+   "literal": "four-five o'clock",
+   "meaning": "around four or five o'clock",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    59,
+    62
+   ],
+   "type": "phrase",
+   "literal": "most opportune time",
+   "meaning": "the most suitable time",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    75,
+    78,
+    84
+   ],
+   "type": "phrase",
+   "literal": "neither noise nor congestion",
+   "meaning": "no noise, no congestion",
+   "note": "A common 'neither...nor' construction.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    88,
+    90,
+    92
+   ],
+   "type": "phrase",
+   "literal": "night-long doing guard duty",
+   "meaning": "who had been on guard duty all night",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    98,
+    100
+   ],
+   "type": "compound_verb",
+   "literal": "having extinguished",
+   "meaning": "extinguished",
+   "note": "होना (hona) here acts as an auxiliary, indicating a state of being 'extinguished'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    106,
+    108
+   ],
+   "type": "compound_verb",
+   "literal": "giving head",
+   "meaning": "with their heads buried",
+   "note": "देकर (dekar) here implies 'having given' or 'by giving', indicating the action of burying their heads.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    110,
+    112,
+    114
+   ],
+   "type": "compound_verb",
+   "literal": "were lying",
+   "meaning": "would be lying",
+   "note": "पड़े होते थे (paṛe hote the) indicates a habitual or continuous state of lying.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    117,
+    119
+   ],
+   "type": "phrase",
+   "literal": "their own beds",
+   "meaning": "their respective beds",
+   "note": "The repetition of 'अपने' emphasizes 'each one's own'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    123,
+    125
+   ],
+   "type": "compound_verb",
+   "literal": "having huddled",
+   "meaning": "huddled",
+   "note": "दुबके हुए (dubke hue) indicates a state of being huddled.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    185,
+    187
+   ],
+   "type": "compound_verb",
+   "literal": "used to hear",
+   "meaning": "would listen to",
+   "note": "सुनना (sunna) as main verb, करना (karna) as vector verb indicating habitual action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    197,
+    199,
+    202,
+    204
+   ],
+   "type": "phrase",
+   "literal": "very safe that side",
+   "meaning": "safely reached the other side",
+   "note": "Describes the state of having crossed over to safety.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    206,
+    208,
+    210
+   ],
+   "type": "compound_verb",
+   "literal": "had gone reaching",
+   "meaning": "had reached",
+   "note": "पहुँच गई थीं (pahuñch gaī thīṁ) is a compound verb indicating completion of the action of reaching.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    223,
+    225,
+    227
+   ],
+   "type": "compound_verb",
+   "literal": "would remain spread out",
+   "meaning": "would lie spread out",
+   "note": "फैली पड़ी रहतीं (phailī paṛī rahtīṁ) indicates a continuous state of being spread out.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    247,
+    249
+   ],
+   "type": "compound_verb",
+   "literal": "lying stiff",
+   "meaning": "stiffly lying",
+   "note": "अकड़े पड़े (akaṛe paṛe) describes the state of being stiff and lying down.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    260,
+    263,
+    265
+   ],
+   "type": "conjunct_verb",
+   "literal": "doing protest",
+   "meaning": "protesting",
+   "note": "एहतजार्ज करना (ehtajārj karnā) is a common conjunct verb for 'to protest'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    275,
+    277
+   ],
+   "type": "compound_verb",
+   "literal": "went going",
+   "meaning": "went along",
+   "note": "चले जाते (chale jāte) indicates a continuous or habitual action of going.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    303,
+    305,
+    307
+   ],
+   "type": "phrase",
+   "literal": "embrace in heart",
+   "meaning": "to embrace wholeheartedly, to take to heart",
+   "note": "This is the name of the program, repeated from earlier.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    328,
+    330
+   ],
+   "type": "compound_verb",
+   "literal": "having understood",
+   "meaning": "understanding",
+   "note": "समझ के (samajh ke) is a conjunctive participle, meaning 'having understood'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    334,
+    336
+   ],
+   "type": "compound_verb",
+   "literal": "went to sleep",
+   "meaning": "fell back asleep",
+   "note": "सो जाता (so jātā) indicates the action of falling asleep.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,90 @@
+{
+ "translation": "I do think, why don't I think? What do you think? Tell me a little, what do you think?",
+ "words": {
+  "1": [
+   "thought",
+   "सोचना",
+   "perf. f.sg"
+  ],
+  "3": [
+   "why",
+   "क्यों",
+   ""
+  ],
+  "5": [
+   "not",
+   "नहीं",
+   ""
+  ],
+  "10": [
+   "think",
+   "सोचना",
+   "pres. part. f.sg"
+  ],
+  "12": [
+   "indeed/emphatic",
+   "ही",
+   "emphatic particle"
+  ],
+  "14": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "19": [
+   "what",
+   "क्या",
+   "interrogative pronoun"
+  ],
+  "21": [
+   "think",
+   "सोचना",
+   "pres. part. f.sg"
+  ],
+  "23": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ],
+  "28": [
+   "a little",
+   "ज़रा",
+   "adverb"
+  ],
+  "30": [
+   "tell",
+   "बताना",
+   "imperative 2sg"
+  ],
+  "32": [
+   "what",
+   "क्या",
+   "interrogative pronoun"
+  ],
+  "34": [
+   "think",
+   "सोचना",
+   "pres. part. f.sg"
+  ],
+  "36": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    10,
+    12,
+    14
+   ],
+   "type": "compound_verb",
+   "literal": "think indeed am",
+   "meaning": "I do think",
+   "note": "The 'ही' adds emphasis to the verb 'सोचती हूँ'.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,49 @@
+{
+ "translation": "Laser composing. Mohit Graphics, New Delhi.",
+ "words": {
+  "0": [
+   "laser",
+   "लेज़र",
+   ""
+  ],
+  "2": [
+   "composing",
+   "कम्पोजिंग",
+   ""
+  ],
+  "6": [
+   "Mohit",
+   "मोहित",
+   "proper noun"
+  ],
+  "8": [
+   "graphics",
+   "ग्राफिक्स",
+   ""
+  ],
+  "11": [
+   "New",
+   "नया",
+   "adj. f.sg"
+  ],
+  "13": [
+   "Delhi",
+   "दिल्ली",
+   "proper noun"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    11,
+    13
+   ],
+   "type": "phrase",
+   "literal": "New Delhi",
+   "meaning": "New Delhi",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

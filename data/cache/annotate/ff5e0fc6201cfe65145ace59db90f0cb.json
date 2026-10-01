@@ -1,0 +1,114 @@
+{
+ "translation": "Bishan Singh repeatedly pleaded with that God to give the order so that the hassle would end, but he was extremely busy because he had countless other orders to give. One day, fed up, he burst out at him: \"O, pad di, gurgur di, anekas di, bedhyana di, moong di dal of Waheguru da Khalsa and Waheguru di Fateh! Jo bole so nihal, satt shri akal!\"",
+ "words": {},
+ "units": [
+  {
+   "idx": [
+    18,
+    20
+   ],
+   "type": "phrase",
+   "literal": "pleading with",
+   "meaning": "pleading earnestly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    28,
+    30,
+    32
+   ],
+   "type": "compound_verb",
+   "literal": "order give give",
+   "meaning": "to give the order (emphatic/complete action)",
+   "note": "दे देना is a compound verb emphasizing completion or intensity of giving.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    39,
+    41
+   ],
+   "type": "conjunct_verb",
+   "literal": "finished to be",
+   "meaning": "to be finished, to end",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    77,
+    79
+   ],
+   "type": "conjunct_verb",
+   "literal": "fed up having come",
+   "meaning": "to get fed up, to be exasperated",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    85,
+    87
+   ],
+   "type": "compound_verb",
+   "literal": "burst fell",
+   "meaning": "to burst out (at someone)",
+   "note": "पड़ना as a vector verb indicates suddenness or intensity.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    121,
+    123,
+    125,
+    127
+   ],
+   "type": "phrase",
+   "literal": "Praise Guru's Khalsa",
+   "meaning": "The Khalsa belongs to the Wondrous Guru (a Sikh slogan)",
+   "note": "A common Sikh greeting/slogan, often followed by 'Waheguru Ji Ki Fateh'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    131,
+    133,
+    135,
+    137
+   ],
+   "type": "phrase",
+   "literal": "Praise Guru's victory",
+   "meaning": "Victory belongs to the Wondrous Guru (a Sikh slogan)",
+   "note": "A common Sikh greeting/slogan, often preceded by 'Waheguru Ji Ka Khalsa'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    141,
+    143,
+    145,
+    147
+   ],
+   "type": "proverb",
+   "literal": "whoever speaks that one blessed",
+   "meaning": "Whoever utters this (slogan) shall be blessed (a Sikh saying)",
+   "note": "A Sikh saying, often said after 'Sat Sri Akal'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    150,
+    152,
+    154
+   ],
+   "type": "phrase",
+   "literal": "Truth Revered Timeless",
+   "meaning": "Truth is the Great Timeless One (a Sikh greeting/slogan)",
+   "note": "A common Sikh greeting/slogan.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

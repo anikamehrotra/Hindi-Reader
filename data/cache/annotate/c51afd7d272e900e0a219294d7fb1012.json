@@ -1,0 +1,62 @@
+{
+ "translation": "In that heavy crowd, amidst hope and despair, the resolution to listen to Narayan Baba's sermon was doubled. The sermon, full of moral instruction and rhetorical beauty, was not just for the mind but also for the soul. It was not just for the empty-minded, but for everyone.",
+ "words": {
+  "3": [
+   "heavy",
+   "भारी",
+   "adj. f.sg"
+  ],
+  "5": [
+   "crowd",
+   "भीड़",
+   "n.f.sg"
+  ],
+  "11": [
+   "hope and despair",
+   "आशा-निराशा",
+   "n.f.sg"
+  ],
+  "17": [
+   "resolve",
+   "संकल्प",
+   "n.m.sg"
+  ],
+  "23": [
+   "doubled",
+   "दोगुना",
+   "adj. m.sg"
+  ],
+  "29": [
+   "didactic",
+   "उपदेशमूलक",
+   "adj. m.sg"
+  ],
+  "31": [
+   "rhetorical beauty",
+   "वाक्-सौंदर्य",
+   "n.m.sg"
+  ],
+  "37": [
+   "satisfied",
+   "तृप्त",
+   "adj. m.sg"
+  ],
+  "43": [
+   "empty-minded",
+   "खाली-दिमाग़",
+   "adj. m.sg"
+  ],
+  "51": [
+   "altar",
+   "बेदी",
+   "n.f.sg"
+  ],
+  "53": [
+   "entire",
+   "समग्र",
+   "adj. m.sg"
+  ]
+ },
+ "units": [],
+ "model": "google/gemini-2.5-flash"
+}

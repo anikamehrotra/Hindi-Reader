@@ -1,0 +1,345 @@
+{
+ "translation": "His name was Bishan Singh, but everyone called him Toba Tek Singh. He absolutely did not know what day it was, what month it was, or how many years had passed. But every month, when his relatives came to meet him, he would automatically...",
+ "words": {
+  "0": [
+   "his",
+   "वह",
+   "obl. sg. m"
+  ],
+  "2": [
+   "name",
+   "नाम",
+   "m.sg"
+  ],
+  "4": [
+   "Bishan",
+   "बिशन",
+   "proper noun"
+  ],
+  "6": [
+   "Singh",
+   "सिंह",
+   "proper noun"
+  ],
+  "8": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "11": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "13": [
+   "all",
+   "सब",
+   "pronoun"
+  ],
+  "15": [
+   "him",
+   "वह",
+   "obl. sg"
+  ],
+  "17": [
+   "Toba",
+   "टोबा",
+   "proper noun"
+  ],
+  "19": [
+   "Tek Singh",
+   "टेकसिंह",
+   "proper noun"
+  ],
+  "21": [
+   "used to call",
+   "कहना",
+   "impf. m.pl"
+  ],
+  "23": [
+   "were",
+   "होना",
+   "past. pl"
+  ],
+  "27": [
+   "he",
+   "वह",
+   "obl. sg"
+  ],
+  "29": [
+   "this",
+   "यह",
+   "pronoun"
+  ],
+  "31": [
+   "at all",
+   "कतई",
+   "adv"
+  ],
+  "33": [
+   "known",
+   "मालूम",
+   "adj"
+  ],
+  "35": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "37": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "39": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "41": [
+   "day",
+   "दिन",
+   "m.sg"
+  ],
+  "43": [
+   "which",
+   "कौन-सा",
+   "interrog. adj. m.sg"
+  ],
+  "45": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "48": [
+   "month",
+   "महीना",
+   "m.sg"
+  ],
+  "50": [
+   "which",
+   "कौन-सा",
+   "interrog. adj. m.sg"
+  ],
+  "52": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "54": [
+   "or",
+   "या",
+   "conj"
+  ],
+  "56": [
+   "how many",
+   "कितना",
+   "interrog. adj. pl"
+  ],
+  "58": [
+   "years",
+   "साल",
+   "m.pl"
+  ],
+  "60": [
+   "passed",
+   "बीतना",
+   "perf. m.pl"
+  ],
+  "62": [
+   "have",
+   "चुकना",
+   "vector verb"
+  ],
+  "64": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "67": [
+   "but",
+   "लेकिन",
+   "conj"
+  ],
+  "69": [
+   "every",
+   "हर",
+   "adj"
+  ],
+  "71": [
+   "month",
+   "महीना",
+   "m.sg"
+  ],
+  "74": [
+   "when",
+   "जब",
+   "adv"
+  ],
+  "76": [
+   "his",
+   "वह",
+   "obl. sg. m"
+  ],
+  "78": [
+   "relatives",
+   "सगे-सम्बन्धी",
+   "m.pl"
+  ],
+  "80": [
+   "him",
+   "वह",
+   "obl. sg"
+  ],
+  "82": [
+   "to meet",
+   "मिलना",
+   "inf. obl"
+  ],
+  "84": [
+   "for",
+   "का",
+   "postposition"
+  ],
+  "86": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "88": [
+   "used to come",
+   "आना",
+   "impf. m.pl"
+  ],
+  "90": [
+   "were",
+   "होना",
+   "past. pl"
+  ],
+  "92": [
+   "then",
+   "तो",
+   "adv"
+  ],
+  "94": [
+   "he",
+   "वह",
+   "obl. sg"
+  ],
+  "96": [
+   "himself",
+   "अपना",
+   "reflexive poss. adj"
+  ],
+  "98": [
+   "automatically",
+   "आप",
+   "pronoun"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    21,
+    23
+   ],
+   "type": "compound_verb",
+   "literal": "saying were",
+   "meaning": "used to call",
+   "note": "habitual past action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    31,
+    33,
+    35,
+    37
+   ],
+   "type": "phrase",
+   "literal": "absolutely known not was",
+   "meaning": "absolutely did not know",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    43,
+    45
+   ],
+   "type": "phrase",
+   "literal": "which is",
+   "meaning": "what (day) it is",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    50,
+    52
+   ],
+   "type": "phrase",
+   "literal": "which is",
+   "meaning": "what (month) it is",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    60,
+    62,
+    64
+   ],
+   "type": "compound_verb",
+   "literal": "passed have are",
+   "meaning": "had passed",
+   "note": "चुकना as a vector verb indicates completion of action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    78
+   ],
+   "type": "phrase",
+   "literal": "own-relations",
+   "meaning": "relatives",
+   "note": "compound noun",
+   "source": "model"
+  },
+  {
+   "idx": [
+    82,
+    84,
+    86
+   ],
+   "type": "postposition",
+   "literal": "to meet for for",
+   "meaning": "to meet",
+   "note": "के लिए is a compound postposition meaning 'for the purpose of'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    88,
+    90
+   ],
+   "type": "compound_verb",
+   "literal": "coming were",
+   "meaning": "used to come",
+   "note": "habitual past action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    96,
+    98
+   ],
+   "type": "phrase",
+   "literal": "own self",
+   "meaning": "automatically, by himself",
+   "note": "idiomatic usage of अपने आप",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,666 @@
+{
+ "translation": "It is not known whether this matter was right or wrong, but according to the decision of scholars, conferences were held at a high level here and there, and finally, one day, it was decided for the exchange of lunatics. After a thorough investigation, those Muslim lunatics whose relatives were still in India were allowed to stay there. The remaining ones were sent to the border. Here in Pakistan, since almost all Hindus and Sikhs had already left, the question of keeping anyone did not even arise. All the Hindu-Sikh lunatics were sent to the border under police protection.",
+ "words": {
+  "0": [
+   "known",
+   "मालूम",
+   ""
+  ],
+  "2": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "5": [
+   "this",
+   "यह",
+   "dem. pron. sg"
+  ],
+  "7": [
+   "matter",
+   "बात",
+   "n.f. sg"
+  ],
+  "9": [
+   "right",
+   "सही",
+   "adj. f. sg"
+  ],
+  "11": [
+   "was",
+   "होना",
+   "v. aux. past 3sg f"
+  ],
+  "13": [
+   "or",
+   "या",
+   "conj."
+  ],
+  "15": [
+   "wrong",
+   "ग़लत",
+   "adj."
+  ],
+  "18": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "20": [
+   "scholars",
+   "विद्वान",
+   "n.m. obl. pl"
+  ],
+  "22": [
+   "of",
+   "का",
+   "post. m. obl. pl"
+  ],
+  "24": [
+   "decision",
+   "फ़ैसला",
+   "n.m. obl. sg"
+  ],
+  "26": [
+   "of",
+   "का",
+   "post. m. obl. sg"
+  ],
+  "28": [
+   "according to",
+   "मुताबिक़",
+   "post."
+  ],
+  "31": [
+   "here and there",
+   "इधर-उधर",
+   "adv."
+  ],
+  "34": [
+   "high",
+   "ऊँचा",
+   "adj. m. obl. pl"
+  ],
+  "36": [
+   "level",
+   "स्तर",
+   "n.m. obl. sg"
+  ],
+  "38": [
+   "at",
+   "पर",
+   "post."
+  ],
+  "40": [
+   "conferences",
+   "कॉन्फरेन्स",
+   "n.f. pl"
+  ],
+  "42": [
+   "were held",
+   "होना",
+   "v. perf. f. pl"
+  ],
+  "45": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "47": [
+   "finally",
+   "आख़िर",
+   "adv."
+  ],
+  "49": [
+   "in",
+   "में",
+   "post."
+  ],
+  "51": [
+   "one",
+   "एक",
+   "num."
+  ],
+  "53": [
+   "day",
+   "दिन",
+   "n.m. sg"
+  ],
+  "55": [
+   "lunatics",
+   "पागल",
+   "n.m. obl. pl"
+  ],
+  "57": [
+   "of",
+   "का",
+   "post. m. obl. pl"
+  ],
+  "59": [
+   "exchange",
+   "तबादला",
+   "n.m. obl. sg"
+  ],
+  "61": [
+   "for",
+   "का",
+   "post. m. obl. sg"
+  ],
+  "63": [
+   "for",
+   "लेना",
+   "post."
+  ],
+  "65": [
+   "decided",
+   "तय",
+   "adj."
+  ],
+  "67": [
+   "to be",
+   "होना",
+   "v. inf."
+  ],
+  "69": [
+   "went",
+   "जाना",
+   "v. perf. m. sg"
+  ],
+  "73": [
+   "good",
+   "अच्छा",
+   "adj. f. sg"
+  ],
+  "75": [
+   "way",
+   "तरह",
+   "n.f. sg"
+  ],
+  "77": [
+   "investigation",
+   "छान-बीन",
+   "n.f. sg"
+  ],
+  "79": [
+   "was done",
+   "करना",
+   "v. perf. f. sg"
+  ],
+  "81": [
+   "went",
+   "जाना",
+   "v. aux. perf. f. sg"
+  ],
+  "85": [
+   "those",
+   "वह",
+   "dem. pron. pl"
+  ],
+  "87": [
+   "Muslim",
+   "मुसलमान",
+   "adj."
+  ],
+  "89": [
+   "lunatics",
+   "पागल",
+   "n.m. pl"
+  ],
+  "92": [
+   "whose",
+   "जिनका",
+   "pron. rel. obl. pl"
+  ],
+  "94": [
+   "relatives",
+   "रिश्तेदार",
+   "n.m. pl"
+  ],
+  "96": [
+   "India",
+   "हिन्दुस्तान",
+   "n.m. obl. sg"
+  ],
+  "98": [
+   "only",
+   "ही",
+   "emphatic particle"
+  ],
+  "100": [
+   "in",
+   "में",
+   "post."
+  ],
+  "102": [
+   "were",
+   "होना",
+   "v. past 3pl"
+  ],
+  "105": [
+   "there",
+   "वहीं",
+   "adv."
+  ],
+  "107": [
+   "to stay",
+   "रहना",
+   "v. inf. obl"
+  ],
+  "109": [
+   "were allowed",
+   "देना",
+   "v. perf. m. pl"
+  ],
+  "111": [
+   "went",
+   "जाना",
+   "v. aux. perf. m. pl"
+  ],
+  "114": [
+   "who",
+   "जो",
+   "pron. rel. pl"
+  ],
+  "116": [
+   "remaining",
+   "बाकी",
+   "adj."
+  ],
+  "118": [
+   "were left",
+   "बचना",
+   "v. perf. m. pl"
+  ],
+  "120": [
+   "them",
+   "वह",
+   "pron. 3pl obl"
+  ],
+  "122": [
+   "border",
+   "सीमा",
+   "n.f. obl. sg"
+  ],
+  "124": [
+   "to",
+   "पर",
+   "post."
+  ],
+  "126": [
+   "sent",
+   "भेजना",
+   "v. perf. m. sg"
+  ],
+  "128": [
+   "gave",
+   "देना",
+   "v. vector"
+  ],
+  "130": [
+   "went",
+   "जाना",
+   "v. aux. perf. m. sg"
+  ],
+  "134": [
+   "here",
+   "यहाँ",
+   "adv."
+  ],
+  "136": [
+   "Pakistan",
+   "पाकिस्तान",
+   "n.m. obl. sg"
+  ],
+  "138": [
+   "in",
+   "में",
+   "post."
+  ],
+  "141": [
+   "since",
+   "चूँकि",
+   "conj."
+  ],
+  "143": [
+   "almost",
+   "करीब-करीब",
+   "adv."
+  ],
+  "145": [
+   "all",
+   "सभी",
+   "adj."
+  ],
+  "147": [
+   "Hindu-Sikhs",
+   "हिन्दू-सिक्ख",
+   "n.m. pl"
+  ],
+  "149": [
+   "gone",
+   "जाना",
+   "v. perf. stem"
+  ],
+  "151": [
+   "had finished",
+   "चुकना",
+   "v. aux. perf. pl"
+  ],
+  "153": [
+   "were",
+   "होना",
+   "v. past 3pl"
+  ],
+  "156": [
+   "therefore",
+   "इसलिए",
+   "conj."
+  ],
+  "158": [
+   "anyone",
+   "कोई",
+   "pron. obl. sg"
+  ],
+  "160": [
+   "to",
+   "को",
+   "post."
+  ],
+  "162": [
+   "keeping",
+   "रखना-रखाना",
+   "n.m. obl. sg"
+  ],
+  "164": [
+   "of",
+   "का",
+   "post. m. obl. sg"
+  ],
+  "166": [
+   "question",
+   "सवाल",
+   "n.m. sg"
+  ],
+  "168": [
+   "even",
+   "ही",
+   "emphatic particle"
+  ],
+  "170": [
+   "arose",
+   "पैदा",
+   "adj."
+  ],
+  "172": [
+   "not",
+   "न",
+   "negator"
+  ],
+  "174": [
+   "became",
+   "होना",
+   "v. perf. m. sg"
+  ],
+  "178": [
+   "as many",
+   "जितना",
+   "pron. rel. pl"
+  ],
+  "180": [
+   "Hindu-Sikh",
+   "हिन्दू-सिक्ख",
+   "adj."
+  ],
+  "182": [
+   "lunatics",
+   "पागल",
+   "n.m. pl"
+  ],
+  "184": [
+   "were",
+   "होना",
+   "v. past 3pl"
+  ],
+  "187": [
+   "all",
+   "सब",
+   "pron. pl"
+  ],
+  "189": [
+   "of",
+   "का",
+   "post. m. obl. pl"
+  ],
+  "191": [
+   "all",
+   "सब",
+   "pron. pl"
+  ],
+  "194": [
+   "police",
+   "पुलिस",
+   "n.f. obl. sg"
+  ],
+  "196": [
+   "of",
+   "का",
+   "post. f. sg"
+  ],
+  "198": [
+   "protection",
+   "हिफ़ाज़त",
+   "n.f. obl. sg"
+  ],
+  "200": [
+   "in",
+   "में",
+   "post."
+  ],
+  "203": [
+   "border",
+   "सरहद",
+   "n.f. obl. sg"
+  ],
+  "205": [
+   "to",
+   "पर",
+   "post."
+  ],
+  "207": [
+   "sent",
+   "पहुँचना",
+   "v. perf. m. sg"
+  ],
+  "209": [
+   "gave",
+   "देना",
+   "v. vector"
+  ],
+  "211": [
+   "went",
+   "जाना",
+   "v. aux. perf. m. sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    0,
+    2
+   ],
+   "type": "phrase",
+   "literal": "known not",
+   "meaning": "it is not known",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    20,
+    22,
+    24,
+    26,
+    28
+   ],
+   "type": "postposition",
+   "literal": "scholars' decision's according to",
+   "meaning": "according to the decision of scholars",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    31,
+    34,
+    36,
+    38
+   ],
+   "type": "phrase",
+   "literal": "here-there high level at",
+   "meaning": "at a high level here and there",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    49
+   ],
+   "type": "phrase",
+   "literal": "end in",
+   "meaning": "finally",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    55,
+    57,
+    59,
+    61,
+    63
+   ],
+   "type": "postposition",
+   "literal": "lunatics' exchange's for",
+   "meaning": "for the exchange of lunatics",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    65,
+    67,
+    69
+   ],
+   "type": "conjunct_verb",
+   "literal": "decided to be went",
+   "meaning": "it was decided",
+   "note": "तय होना is 'to be decided'; जाना is a vector verb indicating completion",
+   "source": "model"
+  },
+  {
+   "idx": [
+    73,
+    75,
+    77,
+    79,
+    81
+   ],
+   "type": "conjunct_verb",
+   "literal": "good way investigation was done went",
+   "meaning": "a thorough investigation was done",
+   "note": "छान-बीन करना is 'to investigate thoroughly'; जाना is a passive auxiliary",
+   "source": "model"
+  },
+  {
+   "idx": [
+    107,
+    109,
+    111
+   ],
+   "type": "compound_verb",
+   "literal": "to stay gave went",
+   "meaning": "were allowed to stay",
+   "note": "रहने देना is 'to allow to stay'; जाना is a passive auxiliary",
+   "source": "model"
+  },
+  {
+   "idx": [
+    126,
+    128,
+    130
+   ],
+   "type": "compound_verb",
+   "literal": "sent gave went",
+   "meaning": "were sent",
+   "note": "भेज देना is 'to send off'; जाना is a passive auxiliary",
+   "source": "model"
+  },
+  {
+   "idx": [
+    149,
+    151,
+    153
+   ],
+   "type": "compound_verb",
+   "literal": "gone finished were",
+   "meaning": "had already gone",
+   "note": "जा चुकना indicates completion of the action of going",
+   "source": "model"
+  },
+  {
+   "idx": [
+    162,
+    164,
+    166,
+    168,
+    170,
+    172,
+    174
+   ],
+   "type": "idiom",
+   "literal": "keeping-making's question even arose not became",
+   "meaning": "the question of keeping anyone did not even arise",
+   "note": "सवाल पैदा होना is 'for a question to arise'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    187,
+    189,
+    191
+   ],
+   "type": "phrase",
+   "literal": "all of all",
+   "meaning": "all of them",
+   "note": "Emphatic repetition of 'all'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    194,
+    196,
+    198,
+    200
+   ],
+   "type": "phrase",
+   "literal": "police's protection in",
+   "meaning": "under police protection",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    207,
+    209,
+    211
+   ],
+   "type": "compound_verb",
+   "literal": "reached gave went",
+   "meaning": "were sent/delivered",
+   "note": "पहुँचा देना is 'to deliver/send to a destination'; जाना is a passive auxiliary",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

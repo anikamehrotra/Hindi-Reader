@@ -1,0 +1,60 @@
+{
+ "translation": "Hearing this answer, his friend was satisfied.",
+ "words": {
+  "0": [
+   "this",
+   "यह",
+   "pron. sg"
+  ],
+  "2": [
+   "answer",
+   "जवाब",
+   "n. m. sg"
+  ],
+  "4": [
+   "hearing",
+   "सुनना",
+   "conj. participle"
+  ],
+  "6": [
+   "his",
+   "वह",
+   "pron. m. sg. obl. gen."
+  ],
+  "8": [
+   "friend",
+   "दोस्त",
+   "n. m. sg"
+  ],
+  "10": [
+   "satisfied",
+   "सन्तुष्ट",
+   "adj. m. sg"
+  ],
+  "12": [
+   "having been",
+   "होना",
+   "conj. participle"
+  ],
+  "14": [
+   "went",
+   "जाना",
+   "perf. m. sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    10,
+    12,
+    14
+   ],
+   "type": "compound_verb",
+   "literal": "satisfied having been went",
+   "meaning": "was satisfied",
+   "note": "हो जाना (ho jaanaa) is a common compound verb meaning 'to become' or 'to be' with an added sense of completion or finality.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

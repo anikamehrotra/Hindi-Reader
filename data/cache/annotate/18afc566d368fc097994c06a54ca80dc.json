@@ -1,0 +1,339 @@
+{
+ "translation": "A few days before the transfer, a Muslim friend of Bishan Singh from Toba Tek Singh came to meet him. He had never come before. When Bishan Singh saw him, he moved aside and started to go back, but the guards stopped him. \"This is your friend Fazaldeen, who has come to meet you.\"",
+ "words": {
+  "0": [
+   "transfer",
+   "तबादला",
+   "m.sg"
+  ],
+  "2": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "4": [
+   "a few",
+   "कुछ",
+   "indef. adj."
+  ],
+  "6": [
+   "days",
+   "दिन",
+   "m.pl"
+  ],
+  "8": [
+   "before",
+   "पहले",
+   "postposition"
+  ],
+  "11": [
+   "Toba",
+   "टोबा",
+   "proper noun"
+  ],
+  "13": [
+   "Tek Singh",
+   "टेकसिंह",
+   "proper noun"
+  ],
+  "15": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "17": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "19": [
+   "Muslim",
+   "मुसलमान",
+   "m.sg"
+  ],
+  "22": [
+   "who",
+   "जो",
+   "rel. pron."
+  ],
+  "24": [
+   "Bishan",
+   "बिशन",
+   "proper noun"
+  ],
+  "26": [
+   "Singh",
+   "सिंह",
+   "proper noun"
+  ],
+  "28": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "30": [
+   "friend",
+   "दोस्त",
+   "m.sg"
+  ],
+  "32": [
+   "was",
+   "होना",
+   "past aux. m.sg"
+  ],
+  "35": [
+   "meeting",
+   "मुलाक़ात",
+   "f.sg"
+  ],
+  "37": [
+   "for",
+   "के",
+   "postposition"
+  ],
+  "39": [
+   "for",
+   "लिए",
+   "postposition"
+  ],
+  "41": [
+   "came",
+   "आना",
+   "perf. m.sg"
+  ],
+  "45": [
+   "before",
+   "पहले",
+   "adv."
+  ],
+  "47": [
+   "he",
+   "वह",
+   "pron. m.sg"
+  ],
+  "49": [
+   "never",
+   "कभी",
+   "adv."
+  ],
+  "51": [
+   "not",
+   "नहीं",
+   "neg."
+  ],
+  "53": [
+   "come",
+   "आना",
+   "perf. m.sg"
+  ],
+  "55": [
+   "had",
+   "होना",
+   "past aux. m.sg"
+  ],
+  "59": [
+   "when",
+   "जब",
+   "conj."
+  ],
+  "61": [
+   "Bishan",
+   "बिशन",
+   "proper noun"
+  ],
+  "63": [
+   "Singh",
+   "सिंह",
+   "proper noun"
+  ],
+  "65": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "67": [
+   "him",
+   "वह",
+   "pron. obl. m.sg"
+  ],
+  "69": [
+   "saw",
+   "देखना",
+   "perf. m.sg"
+  ],
+  "71": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "73": [
+   "one",
+   "एक",
+   "num. adj."
+  ],
+  "75": [
+   "side",
+   "तरफ़",
+   "f.sg"
+  ],
+  "77": [
+   "moved",
+   "हटना",
+   "conj. participle"
+  ],
+  "79": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "81": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "83": [
+   "back",
+   "वापस",
+   "adv."
+  ],
+  "85": [
+   "to go",
+   "जाना",
+   "inf. obl."
+  ],
+  "87": [
+   "began",
+   "लगना",
+   "perf. m.sg"
+  ],
+  "90": [
+   "but",
+   "मगर",
+   "conj."
+  ],
+  "92": [
+   "guards",
+   "सिपाही",
+   "m.pl obl."
+  ],
+  "94": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "96": [
+   "him",
+   "वह",
+   "pron. obl. m.sg"
+  ],
+  "98": [
+   "stopped",
+   "रोकना",
+   "perf. m.sg"
+  ],
+  "102": [
+   "this",
+   "यह",
+   "pron. m.sg"
+  ],
+  "104": [
+   "you",
+   "तुम",
+   "pron. obl. pl"
+  ],
+  "106": [
+   "to meet",
+   "मिलना",
+   "inf. obl."
+  ],
+  "108": [
+   "has come",
+   "आना",
+   "perf. m.sg"
+  ],
+  "110": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "113": [
+   "your",
+   "तुम",
+   "poss. pron. m.sg"
+  ],
+  "115": [
+   "friend",
+   "दोस्त",
+   "m.sg"
+  ],
+  "117": [
+   "Fazaldeen",
+   "फ़ज़लदीन",
+   "proper noun"
+  ],
+  "119": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6,
+    8
+   ],
+   "type": "phrase",
+   "literal": "some days before",
+   "meaning": "a few days before",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    37,
+    39
+   ],
+   "type": "postposition",
+   "literal": "for the sake of",
+   "meaning": "for",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    77,
+    79
+   ],
+   "type": "compound_verb",
+   "literal": "having moved went",
+   "meaning": "moved aside",
+   "note": "हट is the main verb, गया is the vector verb indicating completion/direction.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    85,
+    87
+   ],
+   "type": "compound_verb",
+   "literal": "to go began",
+   "meaning": "started to go",
+   "note": "जाना is the main verb, लगा is the vector verb indicating the beginning of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    106,
+    108
+   ],
+   "type": "compound_verb",
+   "literal": "to meet has come",
+   "meaning": "has come to meet",
+   "note": "मिलने is the main verb, आया है is the vector verb indicating completion.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

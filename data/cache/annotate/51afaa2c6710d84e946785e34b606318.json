@@ -1,0 +1,588 @@
+{
+ "translation": "We will fight her and not let this sacrifice happen. I felt myself dropping bombs from an airplane, whose flames were engulfing Shaukat and Kishwar's mother. But what about Kishwar herself, who would fight her own mother? She's not that small, is she? Will she fight herself? Then I got excited again. She is educated. So what? Rahat, she is an Eastern woman. She cannot bring herself to be shameless. She has already said that come what may, she will give her life without uttering a word. You know she is always faint-hearted.",
+ "words": {
+  "1": [
+   "we",
+   "हम",
+   "1pl. nom."
+  ],
+  "3": [
+   "her (with)",
+   "वह",
+   "3sg. obl. with postposition से"
+  ],
+  "5": [
+   "will fight",
+   "लड़ना",
+   "fut. 1pl"
+  ],
+  "8": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "10": [
+   "this",
+   "यह",
+   "dem. pron."
+  ],
+  "12": [
+   "sacrifice",
+   "क़ुर्बानी",
+   "f.sg."
+  ],
+  "14": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "16": [
+   "to happen",
+   "होना",
+   "inf."
+  ],
+  "18": [
+   "will let",
+   "देना",
+   "fut. 1pl"
+  ],
+  "24": [
+   "I",
+   "मैं",
+   "1sg. nom."
+  ],
+  "26": [
+   "my",
+   "अपना",
+   "refl. poss."
+  ],
+  "28": [
+   "myself",
+   "आप",
+   "refl. pron."
+  ],
+  "30": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "32": [
+   "airplane",
+   "तय्यारा",
+   "m.sg. obl."
+  ],
+  "34": [
+   "on",
+   "पर",
+   "postposition: on"
+  ],
+  "36": [
+   "from",
+   "से",
+   "postposition: from"
+  ],
+  "38": [
+   "bomb",
+   "बम",
+   "m.sg."
+  ],
+  "40": [
+   "dropping",
+   "गिराना",
+   "pres. part. m.pl."
+  ],
+  "42": [
+   "felt",
+   "महसूस",
+   "m.sg."
+  ],
+  "44": [
+   "did",
+   "करना",
+   "perf. m.sg."
+  ],
+  "46": [
+   "whose",
+   "जो",
+   "rel. pron. obl. pl."
+  ],
+  "48": [
+   "flames",
+   "शोला",
+   "m.pl."
+  ],
+  "50": [
+   "Shaukat",
+   "शौकत",
+   "prop. n."
+  ],
+  "52": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "54": [
+   "Kishwar",
+   "किश्वर",
+   "prop. n."
+  ],
+  "56": [
+   "of",
+   "का",
+   "f.sg. poss."
+  ],
+  "58": [
+   "mother",
+   "माँ",
+   "f.sg."
+  ],
+  "60": [
+   "to",
+   "को",
+   "postposition: to"
+  ],
+  "62": [
+   "engulfing",
+   "निगलना",
+   "pres. part. m.pl."
+  ],
+  "64": [
+   "remaining",
+   "रहना",
+   "pres. part. m.pl."
+  ],
+  "66": [
+   "were",
+   "होना",
+   "past. pl."
+  ],
+  "70": [
+   "but",
+   "मगर",
+   "conj."
+  ],
+  "75": [
+   "that",
+   "वह",
+   "dem. pron."
+  ],
+  "77": [
+   "Kishwar",
+   "किश्वर",
+   "prop. n."
+  ],
+  "79": [
+   "herself",
+   "ख़ुद",
+   "refl. pron."
+  ],
+  "81": [
+   "who",
+   "जो",
+   "rel. pron."
+  ],
+  "83": [
+   "her own",
+   "अपना",
+   "refl. poss."
+  ],
+  "85": [
+   "mother",
+   "माँ",
+   "f.sg."
+  ],
+  "87": [
+   "with",
+   "से",
+   "postposition: with"
+  ],
+  "89": [
+   "would fight",
+   "लड़ना",
+   "subjn. 3sg."
+  ],
+  "91": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "96": [
+   "such",
+   "ऐसा",
+   "adj. f.sg."
+  ],
+  "98": [
+   "small",
+   "नन्हा",
+   "adj. f.sg."
+  ],
+  "100": [
+   "is",
+   "होना",
+   "pres. 3sg."
+  ],
+  "102": [
+   "what",
+   "क्या",
+   "interrog. pron."
+  ],
+  "109": [
+   "she",
+   "वह",
+   "3sg. nom."
+  ],
+  "111": [
+   "herself",
+   "ख़ुद",
+   "refl. pron."
+  ],
+  "113": [
+   "will fight",
+   "लड़ना",
+   "subjn. 3sg."
+  ],
+  "118": [
+   "to me",
+   "मैं",
+   "1sg. obl."
+  ],
+  "120": [
+   "again",
+   "फिर",
+   "adv."
+  ],
+  "122": [
+   "excitement",
+   "जोश",
+   "m.sg."
+  ],
+  "124": [
+   "came",
+   "आना",
+   "perf. m.sg."
+  ],
+  "129": [
+   "she",
+   "वह",
+   "3sg. nom."
+  ],
+  "131": [
+   "read",
+   "पढ़ना",
+   "perf. f.sg."
+  ],
+  "133": [
+   "written",
+   "लिखना",
+   "perf. f.sg."
+  ],
+  "135": [
+   "is",
+   "होना",
+   "pres. 3sg."
+  ],
+  "138": [
+   "is",
+   "होना",
+   "pres. 3sg."
+  ],
+  "140": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "142": [
+   "what",
+   "क्या",
+   "interrog. pron."
+  ],
+  "144": [
+   "is",
+   "होना",
+   "pres. 3sg."
+  ],
+  "147": [
+   "Rahat",
+   "राहत",
+   "prop. n."
+  ],
+  "149": [
+   "she",
+   "वह",
+   "3sg. nom."
+  ],
+  "151": [
+   "Eastern",
+   "मशरिक़",
+   "adj. f.sg."
+  ],
+  "153": [
+   "woman",
+   "औरत",
+   "f.sg."
+  ],
+  "155": [
+   "is",
+   "होना",
+   "pres. 3sg."
+  ],
+  "160": [
+   "she",
+   "वह",
+   "3sg. nom."
+  ],
+  "162": [
+   "shamelessness",
+   "बेशर्म",
+   "f.sg."
+  ],
+  "164": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "166": [
+   "bring",
+   "लादना",
+   "inf."
+  ],
+  "168": [
+   "can",
+   "सकना",
+   "pres. 3sg."
+  ],
+  "173": [
+   "she",
+   "वह",
+   "3sg. nom."
+  ],
+  "175": [
+   "said",
+   "कहना",
+   "perf. f.sg."
+  ],
+  "177": [
+   "finished",
+   "चुकना",
+   "perf. f.sg."
+  ],
+  "179": [
+   "is",
+   "होना",
+   "pres. 3sg."
+  ],
+  "181": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "183": [
+   "even if",
+   "चाहना",
+   "subjn. 3sg."
+  ],
+  "185": [
+   "something",
+   "कुछ",
+   "indef. pron."
+  ],
+  "187": [
+   "become",
+   "होना",
+   "subjn. 3sg."
+  ],
+  "189": [
+   "go",
+   "जाना",
+   "subjn. 3sg."
+  ],
+  "191": [
+   "she",
+   "वह",
+   "3sg. nom."
+  ],
+  "193": [
+   "tongue",
+   "ज़बान",
+   "f.sg."
+  ],
+  "195": [
+   "moving",
+   "हिलाना",
+   "pres. part. obl."
+  ],
+  "197": [
+   "without",
+   "बग़ैर",
+   "postposition: without"
+  ],
+  "199": [
+   "life",
+   "जान",
+   "f.sg."
+  ],
+  "201": [
+   "give",
+   "देना",
+   "inf."
+  ],
+  "203": [
+   "will give",
+   "देना",
+   "fut. 3sg. f."
+  ],
+  "208": [
+   "you",
+   "तुम",
+   "2sg. nom."
+  ],
+  "210": [
+   "know",
+   "जानना",
+   "pres. part. f.sg."
+  ],
+  "212": [
+   "are",
+   "होना",
+   "pres. 2sg."
+  ],
+  "214": [
+   "she",
+   "वह",
+   "3sg. nom."
+  ],
+  "216": [
+   "always",
+   "सदा",
+   "adv."
+  ],
+  "218": [
+   "of",
+   "का",
+   "f.sg. poss."
+  ],
+  "220": [
+   "weak",
+   "कमज़ोर",
+   "adj."
+  ],
+  "222": [
+   "heart",
+   "दिल",
+   "m.sg."
+  ],
+  "224": [
+   "is",
+   "होना",
+   "pres. 3sg."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    14,
+    16,
+    18
+   ],
+   "type": "compound_verb",
+   "literal": "not to let happen",
+   "meaning": "to prevent from happening",
+   "note": "देना as a vector verb adds the sense of 'allowing' or 'letting' an action occur.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    40,
+    42,
+    44
+   ],
+   "type": "conjunct_verb",
+   "literal": "dropping felt did",
+   "meaning": "felt myself dropping",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    122,
+    124
+   ],
+   "type": "conjunct_verb",
+   "literal": "excitement came",
+   "meaning": "got excited",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    131,
+    133
+   ],
+   "type": "phrase",
+   "literal": "read written",
+   "meaning": "educated",
+   "note": "A common collocation for 'educated'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    183,
+    185,
+    187,
+    189
+   ],
+   "type": "phrase",
+   "literal": "even if something become go",
+   "meaning": "come what may / no matter what happens",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    193,
+    195
+   ],
+   "type": "idiom",
+   "literal": "to move the tongue",
+   "meaning": "to utter a word, to speak",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    193,
+    195,
+    197
+   ],
+   "type": "phrase",
+   "literal": "without moving tongue",
+   "meaning": "without uttering a word",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    199,
+    201,
+    203
+   ],
+   "type": "compound_verb",
+   "literal": "life give will give",
+   "meaning": "will give her life",
+   "note": "देना as a vector verb adds intensity/completion to the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    220,
+    222
+   ],
+   "type": "phrase",
+   "literal": "weak heart",
+   "meaning": "faint-hearted, timid",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

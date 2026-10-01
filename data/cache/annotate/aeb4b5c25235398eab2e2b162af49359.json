@@ -1,0 +1,181 @@
+{
+ "translation": "Leave it, Rehana. Tell me this, where is your book? My book? Throw it in the stove! And you tell me, finally, where is your mother?",
+ "words": {
+  "1": [
+   "leave",
+   "छोड़ना",
+   "imp. 2sg"
+  ],
+  "3": [
+   "Rehana",
+   "रेहाना",
+   "f.sg"
+  ],
+  "5": [
+   "these",
+   "यह",
+   "dem. adj. obl. pl"
+  ],
+  "7": [
+   "things",
+   "बात",
+   "f.pl. obl"
+  ],
+  "9": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "11": [
+   "yes",
+   "हाँ",
+   "interjection"
+  ],
+  "13": [
+   "this",
+   "यह",
+   "dem. pron. sg"
+  ],
+  "15": [
+   "emphatic particle",
+   "तो",
+   "particle"
+  ],
+  "17": [
+   "tell",
+   "बताना",
+   "imp. 2sg"
+  ],
+  "19": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "21": [
+   "your",
+   "तुम",
+   "poss. adj. f.sg"
+  ],
+  "23": [
+   "book",
+   "किताब",
+   "f.sg"
+  ],
+  "30": [
+   "my",
+   "मैं",
+   "poss. adj. f.sg"
+  ],
+  "32": [
+   "book",
+   "किताब",
+   "f.sg"
+  ],
+  "34": [
+   "emphatic particle",
+   "तो",
+   "particle"
+  ],
+  "36": [
+   "throw",
+   "डालना",
+   "imp. 2sg"
+  ],
+  "38": [
+   "stove",
+   "चूल्हा",
+   "m.sg. obl"
+  ],
+  "40": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "42": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "44": [
+   "you",
+   "तुम",
+   "pron. 2sg"
+  ],
+  "46": [
+   "this",
+   "यह",
+   "dem. pron. sg"
+  ],
+  "48": [
+   "tell",
+   "बताना",
+   "imp. 2sg"
+  ],
+  "50": [
+   "finally",
+   "आख़िर",
+   "adv"
+  ],
+  "52": [
+   "your",
+   "तुम",
+   "poss. adj. f.sg"
+  ],
+  "54": [
+   "mother",
+   "वालदा",
+   "f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    5,
+    7,
+    9
+   ],
+   "type": "phrase",
+   "literal": "leave these things",
+   "meaning": "leave it / forget about these things",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    13,
+    15,
+    17
+   ],
+   "type": "phrase",
+   "literal": "this then tell",
+   "meaning": "tell me this",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    36,
+    38,
+    40
+   ],
+   "type": "idiom",
+   "literal": "throw in the stove",
+   "meaning": "throw it away, discard it, it's useless",
+   "note": "Implies something is worthless or should be destroyed.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    46,
+    48
+   ],
+   "type": "phrase",
+   "literal": "this tell",
+   "meaning": "tell me this",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

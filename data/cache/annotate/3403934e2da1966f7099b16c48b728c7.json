@@ -1,0 +1,447 @@
+{
+ "translation": "He was explained to a lot that, \"Look, Toba Tek Singh has now gone to Hindustan. If he hasn't gone, then he will be immediately sent there.\" But he didn't agree. When an attempt was made to forcibly take him to the other side, he stood in one place in the middle, on his swollen legs, as if no power would be able to move him from there now.",
+ "words": {
+  "0": [
+   "to him",
+   "वह",
+   "obl. sg"
+  ],
+  "2": [
+   "a lot",
+   "बहुत",
+   ""
+  ],
+  "4": [
+   "explained",
+   "समझाना",
+   "perf. m.sg"
+  ],
+  "6": [
+   "was",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "8": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "10": [
+   "look",
+   "देखना",
+   "imp. 2sg"
+  ],
+  "13": [
+   "now",
+   "अब",
+   "adv."
+  ],
+  "15": [
+   "Toba",
+   "टोबा",
+   "prop. n."
+  ],
+  "17": [
+   "Tek Singh",
+   "टेकसिंह",
+   "prop. n."
+  ],
+  "19": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "n.m.sg"
+  ],
+  "21": [
+   "to",
+   "में",
+   "postposition"
+  ],
+  "23": [
+   "gone",
+   "चलना",
+   "perf. m.sg"
+  ],
+  "25": [
+   "has",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "27": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "30": [
+   "if",
+   "अगर",
+   "conj."
+  ],
+  "32": [
+   "not",
+   "नहीं",
+   "neg."
+  ],
+  "34": [
+   "gone",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "37": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "39": [
+   "him",
+   "वह",
+   "obl. sg"
+  ],
+  "41": [
+   "immediately",
+   "तुरन्त",
+   "adv."
+  ],
+  "43": [
+   "there",
+   "वहाँ",
+   "adv."
+  ],
+  "45": [
+   "sent",
+   "भेजना",
+   "perf. m.sg"
+  ],
+  "47": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "49": [
+   "will go",
+   "जाना",
+   "fut. 3sg"
+  ],
+  "52": [
+   "but",
+   "मगर",
+   "conj."
+  ],
+  "54": [
+   "he",
+   "वह",
+   "pron. 3sg"
+  ],
+  "56": [
+   "not",
+   "न",
+   "neg."
+  ],
+  "58": [
+   "agreed",
+   "मानना",
+   "perf. m.sg"
+  ],
+  "62": [
+   "when",
+   "जब",
+   "adv."
+  ],
+  "64": [
+   "to him",
+   "वह",
+   "obl. sg"
+  ],
+  "66": [
+   "forcibly",
+   "बरबस",
+   "adv."
+  ],
+  "68": [
+   "other",
+   "दूसरा",
+   "adj. f.sg"
+  ],
+  "70": [
+   "side",
+   "ओर",
+   "n.f.sg"
+  ],
+  "72": [
+   "taking",
+   "लेना",
+   "conj. participle"
+  ],
+  "74": [
+   "to go",
+   "जाना",
+   "inf. obl."
+  ],
+  "76": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "78": [
+   "attempt",
+   "कोशिश",
+   "n.f.sg"
+  ],
+  "80": [
+   "made",
+   "करना",
+   "perf. f.sg"
+  ],
+  "82": [
+   "was",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "84": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "86": [
+   "he",
+   "वह",
+   "pron. 3sg"
+  ],
+  "88": [
+   "middle",
+   "बीच",
+   "n.m.sg"
+  ],
+  "90": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "92": [
+   "one",
+   "एक",
+   "num."
+  ],
+  "94": [
+   "place",
+   "जगह",
+   "n.f.sg"
+  ],
+  "96": [
+   "this",
+   "यह",
+   "adj. obl. f.sg"
+  ],
+  "98": [
+   "way",
+   "तरह",
+   "n.f.sg"
+  ],
+  "100": [
+   "his",
+   "अपना",
+   "adj. obl. f.pl"
+  ],
+  "102": [
+   "swollen",
+   "सूजना",
+   "perf. f.sg"
+  ],
+  "104": [
+   "having been",
+   "होना",
+   "perf. f.sg"
+  ],
+  "106": [
+   "legs",
+   "टाँग",
+   "n.f.pl"
+  ],
+  "108": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "110": [
+   "standing",
+   "खड़ा",
+   "adj. m.sg"
+  ],
+  "112": [
+   "became",
+   "होना",
+   "conj. participle"
+  ],
+  "114": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "117": [
+   "as if",
+   "जैसा",
+   "conj."
+  ],
+  "119": [
+   "now",
+   "अब",
+   "adv."
+  ],
+  "121": [
+   "any",
+   "कोई",
+   "pron. indef."
+  ],
+  "123": [
+   "power",
+   "शक्ति",
+   "n.f.sg"
+  ],
+  "125": [
+   "him",
+   "वह",
+   "obl. sg"
+  ],
+  "127": [
+   "there",
+   "वहाँ",
+   "adv."
+  ],
+  "129": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "131": [
+   "not",
+   "नहीं",
+   "neg."
+  ],
+  "133": [
+   "move",
+   "हिलाना",
+   "inf."
+  ],
+  "135": [
+   "will be able",
+   "सकना",
+   "fut. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6
+   ],
+   "type": "compound_verb",
+   "literal": "explained went",
+   "meaning": "was explained (passive voice)",
+   "note": "जाना as a vector verb forms the passive voice",
+   "source": "model"
+  },
+  {
+   "idx": [
+    23,
+    25,
+    27
+   ],
+   "type": "compound_verb",
+   "literal": "gone gone is",
+   "meaning": "has gone",
+   "note": "चलना + जाना as a compound verb, followed by auxiliary होना for present perfect",
+   "source": "model"
+  },
+  {
+   "idx": [
+    45,
+    47,
+    49
+   ],
+   "type": "compound_verb",
+   "literal": "sent given will go",
+   "meaning": "will be sent",
+   "note": "देना as a vector verb adds completion/benefaction; जाना forms the passive voice",
+   "source": "model"
+  },
+  {
+   "idx": [
+    56,
+    58
+   ],
+   "type": "compound_verb",
+   "literal": "not agreed",
+   "meaning": "did not agree",
+   "note": "न as a negative particle with the verb",
+   "source": "model"
+  },
+  {
+   "idx": [
+    72,
+    74
+   ],
+   "type": "compound_verb",
+   "literal": "taking to go",
+   "meaning": "to take away",
+   "note": "लेना + जाना, indicating movement away",
+   "source": "model"
+  },
+  {
+   "idx": [
+    78,
+    80,
+    82
+   ],
+   "type": "conjunct_verb",
+   "literal": "attempt made was",
+   "meaning": "an attempt was made",
+   "note": "कोशिश करना is a common conjunct verb, here in passive voice",
+   "source": "model"
+  },
+  {
+   "idx": [
+    96,
+    98
+   ],
+   "type": "phrase",
+   "literal": "this way",
+   "meaning": "in this manner",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    102,
+    104
+   ],
+   "type": "phrase",
+   "literal": "swollen having been",
+   "meaning": "swollen",
+   "note": "हुई acts as an auxiliary to form a perfect participle adjective",
+   "source": "model"
+  },
+  {
+   "idx": [
+    110,
+    112,
+    114
+   ],
+   "type": "compound_verb",
+   "literal": "standing having become went",
+   "meaning": "stood up",
+   "note": "खड़ा होना is a conjunct verb, with जाना as a vector verb indicating completion/suddenness",
+   "source": "model"
+  },
+  {
+   "idx": [
+    133,
+    135
+   ],
+   "type": "compound_verb",
+   "literal": "move will be able",
+   "meaning": "will be able to move",
+   "note": "सकना as a vector verb indicates ability",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,163 @@
+{
+ "translation": "Since the man was helpless, no more force was used on him. He was allowed to remain standing there, and the rest of the transfer work continued.",
+ "words": {
+  "0": [
+   "man",
+   "आदमी",
+   "m.sg"
+  ],
+  "2": [
+   "since",
+   "चूँकि",
+   "conj"
+  ],
+  "4": [
+   "helpless",
+   "निरीह",
+   "adj"
+  ],
+  "6": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "9": [
+   "therefore",
+   "इसलिए",
+   "adv"
+  ],
+  "11": [
+   "on him",
+   "वह",
+   "obl. sg. with postposition"
+  ],
+  "13": [
+   "more",
+   "ज़्यादा",
+   "adv"
+  ],
+  "15": [
+   "force",
+   "ज़बरदस्ती",
+   "f.sg"
+  ],
+  "17": [
+   "not",
+   "न",
+   "negator"
+  ],
+  "19": [
+   "done",
+   "करना",
+   "perf. f.sg"
+  ],
+  "21": [
+   "went (passive auxiliary)",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "25": [
+   "him",
+   "वह",
+   "obl. sg. with postposition"
+  ],
+  "27": [
+   "right there",
+   "वहीं",
+   "adv"
+  ],
+  "29": [
+   "standing",
+   "खड़ा",
+   "adj"
+  ],
+  "31": [
+   "to remain",
+   "रहना",
+   "inf. obl"
+  ],
+  "33": [
+   "given (passive auxiliary)",
+   "देना",
+   "perf. m.sg"
+  ],
+  "35": [
+   "went (passive auxiliary)",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "37": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "39": [
+   "transfer",
+   "तबादला",
+   "m.sg"
+  ],
+  "41": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "43": [
+   "remaining",
+   "बाक़ी",
+   "adj"
+  ],
+  "45": [
+   "work",
+   "काम",
+   "m.sg"
+  ],
+  "47": [
+   "happening",
+   "होना",
+   "pres. part. m.sg"
+  ],
+  "49": [
+   "remained (continuous auxiliary)",
+   "रहना",
+   "perf. m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    19,
+    21
+   ],
+   "type": "compound_verb",
+   "literal": "did went",
+   "meaning": "was done (passive)",
+   "note": "करना + जाना forms the passive voice",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    31,
+    33,
+    35
+   ],
+   "type": "compound_verb",
+   "literal": "standing to remain given went",
+   "meaning": "was allowed to remain standing",
+   "note": "खड़ा रहना (to remain standing) + दिया गया (passive of देना, to allow)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    49
+   ],
+   "type": "compound_verb",
+   "literal": "happening remained",
+   "meaning": "continued to happen",
+   "note": "होना (to happen) + रहना (vector verb indicating continuation)",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

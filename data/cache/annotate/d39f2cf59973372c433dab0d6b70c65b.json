@@ -1,0 +1,326 @@
+{
+ "translation": "Before the sun rose, a sky-piercing scream emerged from the motionless and still Bishan Singh. Several officers ran over from here and there and saw that the man, who had stood on his legs day and night for fifteen years, was lying face down.",
+ "words": {
+  "0": [
+   "sun",
+   "सूरज",
+   "m.sg"
+  ],
+  "2": [
+   "to rise",
+   "निकलना",
+   "inf.obl"
+  ],
+  "4": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "6": [
+   "before",
+   "पहले",
+   "postposition"
+  ],
+  "9": [
+   "motionless",
+   "निश्चेष्ट",
+   "adj"
+  ],
+  "11": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "13": [
+   "still",
+   "अचल",
+   "adj"
+  ],
+  "15": [
+   "standing",
+   "खड़ा",
+   "adj.m.sg"
+  ],
+  "17": [
+   "Bishan",
+   "बिशन",
+   "m.sg"
+  ],
+  "19": [
+   "Singh",
+   "सिंह",
+   "m.sg"
+  ],
+  "21": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "23": [
+   "throat",
+   "कंठ",
+   "m.sg.obl"
+  ],
+  "25": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "27": [
+   "a",
+   "एक",
+   "indef.art"
+  ],
+  "29": [
+   "sky-piercing",
+   "गगन-भेदी",
+   "adj"
+  ],
+  "31": [
+   "scream",
+   "चीख",
+   "f.sg"
+  ],
+  "33": [
+   "emerged",
+   "निकलना",
+   "perf.f.sg"
+  ],
+  "36": [
+   "here and there",
+   "इधर-उधर",
+   "adv"
+  ],
+  "38": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "40": [
+   "several",
+   "कई",
+   "adj"
+  ],
+  "42": [
+   "officers",
+   "अफ़सर",
+   "m.pl"
+  ],
+  "44": [
+   "ran",
+   "दौड़ना",
+   "perf.m.pl"
+  ],
+  "46": [
+   "came",
+   "आना",
+   "perf.m.pl"
+  ],
+  "48": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "50": [
+   "saw",
+   "देखना",
+   "perf.m.sg"
+  ],
+  "52": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "54": [
+   "that",
+   "वह",
+   "pron.m.sg"
+  ],
+  "56": [
+   "man",
+   "आदमी",
+   "m.sg"
+  ],
+  "59": [
+   "who",
+   "जो",
+   "rel.pron.m.sg"
+  ],
+  "61": [
+   "fifteen",
+   "पन्द्रह",
+   "num"
+  ],
+  "63": [
+   "years",
+   "बरस",
+   "m.pl"
+  ],
+  "65": [
+   "until",
+   "तक",
+   "postposition"
+  ],
+  "67": [
+   "day and night",
+   "दिन-रात",
+   "adv"
+  ],
+  "69": [
+   "his own",
+   "अपना",
+   "poss.adj.f.pl"
+  ],
+  "71": [
+   "legs",
+   "टाँग",
+   "f.pl.obl"
+  ],
+  "73": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "75": [
+   "standing",
+   "खड़ा",
+   "adj.m.sg"
+  ],
+  "77": [
+   "remained",
+   "रहना",
+   "perf.m.sg"
+  ],
+  "79": [
+   "was",
+   "होना",
+   "aux.past.m.sg"
+  ],
+  "82": [
+   "face down",
+   "औंधा",
+   "adj.m.sg"
+  ],
+  "84": [
+   "mouth",
+   "मुँह",
+   "m.sg"
+  ],
+  "86": [
+   "lying",
+   "लेटना",
+   "perf.m.sg"
+  ],
+  "88": [
+   "is",
+   "होना",
+   "pres.3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    0,
+    2,
+    4,
+    6
+   ],
+   "type": "postposition",
+   "literal": "sun to rise from before",
+   "meaning": "before the sun rose",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    9,
+    11,
+    13
+   ],
+   "type": "phrase",
+   "literal": "motionless and still",
+   "meaning": "motionless and still",
+   "note": "A common collocation to emphasize complete stillness.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    31
+   ],
+   "type": "phrase",
+   "literal": "sky-piercing scream",
+   "meaning": "sky-piercing scream",
+   "note": "A descriptive compound adjective for a very loud scream.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    36,
+    38
+   ],
+   "type": "phrase",
+   "literal": "here-there from",
+   "meaning": "from here and there",
+   "note": "Indicates movement from various directions.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    44,
+    46
+   ],
+   "type": "compound_verb",
+   "literal": "ran came",
+   "meaning": "ran over",
+   "note": "आना (to come) as a vector verb indicates the action is directed towards the speaker/observer, or completion of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    67,
+    69
+   ],
+   "type": "phrase",
+   "literal": "day-night",
+   "meaning": "day and night",
+   "note": "Indicates continuously, without pause.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    75,
+    77,
+    79
+   ],
+   "type": "compound_verb",
+   "literal": "standing remained was",
+   "meaning": "had stood",
+   "note": "रहना (to remain) as a vector verb indicates continuity or duration of the action. था makes it past perfect.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    82,
+    84
+   ],
+   "type": "phrase",
+   "literal": "face down mouth",
+   "meaning": "face down",
+   "note": "Describes a prone position with the face towards the ground.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    86,
+    88
+   ],
+   "type": "compound_verb",
+   "literal": "lying is",
+   "meaning": "is lying",
+   "note": "है (is) as an auxiliary verb forms the present continuous tense.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,141 @@
+{
+ "translation": "Bishan Singh took the packet of marundas and handed it to the soldier standing nearby, and asked Fazaldeen, \"Where is Toba Tek Singh?\"",
+ "words": {
+  "0": [
+   "Bishan",
+   "बिशन",
+   "prop. n."
+  ],
+  "2": [
+   "Singh",
+   "सिंह",
+   "prop. n."
+  ],
+  "4": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "6": [
+   "marundas (sweets)",
+   "मरूंडा",
+   "n. obl. pl."
+  ],
+  "8": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "10": [
+   "packet",
+   "पोटली",
+   "n. f. sg."
+  ],
+  "12": [
+   "taking",
+   "लेना",
+   "conj. participle ('having taken')"
+  ],
+  "15": [
+   "nearby",
+   "पास",
+   "adv."
+  ],
+  "17": [
+   "standing",
+   "खड़ा",
+   "adj. m. sg."
+  ],
+  "19": [
+   "soldier",
+   "सिपाही",
+   "n. m. sg."
+  ],
+  "21": [
+   "to",
+   "का",
+   "postposition"
+  ],
+  "23": [
+   "custody/charge",
+   "हवाला",
+   "n. m. sg."
+  ],
+  "25": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "27": [
+   "gave",
+   "देना",
+   "v. perf. f. sg."
+  ],
+  "29": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "31": [
+   "Fazaldeen",
+   "फ़ज़लदीन",
+   "prop. n."
+  ],
+  "33": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "35": [
+   "asked",
+   "पूछना",
+   "v. perf. m. sg."
+  ],
+  "39": [
+   "Toba",
+   "टोबा",
+   "prop. n."
+  ],
+  "41": [
+   "Tek Singh",
+   "टेकसिंह",
+   "prop. n."
+  ],
+  "43": [
+   "where",
+   "कहाँ",
+   "adv."
+  ],
+  "45": [
+   "is",
+   "होना",
+   "v. pres. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    12,
+    25,
+    27
+   ],
+   "type": "compound_verb",
+   "literal": "having taken having done gave",
+   "meaning": "took and handed over",
+   "note": "लेकर (having taken) and कर दी (did/gave) combine to mean 'took and handed over'. The vector verb देना (di) adds the sense of completion and direction away from the subject.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    21,
+    23
+   ],
+   "type": "phrase",
+   "literal": "to the charge",
+   "meaning": "to (someone's) custody/care",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

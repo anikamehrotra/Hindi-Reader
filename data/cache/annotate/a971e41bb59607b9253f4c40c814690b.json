@@ -1,0 +1,489 @@
+{
+ "translation": "“Hmm, play tennis, as your brother is also very good at tennis. I just said, 'Come on, let's go for a bit.' You are saying that Rahat got upset? Do you think I'm sitting here happily so that you can come and annoy me? First, you keep badmouthing Zameer again and again. Today I am already upset because I met Kishwar. Why would you remember Kishwar? You aren't writing her masnavi, are you?”",
+ "words": {
+  "1": [
+   "hmm",
+   "हूँ",
+   ""
+  ],
+  "3": [
+   "tennis",
+   "टेनिस",
+   "f.sg"
+  ],
+  "5": [
+   "play",
+   "खेलना",
+   "imp. 2pl"
+  ],
+  "10": [
+   "as",
+   "जैसे",
+   "conj"
+  ],
+  "12": [
+   "your",
+   "तुम",
+   "obl. 2sg"
+  ],
+  "14": [
+   "brother",
+   "भइया",
+   "m.sg"
+  ],
+  "16": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "18": [
+   "comes",
+   "आना",
+   "pres. 3sg f"
+  ],
+  "20": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "22": [
+   "very",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "24": [
+   "tennis",
+   "टेनिस",
+   "f.sg"
+  ],
+  "26": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "29": [
+   "I",
+   "मैं",
+   "1sg"
+  ],
+  "31": [
+   "just",
+   "तो",
+   "emphatic particle"
+  ],
+  "33": [
+   "said",
+   "कहना",
+   "perf. f.sg"
+  ],
+  "35": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "37": [
+   "come on",
+   "चलना",
+   "imp. 2pl"
+  ],
+  "39": [
+   "hey",
+   "भई",
+   "interjection"
+  ],
+  "41": [
+   "let's go",
+   "होना",
+   "conj. participle"
+  ],
+  "43": [
+   "come",
+   "आना",
+   "subj. 1pl"
+  ],
+  "45": [
+   "a little",
+   "ज़रा",
+   "adv"
+  ],
+  "49": [
+   "you",
+   "आप",
+   "2pl. hon"
+  ],
+  "51": [
+   "are",
+   "होना",
+   "pres. 2pl. hon"
+  ],
+  "53": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "59": [
+   "Rahat",
+   "राहत",
+   "f.sg"
+  ],
+  "61": [
+   "bad",
+   "बुरा",
+   "adj. m.sg"
+  ],
+  "63": [
+   "mind",
+   "मानना",
+   "root"
+  ],
+  "65": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "69": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "71": [
+   "you",
+   "तुम",
+   "2sg"
+  ],
+  "73": [
+   "think",
+   "समझना",
+   "pres. 2sg f"
+  ],
+  "75": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ],
+  "77": [
+   "I",
+   "मैं",
+   "1sg"
+  ],
+  "79": [
+   "very",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "81": [
+   "happy",
+   "ख़ुश",
+   "adj"
+  ],
+  "83": [
+   "sitting",
+   "बैठना",
+   "perf. f.sg"
+  ],
+  "85": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "87": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "89": [
+   "you",
+   "तुम",
+   "2sg"
+  ],
+  "91": [
+   "me",
+   "मैं",
+   "obl. 1sg"
+  ],
+  "93": [
+   "having come",
+   "आना",
+   "conj. participle"
+  ],
+  "95": [
+   "annoy",
+   "जलाना",
+   "subj. 2sg"
+  ],
+  "98": [
+   "first",
+   "एक",
+   "num"
+  ],
+  "100": [
+   "then",
+   "तो",
+   "emphatic particle"
+  ],
+  "102": [
+   "you",
+   "तुम",
+   "2sg"
+  ],
+  "104": [
+   "repeatedly",
+   "बार-बार",
+   "adv"
+  ],
+  "106": [
+   "Zameer",
+   "ज़मीर",
+   "m.sg"
+  ],
+  "108": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "110": [
+   "bad things",
+   "बुरा-भला",
+   "adj"
+  ],
+  "112": [
+   "saying",
+   "कहना",
+   "root"
+  ],
+  "114": [
+   "going",
+   "जाना",
+   "root"
+  ],
+  "116": [
+   "remaining",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "118": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ],
+  "121": [
+   "today",
+   "आज",
+   "adv"
+  ],
+  "123": [
+   "anyway",
+   "वैसे",
+   "adv"
+  ],
+  "125": [
+   "indeed",
+   "ही",
+   "emphatic particle"
+  ],
+  "127": [
+   "upset",
+   "परेशान",
+   "adj"
+  ],
+  "129": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "132": [
+   "Kishwar",
+   "किश्वर",
+   "f.sg"
+  ],
+  "134": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "136": [
+   "met",
+   "मिलना",
+   "perf. f.sg"
+  ],
+  "138": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "143": [
+   "you",
+   "तुम",
+   "obl. 2sg"
+  ],
+  "145": [
+   "why",
+   "क्यों",
+   "adv"
+  ],
+  "147": [
+   "memory",
+   "याद",
+   "f.sg"
+  ],
+  "149": [
+   "will be",
+   "होना",
+   "fut. 3sg f"
+  ],
+  "151": [
+   "Kishwar",
+   "किश्वर",
+   "f.sg"
+  ],
+  "156": [
+   "you",
+   "तुम",
+   "2sg"
+  ],
+  "158": [
+   "any",
+   "कोई",
+   "pron"
+  ],
+  "160": [
+   "her",
+   "वह",
+   "obl. 3sg"
+  ],
+  "162": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "164": [
+   "masnavi",
+   "मसनवी",
+   "f.sg"
+  ],
+  "166": [
+   "a little bit",
+   "थोड़ा",
+   "adv"
+  ],
+  "168": [
+   "indeed",
+   "ही",
+   "emphatic particle"
+  ],
+  "170": [
+   "writing",
+   "लिखना",
+   "root"
+  ],
+  "172": [
+   "remaining",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "174": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    10,
+    12,
+    14,
+    16,
+    18,
+    20,
+    22,
+    24,
+    26
+   ],
+   "type": "phrase",
+   "literal": "as to your brother also big tennis is",
+   "meaning": "as your brother is also very good at tennis",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    37,
+    39,
+    41,
+    43
+   ],
+   "type": "phrase",
+   "literal": "come on hey let's go come",
+   "meaning": "come on, let's go for a bit",
+   "note": "A common informal invitation or suggestion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    61,
+    63,
+    65
+   ],
+   "type": "compound_verb",
+   "literal": "bad mind went",
+   "meaning": "got upset",
+   "note": "मान जाना (to agree/accept) + बुरा (bad) = to take offense, get upset.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    93,
+    95
+   ],
+   "type": "compound_verb",
+   "literal": "having come burn",
+   "meaning": "come and annoy",
+   "note": "आकर (having come) + जलाना (to burn/annoy). The vector verb 'आना' emphasizes the action of coming to do something.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    104,
+    106,
+    108,
+    110,
+    112,
+    114,
+    116,
+    118
+   ],
+   "type": "phrase",
+   "literal": "repeatedly Zameer to bad-good saying going remaining are",
+   "meaning": "you keep badmouthing Zameer again and again",
+   "note": "बुरा-भला कहना (to badmouth/speak ill of) + जा रही हो (keep doing).",
+   "source": "model"
+  },
+  {
+   "idx": [
+    147,
+    149
+   ],
+   "type": "conjunct_verb",
+   "literal": "memory will be",
+   "meaning": "will remember",
+   "note": "याद होना means 'to be remembered' or 'to remember' (when used with dative subject).",
+   "source": "model"
+  },
+  {
+   "idx": [
+    166,
+    168,
+    170,
+    172,
+    174
+   ],
+   "type": "phrase",
+   "literal": "a little bit indeed writing remaining are",
+   "meaning": "you aren't writing, are you?",
+   "note": "थोड़ी ही is a common construction to express rhetorical negation or disbelief, similar to 'it's not as if...'",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

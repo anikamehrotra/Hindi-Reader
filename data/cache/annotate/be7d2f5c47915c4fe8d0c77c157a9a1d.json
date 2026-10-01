@@ -1,0 +1,228 @@
+{
+ "translation": "“Yes, where is Shaukat Sahib? I need to talk to him a bit too. Merciless human! If he can even be called human... Forget it, Rehana. What was written in my fate, she got even more scared.",
+ "words": {
+  "1": [
+   "yes",
+   "हाँ",
+   ""
+  ],
+  "6": [
+   "that",
+   "वो",
+   "dem. pron."
+  ],
+  "8": [
+   "Shaukat",
+   "शौकत",
+   "prop. n."
+  ],
+  "10": [
+   "Mr./Sir",
+   "साहब",
+   "n. m. sg."
+  ],
+  "12": [
+   "where",
+   "कहाँ",
+   "adv."
+  ],
+  "14": [
+   "is",
+   "होना",
+   "pres. 3pl. (polite)"
+  ],
+  "19": [
+   "a little",
+   "ज़रा",
+   "adv."
+  ],
+  "21": [
+   "to me",
+   "मैं",
+   "obl. sg."
+  ],
+  "23": [
+   "to him",
+   "वह",
+   "obl. pl. (polite)"
+  ],
+  "25": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "27": [
+   "two",
+   "दो",
+   "num."
+  ],
+  "29": [
+   "things/words",
+   "बात",
+   "n. f. pl."
+  ],
+  "31": [
+   "to do",
+   "करना",
+   "v. n. f. pl."
+  ],
+  "33": [
+   "are",
+   "होना",
+   "pres. 3pl."
+  ],
+  "38": [
+   "merciless",
+   "बे-रहम",
+   "adj."
+  ],
+  "40": [
+   "human",
+   "इन्सान",
+   "n. m. sg."
+  ],
+  "45": [
+   "if",
+   "अगर",
+   "conj."
+  ],
+  "47": [
+   "human",
+   "इन्सान",
+   "n. m. sg."
+  ],
+  "49": [
+   "to be called",
+   "कहलाना",
+   "v. n. m. sg."
+  ],
+  "51": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "58": [
+   "remove/forget",
+   "हटाना",
+   "imp. 2sg."
+  ],
+  "60": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "62": [
+   "Rehana",
+   "रेहाना",
+   "prop. n."
+  ],
+  "67": [
+   "what",
+   "जो",
+   "rel. pron."
+  ],
+  "69": [
+   "my",
+   "मेरा",
+   "poss. adj. f. sg."
+  ],
+  "71": [
+   "fate",
+   "क़िस्मत",
+   "n. f. sg."
+  ],
+  "73": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "75": [
+   "written",
+   "लिखना",
+   "perf. m. sg."
+  ],
+  "77": [
+   "was",
+   "होना",
+   "past. 3sg. m."
+  ],
+  "83": [
+   "that",
+   "वो",
+   "dem. pron."
+  ],
+  "85": [
+   "fear",
+   "डरना",
+   "n. m. sg."
+  ],
+  "87": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "89": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "91": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "93": [
+   "scared",
+   "घबराना",
+   "perf. f. sg."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    27,
+    29,
+    31
+   ],
+   "type": "conjunct_verb",
+   "literal": "to do two talks",
+   "meaning": "to talk, to have a conversation",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    38,
+    40
+   ],
+   "type": "phrase",
+   "literal": "merciless human",
+   "meaning": "merciless human",
+   "note": "an exclamation of frustration/anger",
+   "source": "model"
+  },
+  {
+   "idx": [
+    58,
+    60
+   ],
+   "type": "phrase",
+   "literal": "remove also",
+   "meaning": "forget it, leave it",
+   "note": "colloquial way to dismiss something",
+   "source": "model"
+  },
+  {
+   "idx": [
+    85,
+    87
+   ],
+   "type": "conjunct_verb",
+   "literal": "having done fear",
+   "meaning": "being scared, out of fear",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

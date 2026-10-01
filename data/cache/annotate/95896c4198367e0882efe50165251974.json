@@ -1,0 +1,158 @@
+{
+ "translation": "“Ugh, I was just taking out my purse.” “Sit, Rehana, I want to tell you something.” She was hiding a lot from me.",
+ "words": {
+  "1": [
+   "Ugh",
+   "ऊंह",
+   ""
+  ],
+  "6": [
+   "I",
+   "मैं",
+   "1st sg pron"
+  ],
+  "8": [
+   "emphatic particle",
+   "तो",
+   "emphatic particle"
+  ],
+  "10": [
+   "purse",
+   "बटवा",
+   "n.m.sg"
+  ],
+  "12": [
+   "taking out",
+   "निकालना",
+   "v. stem"
+  ],
+  "14": [
+   "staying/being (auxiliary)",
+   "रहना",
+   "perf. f.sg. (auxiliary)"
+  ],
+  "16": [
+   "am",
+   "होना",
+   "pres. 1st sg"
+  ],
+  "21": [
+   "sit",
+   "बैठना",
+   "v. imp. 2nd pl"
+  ],
+  "23": [
+   "Rehana",
+   "रेहाना",
+   "n.f.sg"
+  ],
+  "25": [
+   "I",
+   "मैं",
+   "1st sg pron"
+  ],
+  "27": [
+   "to you",
+   "तुम",
+   "2nd sg pron. obl"
+  ],
+  "29": [
+   "one",
+   "एक",
+   "num. adj"
+  ],
+  "31": [
+   "thing",
+   "बात",
+   "n.f.sg"
+  ],
+  "33": [
+   "to tell",
+   "बताना",
+   "v. inf"
+  ],
+  "35": [
+   "want",
+   "चाहना",
+   "v. pres. f.sg"
+  ],
+  "42": [
+   "she",
+   "वो",
+   "3rd sg pron"
+  ],
+  "44": [
+   "some/a little",
+   "कुछ",
+   "indef. pron"
+  ],
+  "46": [
+   "hiding",
+   "छुपाना",
+   "v. stem"
+  ],
+  "48": [
+   "staying/being (auxiliary)",
+   "रहना",
+   "perf. f.sg. (auxiliary)"
+  ],
+  "50": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "52": [
+   "from me",
+   "मैं",
+   "1st sg pron. obl. with postposition"
+  ],
+  "57": [
+   "very/much",
+   "बहुत",
+   "adv"
+  ],
+  "59": [
+   "some/a lot",
+   "कुछ",
+   "indef. pron"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    12,
+    14,
+    16
+   ],
+   "type": "compound_verb",
+   "literal": "taking out staying am",
+   "meaning": "I was taking out",
+   "note": "रहना as a vector verb indicates continuous action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    33,
+    35
+   ],
+   "type": "conjunct_verb",
+   "literal": "to tell want",
+   "meaning": "want to tell",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    46,
+    48,
+    50
+   ],
+   "type": "compound_verb",
+   "literal": "hiding staying was",
+   "meaning": "she was hiding",
+   "note": "रहना as a vector verb indicates continuous action",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

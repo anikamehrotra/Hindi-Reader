@@ -1,0 +1,153 @@
+{
+ "translation": "Yes, yes, what happened then? She's getting married. I suppressed the storm that was rising within me. I had been suppressing it for many days.",
+ "words": {
+  "1": [
+   "yes",
+   "हाँ",
+   ""
+  ],
+  "3": [
+   "yes",
+   "हाँ",
+   ""
+  ],
+  "5": [
+   "then",
+   "फिर",
+   ""
+  ],
+  "7": [
+   "what",
+   "क्या",
+   ""
+  ],
+  "9": [
+   "happened",
+   "होना",
+   "perf. m.sg"
+  ],
+  "17": [
+   "her",
+   "वह",
+   "poss. f.sg"
+  ],
+  "19": [
+   "marriage",
+   "शादी",
+   "f.sg"
+  ],
+  "21": [
+   "becoming",
+   "होना",
+   "conj. participle"
+  ],
+  "23": [
+   "remaining",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "25": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "31": [
+   "I (agent)",
+   "मैं",
+   "obl. sg"
+  ],
+  "33": [
+   "rising",
+   "उठना",
+   "pres. part. m.sg"
+  ],
+  "35": [
+   "being",
+   "होना",
+   "conj. participle"
+  ],
+  "37": [
+   "storm",
+   "तूफ़ान",
+   "m.sg"
+  ],
+  "39": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "41": [
+   "suppressed",
+   "दबाना",
+   "perf. m.sg"
+  ],
+  "43": [
+   "many",
+   "कई",
+   "adj"
+  ],
+  "45": [
+   "days",
+   "दिन",
+   "m.pl"
+  ],
+  "47": [
+   "since/from",
+   "से",
+   "postposition"
+  ],
+  "49": [
+   "suppressed",
+   "दबना",
+   "perf. m.sg"
+  ],
+  "51": [
+   "remaining",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "53": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    21,
+    23,
+    25
+   ],
+   "type": "compound_verb",
+   "literal": "marriage is happening",
+   "meaning": "is getting married",
+   "note": "होना + रहना + होना forms a progressive aspect",
+   "source": "model"
+  },
+  {
+   "idx": [
+    33,
+    35
+   ],
+   "type": "compound_verb",
+   "literal": "having risen",
+   "meaning": "rising",
+   "note": "उठते हुए emphasizes the ongoing action of rising",
+   "source": "model"
+  },
+  {
+   "idx": [
+    49,
+    51,
+    53
+   ],
+   "type": "compound_verb",
+   "literal": "was remaining suppressed",
+   "meaning": "had been suppressing it",
+   "note": "दबा रही थी indicates a continuous action in the past",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

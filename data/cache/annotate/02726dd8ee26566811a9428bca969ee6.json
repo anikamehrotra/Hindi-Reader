@@ -1,0 +1,200 @@
+{
+ "translation": "These very people, who just now were intent on beating (him), removed the peepal figs from under themselves and, sitting down again, exclaimed, \"Listen, listen, listen!\"",
+ "words": {
+  "0": [
+   "these very",
+   "इन्हीं",
+   "pron. obl. pl."
+  ],
+  "2": [
+   "people",
+   "लोग",
+   "n. m. pl."
+  ],
+  "4": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "7": [
+   "who",
+   "जो",
+   "pron. rel."
+  ],
+  "9": [
+   "just now",
+   "अभी",
+   "adv."
+  ],
+  "11": [
+   "to beat",
+   "मारना",
+   "v. inf. obl."
+  ],
+  "13": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "15": [
+   "intent",
+   "तुलना",
+   "v. perf. pl."
+  ],
+  "17": [
+   "were",
+   "होना",
+   "v. past. pl."
+  ],
+  "20": [
+   "their own",
+   "अपना",
+   "pron. poss. m. pl."
+  ],
+  "22": [
+   "under",
+   "नीचे",
+   "postposition"
+  ],
+  "24": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "26": [
+   "peepal tree",
+   "पीपल",
+   "n. m. sg."
+  ],
+  "28": [
+   "of",
+   "का",
+   "postposition f. pl."
+  ],
+  "30": [
+   "figs",
+   "गूलर",
+   "n. f. pl."
+  ],
+  "32": [
+   "removed",
+   "हटाना",
+   "v. perf. f. pl."
+  ],
+  "34": [
+   "gave (vector verb)",
+   "देना",
+   "v. perf. f. pl."
+  ],
+  "36": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "38": [
+   "again",
+   "फिर",
+   "adv."
+  ],
+  "40": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "42": [
+   "sitting",
+   "बैठना",
+   "v. pres. part. obl."
+  ],
+  "44": [
+   "having been",
+   "होना",
+   "v. conj. part."
+  ],
+  "46": [
+   "spoke",
+   "बोलना",
+   "v. stem"
+  ],
+  "48": [
+   "arose (vector verb)",
+   "उठना",
+   "v. perf. pl."
+  ],
+  "53": [
+   "listen",
+   "सुनना",
+   "v. imp. 2pl."
+  ],
+  "56": [
+   "listen",
+   "सुनना",
+   "v. imp. 2pl."
+  ],
+  "59": [
+   "listen",
+   "सुनना",
+   "v. imp. 2pl."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    11,
+    13,
+    15
+   ],
+   "type": "phrase",
+   "literal": "on beating intent",
+   "meaning": "intent on beating",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    20,
+    22,
+    24
+   ],
+   "type": "postposition",
+   "literal": "their own under from",
+   "meaning": "from under themselves",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    32,
+    34
+   ],
+   "type": "compound_verb",
+   "literal": "removed gave",
+   "meaning": "removed (completely)",
+   "note": "देना as a vector verb adds a sense of completion or finality to the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    42,
+    44
+   ],
+   "type": "phrase",
+   "literal": "sitting having been",
+   "meaning": "sitting down",
+   "note": "बैठते हुए is a present participle construction indicating simultaneous action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    46,
+    48
+   ],
+   "type": "compound_verb",
+   "literal": "spoke arose",
+   "meaning": "exclaimed, spoke up suddenly",
+   "note": "उठना as a vector verb adds a sense of suddenness or spontaneity to the action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

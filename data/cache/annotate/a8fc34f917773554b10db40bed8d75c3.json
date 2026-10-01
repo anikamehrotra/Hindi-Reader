@@ -1,0 +1,220 @@
+{
+ "translation": "The partition happened, and countless wounded people got up and wiped the blood from their bodies, and then everyone together turned their attention to those whose bodies were intact but whose hearts were wounded.",
+ "words": {
+  "0": [
+   "partition",
+   "बँटवारा",
+   "m.sg"
+  ],
+  "2": [
+   "happened",
+   "होना",
+   "perf. m.sg"
+  ],
+  "4": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "6": [
+   "countless",
+   "बेशुमार",
+   "adj"
+  ],
+  "8": [
+   "wounded",
+   "ज़ख़्मी",
+   "adj"
+  ],
+  "10": [
+   "people",
+   "लोग",
+   "m.pl"
+  ],
+  "12": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "14": [
+   "having gotten up",
+   "उठना",
+   "conj. participle"
+  ],
+  "16": [
+   "their own",
+   "अपना",
+   "poss. adj. m.sg"
+  ],
+  "18": [
+   "body",
+   "बदन",
+   "m.sg"
+  ],
+  "20": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "22": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "24": [
+   "blood",
+   "खून",
+   "m.sg"
+  ],
+  "26": [
+   "having wiped",
+   "पोंछना",
+   "conj. participle"
+  ],
+  "28": [
+   "did (vector verb)",
+   "डालना",
+   "vector verb"
+  ],
+  "30": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "32": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "34": [
+   "all",
+   "सब",
+   "pron"
+  ],
+  "36": [
+   "having met/together",
+   "मिलना",
+   "conj. participle"
+  ],
+  "38": [
+   "their",
+   "वह",
+   "obl. pl"
+  ],
+  "40": [
+   "direction",
+   "तरफ",
+   "f.sg"
+  ],
+  "42": [
+   "attentive",
+   "मुतवज्जह",
+   "adj"
+  ],
+  "45": [
+   "to become",
+   "होना",
+   "conj. participle"
+  ],
+  "47": [
+   "went (vector verb)",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "49": [
+   "whose",
+   "जो",
+   "rel. pron. obl. pl"
+  ],
+  "51": [
+   "bodies",
+   "बदन",
+   "m.sg"
+  ],
+  "53": [
+   "intact",
+   "सही",
+   "adj"
+  ],
+  "55": [
+   "and",
+   "व",
+   "conj"
+  ],
+  "57": [
+   "sound",
+   "सालिम",
+   "adj"
+  ],
+  "59": [
+   "were",
+   "होना",
+   "past. pl"
+  ],
+  "62": [
+   "but",
+   "लेकिन",
+   "conj"
+  ],
+  "64": [
+   "hearts",
+   "दिल",
+   "m.sg"
+  ],
+  "66": [
+   "wounded",
+   "ज़ख़्मी",
+   "adj"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    14,
+    26,
+    28
+   ],
+   "type": "compound_verb",
+   "literal": "having gotten up having wiped threw",
+   "meaning": "got up and wiped (completely)",
+   "note": "डालना as vector verb adds a sense of completion or decisiveness to the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    38,
+    40
+   ],
+   "type": "postposition",
+   "literal": "their direction",
+   "meaning": "towards them",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    42,
+    45,
+    47
+   ],
+   "type": "compound_verb",
+   "literal": "attentive having become went",
+   "meaning": "became attentive / turned their attention",
+   "note": "जाना as vector verb indicates a change of state or completion of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    53,
+    55,
+    57
+   ],
+   "type": "phrase",
+   "literal": "correct and sound",
+   "meaning": "intact and sound",
+   "note": "A common collocation to mean 'whole' or 'unharmed'.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

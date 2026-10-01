@@ -1,0 +1,109 @@
+{
+ "translation": "The second one smiled. \"I know the language of India. Indians are very mischievous and strut around.\"",
+ "words": {
+  "0": [
+   "the second",
+   "दूसरा",
+   "m.sg"
+  ],
+  "2": [
+   "smiled",
+   "मुस्कुराना",
+   "perf. m.sg"
+  ],
+  "6": [
+   "to me",
+   "मैं",
+   "obl. sg"
+  ],
+  "8": [
+   "emphatic",
+   "तो",
+   ""
+  ],
+  "10": [
+   "India",
+   "हिन्दुस्तान",
+   "sg"
+  ],
+  "12": [
+   "of",
+   "का",
+   "f.sg"
+  ],
+  "14": [
+   "language",
+   "बोली",
+   "f.sg"
+  ],
+  "16": [
+   "comes",
+   "आना",
+   "pres. f.sg"
+  ],
+  "18": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "22": [
+   "Indians",
+   "हिन्दुस्तानी",
+   "m.pl"
+  ],
+  "24": [
+   "very",
+   "बड़ा",
+   "m.pl"
+  ],
+  "26": [
+   "mischievous",
+   "शैतान",
+   "m.pl"
+  ],
+  "29": [
+   "strutting",
+   "आकड़-आकड़",
+   "reduplicated adv."
+  ],
+  "31": [
+   "roam",
+   "फिरना",
+   "pres. pl"
+  ],
+  "33": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    6,
+    10,
+    12,
+    14,
+    16,
+    18
+   ],
+   "type": "phrase",
+   "literal": "to me India's language comes is",
+   "meaning": "I know the language of India",
+   "note": "Standard Hindi construction for 'to know a language' is 'X को Y भाषा आती है'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    31
+   ],
+   "type": "compound_verb",
+   "literal": "strutting roam",
+   "meaning": "strut around",
+   "note": "फिरना as a vector verb indicates movement or wandering.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

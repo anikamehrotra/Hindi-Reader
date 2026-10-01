@@ -1,0 +1,765 @@
+{
+ "translation": "Rahat broke the silence. \"Rehana, today I am convinced that you are truly something. I used to call you eccentric and argumentative, but today, forgive me, forgive me. You tell me, I will listen to you. Tell me, I will break my racket tomorrow itself. Why should I break it? And my conscience... I won't play tennis anymore. I won't marry him. I will tell him, 'Now you give up this idea, and now you don't need to look for ring designs anymore.'\" Rahat's tone was filled with tenderness and regret. \"I expected this from you. Tomorrow I will go to Kishwar and definitely free her from the clutches of this hawk. Will you come? Why, you will come, won't you?\"",
+ "words": {
+  "1": [
+   "Rahat",
+   "बुलंदी",
+   ""
+  ],
+  "8": [
+   "Rahat",
+   "राहत",
+   ""
+  ],
+  "10": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "12": [
+   "silence",
+   "ख़ामोशी",
+   "f.sg"
+  ],
+  "14": [
+   "object marker",
+   "को",
+   "postposition"
+  ],
+  "16": [
+   "broke",
+   "तोड़ना",
+   "perf. f.sg"
+  ],
+  "22": [
+   "Rehana",
+   "रेहाना",
+   ""
+  ],
+  "24": [
+   "to me",
+   "मैं",
+   "obl. sg"
+  ],
+  "26": [
+   "today",
+   "आज",
+   "adv"
+  ],
+  "28": [
+   "conviction",
+   "यक़ीन",
+   "m.sg"
+  ],
+  "30": [
+   "to be",
+   "होना",
+   "conj. participle"
+  ],
+  "32": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "34": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "36": [
+   "truly",
+   "वाक़ई",
+   "adv"
+  ],
+  "38": [
+   "you",
+   "तुम",
+   "pron. 2nd sg"
+  ],
+  "40": [
+   "something",
+   "कुछ",
+   "pron"
+  ],
+  "42": [
+   "are",
+   "होना",
+   "pres. 2nd sg"
+  ],
+  "45": [
+   "you",
+   "तुम",
+   "pron. 2nd sg"
+  ],
+  "50": [
+   "I",
+   "मैं",
+   "pron. 1st sg"
+  ],
+  "52": [
+   "you",
+   "तुम",
+   "obl. sg"
+  ],
+  "54": [
+   "eccentric",
+   "झक्की",
+   "adj"
+  ],
+  "56": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "58": [
+   "argumentative",
+   "कज-बहस",
+   "adj"
+  ],
+  "60": [
+   "used to say",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "62": [
+   "do",
+   "करना",
+   "conj. participle"
+  ],
+  "64": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "66": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "68": [
+   "today",
+   "आज",
+   "adv"
+  ],
+  "73": [
+   "forgive",
+   "माफ़",
+   "adj"
+  ],
+  "75": [
+   "do",
+   "करना",
+   "conj. participle"
+  ],
+  "77": [
+   "give",
+   "देना",
+   "imp. 2nd pl"
+  ],
+  "82": [
+   "forgive",
+   "माफ़",
+   "adj"
+  ],
+  "84": [
+   "do",
+   "करना",
+   "conj. participle"
+  ],
+  "86": [
+   "give",
+   "देना",
+   "imp. 2nd pl"
+  ],
+  "91": [
+   "you",
+   "तुम",
+   "pron. 2nd sg"
+  ],
+  "93": [
+   "say",
+   "कहना",
+   "imp. 2nd sg"
+  ],
+  "96": [
+   "I",
+   "मैं",
+   "pron. 1st sg"
+  ],
+  "98": [
+   "you",
+   "तुम",
+   "pron. 2nd sg"
+  ],
+  "103": [
+   "your",
+   "तुम",
+   "poss. pron. 2nd sg"
+  ],
+  "105": [
+   "saying",
+   "कहना",
+   "m.sg"
+  ],
+  "107": [
+   "will obey",
+   "मानना",
+   "fut. 1st sg"
+  ],
+  "110": [
+   "tell",
+   "बताना",
+   "imp. 2nd pl"
+  ],
+  "115": [
+   "I",
+   "मैं",
+   "pron. 1st sg"
+  ],
+  "117": [
+   "tomorrow",
+   "कल",
+   "adv"
+  ],
+  "119": [
+   "emphatic: only",
+   "ही",
+   "particle"
+  ],
+  "121": [
+   "my own",
+   "अपना",
+   "poss. pron. 1st sg"
+  ],
+  "123": [
+   "racket",
+   "रैकट",
+   "m.sg"
+  ],
+  "125": [
+   "break",
+   "तोड़ना",
+   "conj. participle"
+  ],
+  "127": [
+   "will give",
+   "देना",
+   "fut. 1st sg"
+  ],
+  "132": [
+   "why",
+   "क्यों",
+   "adv"
+  ],
+  "134": [
+   "break",
+   "तोड़ना",
+   "conj. participle"
+  ],
+  "136": [
+   "give",
+   "देना",
+   "imp. 1st sg"
+  ],
+  "139": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "141": [
+   "my",
+   "मैं",
+   "obl. sg"
+  ],
+  "143": [
+   "conscience",
+   "ज़मीर",
+   "m.sg"
+  ],
+  "148": [
+   "that",
+   "वह",
+   "obl. sg"
+  ],
+  "150": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "155": [
+   "I",
+   "मैं",
+   "pron. 1st sg"
+  ],
+  "157": [
+   "now",
+   "अब",
+   "adv"
+  ],
+  "159": [
+   "tennis",
+   "टेनिस",
+   "m.sg"
+  ],
+  "161": [
+   "emphatic: only",
+   "ही",
+   "particle"
+  ],
+  "163": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "165": [
+   "will play",
+   "खेलना",
+   "fut. 1st sg"
+  ],
+  "168": [
+   "I",
+   "मैं",
+   "pron. 1st sg"
+  ],
+  "170": [
+   "him",
+   "वह",
+   "obl. sg"
+  ],
+  "172": [
+   "marriage",
+   "शादी",
+   "f.sg"
+  ],
+  "174": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "176": [
+   "will do",
+   "करना",
+   "fut. 1st sg"
+  ],
+  "179": [
+   "I",
+   "मैं",
+   "pron. 1st sg"
+  ],
+  "181": [
+   "him",
+   "वह",
+   "obl. sg"
+  ],
+  "183": [
+   "say",
+   "कहना",
+   "conj. participle"
+  ],
+  "185": [
+   "will give",
+   "देना",
+   "fut. 1st sg"
+  ],
+  "187": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "189": [
+   "now",
+   "अब",
+   "adv"
+  ],
+  "191": [
+   "you",
+   "तुम",
+   "pron. 2nd sg"
+  ],
+  "193": [
+   "this",
+   "यह",
+   "adj"
+  ],
+  "195": [
+   "idea",
+   "ख़्याल",
+   "m.sg"
+  ],
+  "197": [
+   "object marker",
+   "को",
+   "postposition"
+  ],
+  "199": [
+   "leave",
+   "छोड़ना",
+   "imp. 2nd sg"
+  ],
+  "201": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "203": [
+   "now",
+   "अब",
+   "adv"
+  ],
+  "205": [
+   "you",
+   "तुम",
+   "obl. sg"
+  ],
+  "207": [
+   "now",
+   "अब",
+   "adv"
+  ],
+  "209": [
+   "ring",
+   "अँगूठी",
+   "f.sg"
+  ],
+  "211": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "213": [
+   "designs",
+   "डिज़ाइन",
+   "m.pl"
+  ],
+  "215": [
+   "search",
+   "तलाश",
+   "f.sg"
+  ],
+  "217": [
+   "to do",
+   "करना",
+   "inf. obl"
+  ],
+  "219": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "221": [
+   "need",
+   "ज़रूरत",
+   "f.sg"
+  ],
+  "223": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "229": [
+   "Rahat",
+   "राहत",
+   ""
+  ],
+  "231": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "233": [
+   "tone",
+   "लहजा",
+   "m.sg"
+  ],
+  "235": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "237": [
+   "tenderness",
+   "रिक़्क़त",
+   "f.sg"
+  ],
+  "239": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "241": [
+   "regret",
+   "पशेमानी",
+   "f.sg"
+  ],
+  "243": [
+   "filled",
+   "भरना",
+   "perf. f.sg"
+  ],
+  "245": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "249": [
+   "from me",
+   "मैं",
+   "obl. sg"
+  ],
+  "251": [
+   "from you",
+   "तुम",
+   "obl. sg"
+  ],
+  "253": [
+   "this very thing",
+   "यही",
+   "pron"
+  ],
+  "255": [
+   "expectation",
+   "उम्मीद",
+   "f.sg"
+  ],
+  "257": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "262": [
+   "I",
+   "मैं",
+   "pron. 1st sg"
+  ],
+  "264": [
+   "tomorrow",
+   "कल",
+   "adv"
+  ],
+  "266": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "268": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "270": [
+   "near",
+   "पास",
+   "postposition"
+  ],
+  "272": [
+   "will go",
+   "जाना",
+   "fut. 1st sg"
+  ],
+  "274": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "276": [
+   "her",
+   "वह",
+   "obl. sg"
+  ],
+  "278": [
+   "certainly",
+   "यक़ीनन",
+   "adv"
+  ],
+  "280": [
+   "this",
+   "यह",
+   "adj"
+  ],
+  "282": [
+   "hawk",
+   "शिकरा",
+   "m.sg"
+  ],
+  "284": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "286": [
+   "clutches",
+   "पंजा",
+   "m.pl"
+  ],
+  "288": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "290": [
+   "freedom",
+   "निजात",
+   "f.sg"
+  ],
+  "292": [
+   "will get her",
+   "दिलाना",
+   "fut. 1st sg"
+  ],
+  "297": [
+   "you",
+   "तुम",
+   "pron. 2nd sg"
+  ],
+  "299": [
+   "will come",
+   "चलना",
+   "fut. 2nd sg"
+  ],
+  "304": [
+   "why",
+   "क्यों",
+   "adv"
+  ],
+  "306": [
+   "will come",
+   "चलना",
+   "fut. 2nd sg"
+  ],
+  "308": [
+   "right?",
+   "ना",
+   "particle"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    28,
+    30,
+    32
+   ],
+   "type": "compound_verb",
+   "literal": "conviction to be gone",
+   "meaning": "to be convinced",
+   "note": "हो जाना (ho jaanaa) is a common compound verb meaning 'to become' or 'to happen'. Here, it implies a state of conviction has been reached.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    73,
+    75,
+    77
+   ],
+   "type": "conjunct_verb",
+   "literal": "forgive do give",
+   "meaning": "forgive me",
+   "note": "माफ़ करना (maaf karnaa) is 'to forgive'. दे देना (de denaa) adds a sense of completion or doing something for someone else.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    82,
+    84,
+    86
+   ],
+   "type": "conjunct_verb",
+   "literal": "forgive do give",
+   "meaning": "forgive me",
+   "note": "Repetition for emphasis.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    125,
+    127
+   ],
+   "type": "compound_verb",
+   "literal": "break give",
+   "meaning": "will break completely",
+   "note": "तोड़ देना (toṛ denaa) implies a decisive and complete action of breaking.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    134,
+    136
+   ],
+   "type": "compound_verb",
+   "literal": "break give",
+   "meaning": "should I break",
+   "note": "तोड़ देना (toṛ denaa) with the imperative 'doon' (दूं) expresses a question about a decisive action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    172,
+    176
+   ],
+   "type": "conjunct_verb",
+   "literal": "marriage not will do",
+   "meaning": "will not marry",
+   "note": "शादी करना (shaadee karnaa) is 'to marry'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    183,
+    185
+   ],
+   "type": "compound_verb",
+   "literal": "say give",
+   "meaning": "will tell (decisively)",
+   "note": "कह देना (kah denaa) implies telling someone something directly and definitively.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    195,
+    199
+   ],
+   "type": "conjunct_verb",
+   "literal": "idea leave",
+   "meaning": "give up this idea",
+   "note": "ख़्याल छोड़ना (khyaal chhoṛnaa) means to abandon an idea or thought.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    215,
+    217
+   ],
+   "type": "conjunct_verb",
+   "literal": "search to do",
+   "meaning": "to search for",
+   "note": "तलाश करना (talaash karnaa) means 'to search' or 'to look for'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    280,
+    282,
+    284,
+    286,
+    288
+   ],
+   "type": "phrase",
+   "literal": "this hawk's clutches from",
+   "meaning": "from the clutches of this hawk",
+   "note": "A descriptive phrase for being trapped or controlled by someone.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    290,
+    292
+   ],
+   "type": "conjunct_verb",
+   "literal": "freedom will get her",
+   "meaning": "will free her",
+   "note": "निजात दिलाना (nijaat dilaanaa) means 'to free' or 'to deliver from'.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

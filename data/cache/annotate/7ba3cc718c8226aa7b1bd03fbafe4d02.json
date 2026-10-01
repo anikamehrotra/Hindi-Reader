@@ -1,0 +1,542 @@
+{
+ "translation": "From standing all the time, his feet had swollen. His calves had also swollen. But despite this physical discomfort, he would not lie down and rest. Whenever there was talk in the asylum about the India-Pakistan partition and the exchange of lunatics, he would listen attentively. If someone asked him what his opinion was, he would reply with great seriousness, \"O pad di, gurgur di, anekas di, bedhyana di, moong di dal of the Pakistan government.\"",
+ "words": {
+  "0": [
+   "always",
+   "हर",
+   ""
+  ],
+  "2": [
+   "time",
+   "वक़्त",
+   "m.sg"
+  ],
+  "4": [
+   "standing",
+   "खड़ा",
+   "adj. m.sg"
+  ],
+  "6": [
+   "to remain",
+   "रहना",
+   "inf. oblique"
+  ],
+  "8": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "10": [
+   "his",
+   "वह",
+   "obl. gen. m.sg"
+  ],
+  "12": [
+   "feet",
+   "पाँव",
+   "m.pl"
+  ],
+  "14": [
+   "swollen",
+   "सूजना",
+   "perf. m.pl"
+  ],
+  "16": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "18": [
+   "had",
+   "होना",
+   "past. pl"
+  ],
+  "22": [
+   "calves",
+   "पिंडलियाँ",
+   "f.pl"
+  ],
+  "24": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "26": [
+   "swollen",
+   "फूलना",
+   "perf. f.pl"
+  ],
+  "28": [
+   "went",
+   "जाना",
+   "perf. f.pl"
+  ],
+  "30": [
+   "had",
+   "होना",
+   "past. pl"
+  ],
+  "33": [
+   "but",
+   "मगर",
+   "conjunction"
+  ],
+  "35": [
+   "this",
+   "यह",
+   "pron. obl. sg"
+  ],
+  "37": [
+   "physical",
+   "शारीरिक",
+   "adj"
+  ],
+  "39": [
+   "discomfort",
+   "कष्ट",
+   "m.sg"
+  ],
+  "41": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "43": [
+   "despite",
+   "बावजूद",
+   "postposition"
+  ],
+  "46": [
+   "he",
+   "वह",
+   "pron. m.sg"
+  ],
+  "48": [
+   "lie down",
+   "लेटना",
+   "conj. participle"
+  ],
+  "50": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "52": [
+   "rest",
+   "आराम",
+   "m.sg"
+  ],
+  "54": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "56": [
+   "do",
+   "करना",
+   "pres. habitual m.sg"
+  ],
+  "58": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "62": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "65": [
+   "Pakistan",
+   "पाकिस्तान",
+   "m.sg"
+  ],
+  "67": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "69": [
+   "lunatics",
+   "पागल",
+   "m.pl. obl"
+  ],
+  "71": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "73": [
+   "exchange",
+   "तबादला",
+   "m.sg"
+  ],
+  "75": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "77": [
+   "matter",
+   "बारा",
+   "m.sg"
+  ],
+  "79": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "82": [
+   "when",
+   "जब",
+   "adverb"
+  ],
+  "84": [
+   "ever",
+   "कभी",
+   "adverb"
+  ],
+  "86": [
+   "asylum",
+   "पागलखाना",
+   "m.sg. obl"
+  ],
+  "88": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "90": [
+   "conversation",
+   "बातचीत",
+   "f.sg"
+  ],
+  "92": [
+   "happened",
+   "होना",
+   "pres. habitual f.sg"
+  ],
+  "94": [
+   "then",
+   "तो",
+   "adverb"
+  ],
+  "96": [
+   "he",
+   "वह",
+   "pron. m.sg"
+  ],
+  "98": [
+   "attention",
+   "ध्यान",
+   "m.sg"
+  ],
+  "100": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "102": [
+   "listened",
+   "सुनना",
+   "pres. habitual m.sg"
+  ],
+  "106": [
+   "if someone",
+   "कोई",
+   "pron. indef"
+  ],
+  "108": [
+   "him",
+   "वह",
+   "obl. pron"
+  ],
+  "110": [
+   "asked",
+   "पूछना",
+   "pres. habitual m.sg"
+  ],
+  "112": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "114": [
+   "his",
+   "वह",
+   "obl. gen. m.sg"
+  ],
+  "116": [
+   "what",
+   "क्या",
+   "pron. interrogative"
+  ],
+  "118": [
+   "opinion",
+   "ख़्याल",
+   "m.sg"
+  ],
+  "120": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "122": [
+   "then",
+   "तो",
+   "adverb"
+  ],
+  "124": [
+   "he",
+   "वह",
+   "pron. m.sg"
+  ],
+  "126": [
+   "great",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "128": [
+   "seriousness",
+   "गम्भीर",
+   "f.sg. obl"
+  ],
+  "130": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "132": [
+   "answer",
+   "जवाब",
+   "m.sg"
+  ],
+  "134": [
+   "gave",
+   "देना",
+   "pres. habitual m.sg"
+  ],
+  "138": [
+   "O",
+   "ओ",
+   "interjection"
+  ],
+  "140": [
+   "pad",
+   "पड़ना",
+   "verb"
+  ],
+  "142": [
+   "di",
+   "देना",
+   "verb"
+  ],
+  "145": [
+   "gurgur",
+   "गुड़गुड़",
+   "onomatopoeia"
+  ],
+  "147": [
+   "di",
+   "देना",
+   "verb"
+  ],
+  "150": [
+   "anekas",
+   "अनेकस",
+   "word from gibberish"
+  ],
+  "152": [
+   "di",
+   "देना",
+   "verb"
+  ],
+  "155": [
+   "bedhyana",
+   "बेध्याना",
+   "word from gibberish"
+  ],
+  "157": [
+   "di",
+   "देना",
+   "verb"
+  ],
+  "160": [
+   "moong",
+   "मूंग",
+   "f.sg"
+  ],
+  "162": [
+   "di",
+   "देना",
+   "verb"
+  ],
+  "164": [
+   "dal",
+   "दाल",
+   "f.sg"
+  ],
+  "166": [
+   "of",
+   "ऑफ़",
+   "preposition"
+  ],
+  "168": [
+   "the",
+   "दी",
+   "article"
+  ],
+  "170": [
+   "Pakistan",
+   "पाकिस्तान",
+   "m.sg"
+  ],
+  "172": [
+   "government",
+   "गौरमेंट",
+   "f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    0,
+    2
+   ],
+   "type": "phrase",
+   "literal": "every time",
+   "meaning": "always, all the time",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    4,
+    6,
+    8
+   ],
+   "type": "phrase",
+   "literal": "from standing remaining",
+   "meaning": "from standing (continuously)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    14,
+    16,
+    18
+   ],
+   "type": "compound_verb",
+   "literal": "swollen went had",
+   "meaning": "had swollen",
+   "note": "जाना as a vector verb indicates completion or change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    26,
+    28,
+    30
+   ],
+   "type": "compound_verb",
+   "literal": "swollen went had",
+   "meaning": "had swollen",
+   "note": "जाना as a vector verb indicates completion or change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    41,
+    43
+   ],
+   "type": "postposition",
+   "literal": "of despite",
+   "meaning": "despite",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    48,
+    50
+   ],
+   "type": "conjunct_verb",
+   "literal": "having lain down done",
+   "meaning": "to lie down",
+   "note": "कर is a conjunctive participle, indicating an action preceding the main verb.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    52,
+    56
+   ],
+   "type": "conjunct_verb",
+   "literal": "rest do",
+   "meaning": "to rest",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    71,
+    73,
+    75,
+    77,
+    79
+   ],
+   "type": "postposition",
+   "literal": "of exchange of matter in",
+   "meaning": "about the exchange",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    82,
+    84
+   ],
+   "type": "phrase",
+   "literal": "when ever",
+   "meaning": "whenever",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    98,
+    100
+   ],
+   "type": "phrase",
+   "literal": "attention with",
+   "meaning": "attentively",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    126,
+    128,
+    130
+   ],
+   "type": "phrase",
+   "literal": "big seriousness with",
+   "meaning": "with great seriousness",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    132,
+    134
+   ],
+   "type": "conjunct_verb",
+   "literal": "answer give",
+   "meaning": "to answer, reply",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,114 @@
+{
+ "translation": "Publisher: Rajkamal Prakashan Pvt. Ltd., Netaji Subhash Marg, Daryaganj, New Delhi.",
+ "words": {
+  "0": [
+   "publisher",
+   "प्रकाशक",
+   "m.sg"
+  ],
+  "4": [
+   "Rajkamal (name)",
+   "राजकमल",
+   "proper noun"
+  ],
+  "6": [
+   "publication",
+   "प्रकाशन",
+   "m.sg"
+  ],
+  "8": [
+   "Pvt.",
+   "प्रा",
+   "abbr."
+  ],
+  "11": [
+   "Ltd.",
+   "लि",
+   "abbr."
+  ],
+  "16": [
+   "B",
+   "बी",
+   "abbr."
+  ],
+  "19": [
+   "Netaji",
+   "नेताजी",
+   "proper noun"
+  ],
+  "21": [
+   "Subhash",
+   "सुभाष",
+   "proper noun"
+  ],
+  "23": [
+   "Marg (road)",
+   "मार्ग",
+   "m.sg"
+  ],
+  "26": [
+   "Daryaganj",
+   "दरियागंज",
+   "proper noun"
+  ],
+  "29": [
+   "New",
+   "नई",
+   "f.sg"
+  ],
+  "31": [
+   "Delhi",
+   "दिल्ली",
+   "proper noun"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6
+   ],
+   "type": "phrase",
+   "literal": "Rajkamal Publication",
+   "meaning": "Rajkamal Prakashan (name of a publishing house)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    8,
+    11,
+    16
+   ],
+   "type": "phrase",
+   "literal": "Pvt. Ltd. B",
+   "meaning": "Private Limited (Company)",
+   "note": "Common abbreviation for 'Private Limited' in company names. 'बी' is likely part of the company's full registered name, perhaps 'Pvt. Ltd. B-something'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    19,
+    21,
+    23
+   ],
+   "type": "phrase",
+   "literal": "Netaji Subhash Road",
+   "meaning": "Netaji Subhash Marg (a street name)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    31
+   ],
+   "type": "phrase",
+   "literal": "New Delhi",
+   "meaning": "New Delhi (city name)",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

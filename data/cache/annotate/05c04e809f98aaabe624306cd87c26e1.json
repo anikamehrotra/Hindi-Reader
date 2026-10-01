@@ -1,0 +1,597 @@
+{
+ "translation": "Listen, listen! Kishwar's distressed voice came. She was pleading with that wretched man. Then it seemed as if someone was dragging someone by force, and that person was begging, asking for refuge in their death throes. And then an even more muffled voice started coming, as if some powerful beast was mauling Kishwar. My temples began to throb, my nerves tensed up, and my hands stiffened. That moment had arrived. I suddenly stood up. \"Hey, hey, Rehana, what are you doing?\" Rahat stopped me.",
+ "words": {
+  "1": [
+   "listen",
+   "सुनना",
+   "imperative, 2nd pl."
+  ],
+  "3": [
+   "emphatic particle",
+   "तो",
+   ""
+  ],
+  "8": [
+   "listen",
+   "सुनना",
+   "imperative, 2nd pl."
+  ],
+  "10": [
+   "emphatic particle",
+   "तो",
+   ""
+  ],
+  "16": [
+   "Kishwar",
+   "किश्वर",
+   "prop. n."
+  ],
+  "18": [
+   "of",
+   "का",
+   "postposition, f.sg."
+  ],
+  "20": [
+   "distressed",
+   "परेशान",
+   "adj."
+  ],
+  "22": [
+   "voice",
+   "आवाज़",
+   "n.f.sg."
+  ],
+  "24": [
+   "came",
+   "आना",
+   "perf. f.sg."
+  ],
+  "27": [
+   "she",
+   "वह",
+   "pron. 3rd sg."
+  ],
+  "29": [
+   "that",
+   "वह",
+   "pron. obl. sg."
+  ],
+  "31": [
+   "wretched",
+   "मर्दूद",
+   "adj."
+  ],
+  "33": [
+   "of",
+   "का",
+   "postposition, f.pl."
+  ],
+  "35": [
+   "pleas",
+   "इल्तिजा",
+   "n.f.pl."
+  ],
+  "37": [
+   "doing",
+   "करना",
+   "conj. participle"
+  ],
+  "39": [
+   "staying",
+   "रहना",
+   "perf. f.sg."
+  ],
+  "41": [
+   "was",
+   "होना",
+   "past aux. f.sg."
+  ],
+  "43": [
+   "then",
+   "फिर",
+   "adv."
+  ],
+  "45": [
+   "such",
+   "ऐसा",
+   "adj."
+  ],
+  "47": [
+   "seemed",
+   "मालूम",
+   "adj."
+  ],
+  "49": [
+   "seemed",
+   "मालूम",
+   "adj."
+  ],
+  "51": [
+   "became",
+   "होना",
+   "perf. m.sg."
+  ],
+  "53": [
+   "as if",
+   "जैसे",
+   "conj."
+  ],
+  "55": [
+   "someone",
+   "कोई",
+   "pron. indef. sg."
+  ],
+  "57": [
+   "someone",
+   "कोई",
+   "pron. indef. obl. sg."
+  ],
+  "59": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "61": [
+   "catching",
+   "पकड़ना",
+   "conj. participle"
+  ],
+  "63": [
+   "doing",
+   "करना",
+   "conj. participle"
+  ],
+  "65": [
+   "dragging",
+   "घसीटना",
+   "conj. participle"
+  ],
+  "67": [
+   "staying",
+   "रहना",
+   "pres. part. m.sg."
+  ],
+  "69": [
+   "be",
+   "होना",
+   "subj. 3rd sg."
+  ],
+  "71": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "73": [
+   "that (person)",
+   "वह",
+   "pron. 3rd sg."
+  ],
+  "75": [
+   "flattery/begging",
+   "ख़ुशामद",
+   "n.f.sg."
+  ],
+  "77": [
+   "do",
+   "करना",
+   "subj. 3rd sg."
+  ],
+  "79": [
+   "death throes",
+   "जाँ-कनी",
+   "n.f.sg."
+  ],
+  "81": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "86": [
+   "refuge",
+   "पनाह",
+   "n.f.sg."
+  ],
+  "88": [
+   "ask",
+   "मांगना",
+   "subj. 3rd sg."
+  ],
+  "90": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "92": [
+   "then",
+   "फिर",
+   "adv."
+  ],
+  "94": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "96": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "98": [
+   "muffled",
+   "घुटी-घुटी",
+   "adj. f.sg."
+  ],
+  "100": [
+   "voice",
+   "आवाज़",
+   "n.f.sg."
+  ],
+  "102": [
+   "to come",
+   "आना",
+   "inf. obl."
+  ],
+  "104": [
+   "began",
+   "लगना",
+   "perf. f.sg."
+  ],
+  "106": [
+   "as if",
+   "गोया",
+   "conj."
+  ],
+  "108": [
+   "some",
+   "कोई",
+   "pron. indef. sg."
+  ],
+  "110": [
+   "powerful",
+   "ज़बरदस्त",
+   "adj."
+  ],
+  "112": [
+   "beast",
+   "दरिन्दा",
+   "n.m.sg."
+  ],
+  "114": [
+   "Kishwar",
+   "किश्वर",
+   "prop. n."
+  ],
+  "116": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "118": [
+   "mauling",
+   "भनभोड़",
+   "conj. participle"
+  ],
+  "120": [
+   "staying",
+   "रहना",
+   "pres. part. m.sg."
+  ],
+  "122": [
+   "be",
+   "होना",
+   "subj. 3rd sg."
+  ],
+  "125": [
+   "my",
+   "मेरा",
+   "pron. poss. f.pl."
+  ],
+  "127": [
+   "temples",
+   "कनपटी",
+   "n.f.pl."
+  ],
+  "129": [
+   "to throb",
+   "फड़फड़ाना",
+   "inf. obl."
+  ],
+  "131": [
+   "began",
+   "लगना",
+   "perf. f.pl."
+  ],
+  "134": [
+   "nerves",
+   "नस",
+   "n.f.pl."
+  ],
+  "136": [
+   "tensed",
+   "खिचना",
+   "perf. f.pl."
+  ],
+  "138": [
+   "went",
+   "जाना",
+   "perf. f.pl."
+  ],
+  "143": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "145": [
+   "hands",
+   "हाथ",
+   "n.m.pl."
+  ],
+  "147": [
+   "stiffened",
+   "अकड़ना",
+   "conj. participle"
+  ],
+  "149": [
+   "went",
+   "जाना",
+   "perf. m.pl."
+  ],
+  "152": [
+   "that",
+   "वह",
+   "pron. dem. sg."
+  ],
+  "154": [
+   "moment",
+   "वक़्त",
+   "n.m.sg."
+  ],
+  "156": [
+   "arrived",
+   "आना",
+   "conj. participle"
+  ],
+  "158": [
+   "arrived",
+   "पहुंचना",
+   "perf. m.sg."
+  ],
+  "160": [
+   "was",
+   "होना",
+   "past aux. m.sg."
+  ],
+  "163": [
+   "I",
+   "मैं",
+   "pron. 1st sg."
+  ],
+  "165": [
+   "one",
+   "एक",
+   "num."
+  ],
+  "167": [
+   "moment",
+   "दम",
+   "n.m.sg."
+  ],
+  "169": [
+   "standing",
+   "खड़ा",
+   "adj. f.sg."
+  ],
+  "171": [
+   "to be",
+   "होना",
+   "conj. participle"
+  ],
+  "173": [
+   "went",
+   "जाना",
+   "perf. f.sg."
+  ],
+  "177": [
+   "hey",
+   "हैं",
+   "interjection"
+  ],
+  "179": [
+   "hey",
+   "हैं",
+   "interjection"
+  ],
+  "181": [
+   "Rehana",
+   "रेहाना",
+   "prop. n."
+  ],
+  "183": [
+   "what",
+   "क्या",
+   "pron. interrog."
+  ],
+  "185": [
+   "doing",
+   "करना",
+   "pres. part. f.sg."
+  ],
+  "187": [
+   "are",
+   "होना",
+   "pres. aux. 2nd sg."
+  ],
+  "193": [
+   "Rahat",
+   "राहत",
+   "prop. n."
+  ],
+  "195": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "197": [
+   "me",
+   "मैं",
+   "pron. 1st sg. obl."
+  ],
+  "199": [
+   "stopped",
+   "रोकना",
+   "perf. m.sg."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    35,
+    37,
+    39,
+    41
+   ],
+   "type": "conjunct_verb",
+   "literal": "pleas doing staying was",
+   "meaning": "was pleading",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    49,
+    51
+   ],
+   "type": "conjunct_verb",
+   "literal": "known became",
+   "meaning": "it seemed",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    61,
+    63
+   ],
+   "type": "compound_verb",
+   "literal": "having caught having done",
+   "meaning": "having caught (and held)",
+   "note": "कर adds emphasis to the action of पकड़ना",
+   "source": "model"
+  },
+  {
+   "idx": [
+    65,
+    67,
+    69
+   ],
+   "type": "compound_verb",
+   "literal": "dragging staying be",
+   "meaning": "might be dragging",
+   "note": "रहा हो indicates continuous or habitual action in a subjunctive context.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    79,
+    81
+   ],
+   "type": "phrase",
+   "literal": "death throes in",
+   "meaning": "in one's death throes",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    102,
+    104
+   ],
+   "type": "compound_verb",
+   "literal": "to come began",
+   "meaning": "started coming",
+   "note": "लगना as a vector verb indicates the beginning of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    118,
+    120,
+    122
+   ],
+   "type": "compound_verb",
+   "literal": "mauling staying be",
+   "meaning": "might be mauling",
+   "note": "रहा हो indicates continuous or habitual action in a subjunctive context.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    129,
+    131
+   ],
+   "type": "compound_verb",
+   "literal": "to throb began",
+   "meaning": "began to throb",
+   "note": "लगना as a vector verb indicates the beginning of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    136,
+    138
+   ],
+   "type": "compound_verb",
+   "literal": "tensed went",
+   "meaning": "tensed up",
+   "note": "जाना as a vector verb indicates completion or change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    147,
+    149
+   ],
+   "type": "compound_verb",
+   "literal": "stiffened went",
+   "meaning": "stiffened up",
+   "note": "जाना as a vector verb indicates completion or change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    156,
+    158
+   ],
+   "type": "compound_verb",
+   "literal": "having come arrived",
+   "meaning": "had arrived",
+   "note": "आन as a vector verb emphasizes the arrival.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    165,
+    167
+   ],
+   "type": "phrase",
+   "literal": "one moment",
+   "meaning": "suddenly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    169,
+    171,
+    173
+   ],
+   "type": "compound_verb",
+   "literal": "standing to be went",
+   "meaning": "stood up",
+   "note": "हो जाना indicates a sudden or complete change of state.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

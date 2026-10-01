@@ -1,0 +1,17 @@
+{
+ "translation": "First edition",
+ "words": {
+  "0": [
+   "first",
+   "प्रथम",
+   "adj. m.sg"
+  ],
+  "1": [
+   "edition",
+   "संस्करण",
+   "n. m.sg"
+  ]
+ },
+ "units": [],
+ "model": "google/gemini-2.5-flash"
+}

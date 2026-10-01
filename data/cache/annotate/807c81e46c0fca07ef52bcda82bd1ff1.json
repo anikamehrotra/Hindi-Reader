@@ -1,0 +1,870 @@
+{
+ "translation": "Even the one whom the world calls mad, if he comes before his time, becomes bewildered. Then what am I? But there will be a time when the world will be of my opinion. People will listen to me. And Kishwar, Kishwar's incidents have completely made me half-dead. I realized that my cries and shouts, this throbbing heart in which an ocean of human sympathy and brotherhood is surging, whose dreams have been sacrificed for the betterment of the country, whose emotions are immersed in religion and humanity—all this is useless, absolutely useless. Even the creaking of a bullock cart and the hooves of a scrawny horse have more impact than this. Is this even a world? Is this even a world? I was swaying in my chair.",
+ "words": {
+  "0": [
+   "relationship/connection",
+   "ताल्लुक़",
+   "m.sg"
+  ],
+  "2": [
+   "whom",
+   "जो",
+   "pronoun"
+  ],
+  "4": [
+   "world",
+   "दुनिया",
+   "f.sg"
+  ],
+  "6": [
+   "madman",
+   "दीवाना",
+   "m.sg"
+  ],
+  "8": [
+   "says",
+   "कहना",
+   "pres.part. f.sg"
+  ],
+  "10": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "12": [
+   "that",
+   "वो",
+   "pronoun"
+  ],
+  "14": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "16": [
+   "his own",
+   "अपना",
+   "poss. adj. m.sg"
+  ],
+  "18": [
+   "time",
+   "वक़्त",
+   "m.sg"
+  ],
+  "20": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "22": [
+   "before",
+   "पहले",
+   "postposition"
+  ],
+  "24": [
+   "came",
+   "आना",
+   "perf. m.sg"
+  ],
+  "26": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "28": [
+   "bewildered",
+   "हवास-बाख़्ता",
+   "adj."
+  ],
+  "30": [
+   "become",
+   "होना",
+   "conj. participle"
+  ],
+  "32": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "34": [
+   "then",
+   "फिर",
+   "adverb"
+  ],
+  "36": [
+   "I",
+   "में",
+   "pronoun"
+  ],
+  "38": [
+   "what",
+   "क्या",
+   "interrogative pronoun"
+  ],
+  "40": [
+   "thing",
+   "चीज़",
+   "f.sg"
+  ],
+  "42": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "48": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "50": [
+   "one",
+   "एक",
+   "num. adj."
+  ],
+  "52": [
+   "era",
+   "ज़माना",
+   "m.sg"
+  ],
+  "54": [
+   "will be",
+   "होना",
+   "fut. 3sg"
+  ],
+  "57": [
+   "when",
+   "जब",
+   "conj."
+  ],
+  "59": [
+   "world",
+   "दुनिया",
+   "f.sg"
+  ],
+  "61": [
+   "my",
+   "मेरा",
+   "poss. adj. f.sg"
+  ],
+  "63": [
+   "emphatic",
+   "ही",
+   "emphatic particle"
+  ],
+  "65": [
+   "like-minded",
+   "हम-ख़्याल",
+   "adj."
+  ],
+  "67": [
+   "become",
+   "होना",
+   "conj. participle"
+  ],
+  "69": [
+   "will go",
+   "जाना",
+   "fut. 3sg f"
+  ],
+  "72": [
+   "people",
+   "लोग",
+   "m.pl"
+  ],
+  "74": [
+   "my",
+   "मेरा",
+   "poss. adj. f.sg"
+  ],
+  "76": [
+   "will listen",
+   "सुनना",
+   "fut. 3pl"
+  ],
+  "81": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "83": [
+   "Kishwar",
+   "किश्वर",
+   "proper noun"
+  ],
+  "88": [
+   "Kishwar",
+   "किश्वर",
+   "proper noun"
+  ],
+  "90": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "92": [
+   "incidents",
+   "वाक़िअ",
+   "m.pl"
+  ],
+  "94": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "96": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "98": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "100": [
+   "me",
+   "मैं",
+   "pron. obl."
+  ],
+  "102": [
+   "completely",
+   "बिलकुल",
+   "adverb"
+  ],
+  "104": [
+   "half",
+   "नीम",
+   "prefix"
+  ],
+  "106": [
+   "dead",
+   "मुर्दा",
+   "adj."
+  ],
+  "108": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "110": [
+   "gave",
+   "देना",
+   "perf. m.sg"
+  ],
+  "113": [
+   "I",
+   "मैं",
+   "pron. obl."
+  ],
+  "115": [
+   "known",
+   "मा'लूम",
+   "adj."
+  ],
+  "117": [
+   "known",
+   "मा'लूम",
+   "adj."
+  ],
+  "119": [
+   "become",
+   "होना",
+   "conj. participle"
+  ],
+  "121": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "123": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "125": [
+   "my",
+   "मेरा",
+   "poss. adj. f.sg"
+  ],
+  "127": [
+   "this",
+   "यह",
+   "demonstrative pron."
+  ],
+  "129": [
+   "scream",
+   "चीख़",
+   "f.sg"
+  ],
+  "131": [
+   "cry",
+   "पुकार",
+   "f.sg"
+  ],
+  "133": [
+   "this",
+   "यह",
+   "demonstrative pron."
+  ],
+  "135": [
+   "throbbing",
+   "फड़कना",
+   "pres.part. m.sg"
+  ],
+  "137": [
+   "being",
+   "होना",
+   "perf. part. m.sg"
+  ],
+  "139": [
+   "heart",
+   "दिल",
+   "m.sg"
+  ],
+  "141": [
+   "in which",
+   "जो",
+   "pron. obl."
+  ],
+  "143": [
+   "human",
+   "इन्सानी",
+   "adj."
+  ],
+  "145": [
+   "sympathy",
+   "हमदर्दी",
+   "f.sg"
+  ],
+  "147": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "149": [
+   "brotherhood",
+   "उख़व्वत",
+   "f.sg"
+  ],
+  "151": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "153": [
+   "ocean",
+   "समुंदर",
+   "m.sg"
+  ],
+  "155": [
+   "waves",
+   "लहर",
+   "f.pl"
+  ],
+  "157": [
+   "hitting",
+   "मारना",
+   "pres.part. f.pl"
+  ],
+  "159": [
+   "remaining",
+   "रहना",
+   "pres.part. m.sg"
+  ],
+  "161": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "164": [
+   "whose",
+   "जिसका",
+   "pron. obl."
+  ],
+  "166": [
+   "dreams",
+   "ख़ाब",
+   "m.pl"
+  ],
+  "168": [
+   "country",
+   "मुल्क",
+   "m.sg"
+  ],
+  "170": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "172": [
+   "betterment",
+   "बेहतरी",
+   "f.sg"
+  ],
+  "174": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "176": [
+   "sacrifice",
+   "नज़्र",
+   "f.sg"
+  ],
+  "178": [
+   "become",
+   "होना",
+   "conj. participle"
+  ],
+  "180": [
+   "finished",
+   "चुकना",
+   "perf. pl"
+  ],
+  "182": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "185": [
+   "whose",
+   "जिसका",
+   "pron. obl."
+  ],
+  "187": [
+   "emotions",
+   "जज़्बात",
+   "m.pl"
+  ],
+  "189": [
+   "religion",
+   "मज़हब",
+   "m.sg"
+  ],
+  "191": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "193": [
+   "humanity",
+   "इन्सानियत",
+   "f.sg"
+  ],
+  "195": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "197": [
+   "immersed",
+   "ग़र्क़",
+   "adj."
+  ],
+  "199": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "204": [
+   "this",
+   "यह",
+   "demonstrative pron."
+  ],
+  "206": [
+   "all",
+   "सब",
+   "pron."
+  ],
+  "208": [
+   "some",
+   "कुछ",
+   "pron."
+  ],
+  "210": [
+   "useless",
+   "बेकार",
+   "adj."
+  ],
+  "212": [
+   "completely",
+   "बिलकुल",
+   "adverb"
+  ],
+  "214": [
+   "useless",
+   "बेकार",
+   "adj."
+  ],
+  "216": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "221": [
+   "bullock cart",
+   "बैलगाड़ी",
+   "f.sg"
+  ],
+  "223": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "225": [
+   "creak",
+   "चूं",
+   "onomatopoeia"
+  ],
+  "227": [
+   "creak",
+   "चूं",
+   "onomatopoeia"
+  ],
+  "229": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "231": [
+   "scrawny",
+   "मरियल",
+   "adj."
+  ],
+  "233": [
+   "horse",
+   "घोड़ा",
+   "m.sg"
+  ],
+  "235": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "237": [
+   "hooves",
+   "टाप",
+   "f.pl"
+  ],
+  "239": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "241": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "243": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "245": [
+   "this",
+   "यह",
+   "demonstrative pron. obl."
+  ],
+  "247": [
+   "than",
+   "से",
+   "postposition"
+  ],
+  "249": [
+   "more",
+   "ज़्यादा",
+   "adverb"
+  ],
+  "251": [
+   "effect",
+   "असर",
+   "m.sg"
+  ],
+  "253": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "257": [
+   "this",
+   "यह",
+   "demonstrative pron."
+  ],
+  "259": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "261": [
+   "any",
+   "कोई",
+   "indef. pron."
+  ],
+  "263": [
+   "world",
+   "दुनिया",
+   "f.sg"
+  ],
+  "265": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "270": [
+   "this",
+   "यह",
+   "demonstrative pron."
+  ],
+  "272": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "274": [
+   "any",
+   "कोई",
+   "indef. pron."
+  ],
+  "276": [
+   "world",
+   "दुनिया",
+   "f.sg"
+  ],
+  "278": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "284": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "286": [
+   "chair",
+   "कुर्सी",
+   "f.sg"
+  ],
+  "288": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "290": [
+   "swaying",
+   "झूमना",
+   "pres.part. f.sg"
+  ],
+  "292": [
+   "remaining",
+   "रहना",
+   "pres.part. f.sg"
+  ],
+  "294": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    6,
+    8,
+    10
+   ],
+   "type": "conjunct_verb",
+   "literal": "madman says is",
+   "meaning": "calls mad",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    16,
+    18,
+    20,
+    22
+   ],
+   "type": "postposition",
+   "literal": "own time from before",
+   "meaning": "before his time",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    28,
+    30,
+    32
+   ],
+   "type": "conjunct_verb",
+   "literal": "bewildered become went",
+   "meaning": "became bewildered",
+   "note": "हो जाना adds completion/suddenness",
+   "source": "model"
+  },
+  {
+   "idx": [
+    65,
+    67,
+    69
+   ],
+   "type": "conjunct_verb",
+   "literal": "like-minded become will go",
+   "meaning": "will become like-minded / will agree",
+   "note": "हो जाना adds completion/change of state",
+   "source": "model"
+  },
+  {
+   "idx": [
+    104,
+    106,
+    108,
+    110
+   ],
+   "type": "conjunct_verb",
+   "literal": "half dead having done gave",
+   "meaning": "made me half-dead",
+   "note": "कर देना implies completion or doing something for someone",
+   "source": "model"
+  },
+  {
+   "idx": [
+    115,
+    117,
+    119,
+    121
+   ],
+   "type": "conjunct_verb",
+   "literal": "known become went",
+   "meaning": "realized / came to know",
+   "note": "हो जाना adds completion/change of state",
+   "source": "model"
+  },
+  {
+   "idx": [
+    129,
+    131
+   ],
+   "type": "phrase",
+   "literal": "scream cry",
+   "meaning": "cries and shouts",
+   "note": "A common collocation for expressing distress.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    135,
+    137,
+    139
+   ],
+   "type": "phrase",
+   "literal": "throbbing being heart",
+   "meaning": "throbbing heart",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    155,
+    157,
+    159,
+    161
+   ],
+   "type": "compound_verb",
+   "literal": "waves hitting remaining is",
+   "meaning": "is surging (like waves)",
+   "note": "मारना (to hit) + रहना (to remain) indicates continuous action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    176,
+    178,
+    180,
+    182
+   ],
+   "type": "conjunct_verb",
+   "literal": "sacrifice become finished are",
+   "meaning": "have been sacrificed",
+   "note": "नज़्र होना means to be sacrificed or offered.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    197,
+    199
+   ],
+   "type": "conjunct_verb",
+   "literal": "immersed are",
+   "meaning": "are immersed",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    225,
+    227
+   ],
+   "type": "phrase",
+   "literal": "creak creak",
+   "meaning": "creaking sound",
+   "note": "Onomatopoeic expression for a creaking sound.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    237,
+    239
+   ],
+   "type": "phrase",
+   "literal": "hooves in",
+   "meaning": "hooves",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    257,
+    259,
+    261,
+    263,
+    265
+   ],
+   "type": "phrase",
+   "literal": "this even any world is",
+   "meaning": "Is this even a world?",
+   "note": "Rhetorical question expressing disdain or disappointment.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    270,
+    272,
+    274,
+    276,
+    278
+   ],
+   "type": "phrase",
+   "literal": "this even any world is",
+   "meaning": "Is this even a world?",
+   "note": "Rhetorical question expressing disdain or disappointment, repeated for emphasis.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    290,
+    292,
+    294
+   ],
+   "type": "compound_verb",
+   "literal": "swaying remaining was",
+   "meaning": "was swaying",
+   "note": "झूमना (to sway) + रहना (to remain) indicates continuous action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

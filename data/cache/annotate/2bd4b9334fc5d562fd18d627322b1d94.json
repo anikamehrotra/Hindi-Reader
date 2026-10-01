@@ -1,0 +1,228 @@
+{
+ "translation": "If only you had a little courage to think. You start arguing. But anyway, what's the mention of Masood at this time? I am talking to Kishwar. Who is Kishwar?",
+ "words": {
+  "1": [
+   "you",
+   "तुम",
+   "2nd pl. pron."
+  ],
+  "3": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "5": [
+   "if only",
+   "काश",
+   "particle"
+  ],
+  "7": [
+   "a little",
+   "ज़रा",
+   "adv."
+  ],
+  "9": [
+   "to think",
+   "सोचना",
+   "inf. verb"
+  ],
+  "11": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "13": [
+   "courage",
+   "हिम्मत",
+   "f. noun"
+  ],
+  "15": [
+   "were",
+   "होना",
+   "past subj. 3sg f"
+  ],
+  "20": [
+   "argument",
+   "बहस",
+   "f. noun"
+  ],
+  "22": [
+   "to do",
+   "करना",
+   "inf. verb"
+  ],
+  "24": [
+   "start",
+   "लगना",
+   "pres. part. f.sg"
+  ],
+  "26": [
+   "are",
+   "होना",
+   "pres. 2nd pl."
+  ],
+  "28": [
+   "but",
+   "मगर",
+   "conj."
+  ],
+  "33": [
+   "anyway",
+   "ख़ैर",
+   "adv."
+  ],
+  "35": [
+   "this",
+   "यह",
+   "pron."
+  ],
+  "37": [
+   "this",
+   "यह",
+   "obl. pron."
+  ],
+  "39": [
+   "time",
+   "वक़्त",
+   "m. noun"
+  ],
+  "41": [
+   "Masood",
+   "मसऊद",
+   "m. noun"
+  ],
+  "43": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "45": [
+   "what",
+   "क्या",
+   "interrog. pron."
+  ],
+  "47": [
+   "mention",
+   "ज़िक्र",
+   "m. noun"
+  ],
+  "52": [
+   "I",
+   "मैं",
+   "1st sg. pron."
+  ],
+  "54": [
+   "emphatic",
+   "तो",
+   "particle"
+  ],
+  "56": [
+   "Kishwar",
+   "किश्वर",
+   "f. noun"
+  ],
+  "58": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "60": [
+   "saying",
+   "कहना",
+   "pres. part."
+  ],
+  "62": [
+   "staying",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "64": [
+   "am",
+   "होना",
+   "pres. 1st sg."
+  ],
+  "69": [
+   "who",
+   "कौन",
+   "interrog. pron."
+  ],
+  "71": [
+   "Kishwar",
+   "किश्वर",
+   "f. noun"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    9,
+    11,
+    13
+   ],
+   "type": "conjunct_verb",
+   "literal": "to think of courage",
+   "meaning": "to have the courage to think",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    20,
+    22
+   ],
+   "type": "conjunct_verb",
+   "literal": "to do argument",
+   "meaning": "to argue",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    20,
+    22,
+    24,
+    26
+   ],
+   "type": "compound_verb",
+   "literal": "to start doing argument are",
+   "meaning": "you start arguing",
+   "note": "लगना as a vector verb indicates the beginning of an action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    37,
+    39
+   ],
+   "type": "phrase",
+   "literal": "this time",
+   "meaning": "at this time",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    45,
+    47
+   ],
+   "type": "conjunct_verb",
+   "literal": "what mention",
+   "meaning": "what is the mention/point",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    60,
+    62,
+    64
+   ],
+   "type": "compound_verb",
+   "literal": "saying staying am",
+   "meaning": "I am saying/talking",
+   "note": "रहना as a vector verb indicates continuous action",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

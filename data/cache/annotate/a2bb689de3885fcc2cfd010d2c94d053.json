@@ -1,0 +1,214 @@
+{
+ "translation": "Oh, she says she'll eat poison, but besides Rufi... Despite the restraint, my throat choked up. Oh, but which poison will she eat? In my opinion, cyanide will be fine.",
+ "words": {
+  "1": [
+   "oh",
+   "अरे",
+   "interjection"
+  ],
+  "6": [
+   "she says",
+   "कहना",
+   "pres. part. f.sg"
+  ],
+  "8": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "10": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "12": [
+   "poison",
+   "ज़हर",
+   "n.sg"
+  ],
+  "14": [
+   "eat",
+   "खाना",
+   "verb stem"
+  ],
+  "16": [
+   "I will take",
+   "लेना",
+   "fut. 1sg f"
+  ],
+  "18": [
+   "but",
+   "मगर",
+   "conjunction"
+  ],
+  "20": [
+   "Rufi",
+   "रूफ़ी",
+   "n.prop"
+  ],
+  "22": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "24": [
+   "besides",
+   "सिवा",
+   "postposition"
+  ],
+  "30": [
+   "despite",
+   "बावजूद",
+   "postposition"
+  ],
+  "32": [
+   "restraint",
+   "ज़ब्त",
+   "n.m"
+  ],
+  "34": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "36": [
+   "my",
+   "मैं",
+   "poss. 1sg"
+  ],
+  "38": [
+   "throat",
+   "गला",
+   "n.m.sg"
+  ],
+  "40": [
+   "choked",
+   "घुटना",
+   "perf. m.sg"
+  ],
+  "42": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "46": [
+   "oh",
+   "अरे",
+   "interjection"
+  ],
+  "51": [
+   "but",
+   "मगर",
+   "conjunction"
+  ],
+  "53": [
+   "which",
+   "कौन",
+   "interrog. pron."
+  ],
+  "55": [
+   "like",
+   "सा",
+   "emphatic particle"
+  ],
+  "57": [
+   "poison",
+   "ज़हर",
+   "n.sg"
+  ],
+  "59": [
+   "will eat",
+   "खाना",
+   "fut. 3sg f"
+  ],
+  "64": [
+   "my",
+   "मेरा",
+   "poss. 1sg"
+  ],
+  "66": [
+   "opinion",
+   "ख़्याल",
+   "n.m.sg"
+  ],
+  "68": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "70": [
+   "cyanide",
+   "साइनाईड",
+   "n.sg"
+  ],
+  "72": [
+   "fine",
+   "ठीक",
+   "adj"
+  ],
+  "74": [
+   "will remain/be",
+   "रहना",
+   "fut. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    14,
+    16
+   ],
+   "type": "compound_verb",
+   "literal": "eat take",
+   "meaning": "I will eat (emphatic/completive)",
+   "note": "लेना as a vector verb adds a sense of completion or resolve to the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    22,
+    24
+   ],
+   "type": "postposition",
+   "literal": "of besides",
+   "meaning": "besides",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    30,
+    34
+   ],
+   "type": "postposition",
+   "literal": "despite of",
+   "meaning": "despite",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    40,
+    42
+   ],
+   "type": "compound_verb",
+   "literal": "choked went",
+   "meaning": "choked up (completive)",
+   "note": "जाना as a vector verb indicates completion or a sudden change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    64,
+    66,
+    68
+   ],
+   "type": "phrase",
+   "literal": "in my opinion",
+   "meaning": "in my opinion",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

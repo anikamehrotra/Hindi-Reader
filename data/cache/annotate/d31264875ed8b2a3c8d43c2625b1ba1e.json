@@ -1,0 +1,922 @@
+{
+ "translation": "Just at the mention of Saeed's name, I start to feel restless. You are a person with a soul like Rahat. You made an excellent point that you once showed me kindness. You can guess from my answer what happened to him. First, he was a little surprised, then very surprised, and then even more so. Later, I heard that he was very ashamed of his mistake. He said to his conscience that he had misunderstood me. I thought that perhaps I had pitied him. God knows what right he had to pity me, and what kind of pity it was, that has not become clear to me even today. Here, this long story turned out to be about Saeed only. I said, didn't I, that even if I just talk, these people of the world mess that up too.",
+ "words": {
+  "0": [
+   "Saeed",
+   "सईद",
+   ""
+  ],
+  "2": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "4": [
+   "name",
+   "नाम",
+   "n.m.sg"
+  ],
+  "6": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "8": [
+   "my",
+   "मेरा",
+   "poss. pron. m.sg"
+  ],
+  "10": [
+   "body",
+   "बदन",
+   "n.m.sg"
+  ],
+  "12": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "14": [
+   "moths",
+   "पतंगा",
+   "n.m.pl"
+  ],
+  "16": [
+   "to be attached",
+   "लगना",
+   "v.inf"
+  ],
+  "18": [
+   "to begin",
+   "लगना",
+   "v.perf.pl"
+  ],
+  "20": [
+   "are",
+   "होना",
+   "v.pres.3pl"
+  ],
+  "23": [
+   "you",
+   "आप",
+   "pron.2pl.hon"
+  ],
+  "25": [
+   "a",
+   "एक",
+   "adj"
+  ],
+  "27": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "29": [
+   "Rahat",
+   "राहत",
+   "n.f.sg"
+  ],
+  "31": [
+   "like",
+   "जैसा",
+   "postposition"
+  ],
+  "33": [
+   "soul",
+   "रूह",
+   "n.f.sg"
+  ],
+  "35": [
+   "to keep",
+   "रखना",
+   "v.inf"
+  ],
+  "37": [
+   "one who",
+   "वाला",
+   "suffix"
+  ],
+  "39": [
+   "person",
+   "इन्सान",
+   "n.m.sg"
+  ],
+  "41": [
+   "are",
+   "होना",
+   "v.pres.3pl"
+  ],
+  "44": [
+   "you",
+   "आप",
+   "pron.2pl.hon"
+  ],
+  "46": [
+   "excellent",
+   "कमाल",
+   "adj"
+  ],
+  "48": [
+   "said",
+   "फ़रमाना",
+   "v.perf.m.sg.hon"
+  ],
+  "50": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "52": [
+   "one",
+   "एक",
+   "adj"
+  ],
+  "54": [
+   "time",
+   "दफ़ा",
+   "n.f.sg"
+  ],
+  "56": [
+   "me",
+   "मैं",
+   "pron.1sg.obl"
+  ],
+  "58": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "60": [
+   "kindness",
+   "इनायत",
+   "n.f.sg"
+  ],
+  "62": [
+   "did",
+   "करना",
+   "v.perf.f.sg"
+  ],
+  "65": [
+   "excellent",
+   "कमाल",
+   "adj"
+  ],
+  "70": [
+   "my",
+   "मेरा",
+   "poss. pron. m.sg"
+  ],
+  "72": [
+   "answer",
+   "जवाब",
+   "n.m.sg"
+  ],
+  "74": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "76": [
+   "you",
+   "आप",
+   "pron.2pl.hon"
+  ],
+  "78": [
+   "guess",
+   "अंदाज़ा",
+   "n.m.sg"
+  ],
+  "80": [
+   "make",
+   "लगाना",
+   "v.stem"
+  ],
+  "82": [
+   "can",
+   "सकना",
+   "v.pres.3pl"
+  ],
+  "84": [
+   "are",
+   "होना",
+   "v.pres.3pl"
+  ],
+  "86": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "88": [
+   "his",
+   "वह",
+   "pron.3pl.obl"
+  ],
+  "90": [
+   "what",
+   "क्या",
+   "pron.int"
+  ],
+  "92": [
+   "condition",
+   "हाल",
+   "n.m.sg"
+  ],
+  "94": [
+   "became",
+   "होना",
+   "v.perf.m.sg"
+  ],
+  "96": [
+   "would have",
+   "होना",
+   "v.fut.3sg"
+  ],
+  "99": [
+   "first",
+   "पहला",
+   "adj"
+  ],
+  "101": [
+   "then",
+   "तो",
+   "emphatic"
+  ],
+  "103": [
+   "a little",
+   "ज़रा",
+   "adv"
+  ],
+  "105": [
+   "surprised",
+   "मुतअज्जिब",
+   "adj"
+  ],
+  "107": [
+   "surprised",
+   "मुतअज्जिब",
+   "adj"
+  ],
+  "109": [
+   "became",
+   "होना",
+   "v.perf.pl"
+  ],
+  "114": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "116": [
+   "very",
+   "ख़ूब",
+   "adv"
+  ],
+  "118": [
+   "surprised",
+   "मुतअज्जिब",
+   "adj"
+  ],
+  "120": [
+   "surprised",
+   "मुतअज्जिब",
+   "adj"
+  ],
+  "122": [
+   "became",
+   "होना",
+   "v.perf.pl"
+  ],
+  "125": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "127": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "129": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "131": [
+   "more",
+   "ज़्यादा",
+   "adv"
+  ],
+  "133": [
+   "became",
+   "होना",
+   "v.perf.pl"
+  ],
+  "136": [
+   "later",
+   "बाद",
+   "n.f.sg"
+  ],
+  "138": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "140": [
+   "heard",
+   "सुनना",
+   "v.perf.m.sg"
+  ],
+  "142": [
+   "his own",
+   "अपना",
+   "poss.pron.m.sg"
+  ],
+  "144": [
+   "mistake",
+   "ग़लती",
+   "n.f.sg"
+  ],
+  "146": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "148": [
+   "very",
+   "बहुत",
+   "adv"
+  ],
+  "150": [
+   "ashamed",
+   "शर्मिंदा",
+   "adj"
+  ],
+  "152": [
+   "became",
+   "होना",
+   "v.perf.pl"
+  ],
+  "155": [
+   "conscience",
+   "ज़मीर",
+   "n.m.sg"
+  ],
+  "157": [
+   "to",
+   "से",
+   "postposition"
+  ],
+  "159": [
+   "said",
+   "बोलना",
+   "v.perf.m.pl"
+  ],
+  "161": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "163": [
+   "I",
+   "मैं",
+   "pron.1sg"
+  ],
+  "165": [
+   "him",
+   "वह",
+   "pron.3pl.obl"
+  ],
+  "167": [
+   "wrong",
+   "ग़लत",
+   "adj"
+  ],
+  "169": [
+   "understood",
+   "समझना",
+   "v.perf.m.sg"
+  ],
+  "171": [
+   "was",
+   "होना",
+   "v.past.1sg"
+  ],
+  "174": [
+   "I",
+   "मैं",
+   "pron.1sg"
+  ],
+  "176": [
+   "thought",
+   "समझना",
+   "v.impf.1sg"
+  ],
+  "178": [
+   "was",
+   "होना",
+   "v.past.1sg"
+  ],
+  "180": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "182": [
+   "perhaps",
+   "शायद",
+   "adv"
+  ],
+  "187": [
+   "me",
+   "मैं",
+   "pron.1sg.obl"
+  ],
+  "189": [
+   "him",
+   "वह",
+   "pron.3pl.obl"
+  ],
+  "191": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "193": [
+   "pity",
+   "तरस",
+   "n.m.sg"
+  ],
+  "195": [
+   "came",
+   "आना",
+   "v.perf.m.sg"
+  ],
+  "197": [
+   "was",
+   "होना",
+   "v.past.1sg"
+  ],
+  "202": [
+   "God",
+   "ख़ुदा",
+   "n.m.sg"
+  ],
+  "204": [
+   "knows",
+   "जानना",
+   "v.pres.3sg"
+  ],
+  "206": [
+   "this",
+   "यह",
+   "pron.dem"
+  ],
+  "208": [
+   "him",
+   "वह",
+   "pron.3pl.obl"
+  ],
+  "210": [
+   "me",
+   "मैं",
+   "pron.1sg.obl"
+  ],
+  "212": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "214": [
+   "pity",
+   "तरस",
+   "n.m.sg"
+  ],
+  "216": [
+   "to eat",
+   "खाना",
+   "v.inf"
+  ],
+  "218": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "220": [
+   "what",
+   "क्या",
+   "pron.int"
+  ],
+  "222": [
+   "right",
+   "हक़",
+   "n.m.sg"
+  ],
+  "224": [
+   "was",
+   "होना",
+   "v.past.3sg"
+  ],
+  "226": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "228": [
+   "what kind of",
+   "कैसा",
+   "adj"
+  ],
+  "230": [
+   "pity",
+   "तरस",
+   "n.m.sg"
+  ],
+  "232": [
+   "this",
+   "यह",
+   "pron.dem"
+  ],
+  "234": [
+   "me",
+   "मैं",
+   "pron.1sg.obl"
+  ],
+  "236": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "238": [
+   "today",
+   "आज",
+   "adv"
+  ],
+  "240": [
+   "until",
+   "तक",
+   "postposition"
+  ],
+  "242": [
+   "clear",
+   "वाज़ेह",
+   "adj"
+  ],
+  "244": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "246": [
+   "became",
+   "होना",
+   "v.perf.m.sg"
+  ],
+  "249": [
+   "here",
+   "लेना",
+   "v.imp.2pl.hon"
+  ],
+  "251": [
+   "this much",
+   "इतना",
+   "adj"
+  ],
+  "253": [
+   "long",
+   "लंबा",
+   "adj"
+  ],
+  "255": [
+   "story",
+   "क़िस्सा",
+   "n.m.sg"
+  ],
+  "257": [
+   "Saeed",
+   "सईद",
+   ""
+  ],
+  "259": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "261": [
+   "only",
+   "ही",
+   "emphatic"
+  ],
+  "263": [
+   "be",
+   "होना",
+   "v.stem"
+  ],
+  "265": [
+   "went",
+   "जाना",
+   "v.perf.m.sg"
+  ],
+  "268": [
+   "that",
+   "वह",
+   "pron.dem"
+  ],
+  "270": [
+   "then",
+   "तो",
+   "emphatic"
+  ],
+  "272": [
+   "I",
+   "मैं",
+   "pron.1sg"
+  ],
+  "274": [
+   "said",
+   "कहना",
+   "v.perf.m.sg"
+  ],
+  "276": [
+   "didn't I",
+   "ना",
+   "particle"
+  ],
+  "278": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "280": [
+   "I",
+   "मैं",
+   "pron.1sg"
+  ],
+  "282": [
+   "then",
+   "तो",
+   "emphatic"
+  ],
+  "284": [
+   "talk",
+   "बात",
+   "n.f.sg"
+  ],
+  "286": [
+   "even",
+   "भी",
+   "emphatic"
+  ],
+  "288": [
+   "do",
+   "करना",
+   "v.sub.1sg"
+  ],
+  "290": [
+   "then",
+   "तो",
+   "emphatic"
+  ],
+  "292": [
+   "that",
+   "वह",
+   "pron.3sg.obl"
+  ],
+  "294": [
+   "even",
+   "भी",
+   "emphatic"
+  ],
+  "296": [
+   "mess up",
+   "गड़बड़ाना",
+   "v.stem"
+  ],
+  "298": [
+   "give",
+   "देना",
+   "v.pres.3pl"
+  ],
+  "300": [
+   "are",
+   "होना",
+   "v.pres.3pl"
+  ],
+  "302": [
+   "these",
+   "यह",
+   "pron.dem.pl"
+  ],
+  "304": [
+   "world",
+   "दुनिया",
+   "n.f.sg"
+  ],
+  "306": [
+   "people",
+   "वाला",
+   "suffix"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    14,
+    16,
+    18,
+    20
+   ],
+   "type": "idiom",
+   "literal": "moths begin to attach in the body",
+   "meaning": "to feel restless/agitated/annoyed",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    31,
+    33,
+    35,
+    37,
+    39
+   ],
+   "type": "phrase",
+   "literal": "a person keeping a soul like Rahat",
+   "meaning": "a person with a kind/compassionate soul like Rahat",
+   "note": "Rahat is a name, but also means comfort/relief, implying a kind soul.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    46,
+    48
+   ],
+   "type": "conjunct_verb",
+   "literal": "made excellence",
+   "meaning": "made an excellent point/said something excellent",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    60,
+    62
+   ],
+   "type": "conjunct_verb",
+   "literal": "did kindness",
+   "meaning": "showed kindness",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    78,
+    80,
+    82,
+    84
+   ],
+   "type": "compound_verb",
+   "literal": "can make a guess",
+   "meaning": "can guess",
+   "note": "लगाना (to apply/make) acts as a vector verb here.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    94,
+    96
+   ],
+   "type": "compound_verb",
+   "literal": "would have become",
+   "meaning": "would have happened",
+   "note": "होगा adds a sense of conjecture or probability.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    105,
+    107,
+    109
+   ],
+   "type": "conjunct_verb",
+   "literal": "became surprised",
+   "meaning": "was surprised",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    118,
+    120,
+    122
+   ],
+   "type": "conjunct_verb",
+   "literal": "became surprised",
+   "meaning": "was surprised",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    150,
+    152
+   ],
+   "type": "conjunct_verb",
+   "literal": "became ashamed",
+   "meaning": "was ashamed",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    159,
+    161
+   ],
+   "type": "conjunct_verb",
+   "literal": "said that",
+   "meaning": "said that",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    193,
+    195
+   ],
+   "type": "conjunct_verb",
+   "literal": "pity came",
+   "meaning": "felt pity",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    214,
+    216,
+    218
+   ],
+   "type": "conjunct_verb",
+   "literal": "to eat pity of",
+   "meaning": "to pity",
+   "note": "तरस खाना is an idiom meaning 'to pity'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    242,
+    246
+   ],
+   "type": "conjunct_verb",
+   "literal": "did not become clear",
+   "meaning": "did not become clear",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    249
+   ],
+   "type": "phrase",
+   "literal": "take it",
+   "meaning": "here it is / there you go",
+   "note": "Used to present something or draw attention.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    263,
+    265
+   ],
+   "type": "compound_verb",
+   "literal": "became gone",
+   "meaning": "turned out to be",
+   "note": "जाना (to go) acts as a vector verb, indicating completion or transformation.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    296,
+    298,
+    300
+   ],
+   "type": "compound_verb",
+   "literal": "give mess up",
+   "meaning": "mess up",
+   "note": "देना (to give) acts as a vector verb, indicating completion or intensity.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    302,
+    304,
+    306
+   ],
+   "type": "phrase",
+   "literal": "these people of the world",
+   "meaning": "these worldly people",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

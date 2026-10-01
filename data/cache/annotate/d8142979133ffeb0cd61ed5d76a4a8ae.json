@@ -1,0 +1,105 @@
+{
+ "translation": "Rajkamal Prakashan, New Delhi, Patna. Transliteration by Tahir Hussain, Muin Ejaz, Anwar Pasha. Revision by Naresh Nadeem.",
+ "words": {
+  "0": [
+   "Rajkamal",
+   "राजकमल",
+   ""
+  ],
+  "2": [
+   "Prakashan (Publishers)",
+   "प्रकाशन",
+   "m.sg"
+  ],
+  "4": [
+   "New",
+   "नया",
+   "adj. f.sg"
+  ],
+  "6": [
+   "Delhi",
+   "दिल्ली",
+   "f.sg"
+  ],
+  "8": [
+   "Patna",
+   "पटना",
+   "m.sg"
+  ],
+  "10": [
+   "transliteration",
+   "लिप्यंतरण",
+   "m.sg"
+  ],
+  "14": [
+   "Tahir",
+   "ताहिर",
+   ""
+  ],
+  "16": [
+   "Hussain",
+   "हुसैन",
+   ""
+  ],
+  "18": [
+   "Muin",
+   "मुईन",
+   ""
+  ],
+  "20": [
+   "Ejaz",
+   "एजाज़",
+   ""
+  ],
+  "22": [
+   "Anwar",
+   "अनवर",
+   ""
+  ],
+  "24": [
+   "Pasha",
+   "पाशा",
+   ""
+  ],
+  "26": [
+   "revision",
+   "पुनरीक्षण",
+   "m.sg"
+  ],
+  "30": [
+   "Naresh",
+   "नरेश",
+   ""
+  ],
+  "33": [
+   "Nadeem",
+   "नदीम",
+   ""
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    0,
+    2
+   ],
+   "type": "phrase",
+   "literal": "Rajkamal Publication",
+   "meaning": "Name of a publishing house",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    4,
+    6
+   ],
+   "type": "phrase",
+   "literal": "New Delhi",
+   "meaning": "New Delhi (city)",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

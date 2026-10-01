@@ -1,0 +1,102 @@
+{
+ "translation": "He stopped mid-sentence. Bishan Singh began to remember something. His daughter Roop Kaur...",
+ "words": {
+  "0": [
+   "he",
+   "वह",
+   "pron. m.sg"
+  ],
+  "2": [
+   "something",
+   "कुछ",
+   "indef. pron."
+  ],
+  "4": [
+   "while speaking",
+   "कहना",
+   "conj. participle"
+  ],
+  "6": [
+   "stopped",
+   "रुकना",
+   "perf. m.sg"
+  ],
+  "8": [
+   "went (auxiliary)",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "12": [
+   "Bishan",
+   "बिशन",
+   "noun m.sg"
+  ],
+  "14": [
+   "Singh",
+   "सिंह",
+   "noun m.sg"
+  ],
+  "16": [
+   "something",
+   "कुछ",
+   "indef. pron."
+  ],
+  "18": [
+   "memory",
+   "याद",
+   "noun f.sg"
+  ],
+  "20": [
+   "to do",
+   "करना",
+   "inf. obl."
+  ],
+  "22": [
+   "began",
+   "लगना",
+   "perf. m.sg"
+  ],
+  "26": [
+   "daughter",
+   "बेटी",
+   "noun f.sg"
+  ],
+  "28": [
+   "Roop",
+   "रूप",
+   "noun f.sg"
+  ],
+  "30": [
+   "Kaur",
+   "कौर",
+   "noun f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6,
+    8
+   ],
+   "type": "compound_verb",
+   "literal": "saying-saying stopped went",
+   "meaning": "stopped mid-sentence",
+   "note": "कहते-कहते is a reduplicated participle indicating an action in progress, रुक गया is a compound verb meaning 'stopped'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    18,
+    20,
+    22
+   ],
+   "type": "conjunct_verb",
+   "literal": "memory to do began",
+   "meaning": "began to remember",
+   "note": "याद करना is a conjunct verb meaning 'to remember'. लगना as a vector verb indicates the beginning of an action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

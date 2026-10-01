@@ -1,0 +1,422 @@
+{
+ "translation": "“Your world, Rahat, your world is on the tennis court,” I said bitterly. “Whose? Mine? Do you mean Zameer? Repent! He is your brother, but he is an owl. Sorry, I swear to God, he swings his hand as if he is playing football instead of tennis. And then the fun part is that if you don't play with him, then that's it…”",
+ "words": {
+  "1": [
+   "your",
+   "तुम",
+   "2nd pl. poss. f.sg"
+  ],
+  "3": [
+   "world",
+   "दुनिया",
+   "n.f.sg"
+  ],
+  "8": [
+   "Rahat",
+   "राहत",
+   "n.f.sg"
+  ],
+  "10": [
+   "your",
+   "तुम",
+   "2nd pl. poss. f.sg"
+  ],
+  "12": [
+   "world",
+   "दुनिया",
+   "n.f.sg"
+  ],
+  "14": [
+   "emphatic particle",
+   "तो",
+   "emphatic particle"
+  ],
+  "16": [
+   "tennis",
+   "टेनिस",
+   "n.m.sg"
+  ],
+  "18": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "20": [
+   "court",
+   "कोर्ट",
+   "n.m.sg"
+  ],
+  "22": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "24": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "28": [
+   "I",
+   "मैं",
+   "pron.1st sg.obl"
+  ],
+  "30": [
+   "bitterness",
+   "तल्ख़ी",
+   "n.f.sg"
+  ],
+  "32": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "34": [
+   "said",
+   "कहना",
+   "v.perf.m.sg"
+  ],
+  "38": [
+   "whose",
+   "कौन",
+   "pron.interrog.obl"
+  ],
+  "43": [
+   "mine",
+   "मेरा",
+   "pron.1st sg.poss.f.sg"
+  ],
+  "49": [
+   "your",
+   "तुम",
+   "2nd pl.poss.m.sg"
+  ],
+  "51": [
+   "meaning",
+   "मतलब",
+   "n.m.sg"
+  ],
+  "53": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "55": [
+   "Zameer",
+   "ज़मीर",
+   "n.m.sg"
+  ],
+  "58": [
+   "repentance",
+   "तौबा",
+   "n.f.sg"
+  ],
+  "60": [
+   "do",
+   "करना",
+   "v.imp.2pl"
+  ],
+  "63": [
+   "he",
+   "वह",
+   "pron.3rd sg"
+  ],
+  "65": [
+   "emphatic particle",
+   "तो",
+   "emphatic particle"
+  ],
+  "67": [
+   "your",
+   "तुम",
+   "2nd pl.poss.m.sg"
+  ],
+  "69": [
+   "brother",
+   "भाई",
+   "n.m.sg"
+  ],
+  "71": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "73": [
+   "but",
+   "पर",
+   "conj"
+  ],
+  "75": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "77": [
+   "owl",
+   "चुग़द",
+   "n.m.sg"
+  ],
+  "82": [
+   "forgive",
+   "माफ़",
+   "adj"
+  ],
+  "84": [
+   "to do",
+   "करना",
+   "v.inf"
+  ],
+  "89": [
+   "God",
+   "अल्लाह",
+   "n.m.sg"
+  ],
+  "91": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "93": [
+   "oath",
+   "क़सम",
+   "n.f.sg"
+  ],
+  "95": [
+   "like this",
+   "ऐसा",
+   "adj.m.sg"
+  ],
+  "97": [
+   "hand",
+   "हाथ",
+   "n.m.sg"
+  ],
+  "99": [
+   "swings",
+   "चलाना",
+   "v.pres.3sg"
+  ],
+  "101": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "103": [
+   "as if",
+   "जैसा",
+   "conj"
+  ],
+  "105": [
+   "tennis",
+   "टेनिस",
+   "n.m.sg"
+  ],
+  "107": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "109": [
+   "instead of",
+   "बजाय",
+   "postposition"
+  ],
+  "111": [
+   "football",
+   "फूटबाल",
+   "n.m.sg"
+  ],
+  "113": [
+   "playing",
+   "खेलना",
+   "v.pres.part"
+  ],
+  "115": [
+   "staying",
+   "रहना",
+   "v.aux.pres.part.m.sg"
+  ],
+  "117": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "119": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "121": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "123": [
+   "fun",
+   "मज़ा",
+   "n.m.sg"
+  ],
+  "125": [
+   "this",
+   "यह",
+   "pron.dem.sg"
+  ],
+  "127": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "129": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "131": [
+   "if",
+   "अगर",
+   "conj"
+  ],
+  "133": [
+   "sir",
+   "जनाब",
+   "n.m.sg"
+  ],
+  "135": [
+   "with",
+   "का",
+   "postposition m.sg"
+  ],
+  "137": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "139": [
+   "not",
+   "ना",
+   "neg.particle"
+  ],
+  "141": [
+   "play",
+   "खेलना",
+   "v.imp.2pl"
+  ],
+  "143": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "148": [
+   "this",
+   "यह",
+   "pron.dem.sg"
+  ],
+  "150": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "155": [
+   "that's it",
+   "बस",
+   "adv"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    16,
+    18,
+    20,
+    22
+   ],
+   "type": "postposition",
+   "literal": "tennis of court on",
+   "meaning": "on the tennis court",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    30,
+    32
+   ],
+   "type": "postposition",
+   "literal": "bitterness with",
+   "meaning": "bitterly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    58,
+    60
+   ],
+   "type": "conjunct_verb",
+   "literal": "repentance do",
+   "meaning": "repent",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    82,
+    84
+   ],
+   "type": "conjunct_verb",
+   "literal": "forgive to do",
+   "meaning": "sorry",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    89,
+    91,
+    93
+   ],
+   "type": "phrase",
+   "literal": "God of oath",
+   "meaning": "I swear to God",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    103,
+    105,
+    107,
+    109
+   ],
+   "type": "postposition",
+   "literal": "as if tennis of instead",
+   "meaning": "instead of tennis",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    113,
+    115,
+    117
+   ],
+   "type": "compound_verb",
+   "literal": "playing staying is",
+   "meaning": "is playing",
+   "note": "रहना as a vector verb indicates continuity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    135,
+    137
+   ],
+   "type": "postposition",
+   "literal": "of with",
+   "meaning": "with",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

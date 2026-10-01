@@ -1,0 +1,137 @@
+{
+ "translation": "Fazaldeen said haltingly, \"Yes, she was fine too. She had gone with them.\"",
+ "words": {
+  "0": [
+   "Fazaldeen",
+   "फ़ज़लदीन",
+   ""
+  ],
+  "2": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "4": [
+   "haltingly",
+   "रुक-रुक",
+   "reduplication"
+  ],
+  "6": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "8": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "12": [
+   "yes",
+   "हाँ",
+   "interjection"
+  ],
+  "18": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "25": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "27": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "29": [
+   "fine",
+   "ठीक-ठाक",
+   "adj."
+  ],
+  "31": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "34": [
+   "their",
+   "वह",
+   "obl. pl. poss."
+  ],
+  "36": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "38": [
+   "emphatic particle",
+   "ही",
+   "emphatic particle"
+  ],
+  "40": [
+   "gone",
+   "चलना",
+   "perf. f.sg"
+  ],
+  "42": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "44": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6
+   ],
+   "type": "conjunct_verb",
+   "literal": "stop-stop having done",
+   "meaning": "haltingly, with pauses",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    31
+   ],
+   "type": "conjunct_verb",
+   "literal": "fine is",
+   "meaning": "is fine, is well",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    34,
+    36
+   ],
+   "type": "postposition",
+   "literal": "their with",
+   "meaning": "with them",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    40,
+    42
+   ],
+   "type": "compound_verb",
+   "literal": "walked went",
+   "meaning": "went (away)",
+   "note": "जाना acts as a vector verb indicating completion/finality of the action 'चलना'",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

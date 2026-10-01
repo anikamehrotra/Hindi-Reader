@@ -1,0 +1,805 @@
+{
+ "translation": "Yes, Baba, Sundarlal Babu said, \"There are many things in this world that I don't understand, but I consider that a true Ramrajya where a human being cannot even oppress himself. To be unjust to oneself is as great a sin as being unjust to another. Today too, Lord Ram has expelled Sita from the house just because she had stayed with Ravan. What was Sita's fault in this? Wasn't she also a victim of deceit and fraud, like many of our mothers and sisters? Is this about Sita's truth and untruth, or about the barbarity of the demon Ravan, whose ten heads were human, but one, the biggest head, was that of a donkey?\"",
+ "words": {
+  "1": [
+   "yes",
+   "हाँ",
+   ""
+  ],
+  "3": [
+   "Baba",
+   "बाबा",
+   "vocative"
+  ],
+  "7": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "prop. n."
+  ],
+  "9": [
+   "Babu",
+   "बाबू",
+   "honorific"
+  ],
+  "11": [
+   "said",
+   "ने",
+   "postposition, agentive"
+  ],
+  "13": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "17": [
+   "this",
+   "यह",
+   "pron. obl. sg"
+  ],
+  "19": [
+   "world",
+   "संसार",
+   "n. m. sg"
+  ],
+  "21": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "23": [
+   "many",
+   "बहुत",
+   "adv."
+  ],
+  "25": [
+   "many",
+   "सा",
+   "adj. f. pl"
+  ],
+  "27": [
+   "things",
+   "बात",
+   "n. f. pl"
+  ],
+  "29": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "31": [
+   "that",
+   "जो",
+   "pron. rel. pl"
+  ],
+  "33": [
+   "my",
+   "मेरा",
+   "pron. pos. f. sg"
+  ],
+  "35": [
+   "understanding",
+   "समझ",
+   "n. f. sg"
+  ],
+  "37": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "39": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "41": [
+   "come",
+   "आना",
+   "pres. 3pl f"
+  ],
+  "44": [
+   "but",
+   "पर",
+   "conj."
+  ],
+  "46": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "48": [
+   "true",
+   "सच्चा",
+   "adj. m. sg"
+  ],
+  "50": [
+   "Ramrajya",
+   "रामराज",
+   "n. m. sg"
+  ],
+  "52": [
+   "that",
+   "वह",
+   "pron. obl. sg"
+  ],
+  "54": [
+   "understand",
+   "समझना",
+   "pres. 1sg"
+  ],
+  "56": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "58": [
+   "in which",
+   "जो",
+   "pron. rel. obl. sg"
+  ],
+  "60": [
+   "human being",
+   "इनसान",
+   "n. m. sg"
+  ],
+  "62": [
+   "oneself",
+   "अपने-आप",
+   "pron. refl."
+  ],
+  "64": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "66": [
+   "even",
+   "भी",
+   "emphatic"
+  ],
+  "68": [
+   "oppression",
+   "जुल्म",
+   "n. m. sg"
+  ],
+  "70": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "72": [
+   "do",
+   "करना",
+   "conj. participle"
+  ],
+  "74": [
+   "can",
+   "सकना",
+   "pres. 3sg"
+  ],
+  "77": [
+   "to oneself",
+   "अपने-आपसे",
+   "pron. refl. + postposition"
+  ],
+  "79": [
+   "injustice",
+   "बेइंसाफी",
+   "n. f. sg"
+  ],
+  "81": [
+   "to do",
+   "करना",
+   "v. inf."
+  ],
+  "83": [
+   "as much",
+   "उतना",
+   "adv."
+  ],
+  "85": [
+   "emphatic",
+   "ही",
+   "emphatic"
+  ],
+  "87": [
+   "big",
+   "बड़ा",
+   "adj. m. sg"
+  ],
+  "89": [
+   "sin",
+   "पाप",
+   "n. m. sg"
+  ],
+  "91": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "93": [
+   "as much as",
+   "जितना",
+   "conj."
+  ],
+  "95": [
+   "any",
+   "कोई",
+   "pron. obl. sg"
+  ],
+  "97": [
+   "other",
+   "दूसरा",
+   "adj. m. sg"
+  ],
+  "99": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "101": [
+   "injustice",
+   "बेइंसाफी",
+   "n. f. sg"
+  ],
+  "103": [
+   "to do",
+   "करना",
+   "v. inf."
+  ],
+  "105": [
+   "today",
+   "आज",
+   "adv."
+  ],
+  "107": [
+   "even",
+   "भी",
+   "emphatic"
+  ],
+  "109": [
+   "Lord",
+   "भगवान",
+   "n. m. sg"
+  ],
+  "111": [
+   "Ram",
+   "राम",
+   "prop. n."
+  ],
+  "113": [
+   "agentive",
+   "ने",
+   "postposition"
+  ],
+  "115": [
+   "Sita",
+   "सीता",
+   "prop. n."
+  ],
+  "117": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "119": [
+   "house",
+   "घर",
+   "n. m. sg"
+  ],
+  "121": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "123": [
+   "expelled",
+   "निकालना",
+   "v. perf. m. sg"
+  ],
+  "125": [
+   "gave",
+   "देना",
+   "v. perf. m. sg"
+  ],
+  "127": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "130": [
+   "because",
+   "इसलिए",
+   "conj."
+  ],
+  "132": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "134": [
+   "she",
+   "वह",
+   "pron. 3sg f"
+  ],
+  "136": [
+   "Ravan",
+   "रावण",
+   "prop. n."
+  ],
+  "138": [
+   "of",
+   "का",
+   "postposition m. obl. sg"
+  ],
+  "140": [
+   "near",
+   "पास",
+   "n. m. sg"
+  ],
+  "142": [
+   "stayed",
+   "रहना",
+   "v. perf. f. sg"
+  ],
+  "144": [
+   "came",
+   "आना",
+   "v. perf. f. sg"
+  ],
+  "146": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "149": [
+   "in this",
+   "यह",
+   "pron. obl. sg"
+  ],
+  "151": [
+   "what",
+   "क्या",
+   "pron. interrogative"
+  ],
+  "153": [
+   "fault",
+   "कुसूर",
+   "n. m. sg"
+  ],
+  "155": [
+   "was",
+   "होना",
+   "past 3sg"
+  ],
+  "157": [
+   "Sita",
+   "सीता",
+   "prop. n."
+  ],
+  "159": [
+   "of",
+   "का",
+   "postposition f. sg"
+  ],
+  "163": [
+   "what",
+   "क्या",
+   "pron. interrogative"
+  ],
+  "165": [
+   "she",
+   "वह",
+   "pron. 3sg f"
+  ],
+  "167": [
+   "also",
+   "भी",
+   "emphatic"
+  ],
+  "169": [
+   "our",
+   "हमारा",
+   "pron. pos. f. pl"
+  ],
+  "171": [
+   "many",
+   "बहुत",
+   "adv."
+  ],
+  "173": [
+   "many",
+   "सा",
+   "adj. f. pl"
+  ],
+  "175": [
+   "mothers-sisters",
+   "माओं-बहनों",
+   "n. f. pl obl."
+  ],
+  "177": [
+   "of",
+   "का",
+   "postposition f. sg"
+  ],
+  "179": [
+   "like",
+   "तरह",
+   "n. f. sg"
+  ],
+  "181": [
+   "a",
+   "एक",
+   "numeral"
+  ],
+  "183": [
+   "deceit",
+   "छल",
+   "n. m. sg"
+  ],
+  "185": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "187": [
+   "fraud",
+   "कपट",
+   "n. m. sg"
+  ],
+  "189": [
+   "of",
+   "का",
+   "postposition f. sg"
+  ],
+  "191": [
+   "victim",
+   "शिकार",
+   "n. m. sg"
+  ],
+  "193": [
+   "not",
+   "न",
+   "negator"
+  ],
+  "195": [
+   "was",
+   "होना",
+   "past 3sg f"
+  ],
+  "199": [
+   "in this",
+   "यह",
+   "pron. obl. sg"
+  ],
+  "201": [
+   "Sita",
+   "सीता",
+   "prop. n."
+  ],
+  "203": [
+   "of",
+   "का",
+   "postposition m. obl. sg"
+  ],
+  "205": [
+   "truth",
+   "सत्य",
+   "n. m. sg"
+  ],
+  "207": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "209": [
+   "untruth",
+   "असत्य",
+   "n. m. sg"
+  ],
+  "211": [
+   "of",
+   "का",
+   "postposition f. sg"
+  ],
+  "213": [
+   "matter",
+   "बात",
+   "n. f. sg"
+  ],
+  "215": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "217": [
+   "or",
+   "या",
+   "conj."
+  ],
+  "219": [
+   "demon",
+   "राक्षस",
+   "n. m. sg"
+  ],
+  "221": [
+   "Ravan",
+   "रावण",
+   "prop. n."
+  ],
+  "223": [
+   "of",
+   "का",
+   "postposition m. obl. sg"
+  ],
+  "225": [
+   "barbarity",
+   "वहशीपन",
+   "n. m. sg"
+  ],
+  "227": [
+   "of",
+   "का",
+   "postposition f. sg"
+  ],
+  "230": [
+   "whose",
+   "जो",
+   "pron. rel. obl. sg"
+  ],
+  "232": [
+   "ten",
+   "दस",
+   "numeral"
+  ],
+  "234": [
+   "heads",
+   "सर",
+   "n. m. pl"
+  ],
+  "236": [
+   "human",
+   "इनसान",
+   "n. m. obl. pl"
+  ],
+  "238": [
+   "of",
+   "का",
+   "postposition m. pl"
+  ],
+  "240": [
+   "were",
+   "होना",
+   "past 3pl"
+  ],
+  "242": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "244": [
+   "one",
+   "एक",
+   "numeral"
+  ],
+  "246": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "248": [
+   "most",
+   "सब",
+   "adv. sup."
+  ],
+  "250": [
+   "big",
+   "बड़ा",
+   "adj. m. sg"
+  ],
+  "252": [
+   "head",
+   "सर",
+   "n. m. sg"
+  ],
+  "254": [
+   "donkey",
+   "गधा",
+   "n. m. obl. sg"
+  ],
+  "256": [
+   "of",
+   "का",
+   "postposition m. sg"
+  ],
+  "258": [
+   "was",
+   "होना",
+   "past 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    11,
+    13
+   ],
+   "type": "conjunct_verb",
+   "literal": "by said",
+   "meaning": "said",
+   "note": "ने is the agentive marker for transitive verbs in perfective aspect",
+   "source": "model"
+  },
+  {
+   "idx": [
+    33,
+    35,
+    37,
+    39,
+    41
+   ],
+   "type": "phrase",
+   "literal": "my understanding in not come",
+   "meaning": "I don't understand",
+   "note": "Common idiom for 'not understanding something'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    50,
+    52,
+    54,
+    56
+   ],
+   "type": "conjunct_verb",
+   "literal": "Ramrajya that understand am",
+   "meaning": "I consider that a Ramrajya",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    62,
+    64
+   ],
+   "type": "postposition",
+   "literal": "self on",
+   "meaning": "on oneself",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    72,
+    74
+   ],
+   "type": "compound_verb",
+   "literal": "do can",
+   "meaning": "can do",
+   "note": "सकना as vector verb indicating ability",
+   "source": "model"
+  },
+  {
+   "idx": [
+    77,
+    79,
+    81
+   ],
+   "type": "conjunct_verb",
+   "literal": "from oneself injustice to do",
+   "meaning": "to be unjust to oneself",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    83,
+    85,
+    87,
+    89,
+    91,
+    93
+   ],
+   "type": "phrase",
+   "literal": "that much only big sin is as much as",
+   "meaning": "is as great a sin as",
+   "note": "उतना ही ... जितना (as much ... as)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    101,
+    103
+   ],
+   "type": "conjunct_verb",
+   "literal": "injustice to do",
+   "meaning": "to be unjust",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    123,
+    125
+   ],
+   "type": "compound_verb",
+   "literal": "expelled gave",
+   "meaning": "expelled",
+   "note": "देना as vector verb indicating completion and benefit to the agent, or simply completion",
+   "source": "model"
+  },
+  {
+   "idx": [
+    130,
+    132
+   ],
+   "type": "conjunct_verb",
+   "literal": "for this that",
+   "meaning": "because",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    142,
+    144
+   ],
+   "type": "compound_verb",
+   "literal": "stayed came",
+   "meaning": "had stayed",
+   "note": "आना as vector verb indicating completion and movement towards the speaker/subject",
+   "source": "model"
+  },
+  {
+   "idx": [
+    149,
+    151,
+    153,
+    155
+   ],
+   "type": "phrase",
+   "literal": "in this what fault was",
+   "meaning": "what was the fault in this?",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    175,
+    177,
+    179
+   ],
+   "type": "postposition",
+   "literal": "mothers-sisters of like",
+   "meaning": "like mothers and sisters",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    181,
+    183,
+    185,
+    187,
+    189,
+    191
+   ],
+   "type": "phrase",
+   "literal": "a deceit and fraud of victim",
+   "meaning": "a victim of deceit and fraud",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    248,
+    250
+   ],
+   "type": "phrase",
+   "literal": "most big",
+   "meaning": "biggest",
+   "note": "Superlative construction",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

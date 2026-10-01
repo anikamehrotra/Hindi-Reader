@@ -1,0 +1,246 @@
+{
+ "translation": "“He feels a lot of pity for her, as if she won't find anyone else.” “My blood boiled. Hey, she will find someone, why not? I'm not saying she won't find someone, she definitely will.” Rahat started to stammer.",
+ "words": {
+  "1": [
+   "a lot",
+   "ख़ूब",
+   ""
+  ],
+  "3": [
+   "pity",
+   "रहम",
+   "m.sg"
+  ],
+  "5": [
+   "comes",
+   "आना",
+   "pres. m.sg"
+  ],
+  "7": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "9": [
+   "to him/her",
+   "वह",
+   "obl. sg"
+  ],
+  "11": [
+   "as if",
+   "जैसे",
+   ""
+  ],
+  "16": [
+   "as if",
+   "जैसे",
+   ""
+  ],
+  "18": [
+   "other",
+   "दूसरा",
+   "f.sg"
+  ],
+  "20": [
+   "any",
+   "कोई",
+   "f.sg"
+  ],
+  "22": [
+   "fate/destiny",
+   "नसीब",
+   "m.sg"
+  ],
+  "24": [
+   "not",
+   "ना",
+   ""
+  ],
+  "26": [
+   "will be",
+   "होना",
+   "fut. 3sg f"
+  ],
+  "30": [
+   "my",
+   "मैं",
+   "obl. sg"
+  ],
+  "32": [
+   "blood",
+   "ख़ून",
+   "m.sg"
+  ],
+  "34": [
+   "boiled",
+   "खौलना",
+   "perf. m.sg"
+  ],
+  "36": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "40": [
+   "hey",
+   "ए",
+   ""
+  ],
+  "42": [
+   "take",
+   "लेना",
+   "imperative"
+  ],
+  "47": [
+   "will be found",
+   "मिलना",
+   "fut. 3sg f"
+  ],
+  "49": [
+   "why",
+   "क्यों",
+   ""
+  ],
+  "51": [
+   "not",
+   "नहीं",
+   ""
+  ],
+  "56": [
+   "this",
+   "यह",
+   "f.sg"
+  ],
+  "58": [
+   "I",
+   "मैं",
+   "obl. sg"
+  ],
+  "60": [
+   "when",
+   "कब",
+   ""
+  ],
+  "62": [
+   "say",
+   "कहना",
+   "pres. f.sg"
+  ],
+  "64": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "69": [
+   "will be found",
+   "मिलना",
+   "root"
+  ],
+  "71": [
+   "will go",
+   "जाना",
+   "fut. 3sg f"
+  ],
+  "74": [
+   "will be found",
+   "मिलना",
+   "root"
+  ],
+  "76": [
+   "emphatic: indeed",
+   "ही",
+   ""
+  ],
+  "78": [
+   "will go",
+   "जाना",
+   "fut. 3sg f"
+  ],
+  "84": [
+   "Rahat",
+   "राहत",
+   "f.sg"
+  ],
+  "86": [
+   "to stammer",
+   "हकलाना",
+   "inf. obl"
+  ],
+  "88": [
+   "began",
+   "लगना",
+   "perf. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    3,
+    5,
+    7
+   ],
+   "type": "conjunct_verb",
+   "literal": "pity comes is",
+   "meaning": "feels pity",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    11,
+    16
+   ],
+   "type": "phrase",
+   "literal": "as if as if",
+   "meaning": "as if",
+   "note": "Repetition for emphasis",
+   "source": "model"
+  },
+  {
+   "idx": [
+    32,
+    34,
+    36
+   ],
+   "type": "idiom",
+   "literal": "blood boiled went",
+   "meaning": "my blood boiled (I became very angry)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    71
+   ],
+   "type": "compound_verb",
+   "literal": "meet go",
+   "meaning": "will be found (completion/certainty)",
+   "note": "जाना as vector verb adds sense of completion or certainty",
+   "source": "model"
+  },
+  {
+   "idx": [
+    74,
+    78
+   ],
+   "type": "compound_verb",
+   "literal": "meet go",
+   "meaning": "will definitely be found (completion/certainty)",
+   "note": "जाना as vector verb adds sense of completion or certainty",
+   "source": "model"
+  },
+  {
+   "idx": [
+    86,
+    88
+   ],
+   "type": "compound_verb",
+   "literal": "to stammer began",
+   "meaning": "started to stammer",
+   "note": "लगना as vector verb indicates the beginning of an action",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

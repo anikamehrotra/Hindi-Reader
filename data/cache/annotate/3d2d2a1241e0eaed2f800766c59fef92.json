@@ -1,0 +1,162 @@
+{
+ "translation": "Be quiet! Who are you to speak? Voices came from the silent crowd, and Sundarlal stepped forward and said, \"No one can stop me from speaking!\"",
+ "words": {
+  "1": [
+   "quiet",
+   "चुप",
+   "adjective"
+  ],
+  "3": [
+   "remain",
+   "रहना",
+   "imperative verb"
+  ],
+  "5": [
+   "sir/polite particle",
+   "जी",
+   "particle"
+  ],
+  "8": [
+   "you",
+   "तुम",
+   "pronoun"
+  ],
+  "10": [
+   "who",
+   "कौन",
+   "interrogative pronoun"
+  ],
+  "12": [
+   "to be",
+   "होना",
+   "verb"
+  ],
+  "14": [
+   "are",
+   "होना",
+   "present 2nd sg"
+  ],
+  "22": [
+   "silent",
+   "ख़ामोश",
+   "adjective"
+  ],
+  "27": [
+   "crowd",
+   "मजमा",
+   "noun, obl. sg"
+  ],
+  "29": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "31": [
+   "voices",
+   "आवाज",
+   "noun, pl"
+  ],
+  "33": [
+   "came",
+   "आना",
+   "perf. f.pl"
+  ],
+  "35": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "37": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "proper noun"
+  ],
+  "39": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "41": [
+   "having stepped forward",
+   "बढ़ना",
+   "conj. participle"
+  ],
+  "43": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "47": [
+   "to me",
+   "मैं",
+   "pronoun, obl. sg"
+  ],
+  "49": [
+   "to speak",
+   "बोलना",
+   "infinitive"
+  ],
+  "51": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "53": [
+   "any",
+   "कोई",
+   "pronoun"
+  ],
+  "55": [
+   "not",
+   "नहीं",
+   "negative particle"
+  ],
+  "57": [
+   "stop",
+   "रोकना",
+   "verb stem"
+  ],
+  "59": [
+   "can",
+   "सकना",
+   "present 3rd sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3
+   ],
+   "type": "phrase",
+   "literal": "quiet remain",
+   "meaning": "Be quiet!",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    10,
+    12,
+    14
+   ],
+   "type": "phrase",
+   "literal": "who be are",
+   "meaning": "Who are you to...",
+   "note": "Used to question someone's authority or right to do something.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    57,
+    59
+   ],
+   "type": "compound_verb",
+   "literal": "stop can",
+   "meaning": "can stop",
+   "note": "सकना (saknā) as a vector verb indicates ability or possibility.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

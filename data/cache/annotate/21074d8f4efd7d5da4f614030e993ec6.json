@@ -1,0 +1,366 @@
+{
+ "translation": "On the other hand, when the news of this transfer reached the Lahore asylum, some very interesting things started happening. A Muslim madman, who had been regularly reading 'Zamindar' for twelve years, when one of his friends asked him, \"Moulvi Sahib, what is this Pakistan?\" he replied after much thought, \"It is a place in Hindustan where razors are made.\"",
+ "words": {
+  "0": [
+   "on the other hand",
+   "उधर",
+   ""
+  ],
+  "2": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "4": [
+   "known",
+   "मालूम",
+   "adj"
+  ],
+  "6": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "9": [
+   "but",
+   "लेकिन",
+   "conj"
+  ],
+  "11": [
+   "here",
+   "इधर",
+   "adv"
+  ],
+  "14": [
+   "Lahore",
+   "लाहौर",
+   "pn. m.sg"
+  ],
+  "16": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "18": [
+   "asylum",
+   "पागलखाना",
+   "n. m.sg"
+  ],
+  "20": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "23": [
+   "when",
+   "जब",
+   "conj"
+  ],
+  "25": [
+   "this",
+   "यह",
+   "pron. dem. sg"
+  ],
+  "27": [
+   "transfer",
+   "तबादला",
+   "n. m.sg"
+  ],
+  "29": [
+   "of",
+   "की",
+   "postposition"
+  ],
+  "31": [
+   "news",
+   "ख़बर",
+   "n. f.sg"
+  ],
+  "33": [
+   "reached",
+   "पहुँचना",
+   "perf. f.sg"
+  ],
+  "35": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "37": [
+   "very",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "39": [
+   "interesting",
+   "दिलचस्प",
+   "adj"
+  ],
+  "41": [
+   "things",
+   "बात",
+   "n. f.pl"
+  ],
+  "43": [
+   "to happen",
+   "होना",
+   "inf. obl"
+  ],
+  "45": [
+   "began",
+   "लगना",
+   "perf. f.pl"
+  ],
+  "48": [
+   "a",
+   "एक",
+   "num"
+  ],
+  "50": [
+   "Muslim",
+   "मुसलमान",
+   "n. m.sg"
+  ],
+  "52": [
+   "madman",
+   "पागल",
+   "n. m.sg"
+  ],
+  "54": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "57": [
+   "who",
+   "जो",
+   "pron. rel. m.sg"
+  ],
+  "59": [
+   "twelve",
+   "बारह",
+   "num"
+  ],
+  "61": [
+   "years",
+   "बरस",
+   "n. m.pl"
+  ],
+  "63": [
+   "since",
+   "से",
+   "postposition"
+  ],
+  "65": [
+   "regularly",
+   "बाक़ायदा",
+   "adv"
+  ],
+  "67": [
+   "every",
+   "हर",
+   "adj"
+  ],
+  "69": [
+   "day",
+   "रोज़",
+   "n. m.sg"
+  ],
+  "73": [
+   "Zamindar (newspaper name)",
+   "ज़मींदार",
+   "pn. m.sg"
+  ],
+  "76": [
+   "used to read",
+   "पढ़ना",
+   "impf. m.sg"
+  ],
+  "78": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "81": [
+   "when",
+   "जब",
+   "conj"
+  ],
+  "83": [
+   "his",
+   "वह",
+   "pron. poss. m.sg"
+  ],
+  "85": [
+   "one",
+   "एक",
+   "num"
+  ],
+  "87": [
+   "friend",
+   "मित्र",
+   "n. m.sg"
+  ],
+  "89": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "91": [
+   "asked",
+   "पूछना",
+   "perf. m.sg"
+  ],
+  "95": [
+   "Moulvi",
+   "मौलवी",
+   "n. m.sg"
+  ],
+  "97": [
+   "Sir/Mr.",
+   "साहब",
+   "n. m.sg"
+  ],
+  "100": [
+   "this",
+   "यह",
+   "pron. dem. sg"
+  ],
+  "102": [
+   "Pakistan",
+   "पाकिस्तान",
+   "pn. m.sg"
+  ],
+  "104": [
+   "what",
+   "क्या",
+   "pron. int"
+  ],
+  "106": [
+   "is",
+   "होना",
+   "impf. m.sg"
+  ],
+  "108": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "113": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "115": [
+   "he",
+   "वह",
+   "pron. dem. m.sg. obl"
+  ],
+  "117": [
+   "much",
+   "बड़ा",
+   "adj. m.sg. obl"
+  ],
+  "119": [
+   "thought-consideration",
+   "सोच-विचार",
+   "n. m.sg"
+  ],
+  "121": [
+   "of",
+   "के",
+   "postposition"
+  ],
+  "123": [
+   "after",
+   "बाद",
+   "postposition"
+  ],
+  "125": [
+   "answer",
+   "जवाब",
+   "n. m.sg"
+  ],
+  "127": [
+   "gave",
+   "देना",
+   "perf. m.sg"
+  ],
+  "132": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "pn. m.sg"
+  ],
+  "134": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "136": [
+   "a",
+   "एक",
+   "num"
+  ],
+  "138": [
+   "such",
+   "ऐसा",
+   "adj. f.sg"
+  ],
+  "140": [
+   "place",
+   "जगह",
+   "n. f.sg"
+  ],
+  "142": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "145": [
+   "where",
+   "जहाँ",
+   "adv"
+  ],
+  "147": [
+   "razors",
+   "उस्तरा",
+   "n. m.pl"
+  ],
+  "149": [
+   "make",
+   "बनाना",
+   "impf. pl"
+  ],
+  "151": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    43,
+    45
+   ],
+   "type": "compound_verb",
+   "literal": "to happen began",
+   "meaning": "started happening",
+   "note": "लगना as a vector verb indicates the beginning of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    119,
+    121,
+    123
+   ],
+   "type": "postposition",
+   "literal": "thought-consideration of after",
+   "meaning": "after much thought",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,504 @@
+{
+ "translation": "What did I say? What did you say? And on top of that, you even have the audacity to ask? You are laughing at her death, her blood is being shed, and you are laughing? She is becoming a slaughtered chicken, and you are laughing? Yes, you are baring your teeth at her corpse. I could see nothing but the funeral of an innocent.",
+ "words": {
+  "1": [
+   "what kind of",
+   "ऐसा",
+   "adj. m.sg"
+  ],
+  "3": [
+   "I",
+   "मैं",
+   "pron. 1sg obl"
+  ],
+  "5": [
+   "what",
+   "क्या",
+   "pron. interrogative"
+  ],
+  "7": [
+   "having said",
+   "कहना",
+   "conj. participle"
+  ],
+  "9": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "14": [
+   "you",
+   "तुम",
+   "pron. 2pl obl"
+  ],
+  "16": [
+   "what",
+   "क्या",
+   "pron. interrogative"
+  ],
+  "18": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "23": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "25": [
+   "on top",
+   "ऊपर",
+   "postposition"
+  ],
+  "27": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "29": [
+   "this",
+   "यह",
+   "pron. dem. sg"
+  ],
+  "31": [
+   "even",
+   "भी",
+   "particle"
+  ],
+  "33": [
+   "to ask",
+   "पूछना",
+   "inf. obl"
+  ],
+  "35": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "37": [
+   "courage",
+   "हिम्मत",
+   "noun f.sg"
+  ],
+  "39": [
+   "is",
+   "होना",
+   "verb. pres. 3sg"
+  ],
+  "42": [
+   "you",
+   "तुम",
+   "pron. 2pl"
+  ],
+  "44": [
+   "that",
+   "वह",
+   "pron. dem. sg obl"
+  ],
+  "46": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "48": [
+   "death",
+   "मौत",
+   "noun f.sg"
+  ],
+  "50": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "52": [
+   "laughing",
+   "हंसना",
+   "pres. part."
+  ],
+  "54": [
+   "staying",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "56": [
+   "are",
+   "होना",
+   "verb. pres. 2pl"
+  ],
+  "59": [
+   "that",
+   "वह",
+   "pron. dem. sg obl"
+  ],
+  "61": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "63": [
+   "blood",
+   "ख़ून",
+   "noun m.sg"
+  ],
+  "65": [
+   "being",
+   "होना",
+   "pres. part."
+  ],
+  "67": [
+   "staying",
+   "रहना",
+   "pres. part. m.sg"
+  ],
+  "69": [
+   "is",
+   "होना",
+   "verb. pres. 3sg"
+  ],
+  "72": [
+   "you",
+   "तुम",
+   "pron. 2pl"
+  ],
+  "74": [
+   "laughing",
+   "हंसना",
+   "pres. part."
+  ],
+  "76": [
+   "staying",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "78": [
+   "are",
+   "होना",
+   "verb. pres. 2pl"
+  ],
+  "81": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "83": [
+   "slaughtered chicken",
+   "मुर्ग़-ए-बिस्मिल",
+   "noun m.sg"
+  ],
+  "85": [
+   "being",
+   "होना",
+   "pres. part."
+  ],
+  "87": [
+   "staying",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "89": [
+   "is",
+   "होना",
+   "verb. pres. 3sg"
+  ],
+  "91": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "93": [
+   "you",
+   "तुम",
+   "pron. 2pl"
+  ],
+  "95": [
+   "laughing",
+   "हंसना",
+   "pres. part."
+  ],
+  "97": [
+   "staying",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "99": [
+   "are",
+   "होना",
+   "verb. pres. 2pl"
+  ],
+  "104": [
+   "her",
+   "उसका",
+   "pron. 3sg poss. f.sg"
+  ],
+  "106": [
+   "corpse",
+   "लाश",
+   "noun f.sg"
+  ],
+  "111": [
+   "yes",
+   "हाँ",
+   "interjection"
+  ],
+  "113": [
+   "that",
+   "वह",
+   "pron. dem. sg obl"
+  ],
+  "115": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "117": [
+   "corpse",
+   "लाश",
+   "noun f.sg"
+  ],
+  "119": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "121": [
+   "you",
+   "तुम",
+   "pron. 2pl"
+  ],
+  "123": [
+   "teeth",
+   "दाँत",
+   "noun m.pl"
+  ],
+  "125": [
+   "taking out",
+   "निकालना",
+   "pres. part."
+  ],
+  "127": [
+   "staying",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "129": [
+   "are",
+   "होना",
+   "verb. pres. 2pl"
+  ],
+  "135": [
+   "to me",
+   "मैं",
+   "pron. 1sg obl"
+  ],
+  "137": [
+   "anything",
+   "कुछ",
+   "pron. indefinite"
+  ],
+  "139": [
+   "sight",
+   "नज़र",
+   "noun f.sg"
+  ],
+  "141": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "143": [
+   "coming",
+   "आना",
+   "pres. part. m.sg"
+  ],
+  "145": [
+   "was",
+   "होना",
+   "verb. past. 3sg"
+  ],
+  "148": [
+   "except",
+   "सिवाए",
+   "postposition"
+  ],
+  "150": [
+   "one",
+   "एक",
+   "numeral"
+  ],
+  "152": [
+   "innocent",
+   "मासूम",
+   "adj. m.sg"
+  ],
+  "154": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "156": [
+   "funeral",
+   "जनाज़ा",
+   "noun m.sg"
+  ],
+  "158": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    5,
+    7,
+    9
+   ],
+   "type": "compound_verb",
+   "literal": "what I having said given",
+   "meaning": "What did I say?",
+   "note": "कह दिया is a compound verb, where देना adds a sense of completion or finality to the action of saying.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    14,
+    16,
+    18
+   ],
+   "type": "compound_verb",
+   "literal": "you what said",
+   "meaning": "What did you say?",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    25,
+    27
+   ],
+   "type": "postposition",
+   "literal": "from above",
+   "meaning": "on top of that",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    33,
+    35,
+    37
+   ],
+   "type": "conjunct_verb",
+   "literal": "of asking courage",
+   "meaning": "the audacity to ask",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    52,
+    54,
+    56
+   ],
+   "type": "compound_verb",
+   "literal": "laughing staying are",
+   "meaning": "are laughing",
+   "note": "रहना as a vector verb indicates continuity of action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    65,
+    67,
+    69
+   ],
+   "type": "compound_verb",
+   "literal": "being staying is",
+   "meaning": "is being shed",
+   "note": "रहना as a vector verb indicates continuity of action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    74,
+    76,
+    78
+   ],
+   "type": "compound_verb",
+   "literal": "laughing staying are",
+   "meaning": "are laughing",
+   "note": "रहना as a vector verb indicates continuity of action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    81,
+    83,
+    85,
+    87,
+    89
+   ],
+   "type": "phrase",
+   "literal": "she slaughtered chicken being staying is",
+   "meaning": "she is becoming a slaughtered chicken",
+   "note": "मुर्ग़-ए-बिस्मिल refers to a chicken that has been ritually slaughtered, often implying a helpless victim.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    95,
+    97,
+    99
+   ],
+   "type": "compound_verb",
+   "literal": "laughing staying are",
+   "meaning": "are laughing",
+   "note": "रहना as a vector verb indicates continuity of action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    123,
+    125,
+    127,
+    129
+   ],
+   "type": "idiom",
+   "literal": "you teeth taking out staying are",
+   "meaning": "you are baring your teeth / laughing mockingly",
+   "note": "दाँत निकालना (to bare teeth) is an idiom for laughing, often with a negative connotation of mockery or inappropriate amusement.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    139,
+    141,
+    143,
+    145
+   ],
+   "type": "conjunct_verb",
+   "literal": "sight not coming was",
+   "meaning": "could not see anything",
+   "note": "नज़र आना (to come into sight) is a common conjunct verb meaning 'to be visible' or 'to appear'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    148,
+    150,
+    152,
+    154,
+    156,
+    158
+   ],
+   "type": "phrase",
+   "literal": "except one innocent's funeral's",
+   "meaning": "except for the funeral of an innocent",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

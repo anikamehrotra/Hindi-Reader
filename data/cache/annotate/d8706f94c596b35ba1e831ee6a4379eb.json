@@ -1,0 +1,32 @@
+{
+ "translation": "Toba Tek Singh, Saadat Hasan Manto",
+ "words": {
+  "2": [
+   "Toba",
+   "टोबा",
+   "proper noun"
+  ],
+  "4": [
+   "Tek Singh",
+   "टेकसिंह",
+   "proper noun"
+  ],
+  "6": [
+   "Saadat",
+   "सादत",
+   "proper noun"
+  ],
+  "8": [
+   "Hasan",
+   "हसन",
+   "proper noun"
+  ],
+  "10": [
+   "Manto",
+   "मंटो",
+   "proper noun"
+  ]
+ },
+ "units": [],
+ "model": "google/gemini-2.5-flash"
+}

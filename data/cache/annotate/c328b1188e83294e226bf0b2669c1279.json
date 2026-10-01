@@ -1,0 +1,193 @@
+{
+ "translation": "“You save her! Will you save her? You will help her?” I said like a mesmerist. “Yes, but the electricity...” Rahat was trembling. “Yes, now...”",
+ "words": {
+  "1": [
+   "you",
+   "तुम",
+   "2nd pl. pron."
+  ],
+  "3": [
+   "her",
+   "वह",
+   "3rd sg. pron. obl."
+  ],
+  "5": [
+   "to",
+   "को",
+   "postposition: direct object marker"
+  ],
+  "7": [
+   "save",
+   "बचाना",
+   "imperative verb, 2nd pl."
+  ],
+  "12": [
+   "will save",
+   "बचाना",
+   "fut. 2nd sg. f."
+  ],
+  "17": [
+   "you",
+   "तुम",
+   "2nd pl. pron."
+  ],
+  "19": [
+   "her",
+   "वह",
+   "3rd sg. pron. obl."
+  ],
+  "21": [
+   "of",
+   "का",
+   "postposition: possessive"
+  ],
+  "23": [
+   "help",
+   "मदद",
+   "f. noun"
+  ],
+  "25": [
+   "will do",
+   "करना",
+   "fut. 2nd sg. f."
+  ],
+  "31": [
+   "I",
+   "मैं",
+   "1st sg. pron. obl."
+  ],
+  "33": [
+   "a",
+   "एक",
+   "indefinite article"
+  ],
+  "35": [
+   "mesmerism",
+   "मेसमेरिज़्म",
+   "m. noun"
+  ],
+  "37": [
+   "of",
+   "का",
+   "postposition: possessive"
+  ],
+  "39": [
+   "show",
+   "तमाशा",
+   "m. noun"
+  ],
+  "41": [
+   "to do",
+   "करना",
+   "infinitive"
+  ],
+  "43": [
+   "one who",
+   "वाला",
+   "suffix: agentive"
+  ],
+  "45": [
+   "of",
+   "का",
+   "postposition: possessive"
+  ],
+  "47": [
+   "like",
+   "तरह",
+   "f. noun"
+  ],
+  "49": [
+   "said",
+   "कहना",
+   "perf. m.sg."
+  ],
+  "53": [
+   "yes",
+   "हाँ",
+   "interjection"
+  ],
+  "58": [
+   "but",
+   "मगर",
+   "conjunction"
+  ],
+  "60": [
+   "electricity",
+   "बिजली",
+   "f. noun"
+  ],
+  "66": [
+   "Rahat",
+   "राहत",
+   "f. proper noun"
+  ],
+  "68": [
+   "trembling",
+   "काँपना",
+   "pres. part."
+  ],
+  "70": [
+   "was",
+   "रहना",
+   "auxiliary verb"
+  ],
+  "72": [
+   "was",
+   "होना",
+   "past. f.sg."
+  ],
+  "78": [
+   "yes",
+   "हाँ",
+   "interjection"
+  ],
+  "83": [
+   "now",
+   "अब",
+   "adverb"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    23,
+    25
+   ],
+   "type": "conjunct_verb",
+   "literal": "to do help",
+   "meaning": "to help",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    33,
+    35,
+    37,
+    39,
+    41,
+    43,
+    45,
+    47
+   ],
+   "type": "phrase",
+   "literal": "a mesmerism's show's doing one's of like",
+   "meaning": "like a mesmerist",
+   "note": "The phrase literally means 'like one who performs a mesmerism show'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    68,
+    70,
+    72
+   ],
+   "type": "compound_verb",
+   "literal": "trembling was was",
+   "meaning": "was trembling",
+   "note": "रहना (to remain) acts as a vector verb here, indicating continuous action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

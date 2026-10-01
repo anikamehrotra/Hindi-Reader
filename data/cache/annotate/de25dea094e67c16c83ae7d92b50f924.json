@@ -1,0 +1,414 @@
+{
+ "translation": "Kishwar had gotten ready. That harsh and choked voice resounded again, and Kishwar became even more distressed. I knew what her condition would be at that moment, just as before crucifixion, a terrifying crocodile hums in a dreadful voice. In the same way, this voice came again, and 'I also have to go to Leela Ram's place,' and then a whistle started.",
+ "words": {
+  "1": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "3": [
+   "ready",
+   "तैयार",
+   "adj"
+  ],
+  "5": [
+   "to be",
+   "होना",
+   "conj. participle"
+  ],
+  "7": [
+   "had finished",
+   "चुकना",
+   "perf. f.sg"
+  ],
+  "13": [
+   "that",
+   "वो",
+   "pron. 3sg"
+  ],
+  "15": [
+   "harsh",
+   "करीह",
+   "adj"
+  ],
+  "17": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "19": [
+   "choked",
+   "भर्राना",
+   "perf. f.sg"
+  ],
+  "21": [
+   "become",
+   "होना",
+   "conj. participle"
+  ],
+  "23": [
+   "voice",
+   "आवाज़",
+   "n.f.sg"
+  ],
+  "25": [
+   "again",
+   "फिर",
+   "adv"
+  ],
+  "27": [
+   "resounded",
+   "गूँजना",
+   "perf. f.sg"
+  ],
+  "29": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "31": [
+   "Kishwar",
+   "किश्वर",
+   "n.f.sg"
+  ],
+  "33": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "35": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "37": [
+   "distressed",
+   "परेशान",
+   "adj"
+  ],
+  "39": [
+   "to be",
+   "होना",
+   "conj. participle"
+  ],
+  "41": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "46": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "48": [
+   "knew",
+   "जानना",
+   "perf. f.sg"
+  ],
+  "50": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "52": [
+   "that",
+   "वह",
+   "pron. obl. sg"
+  ],
+  "54": [
+   "time",
+   "वक़्त",
+   "n.m.sg"
+  ],
+  "56": [
+   "her",
+   "वह",
+   "pron. obl. sg"
+  ],
+  "58": [
+   "of",
+   "का",
+   "postposition. f.sg"
+  ],
+  "60": [
+   "what",
+   "क्या",
+   "pron. interrogative"
+  ],
+  "62": [
+   "condition",
+   "हालत",
+   "n.f.sg"
+  ],
+  "64": [
+   "would be",
+   "होना",
+   "fut. 3sg f"
+  ],
+  "66": [
+   "which",
+   "जो",
+   "pron. obl. sg"
+  ],
+  "68": [
+   "way",
+   "तरह",
+   "n.f.sg"
+  ],
+  "70": [
+   "stake",
+   "सूली",
+   "n.f.sg"
+  ],
+  "72": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "74": [
+   "to crucify",
+   "चढ़ाना",
+   "inf. obl"
+  ],
+  "76": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "78": [
+   "before",
+   "पहले",
+   "adv"
+  ],
+  "80": [
+   "terrifying",
+   "ख़ौफ़नाक",
+   "adj"
+  ],
+  "82": [
+   "crocodile",
+   "घड़ियाल",
+   "n.m.sg"
+  ],
+  "84": [
+   "dreadful",
+   "भयानक",
+   "adj"
+  ],
+  "86": [
+   "voice",
+   "आवाज़",
+   "n.f.sg"
+  ],
+  "88": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "90": [
+   "hums",
+   "गुनगुनाना",
+   "pres. part. m.sg"
+  ],
+  "92": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "95": [
+   "this very",
+   "इसी",
+   "pron. obl. sg"
+  ],
+  "97": [
+   "way",
+   "तरह",
+   "n.f.sg"
+  ],
+  "99": [
+   "this",
+   "यह",
+   "pron. 3sg"
+  ],
+  "101": [
+   "voice",
+   "आवाज़",
+   "n.f.sg"
+  ],
+  "106": [
+   "again",
+   "फिर",
+   "adv"
+  ],
+  "108": [
+   "came",
+   "आना",
+   "perf. f.sg"
+  ],
+  "112": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "114": [
+   "Leela",
+   "लीला",
+   "n.f.sg"
+  ],
+  "116": [
+   "Ram",
+   "राम",
+   "n.m.sg"
+  ],
+  "118": [
+   "of",
+   "का",
+   "postposition. m.obl.pl"
+  ],
+  "120": [
+   "here",
+   "यहां",
+   "adv"
+  ],
+  "122": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "124": [
+   "indeed",
+   "तो",
+   "emphatic particle"
+  ],
+  "126": [
+   "to go",
+   "जाना",
+   "inf. obl"
+  ],
+  "128": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "132": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "134": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "136": [
+   "one",
+   "एक",
+   "num"
+  ],
+  "138": [
+   "whistle",
+   "सीटी",
+   "n.f.sg"
+  ],
+  "140": [
+   "started",
+   "शुरू",
+   "adj"
+  ],
+  "142": [
+   "to be",
+   "होना",
+   "conj. participle"
+  ],
+  "144": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    3,
+    5,
+    7
+   ],
+   "type": "compound_verb",
+   "literal": "ready having become finished",
+   "meaning": "had gotten ready",
+   "note": "हो चुकना (ho chukna) indicates completion of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    19,
+    21
+   ],
+   "type": "conjunct_verb",
+   "literal": "choked having become",
+   "meaning": "choked",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    37,
+    39,
+    41
+   ],
+   "type": "compound_verb",
+   "literal": "distressed having become went",
+   "meaning": "became distressed",
+   "note": "हो जाना (ho jaana) indicates a change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    66,
+    68
+   ],
+   "type": "phrase",
+   "literal": "which way",
+   "meaning": "just as",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    70,
+    72,
+    74
+   ],
+   "type": "phrase",
+   "literal": "on stake to crucify",
+   "meaning": "to crucify",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    95,
+    97
+   ],
+   "type": "phrase",
+   "literal": "this very way",
+   "meaning": "in the same way",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    140,
+    142,
+    144
+   ],
+   "type": "compound_verb",
+   "literal": "started having become went",
+   "meaning": "started",
+   "note": "शुरू हो जाना (shuru ho jaana) indicates the beginning of an action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

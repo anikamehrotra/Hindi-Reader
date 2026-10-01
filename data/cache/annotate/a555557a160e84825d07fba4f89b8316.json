@@ -1,0 +1,172 @@
+{
+ "translation": "“Yes, what about Zameer?” I asked, pleased at her defeat. “That's right, Zameer... I just get the thought that poor fellow...",
+ "words": {
+  "1": [
+   "yes",
+   "हाँ",
+   ""
+  ],
+  "3": [
+   "what",
+   "क्या",
+   ""
+  ],
+  "5": [
+   "Zameer (name)",
+   "ज़मीर",
+   "m.sg"
+  ],
+  "11": [
+   "I",
+   "मैं",
+   "1sg.obl"
+  ],
+  "13": [
+   "her",
+   "वह",
+   "f.sg.obl"
+  ],
+  "15": [
+   "of",
+   "का",
+   "f.sg.obl"
+  ],
+  "17": [
+   "defeat",
+   "शिकस्त",
+   "f.sg"
+  ],
+  "19": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "21": [
+   "happy",
+   "ख़ुश",
+   "adj"
+  ],
+  "23": [
+   "having been",
+   "होना",
+   "conj. participle"
+  ],
+  "25": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "27": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "31": [
+   "this very thing",
+   "यही",
+   "pron. emphatic"
+  ],
+  "37": [
+   "this",
+   "यह",
+   "pron. sg"
+  ],
+  "39": [
+   "to me",
+   "मैं",
+   "1sg.obl"
+  ],
+  "41": [
+   "Zameer (name)",
+   "ज़मीर",
+   "m.sg"
+  ],
+  "43": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "48": [
+   "this very thing",
+   "यही",
+   "pron. emphatic"
+  ],
+  "50": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "52": [
+   "just",
+   "बस",
+   "adv"
+  ],
+  "54": [
+   "thought",
+   "ख़्याल",
+   "m.sg"
+  ],
+  "56": [
+   "comes",
+   "आना",
+   "pres. m.sg"
+  ],
+  "58": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "60": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "62": [
+   "he",
+   "वह",
+   "3sg"
+  ],
+  "64": [
+   "poor fellow",
+   "बेचारा",
+   "m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    13,
+    15
+   ],
+   "type": "postposition",
+   "literal": "of her",
+   "meaning": "her",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    23,
+    25
+   ],
+   "type": "compound_verb",
+   "literal": "having become having done",
+   "meaning": "having become",
+   "note": "कर is a common vector verb here, adding little to the meaning of हो",
+   "source": "model"
+  },
+  {
+   "idx": [
+    54,
+    56,
+    58
+   ],
+   "type": "conjunct_verb",
+   "literal": "thought comes is",
+   "meaning": "a thought comes to mind",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

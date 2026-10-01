@@ -1,0 +1,78 @@
+{
+ "translation": "Shame, regret, drenched in apprehension. She tried to divert her mind, to become hopeful, to complete her body. Bedi, the complete Bedi, the complete.",
+ "words": {
+  "3": [
+   "shame",
+   "शर्मिंदगी",
+   "f.sg"
+  ],
+  "9": [
+   "regret",
+   "अफ़सोस",
+   "m.sg"
+  ],
+  "15": [
+   "drenched",
+   "सराबोर",
+   "adj"
+  ],
+  "21": [
+   "apprehensions",
+   "अंदेशा",
+   "m.pl"
+  ],
+  "27": [
+   "to divert attention",
+   "ध्यानाकर्षित",
+   "adj"
+  ],
+  "33": [
+   "hopeful",
+   "आशावान",
+   "adj"
+  ],
+  "39": [
+   "complete",
+   "पूरा",
+   "adj"
+  ],
+  "41": [
+   "body",
+   "बदन",
+   "m.sg"
+  ],
+  "48": [
+   "Bedi (name)",
+   "बेदी",
+   "m.sg"
+  ],
+  "50": [
+   "complete",
+   "समग्र",
+   "adj"
+  ],
+  "56": [
+   "Bedi (name)",
+   "बेदी",
+   "m.sg"
+  ],
+  "58": [
+   "complete",
+   "समग्र",
+   "adj"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    27
+   ],
+   "type": "conjunct_verb",
+   "literal": "attention attracted",
+   "meaning": "to divert one's mind/attention",
+   "note": "often used with करना (to do) or होना (to be)",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

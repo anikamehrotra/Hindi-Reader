@@ -1,0 +1,287 @@
+{
+ "translation": "And then many voices came. \"Silence! Silence!\" And Narayan Baba's months of storytelling went in vain. Many people joined the procession, led by lawyer Kalkaprasad and Hukamsingh Muharrir of Chowki Kalan, who were going with their old sticks.",
+ "words": {
+  "0": [
+   "and",
+   "और",
+   ""
+  ],
+  "2": [
+   "then",
+   "फिर",
+   ""
+  ],
+  "4": [
+   "many",
+   "बहुत",
+   ""
+  ],
+  "6": [
+   "many",
+   "सा",
+   "adj. f.sg"
+  ],
+  "8": [
+   "voices",
+   "आवाज",
+   "f. pl"
+  ],
+  "10": [
+   "came",
+   "आना",
+   "perf. f.pl"
+  ],
+  "15": [
+   "silence",
+   "खामोश",
+   "adj."
+  ],
+  "19": [
+   "silence",
+   "खामोश",
+   "adj."
+  ],
+  "24": [
+   "and",
+   "और",
+   ""
+  ],
+  "26": [
+   "Narayan",
+   "नारायण",
+   "m.sg"
+  ],
+  "28": [
+   "Baba",
+   "बाबा",
+   "m.sg"
+  ],
+  "30": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "32": [
+   "months",
+   "महीना",
+   "m. pl. obl."
+  ],
+  "34": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "36": [
+   "story",
+   "कथा",
+   "f.sg"
+  ],
+  "38": [
+   "in vain",
+   "अकारत",
+   "adv."
+  ],
+  "41": [
+   "went",
+   "चलना",
+   "perf. f.sg"
+  ],
+  "43": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "46": [
+   "many",
+   "बहुत",
+   ""
+  ],
+  "48": [
+   "of",
+   "सा",
+   "postposition"
+  ],
+  "50": [
+   "people",
+   "लोग",
+   "m. pl"
+  ],
+  "52": [
+   "procession",
+   "जुलूस",
+   "m.sg"
+  ],
+  "54": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "56": [
+   "included",
+   "शामिल",
+   "adj."
+  ],
+  "58": [
+   "to be",
+   "होना",
+   "conj. participle"
+  ],
+  "60": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "63": [
+   "whose",
+   "जिसके",
+   "pron. obl. pl"
+  ],
+  "65": [
+   "in front",
+   "आगे-आगे",
+   "adv."
+  ],
+  "67": [
+   "lawyer",
+   "वकील",
+   "m.sg"
+  ],
+  "69": [
+   "Kalka",
+   "कालका",
+   "m.sg"
+  ],
+  "71": [
+   "Prasad",
+   "प्रशाद",
+   "m.sg"
+  ],
+  "73": [
+   "and",
+   "और",
+   ""
+  ],
+  "75": [
+   "Hukamsingh",
+   "हुकमसिंह",
+   "m.sg"
+  ],
+  "77": [
+   "clerk",
+   "मुहर्रिर",
+   "m.sg"
+  ],
+  "79": [
+   "Chowki",
+   "चौकी",
+   "f.sg"
+  ],
+  "81": [
+   "Kalan",
+   "कलाँ",
+   "adj."
+  ],
+  "83": [
+   "going",
+   "जाना",
+   "pres. participle"
+  ],
+  "85": [
+   "were",
+   "रहना",
+   "aux. verb"
+  ],
+  "87": [
+   "were",
+   "होना",
+   "past. m.pl"
+  ],
+  "90": [
+   "their",
+   "अपना",
+   "pron. obl. pl"
+  ],
+  "92": [
+   "old",
+   "बूढ़ा",
+   "adj. f.pl"
+  ],
+  "94": [
+   "sticks",
+   "छड़ी",
+   "f. pl. obl."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6
+   ],
+   "type": "phrase",
+   "literal": "many of",
+   "meaning": "many",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    38,
+    41,
+    43
+   ],
+   "type": "compound_verb",
+   "literal": "in vain went went",
+   "meaning": "went in vain",
+   "note": "जाना (to go) acts as a vector verb, emphasizing completion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    46,
+    48
+   ],
+   "type": "phrase",
+   "literal": "many of",
+   "meaning": "many",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    56,
+    58,
+    60
+   ],
+   "type": "compound_verb",
+   "literal": "included to be went",
+   "meaning": "joined",
+   "note": "हो जाना (to become) acts as a vector verb, emphasizing completion/change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    65,
+    65
+   ],
+   "type": "postposition",
+   "literal": "front-front",
+   "meaning": "in front, leading",
+   "note": "Reduplication for emphasis.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    83,
+    85,
+    87
+   ],
+   "type": "compound_verb",
+   "literal": "going staying were",
+   "meaning": "were going",
+   "note": "रहना (to stay) acts as an auxiliary verb to form the progressive aspect.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

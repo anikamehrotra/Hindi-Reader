@@ -1,0 +1,368 @@
+{
+ "translation": "Two or three years after the partition, the governments of Pakistan and Hindustan had the idea that just like moral criminals, there should also be an exchange of lunatics. That is, the Muslim lunatics who are in the asylums of Hindustan should be sent to Pakistan, and the Hindu and Sikh lunatics who are present in the asylums of Pakistan should be handed over to Hindustan.",
+ "words": {
+  "0": [
+   "partition",
+   "बँटवारा",
+   "sg.obl"
+  ],
+  "2": [
+   "postposition: of",
+   "का",
+   "postposition"
+  ],
+  "4": [
+   "two-three",
+   "दो-तीन",
+   "adj"
+  ],
+  "6": [
+   "year",
+   "साल",
+   "m.sg"
+  ],
+  "8": [
+   "after",
+   "बाद",
+   "postposition"
+  ],
+  "11": [
+   "Pakistan",
+   "पाकिस्तान",
+   "m.sg"
+  ],
+  "13": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "15": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "17": [
+   "postposition: of",
+   "का",
+   "f.sg"
+  ],
+  "19": [
+   "governments",
+   "सरकार",
+   "f.pl.obl"
+  ],
+  "21": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "23": [
+   "this",
+   "यह",
+   "pron"
+  ],
+  "25": [
+   "thought",
+   "ख़्याल",
+   "m.sg"
+  ],
+  "27": [
+   "came",
+   "आना",
+   "perf. m.sg"
+  ],
+  "29": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "31": [
+   "moral",
+   "नैतिक",
+   "adj"
+  ],
+  "33": [
+   "criminals",
+   "अपराधी",
+   "m.pl.obl"
+  ],
+  "35": [
+   "postposition: of",
+   "का",
+   "f.sg"
+  ],
+  "37": [
+   "like",
+   "तरह",
+   "f.sg"
+  ],
+  "39": [
+   "lunatics",
+   "पागल",
+   "m.pl.obl"
+  ],
+  "41": [
+   "postposition: of",
+   "का",
+   "m.sg"
+  ],
+  "43": [
+   "exchange",
+   "तबादला",
+   "m.sg"
+  ],
+  "45": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "47": [
+   "to happen",
+   "होना",
+   "infinitive"
+  ],
+  "49": [
+   "should",
+   "चाहना",
+   "verb"
+  ],
+  "53": [
+   "that is",
+   "याने",
+   "conj"
+  ],
+  "55": [
+   "whoever",
+   "जो",
+   "pron"
+  ],
+  "57": [
+   "Muslim",
+   "मुसलमान",
+   "m.sg"
+  ],
+  "59": [
+   "lunatic",
+   "पागल",
+   "m.sg"
+  ],
+  "61": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "63": [
+   "postposition: of",
+   "का",
+   "m.sg"
+  ],
+  "65": [
+   "asylums",
+   "पागलखाना",
+   "m.pl.obl"
+  ],
+  "67": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "69": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "71": [
+   "them",
+   "वह",
+   "pron.3pl.obl"
+  ],
+  "73": [
+   "Pakistan",
+   "पाकिस्तान",
+   "m.sg"
+  ],
+  "75": [
+   "having reached",
+   "पहुँचना",
+   "conj. participle"
+  ],
+  "77": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "79": [
+   "go",
+   "जाना",
+   "subj. 3sg"
+  ],
+  "81": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "83": [
+   "whoever",
+   "जो",
+   "pron"
+  ],
+  "85": [
+   "Hindu",
+   "हिन्दू",
+   "m.sg"
+  ],
+  "87": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "89": [
+   "Sikh",
+   "सिक्ख",
+   "m.sg"
+  ],
+  "91": [
+   "lunatic",
+   "पागल",
+   "m.sg"
+  ],
+  "93": [
+   "Pakistan",
+   "पाकिस्तान",
+   "m.sg"
+  ],
+  "95": [
+   "postposition: of",
+   "का",
+   "m.sg"
+  ],
+  "97": [
+   "asylums",
+   "पागलखाना",
+   "m.pl.obl"
+  ],
+  "99": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "101": [
+   "present",
+   "मौजूद",
+   "adj"
+  ],
+  "103": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "106": [
+   "them",
+   "वह",
+   "pron.3pl.obl"
+  ],
+  "108": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "110": [
+   "postposition: of",
+   "का",
+   "m.sg"
+  ],
+  "112": [
+   "custody",
+   "हवाला",
+   "m.sg"
+  ],
+  "114": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "116": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "118": [
+   "go",
+   "जाना",
+   "subj. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    0,
+    2
+   ],
+   "type": "postposition",
+   "literal": "of partition",
+   "meaning": "after the partition",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    4,
+    6,
+    8
+   ],
+   "type": "phrase",
+   "literal": "two-three year after",
+   "meaning": "two or three years after",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    25,
+    27
+   ],
+   "type": "conjunct_verb",
+   "literal": "thought came",
+   "meaning": "had the idea",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    49
+   ],
+   "type": "phrase",
+   "literal": "should be",
+   "meaning": "should happen",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    75,
+    77,
+    79
+   ],
+   "type": "compound_verb",
+   "literal": "having reached given go",
+   "meaning": "should be sent",
+   "note": "जाना as vector verb adds passive sense",
+   "source": "model"
+  },
+  {
+   "idx": [
+    112,
+    114,
+    116,
+    118
+   ],
+   "type": "compound_verb",
+   "literal": "custody having done given go",
+   "meaning": "should be handed over",
+   "note": "कर देना means 'to hand over', and जाना as vector verb adds passive sense",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

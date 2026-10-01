@@ -1,0 +1,526 @@
+{
+ "translation": "Excellent sentences were flowing rapidly from my tongue. (It's like) someone who has offered their neck before the butcher and is silently watching the blade of his knife, burning their own blood. You too, say a few words to her, but get out of my sight, Rahat. Oh, Rahat! Goodness gracious, you are very ill-tempered. Rahat shrank back in fear.",
+ "words": {
+  "0": [
+   "my",
+   "मेरा",
+   "poss. adj. f.sg"
+  ],
+  "2": [
+   "tongue",
+   "ज़बान",
+   "n.f.sg"
+  ],
+  "4": [
+   "from",
+   "का",
+   "postposition"
+  ],
+  "6": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "8": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "10": [
+   "excellent",
+   "उम्दा-उम्दा",
+   "adj. reduplicated"
+  ],
+  "12": [
+   "sentences",
+   "जुमला",
+   "n.m.pl"
+  ],
+  "14": [
+   "rapidly",
+   "तेज़ी",
+   "n.f.sg"
+  ],
+  "16": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "18": [
+   "going",
+   "जाना",
+   "v.inf"
+  ],
+  "20": [
+   "were",
+   "रहना",
+   "v.aux. m.pl"
+  ],
+  "22": [
+   "were",
+   "होना",
+   "v.aux. pl"
+  ],
+  "28": [
+   "who",
+   "जो",
+   "pron. rel. sg"
+  ],
+  "30": [
+   "butcher",
+   "क़साई",
+   "n.m.sg"
+  ],
+  "32": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "34": [
+   "in front of",
+   "सामने",
+   "postposition"
+  ],
+  "36": [
+   "neck",
+   "गर्दन",
+   "n.f.sg"
+  ],
+  "38": [
+   "put",
+   "डालना",
+   "v.perf. f.sg"
+  ],
+  "40": [
+   "given",
+   "देना",
+   "v.perf. f.sg"
+  ],
+  "42": [
+   "is",
+   "होना",
+   "v.pres. 3sg"
+  ],
+  "44": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "46": [
+   "silently",
+   "ख़ामोश",
+   "adj"
+  ],
+  "48": [
+   "that",
+   "वह",
+   "pron. dem. obl. sg"
+  ],
+  "50": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "52": [
+   "knife",
+   "छुरी",
+   "n.f.sg"
+  ],
+  "54": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "56": [
+   "blade",
+   "धार",
+   "n.f.sg"
+  ],
+  "58": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "60": [
+   "seeing",
+   "देखना",
+   "conj. participle"
+  ],
+  "62": [
+   "own",
+   "अपना",
+   "pron. poss. f.sg"
+  ],
+  "64": [
+   "emphatic: only",
+   "ही",
+   "particle"
+  ],
+  "66": [
+   "blood",
+   "ख़ून",
+   "n.m.sg"
+  ],
+  "68": [
+   "burning",
+   "जलाना",
+   "v.pres.part. f.sg"
+  ],
+  "70": [
+   "remaining",
+   "रहना",
+   "v.aux. f.sg"
+  ],
+  "72": [
+   "is",
+   "होना",
+   "v.pres. 3sg"
+  ],
+  "75": [
+   "you",
+   "तुम",
+   "pron. 2pl"
+  ],
+  "77": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "79": [
+   "to her",
+   "वह",
+   "pron. 3sg obl"
+  ],
+  "81": [
+   "two",
+   "दो",
+   "num"
+  ],
+  "83": [
+   "words",
+   "बात",
+   "n.f.pl"
+  ],
+  "85": [
+   "say",
+   "कहना",
+   "v.imp. 2pl"
+  ],
+  "87": [
+   "take",
+   "लेना",
+   "v.aux. imp. 2pl"
+  ],
+  "90": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "92": [
+   "far",
+   "दूर",
+   "adv"
+  ],
+  "94": [
+   "become",
+   "होना",
+   "v.imp. 2pl"
+  ],
+  "96": [
+   "go",
+   "जाना",
+   "v.imp. 2pl"
+  ],
+  "98": [
+   "my",
+   "मेरा",
+   "poss. adj. f.pl"
+  ],
+  "100": [
+   "eyes",
+   "आँख",
+   "n.f.pl"
+  ],
+  "102": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "104": [
+   "go",
+   "जाना",
+   "v.imp. 2pl"
+  ],
+  "106": [
+   "Rahat",
+   "राहत",
+   "n.prop.f.sg"
+  ],
+  "113": [
+   "oh",
+   "ए",
+   "interjection"
+  ],
+  "115": [
+   "is",
+   "होना",
+   "v.pres. 3sg"
+  ],
+  "117": [
+   "repentance",
+   "तौबा",
+   "n.f.sg"
+  ],
+  "122": [
+   "what",
+   "माशा",
+   "interjection"
+  ],
+  "124": [
+   "God",
+   "अल्लाह",
+   "n.prop.m.sg"
+  ],
+  "126": [
+   "you",
+   "तुम",
+   "pron. 2pl"
+  ],
+  "128": [
+   "very",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "130": [
+   "ill-tempered",
+   "बद-मिज़ाज",
+   "adj"
+  ],
+  "132": [
+   "are",
+   "होना",
+   "v.pres. 2pl"
+  ],
+  "138": [
+   "Rahat",
+   "राहत",
+   "n.prop.f.sg"
+  ],
+  "140": [
+   "fear",
+   "डर",
+   "n.m.sg"
+  ],
+  "142": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "144": [
+   "shrank",
+   "सिकुड़ना",
+   "v.perf. f.sg"
+  ],
+  "146": [
+   "went",
+   "जाना",
+   "v.aux. perf. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    0,
+    2,
+    4,
+    6,
+    8
+   ],
+   "type": "phrase",
+   "literal": "my tongue with with",
+   "meaning": "from my tongue",
+   "note": "The repetition of 'साथ' emphasizes the flow.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    10,
+    12
+   ],
+   "type": "phrase",
+   "literal": "excellent sentences",
+   "meaning": "excellent sentences",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    14,
+    16
+   ],
+   "type": "phrase",
+   "literal": "with speed",
+   "meaning": "rapidly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    18,
+    20,
+    22
+   ],
+   "type": "compound_verb",
+   "literal": "going were were",
+   "meaning": "were flowing",
+   "note": "जाना (to go) as main verb, रहना (to remain) as vector indicating continuous action, होना (to be) as auxiliary for past imperfect.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    30,
+    32,
+    34
+   ],
+   "type": "postposition",
+   "literal": "butcher of in front",
+   "meaning": "in front of the butcher",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    36,
+    38,
+    40
+   ],
+   "type": "compound_verb",
+   "literal": "neck put given",
+   "meaning": "offered/submitted one's neck",
+   "note": "डालना (to put) as main verb, देना (to give) as vector indicating completion and benefit to another.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    46,
+    48,
+    50,
+    52,
+    54,
+    56,
+    58,
+    60
+   ],
+   "type": "phrase",
+   "literal": "silently that of knife of blade to seeing",
+   "meaning": "silently watching the blade of his knife",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    66,
+    68,
+    70,
+    72
+   ],
+   "type": "idiom",
+   "literal": "burning own blood",
+   "meaning": "to be consumed by anger/frustration, to suffer internally",
+   "note": "ख़ून जलाना is a common idiom meaning to suffer or be frustrated.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    81,
+    83
+   ],
+   "type": "phrase",
+   "literal": "two words",
+   "meaning": "a few words",
+   "note": "Common collocation for 'to say a few things'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    85,
+    87
+   ],
+   "type": "compound_verb",
+   "literal": "say take",
+   "meaning": "say (to her)",
+   "note": "कहना (to say) as main verb, लेना (to take) as vector indicating action done for oneself or completion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    92,
+    94,
+    96
+   ],
+   "type": "compound_verb",
+   "literal": "far become go",
+   "meaning": "get out",
+   "note": "होना (to be) as main verb, जाना (to go) as vector indicating completion or change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    98,
+    100,
+    102
+   ],
+   "type": "phrase",
+   "literal": "my eyes from",
+   "meaning": "from my sight",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    117,
+    122,
+    124
+   ],
+   "type": "phrase",
+   "literal": "repentance what God",
+   "meaning": "Goodness gracious! / My God!",
+   "note": "तौबा माशा अल्लाह is an exclamation of surprise, often with a negative connotation here, like 'Oh my God, you are so...'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    128,
+    130
+   ],
+   "type": "phrase",
+   "literal": "big ill-tempered",
+   "meaning": "very ill-tempered",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    140,
+    142
+   ],
+   "type": "conjunct_verb",
+   "literal": "fear having done",
+   "meaning": "in fear / having feared",
+   "note": "डर करना is not a standard conjunct verb, but 'डर कर' functions as an adverbial phrase meaning 'out of fear' or 'fearfully'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    144,
+    146
+   ],
+   "type": "compound_verb",
+   "literal": "shrank went",
+   "meaning": "shrank back",
+   "note": "सिकुड़ना (to shrink) as main verb, जाना (to go) as vector indicating completion or change of state.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,233 @@
+{
+ "translation": "Oh ho, how proudly you call him 'poor fellow'! My mouth has turned bitter. Today you are getting terribly angry. What happened? Did Saeed scold you? He's already getting arrogant.",
+ "words": {
+  "1": [
+   "Oh ho",
+   "ओहो",
+   ""
+  ],
+  "4": [
+   "you",
+   "तुम",
+   "pron. 2pl.obl"
+  ],
+  "6": [
+   "how much",
+   "कितना",
+   "adv"
+  ],
+  "8": [
+   "pride",
+   "फ़ख़्र",
+   "n.m.sg"
+  ],
+  "10": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "12": [
+   "him",
+   "वह",
+   "pron. 3sg.obl"
+  ],
+  "14": [
+   "poor fellow",
+   "बेचारा",
+   "adj.m.sg"
+  ],
+  "16": [
+   "say",
+   "कहना",
+   "v.pres.part.f.sg"
+  ],
+  "18": [
+   "are",
+   "होना",
+   "v.pres.2pl"
+  ],
+  "24": [
+   "my",
+   "मैं",
+   "pron.1sg.gen.m.sg"
+  ],
+  "26": [
+   "mouth",
+   "मुँह",
+   "n.m.sg"
+  ],
+  "28": [
+   "bitter",
+   "कड़वा",
+   "adj.m.sg"
+  ],
+  "30": [
+   "become",
+   "होना",
+   "v.perf.m.sg"
+  ],
+  "32": [
+   "went",
+   "जाना",
+   "v.perf.m.sg"
+  ],
+  "36": [
+   "today",
+   "आज",
+   "adv"
+  ],
+  "38": [
+   "indeed",
+   "तो",
+   "emphatic particle"
+  ],
+  "40": [
+   "you",
+   "तुम",
+   "pron. 2pl.obl"
+  ],
+  "42": [
+   "terribly",
+   "बेतरह",
+   "adv"
+  ],
+  "44": [
+   "getting angry",
+   "बिगड़ना",
+   "v.pres.part.f.sg"
+  ],
+  "46": [
+   "staying",
+   "रहना",
+   "v.aux.pres.part.f.sg"
+  ],
+  "48": [
+   "are",
+   "होना",
+   "v.pres.2pl"
+  ],
+  "51": [
+   "what",
+   "क्या",
+   "interrogative"
+  ],
+  "53": [
+   "happened",
+   "होना",
+   "v.perf.m.sg"
+  ],
+  "58": [
+   "what",
+   "क्या",
+   "interrogative"
+  ],
+  "60": [
+   "Saeed",
+   "सईद",
+   "n.prop.m.sg"
+  ],
+  "62": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "64": [
+   "scolded",
+   "डाँटना",
+   "v.perf.m.sg"
+  ],
+  "69": [
+   "already",
+   "अभी",
+   "adv"
+  ],
+  "71": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "73": [
+   "getting arrogant",
+   "ईंठना",
+   "v.pres.part.m.sg"
+  ],
+  "75": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    6,
+    8,
+    10
+   ],
+   "type": "phrase",
+   "literal": "how much pride with",
+   "meaning": "how proudly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    16,
+    18
+   ],
+   "type": "compound_verb",
+   "literal": "say are",
+   "meaning": "are saying/calling",
+   "note": "कहना is the main verb, होना is the auxiliary verb forming the present continuous.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    26,
+    28,
+    30,
+    32
+   ],
+   "type": "idiom",
+   "literal": "mouth bitter became went",
+   "meaning": "my mouth has turned bitter (from displeasure/disgust)",
+   "note": "Refers to a feeling of unpleasantness or disgust.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    44,
+    46,
+    48
+   ],
+   "type": "compound_verb",
+   "literal": "getting angry staying are",
+   "meaning": "are getting angry",
+   "note": "बिगड़ना is the main verb, रहना is the vector verb indicating continuity, होना is the auxiliary verb.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    71
+   ],
+   "type": "phrase",
+   "literal": "from now",
+   "meaning": "already",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    73,
+    75
+   ],
+   "type": "compound_verb",
+   "literal": "getting arrogant is",
+   "meaning": "is getting arrogant",
+   "note": "ईंठना is the main verb, होना is the auxiliary verb forming the present continuous.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

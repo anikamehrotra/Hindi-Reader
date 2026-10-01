@@ -1,0 +1,249 @@
+{
+ "translation": "Rasalu and Nekiram hit Sundarlal Babu, and Sundarlal said, \"Shriram was our leader, but what is this matter, Babaji? He believed the washerman's words but could not believe the truth of such a great queen.\"",
+ "words": {
+  "0": [
+   "Rasalu",
+   "रसालू",
+   "prop. n."
+  ],
+  "2": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "4": [
+   "Nekiram",
+   "नेकीराम",
+   "prop. n."
+  ],
+  "6": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "8": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "prop. n."
+  ],
+  "10": [
+   "Babu (honorific)",
+   "बाबू",
+   "noun, m.sg"
+  ],
+  "12": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "14": [
+   "hit",
+   "ठोकना",
+   "verb stem"
+  ],
+  "16": [
+   "gave",
+   "देना",
+   "perf. m.sg"
+  ],
+  "18": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "20": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "prop. n."
+  ],
+  "22": [
+   "said",
+   "बोलना",
+   "perf. m.pl"
+  ],
+  "27": [
+   "Shriram",
+   "श्रीराम",
+   "prop. n."
+  ],
+  "29": [
+   "leader",
+   "नेता",
+   "noun, m.sg"
+  ],
+  "31": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "33": [
+   "our",
+   "हमारा",
+   "poss. adj. m.pl"
+  ],
+  "36": [
+   "but",
+   "पर",
+   "postposition"
+  ],
+  "38": [
+   "this",
+   "यह",
+   "dem. pron."
+  ],
+  "40": [
+   "what",
+   "क्या",
+   "interrog. pron."
+  ],
+  "42": [
+   "matter",
+   "बात",
+   "noun, f.sg"
+  ],
+  "44": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "46": [
+   "Babaji (honorific)",
+   "बाबाजी",
+   "noun, m.sg"
+  ],
+  "49": [
+   "he",
+   "वह",
+   "pron. obl. m.sg"
+  ],
+  "51": [
+   "washerman",
+   "धोबी",
+   "noun, m.sg"
+  ],
+  "53": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "55": [
+   "word",
+   "बात",
+   "noun, f.sg"
+  ],
+  "57": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "59": [
+   "truth",
+   "सत्य",
+   "noun, m.sg"
+  ],
+  "61": [
+   "understood",
+   "समझना",
+   "verb stem"
+  ],
+  "63": [
+   "took",
+   "लेना",
+   "perf. m.sg"
+  ],
+  "66": [
+   "but",
+   "मगर",
+   "conj."
+  ],
+  "68": [
+   "so much",
+   "इतना",
+   "adj. f.sg"
+  ],
+  "70": [
+   "big",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "72": [
+   "queen",
+   "महारानी",
+   "noun, f.sg"
+  ],
+  "74": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "76": [
+   "truth",
+   "सत्य",
+   "noun, m.sg"
+  ],
+  "78": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "80": [
+   "belief",
+   "विश्वास",
+   "noun, m.sg"
+  ],
+  "82": [
+   "not",
+   "न",
+   "neg. particle"
+  ],
+  "84": [
+   "do",
+   "करना",
+   "verb stem"
+  ],
+  "86": [
+   "could",
+   "पाना",
+   "perf. m.pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    14,
+    16
+   ],
+   "type": "compound_verb",
+   "literal": "hit gave",
+   "meaning": "hit (with intensity/completion)",
+   "note": "देना as vector verb adds completion/intensity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    59,
+    61,
+    63
+   ],
+   "type": "compound_verb",
+   "literal": "truth understood took",
+   "meaning": "believed/accepted as true",
+   "note": "लेना as vector verb adds completion/acceptance",
+   "source": "model"
+  },
+  {
+   "idx": [
+    80,
+    82,
+    84,
+    86
+   ],
+   "type": "compound_verb",
+   "literal": "belief not do could",
+   "meaning": "could not believe",
+   "note": "पाना as vector verb indicates ability",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

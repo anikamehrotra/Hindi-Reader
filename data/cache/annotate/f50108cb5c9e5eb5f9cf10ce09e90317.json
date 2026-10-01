@@ -1,0 +1,163 @@
+{
+ "translation": "Narayan Baba, stroking his beard, said, \"That's because Sita was his own wife, Sundarlal. You don't understand the greatness of this matter.\"",
+ "words": {
+  "0": [
+   "Narayan",
+   "नारायण",
+   "prop. n."
+  ],
+  "2": [
+   "Baba",
+   "बाबा",
+   "n. m. sg."
+  ],
+  "4": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "6": [
+   "his own",
+   "अपना",
+   "adj. m. sg."
+  ],
+  "8": [
+   "beard",
+   "दाढ़ी",
+   "n. f. sg."
+  ],
+  "10": [
+   "of",
+   "का",
+   "postposition f. sg."
+  ],
+  "12": [
+   "khichri (here: tangled mess)",
+   "खिचड़ी",
+   "n. f. sg."
+  ],
+  "14": [
+   "cooking (here: stroking/mulling)",
+   "पकाना",
+   "v. pres. part."
+  ],
+  "16": [
+   "while being",
+   "होना",
+   "conj. participle"
+  ],
+  "18": [
+   "said",
+   "कहना",
+   "v. perf. m. sg."
+  ],
+  "23": [
+   "that's why",
+   "इसलिए",
+   "conj."
+  ],
+  "25": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "27": [
+   "Sita",
+   "सीता",
+   "prop. n."
+  ],
+  "29": [
+   "his",
+   "वह",
+   "pron. obl. f. sg."
+  ],
+  "31": [
+   "own",
+   "अपना",
+   "adj. f. sg."
+  ],
+  "33": [
+   "wife",
+   "पत्नी",
+   "n. f. sg."
+  ],
+  "35": [
+   "was",
+   "होना",
+   "v. past f. sg."
+  ],
+  "38": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "prop. n."
+  ],
+  "42": [
+   "you",
+   "तुम",
+   "pron. 2nd pl."
+  ],
+  "44": [
+   "this",
+   "यह",
+   "pron. obl. f. sg."
+  ],
+  "46": [
+   "matter",
+   "बात",
+   "n. f. sg."
+  ],
+  "48": [
+   "of",
+   "का",
+   "postposition f. sg."
+  ],
+  "50": [
+   "greatness",
+   "महानता",
+   "n. f. sg."
+  ],
+  "52": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "54": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "56": [
+   "know",
+   "जानना",
+   "v. pres. 2nd pl."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    8,
+    10,
+    12,
+    14,
+    16
+   ],
+   "type": "idiom",
+   "literal": "cooking the khichri of his beard",
+   "meaning": "stroking/mulling over his beard (while thinking or speaking)",
+   "note": "खिचड़ी पकाना literally means 'to cook khichri', but here it's used idiomatically with 'दाढ़ी की' to mean 'stroking one's beard thoughtfully' or 'mulling over something'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    14,
+    16
+   ],
+   "type": "compound_verb",
+   "literal": "cooking being",
+   "meaning": "while cooking/stroking",
+   "note": "हुए is a conjunctive participle, indicating a simultaneous action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

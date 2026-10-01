@@ -584,6 +584,7 @@ $("#selbar").addEventListener("click", async (e) => {
     const noteText = [r.translation, r.literal ? `lit. ${r.literal}` : "", ...(r.notes || []).map((n) => "• " + n)].filter(Boolean).join("\n");
     pop.innerHTML = `<div class="src">${esc(quote)}</div>
       <div class="trans">${esc(r.translation)}</div>
+      ${r.cached ? `<div class="gram">saved translation -- reused, no cost</div>` : ""}
       ${r.literal ? `<div class="lit">literally: ${esc(r.literal)}</div>` : ""}
       ${r.notes?.length ? `<ul>${r.notes.map((n) => `<li>${esc(n)}</li>`).join("")}</ul>` : ""}
       <div class="actions"><button class="btn small" data-close>Close</button><button class="btn small primary" data-save>Save as note</button></div>`;

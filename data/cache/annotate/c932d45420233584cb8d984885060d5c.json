@@ -1,0 +1,567 @@
+{
+ "translation": "Rahat, somewhat lifeless and troubled, walked away. In the veranda, I saw her sobbing with her head on Zameer's shoulder. \"I don't know what she was muttering. 'Her mind has gone bad,' she was saying to someone. The night was long and dark for me, but she appeared to me as a shining star. This was my power of decision, which was increasing my courage. 'I will save Kishwar. I will pull an innocent bird out from the terrifying talons of the hawk.'",
+ "words": {
+  "0": [
+   "Rahat",
+   "राहत",
+   ""
+  ],
+  "2": [
+   "somewhat",
+   "कुछ",
+   "adv"
+  ],
+  "4": [
+   "half",
+   "नीम",
+   "adj"
+  ],
+  "6": [
+   "dead",
+   "मुर्दा",
+   "adj"
+  ],
+  "8": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "10": [
+   "troubled",
+   "परेशान",
+   "adj"
+  ],
+  "12": [
+   "like",
+   "सा",
+   "post. adj"
+  ],
+  "14": [
+   "went",
+   "चलना",
+   "perf. f.sg"
+  ],
+  "16": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "19": [
+   "veranda",
+   "बरामदा",
+   "dir. sg"
+  ],
+  "21": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "24": [
+   "I",
+   "मैं",
+   "obl. sg"
+  ],
+  "26": [
+   "her",
+   "वह",
+   "obl. sg"
+  ],
+  "28": [
+   "Zameer",
+   "ज़मीर",
+   "dir. sg"
+  ],
+  "30": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "32": [
+   "shoulder",
+   "शान",
+   "obl. sg"
+  ],
+  "34": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "36": [
+   "head",
+   "सर",
+   "dir. sg"
+  ],
+  "38": [
+   "placed",
+   "रखना",
+   "perf. m.pl"
+  ],
+  "40": [
+   "sobs",
+   "सिसकी",
+   "dir. pl"
+  ],
+  "42": [
+   "filling",
+   "भरना",
+   "pres. part. m.pl"
+  ],
+  "44": [
+   "saw",
+   "देखना",
+   "perf. m.sg"
+  ],
+  "47": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "49": [
+   "to know",
+   "जानना",
+   "inf"
+  ],
+  "51": [
+   "she",
+   "वो",
+   "dir. sg"
+  ],
+  "53": [
+   "what",
+   "क्या",
+   "pron"
+  ],
+  "55": [
+   "muttering",
+   "बड़-बड़ाना",
+   "pres. part. m.pl"
+  ],
+  "57": [
+   "were",
+   "रहना",
+   "aux. verb"
+  ],
+  "59": [
+   "were",
+   "होना",
+   "past. pl"
+  ],
+  "63": [
+   "her",
+   "यह",
+   "obl. sg"
+  ],
+  "65": [
+   "mind",
+   "दिमाग़",
+   "dir. sg"
+  ],
+  "67": [
+   "bad",
+   "ख़राब",
+   "adj"
+  ],
+  "69": [
+   "become",
+   "होना",
+   "conj. part"
+  ],
+  "71": [
+   "gone",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "73": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "79": [
+   "she",
+   "वो",
+   "dir. sg"
+  ],
+  "81": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "83": [
+   "to know",
+   "जानना",
+   "inf"
+  ],
+  "85": [
+   "to whom",
+   "कौन",
+   "obl. sg"
+  ],
+  "87": [
+   "saying",
+   "कहना",
+   "pres. part. f.sg"
+  ],
+  "89": [
+   "was",
+   "रहना",
+   "aux. verb"
+  ],
+  "91": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "94": [
+   "night",
+   "रात",
+   "dir. sg"
+  ],
+  "96": [
+   "my",
+   "मेरा",
+   "obl. sg"
+  ],
+  "98": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "100": [
+   "long",
+   "लंबा",
+   "adj. f.sg"
+  ],
+  "102": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "104": [
+   "dark",
+   "अँधेरा",
+   "adj. f.sg"
+  ],
+  "106": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "109": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "111": [
+   "she",
+   "वो",
+   "dir. sg"
+  ],
+  "113": [
+   "to me",
+   "मैं",
+   "obl. sg"
+  ],
+  "115": [
+   "a",
+   "एक",
+   "num"
+  ],
+  "117": [
+   "shining",
+   "रोशन",
+   "adj"
+  ],
+  "119": [
+   "star",
+   "सितारा",
+   "dir. sg"
+  ],
+  "121": [
+   "sight",
+   "नज़र",
+   "dir. sg"
+  ],
+  "123": [
+   "coming",
+   "आना",
+   "pres. part. m.sg"
+  ],
+  "125": [
+   "remaining",
+   "रहना",
+   "aux. verb"
+  ],
+  "127": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "132": [
+   "this",
+   "यह",
+   "dir. sg"
+  ],
+  "134": [
+   "my",
+   "मेरा",
+   "obl. sg"
+  ],
+  "136": [
+   "power of decision",
+   "क़ुव्वत-ए-फै़सला",
+   "dir. sg"
+  ],
+  "138": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "140": [
+   "which",
+   "जो",
+   "rel. pron"
+  ],
+  "142": [
+   "my",
+   "मेरा",
+   "obl. sg"
+  ],
+  "144": [
+   "courage",
+   "हिम्मत",
+   "dir. sg"
+  ],
+  "146": [
+   "increasing",
+   "बढ़ाना",
+   "pres. part. f.sg"
+  ],
+  "148": [
+   "remaining",
+   "रहना",
+   "aux. verb"
+  ],
+  "150": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "153": [
+   "I",
+   "मैं",
+   "dir. sg"
+  ],
+  "155": [
+   "Kishwar",
+   "किश्वर",
+   "dir. sg"
+  ],
+  "157": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "159": [
+   "will save",
+   "बचाना",
+   "fut. 1sg"
+  ],
+  "164": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "166": [
+   "a",
+   "एक",
+   "num"
+  ],
+  "168": [
+   "innocent",
+   "मासूम",
+   "adj"
+  ],
+  "170": [
+   "bird",
+   "चिड़िया",
+   "dir. sg"
+  ],
+  "172": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "174": [
+   "hawk",
+   "शिकरा",
+   "dir. sg"
+  ],
+  "176": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "178": [
+   "terrifying",
+   "ख़ौफ़नाक",
+   "adj"
+  ],
+  "180": [
+   "talons",
+   "पंजा",
+   "obl. pl"
+  ],
+  "182": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "184": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "186": [
+   "taking out",
+   "निकालना",
+   "conj. part"
+  ],
+  "188": [
+   "will bring",
+   "लाना",
+   "fut. 1sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6
+   ],
+   "type": "phrase",
+   "literal": "half dead",
+   "meaning": "lifeless, listless",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    14,
+    16
+   ],
+   "type": "compound_verb",
+   "literal": "went went",
+   "meaning": "walked away",
+   "note": "जाना as a vector verb indicates completion or going away",
+   "source": "model"
+  },
+  {
+   "idx": [
+    40,
+    42
+   ],
+   "type": "conjunct_verb",
+   "literal": "filling sobs",
+   "meaning": "to sob, to cry",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    49
+   ],
+   "type": "phrase",
+   "literal": "not to know",
+   "meaning": "I don't know",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    55,
+    57,
+    59
+   ],
+   "type": "compound_verb",
+   "literal": "muttering were were",
+   "meaning": "was muttering",
+   "note": "रहना as an auxiliary verb indicates continuous action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    65,
+    67,
+    69,
+    71,
+    73
+   ],
+   "type": "phrase",
+   "literal": "mind bad become gone is",
+   "meaning": "her mind has gone bad / she has gone mad",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    81,
+    83
+   ],
+   "type": "phrase",
+   "literal": "not to know",
+   "meaning": "I don't know",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    87,
+    89,
+    91
+   ],
+   "type": "compound_verb",
+   "literal": "saying was was",
+   "meaning": "was saying",
+   "note": "रहना as an auxiliary verb indicates continuous action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    121,
+    123,
+    125,
+    127
+   ],
+   "type": "compound_verb",
+   "literal": "sight coming remaining was",
+   "meaning": "appeared, was visible",
+   "note": "आना as a vector verb indicates appearance; रहना indicates continuous state",
+   "source": "model"
+  },
+  {
+   "idx": [
+    146,
+    148,
+    150
+   ],
+   "type": "compound_verb",
+   "literal": "increasing remaining was",
+   "meaning": "was increasing",
+   "note": "रहना as an auxiliary verb indicates continuous action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    186,
+    188
+   ],
+   "type": "compound_verb",
+   "literal": "taking out will bring",
+   "meaning": "will pull out",
+   "note": "लाना as a vector verb indicates bringing something to the speaker",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

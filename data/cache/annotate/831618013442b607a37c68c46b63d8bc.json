@@ -1,0 +1,835 @@
+{
+ "translation": "Kishwar, my Kishwar, I cried out involuntarily, and the next moment the door curtain was pulled aside, and for a little while all my strength was drained. In the middle of the room, a little away from a cupboard, Kishwar was slumped like a dead bird in Shaukat's terrifying and cruel arms. And you could say that, have you ever seen a pigeon feeding its young? Exactly like that. The next moment, Shaukat was scratching his head, looking at the blending of colors in the picture hanging nearby, and Kishwar was quickly opening and closing her purse. Her eyes were downcast and her face was red. \"This... this is Shaukat, Rehana... Shaukat,\" Kishwar was saying.",
+ "words": {
+  "1": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "6": [
+   "my",
+   "मेरा",
+   "poss. f.sg"
+  ],
+  "8": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "14": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "16": [
+   "involuntarily",
+   "बे-साख़्ता",
+   "adv"
+  ],
+  "18": [
+   "cried out",
+   "चीख़ना",
+   "verb. f.sg"
+  ],
+  "20": [
+   "fell",
+   "पड़ना",
+   "perf. f.sg"
+  ],
+  "22": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "24": [
+   "next",
+   "दूसरा",
+   "adj. m.sg"
+  ],
+  "26": [
+   "moment",
+   "लम्हा",
+   "n. m.sg"
+  ],
+  "28": [
+   "door's",
+   "दरवाज़ा",
+   "n. m.obl.sg"
+  ],
+  "30": [
+   "of",
+   "का",
+   "post. m.sg"
+  ],
+  "32": [
+   "curtain",
+   "पर्दा",
+   "n. m.sg"
+  ],
+  "34": [
+   "apart",
+   "अलग",
+   "adj"
+  ],
+  "36": [
+   "become",
+   "होना",
+   "inf"
+  ],
+  "38": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "41": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "43": [
+   "a little",
+   "थोड़ा",
+   "adj. f.sg"
+  ],
+  "45": [
+   "time",
+   "देर",
+   "n. f.sg"
+  ],
+  "47": [
+   "for",
+   "के",
+   "post"
+  ],
+  "49": [
+   "for",
+   "लिए",
+   "post"
+  ],
+  "51": [
+   "my",
+   "मेरा",
+   "poss. f.sg"
+  ],
+  "53": [
+   "all",
+   "सारा",
+   "adj. f.pl"
+  ],
+  "55": [
+   "strengths",
+   "ताक़त",
+   "n. f.pl"
+  ],
+  "57": [
+   "drained",
+   "सल्ब",
+   "adj"
+  ],
+  "59": [
+   "become",
+   "होना",
+   "inf"
+  ],
+  "61": [
+   "went",
+   "जाना",
+   "perf. f.pl"
+  ],
+  "64": [
+   "in the middle",
+   "बीचों-बीच",
+   "adv"
+  ],
+  "66": [
+   "room's",
+   "कमरा",
+   "n. m.obl.sg"
+  ],
+  "68": [
+   "in",
+   "में",
+   "post"
+  ],
+  "70": [
+   "a",
+   "एक",
+   "num"
+  ],
+  "72": [
+   "cupboard",
+   "अलमारी",
+   "n. f.sg"
+  ],
+  "74": [
+   "from",
+   "से",
+   "post"
+  ],
+  "76": [
+   "a little",
+   "ज़रा",
+   "adv"
+  ],
+  "78": [
+   "moved away",
+   "हटना",
+   "conj. participle"
+  ],
+  "80": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "82": [
+   "Shaukat",
+   "शौकत",
+   ""
+  ],
+  "84": [
+   "of",
+   "का",
+   "post. m.obl.pl"
+  ],
+  "86": [
+   "terrifying",
+   "भयानक",
+   "adj"
+  ],
+  "88": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "90": [
+   "cruel",
+   "ज़ालिम",
+   "adj"
+  ],
+  "92": [
+   "arms",
+   "बाज़ू",
+   "n. m.obl.pl"
+  ],
+  "94": [
+   "in",
+   "में",
+   "post"
+  ],
+  "96": [
+   "a",
+   "एक",
+   "num"
+  ],
+  "98": [
+   "dead",
+   "मुर्दा",
+   "adj. f.sg"
+  ],
+  "100": [
+   "bird",
+   "चिड़िया",
+   "n. f.sg"
+  ],
+  "102": [
+   "like",
+   "की",
+   "post. f.sg"
+  ],
+  "104": [
+   "manner",
+   "तरह",
+   "n. f.sg"
+  ],
+  "106": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "108": [
+   "slumped",
+   "निढाल",
+   "adj"
+  ],
+  "110": [
+   "becoming",
+   "होना",
+   "pres. part. f.sg"
+  ],
+  "112": [
+   "was",
+   "रहना",
+   "aux. f.sg"
+  ],
+  "114": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "116": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "118": [
+   "that",
+   "वो",
+   "pron. 3sg"
+  ],
+  "123": [
+   "this",
+   "यह",
+   "pron. dem"
+  ],
+  "125": [
+   "understand",
+   "समझना",
+   "verb"
+  ],
+  "127": [
+   "please take",
+   "लेना",
+   "imperative"
+  ],
+  "129": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "131": [
+   "pigeon",
+   "कबूतर",
+   "n. m.sg"
+  ],
+  "133": [
+   "to",
+   "को",
+   "post"
+  ],
+  "135": [
+   "you",
+   "आप",
+   "pron. 2pl.hon"
+  ],
+  "137": [
+   "ever",
+   "कभी",
+   "adv"
+  ],
+  "139": [
+   "young",
+   "बच्चा",
+   "n. m.obl.sg"
+  ],
+  "141": [
+   "to",
+   "को",
+   "post"
+  ],
+  "143": [
+   "grain",
+   "दाना",
+   "n. m.sg"
+  ],
+  "145": [
+   "feeding",
+   "भराते",
+   "pres. part. m.obl.pl"
+  ],
+  "147": [
+   "seen",
+   "देखना",
+   "perf. m.sg"
+  ],
+  "149": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "152": [
+   "just",
+   "बस",
+   "adv"
+  ],
+  "154": [
+   "exactly",
+   "बिलकुल",
+   "adv"
+  ],
+  "156": [
+   "like that",
+   "वैसा",
+   "adv"
+  ],
+  "158": [
+   "emphatic",
+   "ही",
+   "emphatic particle"
+  ],
+  "163": [
+   "exactly",
+   "बिलकुल",
+   "adv"
+  ],
+  "165": [
+   "that same",
+   "उसी",
+   "pron. dem. obl.sg"
+  ],
+  "167": [
+   "way",
+   "तरह",
+   "n. f.sg"
+  ],
+  "172": [
+   "next",
+   "दूसरा",
+   "adj. m.sg"
+  ],
+  "174": [
+   "moment",
+   "लम्हा",
+   "n. m.sg"
+  ],
+  "176": [
+   "Shaukat",
+   "शौकत",
+   ""
+  ],
+  "178": [
+   "then",
+   "तो",
+   "emphatic particle"
+  ],
+  "180": [
+   "head",
+   "सर",
+   "n. m.sg"
+  ],
+  "182": [
+   "scratching repeatedly",
+   "खुजा-खुजा",
+   "reduplicated conj. participle"
+  ],
+  "184": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "186": [
+   "nearby",
+   "पास",
+   "adv"
+  ],
+  "188": [
+   "hanging",
+   "टँगना",
+   "perf. f.sg"
+  ],
+  "190": [
+   "was",
+   "होना",
+   "perf. f.sg"
+  ],
+  "192": [
+   "picture",
+   "तस्वीर",
+   "n. f.sg"
+  ],
+  "194": [
+   "in",
+   "में",
+   "post"
+  ],
+  "196": [
+   "colors'",
+   "रंग",
+   "n. m.obl.pl"
+  ],
+  "198": [
+   "of",
+   "का",
+   "post. f.sg"
+  ],
+  "200": [
+   "blending",
+   "आमेज़िश",
+   "n. f.sg"
+  ],
+  "202": [
+   "seeing",
+   "देखना",
+   "pres. part. m.pl"
+  ],
+  "204": [
+   "were",
+   "रहना",
+   "aux. m.pl"
+  ],
+  "206": [
+   "were",
+   "होना",
+   "past. m.pl"
+  ],
+  "208": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "210": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "212": [
+   "quickly",
+   "जल्दी-जल्दी",
+   "adv"
+  ],
+  "214": [
+   "her own",
+   "अपना",
+   "poss. f.sg"
+  ],
+  "216": [
+   "purse",
+   "बटवा",
+   "n. m.sg"
+  ],
+  "218": [
+   "opening",
+   "खोलना",
+   "conj. participle"
+  ],
+  "220": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "222": [
+   "closing",
+   "बंद",
+   "adj"
+  ],
+  "224": [
+   "doing",
+   "करना",
+   "conj. participle"
+  ],
+  "226": [
+   "was",
+   "रहना",
+   "aux. f.sg"
+  ],
+  "228": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "231": [
+   "eyes",
+   "आँख",
+   "n. f.pl"
+  ],
+  "233": [
+   "downcast",
+   "झुकना",
+   "perf. f.pl"
+  ],
+  "235": [
+   "were",
+   "होना",
+   "perf. f.pl"
+  ],
+  "237": [
+   "were",
+   "होना",
+   "past. f.pl"
+  ],
+  "239": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "241": [
+   "face",
+   "चेहरा",
+   "n. m.sg"
+  ],
+  "243": [
+   "red",
+   "लाल",
+   "adj"
+  ],
+  "245": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "249": [
+   "this",
+   "यह",
+   "pron. dem"
+  ],
+  "254": [
+   "this",
+   "यह",
+   "pron. dem"
+  ],
+  "256": [
+   "Shaukat",
+   "शौकत",
+   ""
+  ],
+  "258": [
+   "is",
+   "होना",
+   "pres. 3pl.hon"
+  ],
+  "260": [
+   "Rehana",
+   "रेहाना",
+   ""
+  ],
+  "265": [
+   "Shaukat",
+   "शौकत",
+   ""
+  ],
+  "271": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "273": [
+   "saying",
+   "कहना",
+   "pres. part. f.sg"
+  ],
+  "275": [
+   "was",
+   "रहना",
+   "aux. f.sg"
+  ],
+  "277": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    16,
+    18,
+    20
+   ],
+   "type": "compound_verb",
+   "literal": "without support cried fell",
+   "meaning": "cried out involuntarily",
+   "note": "बे-साख़्ता is an adverb meaning 'spontaneously, involuntarily'. चीख़ पड़ना is a compound verb where पड़ना adds intensity or suddenness.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    34,
+    36,
+    38
+   ],
+   "type": "compound_verb",
+   "literal": "separate become went",
+   "meaning": "was pulled aside / became separate",
+   "note": "हो जाना indicates completion or a change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    43,
+    45,
+    47,
+    49
+   ],
+   "type": "postposition",
+   "literal": "a little time for",
+   "meaning": "for a little while",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    57,
+    59,
+    61
+   ],
+   "type": "compound_verb",
+   "literal": "drained become went",
+   "meaning": "were drained / became drained",
+   "note": "हो जाना indicates completion or a change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    64
+   ],
+   "type": "phrase",
+   "literal": "in the middle-middle",
+   "meaning": "in the very middle",
+   "note": "Reduplication for emphasis.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    76,
+    78,
+    80
+   ],
+   "type": "phrase",
+   "literal": "a little moved away having done",
+   "meaning": "a little away from",
+   "note": "ज़रा हट कर means 'a little bit away'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    98,
+    100,
+    102,
+    104
+   ],
+   "type": "phrase",
+   "literal": "dead bird's like",
+   "meaning": "like a dead bird",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    110,
+    112,
+    114
+   ],
+   "type": "compound_verb",
+   "literal": "becoming staying was",
+   "meaning": "was becoming / was in the process of becoming",
+   "note": "हो रही थी indicates a continuous process in the past.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    123,
+    125,
+    127
+   ],
+   "type": "phrase",
+   "literal": "this understand please take",
+   "meaning": "you could say that / consider this",
+   "note": "A polite way to introduce an analogy or explanation.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    154,
+    156,
+    158
+   ],
+   "type": "phrase",
+   "literal": "exactly like that emphatic",
+   "meaning": "exactly like that",
+   "note": "बिलकुल वैसे ही emphasizes the exact similarity.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    163,
+    165,
+    167
+   ],
+   "type": "phrase",
+   "literal": "exactly that same way",
+   "meaning": "exactly in that same way",
+   "note": "बिलकुल उसी तरह emphasizes the exact similarity.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    182,
+    184
+   ],
+   "type": "compound_verb",
+   "literal": "scratch-scratch having done",
+   "meaning": "scratching repeatedly",
+   "note": "Reduplication of the conjunctive participle for continuous or repeated action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    188,
+    190
+   ],
+   "type": "compound_verb",
+   "literal": "hung was",
+   "meaning": "hanging",
+   "note": "टंगी हुई is a perfect participle used adjectivally.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    212
+   ],
+   "type": "phrase",
+   "literal": "quick-quick",
+   "meaning": "quickly / hurriedly",
+   "note": "Reduplication for emphasis of speed.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    218,
+    220,
+    222,
+    224
+   ],
+   "type": "phrase",
+   "literal": "opening and closing doing",
+   "meaning": "opening and closing",
+   "note": "खोल और बंद कर रही थी indicates a repeated action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    226,
+    228
+   ],
+   "type": "compound_verb",
+   "literal": "doing was",
+   "meaning": "was doing",
+   "note": "कर रही थी indicates continuous action in the past.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    233,
+    235,
+    237
+   ],
+   "type": "compound_verb",
+   "literal": "downcast were were",
+   "meaning": "were downcast",
+   "note": "झुकी हुई थीं indicates a state in the past.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    273,
+    275,
+    277
+   ],
+   "type": "compound_verb",
+   "literal": "saying was was",
+   "meaning": "was saying",
+   "note": "कह रही थी indicates continuous action in the past.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

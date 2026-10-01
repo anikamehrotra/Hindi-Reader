@@ -1,0 +1,208 @@
+{
+ "translation": "Toba Tek Singh, where is it? And he started shouting loudly, \"Oh, the lentil of Toba Tek Singh, the lentil of Toba Tek Singh, and Pakistan!\"",
+ "words": {
+  "1": [
+   "Toba",
+   "टोबा",
+   ""
+  ],
+  "3": [
+   "Tek Singh",
+   "टेकसिंह",
+   ""
+  ],
+  "5": [
+   "where",
+   "कहाँ",
+   "interrogative pronoun"
+  ],
+  "7": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "12": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "14": [
+   "loudly",
+   "ज़ोर-ज़ोर",
+   "adverb"
+  ],
+  "16": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "18": [
+   "to shout",
+   "चिल्लाना",
+   "infinitive"
+  ],
+  "20": [
+   "began",
+   "लगना",
+   "perf. m.sg"
+  ],
+  "24": [
+   "oh",
+   "ओ",
+   "interjection"
+  ],
+  "26": [
+   "fell",
+   "पड़ना",
+   "verb"
+  ],
+  "28": [
+   "gave",
+   "देना",
+   "perf. f.sg"
+  ],
+  "31": [
+   "gurgle",
+   "गुड़गुड़",
+   "onomatopoeia"
+  ],
+  "33": [
+   "gave",
+   "देना",
+   "perf. f.sg"
+  ],
+  "36": [
+   "careless",
+   "बेध्याना",
+   "adjective"
+  ],
+  "38": [
+   "gave",
+   "देना",
+   "perf. f.sg"
+  ],
+  "41": [
+   "mung bean",
+   "मूंग",
+   "noun f.sg"
+  ],
+  "43": [
+   "of",
+   "देना",
+   "gen. f.sg (from दी)"
+  ],
+  "45": [
+   "lentil",
+   "दाल",
+   "noun f.sg"
+  ],
+  "47": [
+   "of",
+   "ऑफ़",
+   "preposition"
+  ],
+  "49": [
+   "Toba",
+   "टोबा",
+   ""
+  ],
+  "51": [
+   "Tek Singh",
+   "टेकसिंह",
+   ""
+  ],
+  "53": [
+   "and",
+   "ऐंड",
+   "conjunction"
+  ],
+  "55": [
+   "Pakistan",
+   "पाकिस्तान",
+   "noun m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    14,
+    16
+   ],
+   "type": "phrase",
+   "literal": "with strength-strength",
+   "meaning": "loudly, with great force",
+   "note": "reduplication for emphasis",
+   "source": "model"
+  },
+  {
+   "idx": [
+    18,
+    20
+   ],
+   "type": "compound_verb",
+   "literal": "to shout began",
+   "meaning": "started shouting",
+   "note": "लगना as a vector verb indicates the beginning of an action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    24,
+    26,
+    28
+   ],
+   "type": "phrase",
+   "literal": "oh fell gave",
+   "meaning": "Oh, it fell!",
+   "note": "This is a fragment of a nonsensical phrase, likely part of the character's delirium. The words 'पड़ दी' are grammatically unusual here, suggesting a breakdown of coherent speech.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    31,
+    33
+   ],
+   "type": "phrase",
+   "literal": "gurgle gave",
+   "meaning": "gurgled",
+   "note": "Likely an onomatopoeic sound followed by a verb, contributing to the character's incoherent speech.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    36,
+    38
+   ],
+   "type": "phrase",
+   "literal": "careless gave",
+   "meaning": "became careless",
+   "note": "Another fragment of incoherent speech.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    41,
+    43,
+    45
+   ],
+   "type": "phrase",
+   "literal": "mung bean of lentil",
+   "meaning": "mung bean lentil",
+   "note": "The character is repeating a phrase, possibly from a song or a common saying, but it's disjointed in this context.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    49,
+    51
+   ],
+   "type": "phrase",
+   "literal": "of Toba Tek Singh",
+   "meaning": "of Toba Tek Singh",
+   "note": "The English 'of' is used here, reflecting the character's mixed language or the author's choice to show his confusion.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

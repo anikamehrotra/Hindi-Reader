@@ -1,0 +1,17 @@
+{
+ "translation": "Bedi, overall...",
+ "words": {
+  "0": [
+   "Bedi (a surname)",
+   "बेदी",
+   "proper noun"
+  ],
+  "2": [
+   "overall",
+   "समग्र",
+   "adjective"
+  ]
+ },
+ "units": [],
+ "model": "google/gemini-2.5-flash"
+}

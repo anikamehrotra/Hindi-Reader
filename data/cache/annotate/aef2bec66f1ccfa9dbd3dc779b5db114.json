@@ -1,0 +1,622 @@
+{
+ "translation": "His Sikh's hair had become very sparse and few, because he rarely bathed. Therefore, the hair of his beard and head had matted together, due to which his appearance had become very frightening. But the man was harmless. In fifteen years, he had not fought with anyone. The old employees of the asylum knew this much about him: that he had several fields in Toba Tek Singh, and was a well-to-do landlord, until suddenly his mind flipped. His relatives brought him tied in thick iron chains and admitted him to the asylum.",
+ "words": {
+  "0": [
+   "that",
+   "वह",
+   "dem. pron. m.sg"
+  ],
+  "2": [
+   "Sikh's",
+   "सिक्ख",
+   "n. m.sg. obl"
+  ],
+  "4": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "6": [
+   "hair",
+   "केश",
+   "n. m.pl"
+  ],
+  "8": [
+   "sparse",
+   "छिदरा",
+   "adj. m.pl"
+  ],
+  "10": [
+   "having become",
+   "होना",
+   "conj. participle"
+  ],
+  "12": [
+   "very",
+   "बहुत",
+   "adv"
+  ],
+  "14": [
+   "few",
+   "थोड़ा",
+   "adj. m.pl"
+  ],
+  "16": [
+   "remained",
+   "रहना",
+   "main verb"
+  ],
+  "18": [
+   "went",
+   "जाना",
+   "vector verb perf. m.pl"
+  ],
+  "20": [
+   "had",
+   "होना",
+   "aux. past"
+  ],
+  "23": [
+   "since",
+   "चूँकि",
+   "conj"
+  ],
+  "25": [
+   "very",
+   "बहुत",
+   "adv"
+  ],
+  "27": [
+   "little",
+   "कम",
+   "adv"
+  ],
+  "29": [
+   "bathed",
+   "नहाना",
+   "impf. m.sg"
+  ],
+  "31": [
+   "was",
+   "होना",
+   "aux. past"
+  ],
+  "34": [
+   "therefore",
+   "इसलिए",
+   "adv"
+  ],
+  "36": [
+   "beard",
+   "दाढ़ी",
+   "n. f.sg"
+  ],
+  "38": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "40": [
+   "head",
+   "सिर",
+   "n. m.sg"
+  ],
+  "42": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "44": [
+   "hair",
+   "बाल",
+   "n. m.pl"
+  ],
+  "46": [
+   "each other",
+   "आपस",
+   "pron. obl"
+  ],
+  "48": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "50": [
+   "matted",
+   "जमना",
+   "main verb"
+  ],
+  "52": [
+   "went",
+   "जाना",
+   "vector verb perf. m.pl"
+  ],
+  "54": [
+   "had",
+   "होना",
+   "aux. past"
+  ],
+  "57": [
+   "whose",
+   "जिसकी",
+   "rel. pron. f.sg"
+  ],
+  "59": [
+   "reason",
+   "वजह",
+   "n. f.sg"
+  ],
+  "61": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "63": [
+   "his",
+   "उसका",
+   "poss. pron. f.sg"
+  ],
+  "65": [
+   "appearance",
+   "शक्ल",
+   "n. f.sg"
+  ],
+  "67": [
+   "very",
+   "बड़ा",
+   "adv"
+  ],
+  "69": [
+   "frightening",
+   "भयानक",
+   "adj. f.sg"
+  ],
+  "71": [
+   "become",
+   "होना",
+   "main verb"
+  ],
+  "73": [
+   "went",
+   "जाना",
+   "vector verb perf. f.sg"
+  ],
+  "75": [
+   "had",
+   "होना",
+   "aux. past"
+  ],
+  "78": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "80": [
+   "man",
+   "आदमी",
+   "n. m.sg"
+  ],
+  "82": [
+   "harmless",
+   "निरीह",
+   "adj. m.sg"
+  ],
+  "84": [
+   "was",
+   "होना",
+   "aux. past"
+  ],
+  "88": [
+   "fifteen",
+   "पन्द्रह",
+   "num"
+  ],
+  "90": [
+   "years",
+   "बरस",
+   "n. m.pl. obl"
+  ],
+  "92": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "94": [
+   "he",
+   "वह",
+   "pron. m.sg. obl"
+  ],
+  "96": [
+   "any",
+   "कोई",
+   "pron. obl"
+  ],
+  "98": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "100": [
+   "quarrel",
+   "झगड़ा-फ़साद",
+   "n. m.sg"
+  ],
+  "102": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "104": [
+   "done",
+   "करना",
+   "perf. m.sg"
+  ],
+  "106": [
+   "had",
+   "होना",
+   "aux. past"
+  ],
+  "110": [
+   "asylum",
+   "पागलखाना",
+   "n. m.sg. obl"
+  ],
+  "112": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "114": [
+   "who",
+   "जो",
+   "rel. pron. m.pl"
+  ],
+  "116": [
+   "old-old",
+   "पुराना",
+   "adj. m.pl"
+  ],
+  "118": [
+   "employees",
+   "मुलाज़िम",
+   "n. m.pl"
+  ],
+  "120": [
+   "were",
+   "होना",
+   "aux. past"
+  ],
+  "123": [
+   "they",
+   "वह",
+   "pron. m.pl"
+  ],
+  "125": [
+   "his",
+   "उसका",
+   "poss. pron. obl"
+  ],
+  "127": [
+   "about",
+   "बारा",
+   "n. m.sg. obl"
+  ],
+  "129": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "131": [
+   "this much",
+   "इतना",
+   "adv"
+  ],
+  "133": [
+   "knew",
+   "जानना",
+   "impf. m.pl"
+  ],
+  "135": [
+   "were",
+   "होना",
+   "aux. past"
+  ],
+  "137": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "139": [
+   "Toba",
+   "टोबा",
+   "n. prop"
+  ],
+  "141": [
+   "Tek Singh",
+   "टेकसिंह",
+   "n. prop"
+  ],
+  "143": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "145": [
+   "his",
+   "उसका",
+   "poss. pron. m.pl"
+  ],
+  "147": [
+   "several",
+   "कई",
+   "adj"
+  ],
+  "149": [
+   "fields",
+   "खेत",
+   "n. m.pl"
+  ],
+  "151": [
+   "were",
+   "होना",
+   "aux. past"
+  ],
+  "154": [
+   "well",
+   "अच्छा",
+   "adv"
+  ],
+  "156": [
+   "well-to-do",
+   "खाता-पीता",
+   "adj. m.sg"
+  ],
+  "158": [
+   "landlord",
+   "ज़मींदार",
+   "n. m.sg"
+  ],
+  "160": [
+   "was",
+   "होना",
+   "aux. past"
+  ],
+  "162": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "164": [
+   "suddenly",
+   "अचानक",
+   "adv"
+  ],
+  "166": [
+   "mind",
+   "दिमाग़",
+   "n. m.sg"
+  ],
+  "168": [
+   "flipped",
+   "उलटना",
+   "main verb"
+  ],
+  "170": [
+   "went",
+   "जाना",
+   "vector verb perf. m.sg"
+  ],
+  "173": [
+   "his",
+   "उसका",
+   "poss. pron. m.pl"
+  ],
+  "175": [
+   "relatives",
+   "रिश्तेदार",
+   "n. m.pl"
+  ],
+  "177": [
+   "him",
+   "वह",
+   "pron. m.sg. obl"
+  ],
+  "179": [
+   "iron",
+   "लोहा",
+   "n. m.sg. obl"
+  ],
+  "181": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "183": [
+   "thick-thick",
+   "मोटा",
+   "adj. f.pl"
+  ],
+  "185": [
+   "chains",
+   "जंजीर",
+   "n. f.pl. obl"
+  ],
+  "187": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "189": [
+   "having tied",
+   "बाँधना",
+   "conj. participle"
+  ],
+  "191": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "193": [
+   "brought",
+   "लाना",
+   "perf. m.pl"
+  ],
+  "195": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "197": [
+   "asylum",
+   "पागलखाना",
+   "n. m.sg. obl"
+  ],
+  "199": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "201": [
+   "admission",
+   "भरना",
+   "n. f.sg"
+  ],
+  "203": [
+   "caused to do",
+   "कराना",
+   "main verb"
+  ],
+  "205": [
+   "went",
+   "जाना",
+   "vector verb perf. m.pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    16,
+    18
+   ],
+   "type": "compound_verb",
+   "literal": "remained went",
+   "meaning": "had remained (emphasizes completion)",
+   "note": "रहना (to remain) + जाना (to go) as vector verb",
+   "source": "model"
+  },
+  {
+   "idx": [
+    50,
+    52
+   ],
+   "type": "compound_verb",
+   "literal": "matted went",
+   "meaning": "had matted (emphasizes completion)",
+   "note": "जमना (to mat) + जाना (to go) as vector verb",
+   "source": "model"
+  },
+  {
+   "idx": [
+    57,
+    59,
+    61
+   ],
+   "type": "postposition",
+   "literal": "whose reason from",
+   "meaning": "due to which",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    71,
+    73
+   ],
+   "type": "compound_verb",
+   "literal": "become went",
+   "meaning": "had become (emphasizes completion)",
+   "note": "होना (to be/become) + जाना (to go) as vector verb",
+   "source": "model"
+  },
+  {
+   "idx": [
+    116,
+    118
+   ],
+   "type": "phrase",
+   "literal": "old-old employees",
+   "meaning": "old employees",
+   "note": "Repetition of 'पुराना' for emphasis or to indicate many old employees.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    127,
+    129
+   ],
+   "type": "postposition",
+   "literal": "about in",
+   "meaning": "about",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    156,
+    158
+   ],
+   "type": "phrase",
+   "literal": "eats-drinks landlord",
+   "meaning": "well-to-do landlord",
+   "note": "खाता-पीता is a common collocation meaning prosperous or well-off.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    166,
+    168,
+    170
+   ],
+   "type": "idiom",
+   "literal": "mind flipped went",
+   "meaning": "his mind went crazy / he lost his mind",
+   "note": "A common idiom for losing one's sanity.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    183,
+    185
+   ],
+   "type": "phrase",
+   "literal": "thick-thick chains",
+   "meaning": "thick chains",
+   "note": "Repetition of 'मोटी' for emphasis on the thickness.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    189,
+    191
+   ],
+   "type": "conjunct_verb",
+   "literal": "having tied having done",
+   "meaning": "having tied",
+   "note": "कर is often used as an intensifier or to form compound participles.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    201,
+    203,
+    205
+   ],
+   "type": "compound_verb",
+   "literal": "admission caused to do went",
+   "meaning": "was admitted (passive construction)",
+   "note": "भरती करना (to admit) + जाना (to go) as vector verb, forming a passive construction.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

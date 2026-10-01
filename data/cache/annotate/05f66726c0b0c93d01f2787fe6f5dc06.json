@@ -1,0 +1,66 @@
+{
+ "translation": "Printer: Shakti Printing Press, Daryaganj, New Delhi",
+ "words": {
+  "0": [
+   "printer",
+   "मुद्रक",
+   "m.sg"
+  ],
+  "4": [
+   "Shakti (name)",
+   "शक्ति",
+   "f.sg"
+  ],
+  "6": [
+   "printing",
+   "प्रिंटिंग",
+   "f.sg"
+  ],
+  "8": [
+   "press",
+   "प्रेस",
+   "f.sg"
+  ],
+  "11": [
+   "Daryaganj (place name)",
+   "दरियागंज",
+   "m.sg"
+  ],
+  "14": [
+   "New",
+   "नई",
+   "f.sg"
+  ],
+  "16": [
+   "Delhi",
+   "दिल्ली",
+   "f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6,
+    8
+   ],
+   "type": "phrase",
+   "literal": "Shakti Printing Press",
+   "meaning": "Shakti Printing Press (name of a printing company)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    14,
+    16
+   ],
+   "type": "phrase",
+   "literal": "New Delhi",
+   "meaning": "New Delhi",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

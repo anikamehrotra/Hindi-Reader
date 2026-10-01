@@ -1,0 +1,341 @@
+{
+ "translation": "His great wish was that those people would come who used to show him sympathy and bring him fruits, sweets, and clothes. If he asked them where Toba Tek Singh was, they would surely tell him whether it was in Pakistan or Hindustan, because he thought that they came from Toba Tek Singh itself, where his lands were.",
+ "words": {
+  "0": [
+   "his",
+   "वह",
+   "poss. m.sg"
+  ],
+  "2": [
+   "great",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "4": [
+   "wish",
+   "इच्छा",
+   "n.f.sg"
+  ],
+  "6": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "8": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "10": [
+   "those",
+   "वह",
+   "pron. pl"
+  ],
+  "12": [
+   "people",
+   "लोग",
+   "n.m.pl"
+  ],
+  "14": [
+   "would come",
+   "आना",
+   "subj. 3pl"
+  ],
+  "17": [
+   "who",
+   "जो",
+   "rel. pron. pl"
+  ],
+  "19": [
+   "to him",
+   "वह",
+   "obl. pron. sg"
+  ],
+  "21": [
+   "sympathy",
+   "सहानुभूति",
+   "n.f.sg"
+  ],
+  "23": [
+   "expressed",
+   "प्रकट",
+   "adj"
+  ],
+  "25": [
+   "used to do",
+   "करना",
+   "impf. m.pl"
+  ],
+  "27": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "29": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "31": [
+   "his",
+   "वह",
+   "poss. m.sg"
+  ],
+  "33": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "35": [
+   "fruits",
+   "फल",
+   "n.m.pl"
+  ],
+  "38": [
+   "sweets",
+   "मिठाई",
+   "n.f.pl"
+  ],
+  "40": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "42": [
+   "clothes",
+   "कपड़ा",
+   "n.m.pl"
+  ],
+  "44": [
+   "used to bring",
+   "लाना",
+   "impf. m.pl"
+  ],
+  "46": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "50": [
+   "he",
+   "वह",
+   "pron. m.sg"
+  ],
+  "52": [
+   "if",
+   "अगर",
+   "conj"
+  ],
+  "54": [
+   "from them",
+   "वह",
+   "obl. pron. pl"
+  ],
+  "56": [
+   "asked",
+   "पूछना",
+   "impf. m.sg"
+  ],
+  "58": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "60": [
+   "Toba",
+   "टोबा",
+   "n.prop.m.sg"
+  ],
+  "62": [
+   "Tek Singh",
+   "टेकसिंह",
+   "n.prop.m.sg"
+  ],
+  "64": [
+   "where",
+   "कहाँ",
+   "adv"
+  ],
+  "66": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "69": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "71": [
+   "surely",
+   "यक़ीनन",
+   "adv"
+  ],
+  "73": [
+   "to him",
+   "वह",
+   "obl. pron. sg"
+  ],
+  "75": [
+   "would tell",
+   "बताना",
+   "conj. participle"
+  ],
+  "77": [
+   "would give",
+   "देना",
+   "subj. 3pl"
+  ],
+  "79": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "81": [
+   "Pakistan",
+   "पाकिस्तान",
+   "n.prop.m.sg"
+  ],
+  "83": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "85": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "87": [
+   "or",
+   "या",
+   "conj"
+  ],
+  "89": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "n.prop.m.sg"
+  ],
+  "91": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "94": [
+   "because",
+   "क्योंकि",
+   "conj"
+  ],
+  "96": [
+   "his",
+   "वह",
+   "poss. m.sg"
+  ],
+  "98": [
+   "thought",
+   "ख़्याल",
+   "n.m.sg"
+  ],
+  "100": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "102": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "104": [
+   "they",
+   "वह",
+   "pron. pl"
+  ],
+  "106": [
+   "Toba",
+   "टोबा",
+   "n.prop.m.sg"
+  ],
+  "108": [
+   "Tek Singh",
+   "टेकसिंह",
+   "n.prop.m.sg"
+  ],
+  "110": [
+   "only",
+   "ही",
+   "emphatic particle"
+  ],
+  "112": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "114": [
+   "come",
+   "आना",
+   "pres. 3pl"
+  ],
+  "116": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "119": [
+   "where",
+   "जहाँ",
+   "adv"
+  ],
+  "121": [
+   "his",
+   "वह",
+   "poss. f.pl"
+  ],
+  "123": [
+   "lands",
+   "ज़मीन",
+   "n.f.pl"
+  ],
+  "125": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    23,
+    25
+   ],
+   "type": "conjunct_verb",
+   "literal": "express do",
+   "meaning": "to express",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    31,
+    33
+   ],
+   "type": "postposition",
+   "literal": "his for",
+   "meaning": "for him",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    75,
+    77
+   ],
+   "type": "compound_verb",
+   "literal": "tell give",
+   "meaning": "would tell (definitively)",
+   "note": "देना as vector verb adds completion/definiteness",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

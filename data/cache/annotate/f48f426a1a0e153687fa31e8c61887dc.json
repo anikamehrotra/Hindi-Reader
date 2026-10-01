@@ -1,0 +1,150 @@
+{
+ "translation": "Oh, oh, it's as if there's some fun in showing off too. It's a mention of Kishwar's wedding, and she started getting ready. Oh, I understood. Anyway, then...",
+ "words": {
+  "1": [
+   "oh",
+   "ओहो",
+   ""
+  ],
+  "6": [
+   "oh",
+   "ओहो",
+   ""
+  ],
+  "11": [
+   "as if",
+   "जैसे",
+   "conj."
+  ],
+  "13": [
+   "some",
+   "कुछ",
+   "indef. pron."
+  ],
+  "15": [
+   "to show off",
+   "इतराना",
+   "inf. obl."
+  ],
+  "17": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "19": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "21": [
+   "fun",
+   "मज़ा",
+   "m.sg."
+  ],
+  "23": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "26": [
+   "Kishwar",
+   "किश्वर",
+   "f.sg."
+  ],
+  "28": [
+   "of",
+   "का",
+   "f.sg. obl."
+  ],
+  "30": [
+   "wedding",
+   "शादी",
+   "f.sg."
+  ],
+  "32": [
+   "of",
+   "का",
+   "m.sg."
+  ],
+  "34": [
+   "mention",
+   "ज़िक्र",
+   "m.sg."
+  ],
+  "36": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "38": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "40": [
+   "to become/get ready",
+   "बनना",
+   "inf. obl."
+  ],
+  "42": [
+   "began",
+   "लगना",
+   "perf. f.pl."
+  ],
+  "49": [
+   "oh",
+   "अरे",
+   "interjection"
+  ],
+  "54": [
+   "I",
+   "मैं",
+   "1sg. pron."
+  ],
+  "56": [
+   "understood",
+   "समझना",
+   "perf. f.sg."
+  ],
+  "61": [
+   "anyway",
+   "ख़ैर",
+   "adv."
+  ],
+  "66": [
+   "then",
+   "फिर",
+   "adv."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    11,
+    13,
+    15,
+    17,
+    19,
+    21,
+    23
+   ],
+   "type": "phrase",
+   "literal": "as if some in showing off also fun is",
+   "meaning": "it's as if there's some fun in showing off too",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    40,
+    42
+   ],
+   "type": "compound_verb",
+   "literal": "to become began",
+   "meaning": "began to get ready",
+   "note": "लगना as a vector verb indicates the beginning of an action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

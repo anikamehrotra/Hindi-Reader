@@ -1,0 +1,460 @@
+{
+ "translation": "Oh, I'm scared. For God's sake, be quiet. Okay, turn on the light. I'm scared. Rahat turned pale. Do you think that it won't have any effect on you? You'll keep laughing at her death. But remember, Rahat, Kishwar won't spare you. She will die, but won't her soul be able to question you?",
+ "words": {
+  "1": [
+   "oh",
+   "ओह",
+   ""
+  ],
+  "6": [
+   "I",
+   "मैं",
+   "obl. sg"
+  ],
+  "8": [
+   "fear",
+   "डर",
+   "m.sg"
+  ],
+  "10": [
+   "to feel",
+   "लगना",
+   "pres. part."
+  ],
+  "12": [
+   "to remain",
+   "रहना",
+   "pres. part."
+  ],
+  "14": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "19": [
+   "God",
+   "अल्लाह",
+   "m.sg"
+  ],
+  "21": [
+   "of",
+   "का",
+   "m.sg"
+  ],
+  "23": [
+   "sake",
+   "वास्ता",
+   "m.sg"
+  ],
+  "25": [
+   "quiet",
+   "चुप",
+   "adj."
+  ],
+  "27": [
+   "be",
+   "होना",
+   "imperative"
+  ],
+  "29": [
+   "go",
+   "जाना",
+   "imperative"
+  ],
+  "32": [
+   "okay",
+   "अच्छा",
+   "interjection"
+  ],
+  "34": [
+   "a little",
+   "ज़रा",
+   "adv."
+  ],
+  "36": [
+   "light",
+   "बिजली",
+   "f.sg"
+  ],
+  "38": [
+   "turn on",
+   "जलाना",
+   "imperative"
+  ],
+  "40": [
+   "give",
+   "देना",
+   "vector verb"
+  ],
+  "42": [
+   "I",
+   "मैं",
+   "obl. sg"
+  ],
+  "44": [
+   "fear",
+   "डर",
+   "m.sg"
+  ],
+  "46": [
+   "to feel",
+   "लगना",
+   "pres. part."
+  ],
+  "48": [
+   "to remain",
+   "रहना",
+   "pres. part."
+  ],
+  "50": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "56": [
+   "Rahat",
+   "राहत",
+   "f.sg"
+  ],
+  "58": [
+   "pale",
+   "पीला",
+   "f.sg"
+  ],
+  "60": [
+   "to fall",
+   "पड़ना",
+   "conj. participle"
+  ],
+  "62": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "66": [
+   "you",
+   "तुम",
+   "2nd pl"
+  ],
+  "68": [
+   "understand",
+   "समझना",
+   "pres. part. f.sg"
+  ],
+  "70": [
+   "are",
+   "होना",
+   "pres. 2pl"
+  ],
+  "72": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "74": [
+   "your",
+   "तुम",
+   "gen. f.sg"
+  ],
+  "76": [
+   "on",
+   "ऊपर",
+   "postposition"
+  ],
+  "78": [
+   "her",
+   "वह",
+   "obl. sg"
+  ],
+  "80": [
+   "of",
+   "का",
+   "m.sg"
+  ],
+  "82": [
+   "some",
+   "कुछ",
+   "pronoun"
+  ],
+  "84": [
+   "effect",
+   "असर",
+   "m.sg"
+  ],
+  "86": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "88": [
+   "will be",
+   "होना",
+   "fut. 3sg"
+  ],
+  "91": [
+   "you",
+   "तुम",
+   "2nd pl"
+  ],
+  "93": [
+   "laughing",
+   "हँसना",
+   "pres. part. f.sg"
+  ],
+  "95": [
+   "emphatic",
+   "ही",
+   "particle"
+  ],
+  "97": [
+   "will remain",
+   "रहना",
+   "fut. 2pl"
+  ],
+  "99": [
+   "her",
+   "वह",
+   "obl. sg"
+  ],
+  "101": [
+   "of",
+   "का",
+   "f.sg"
+  ],
+  "103": [
+   "death",
+   "मौत",
+   "f.sg"
+  ],
+  "105": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "110": [
+   "but",
+   "मगर",
+   "conj."
+  ],
+  "112": [
+   "memory",
+   "याद",
+   "f.sg"
+  ],
+  "114": [
+   "keep",
+   "रखना",
+   "imperative"
+  ],
+  "116": [
+   "Rahat",
+   "राहत",
+   "f.sg"
+  ],
+  "121": [
+   "Kishwar",
+   "किश्वर",
+   "f.sg"
+  ],
+  "123": [
+   "you",
+   "तुम",
+   "obl. pl"
+  ],
+  "125": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "127": [
+   "will leave",
+   "छोड़ना",
+   "fut. 3sg"
+  ],
+  "129": [
+   "she",
+   "वह",
+   "3rd sg"
+  ],
+  "131": [
+   "die",
+   "मरना",
+   "conj. participle"
+  ],
+  "133": [
+   "will go",
+   "जाना",
+   "fut. 3sg"
+  ],
+  "138": [
+   "but",
+   "मगर",
+   "conj."
+  ],
+  "140": [
+   "what",
+   "क्या",
+   "interrogative"
+  ],
+  "142": [
+   "she",
+   "वह",
+   "3rd sg"
+  ],
+  "144": [
+   "from you",
+   "तुम",
+   "obl. pl"
+  ],
+  "146": [
+   "question",
+   "सवाल",
+   "m.sg"
+  ],
+  "148": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "150": [
+   "do",
+   "करना",
+   "conj. participle"
+  ],
+  "152": [
+   "will be able",
+   "सकना",
+   "fut. 3sg"
+  ],
+  "157": [
+   "her",
+   "वह",
+   "gen. f.sg"
+  ],
+  "159": [
+   "soul",
+   "रूह",
+   "f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    8,
+    10,
+    12,
+    14
+   ],
+   "type": "conjunct_verb",
+   "literal": "fear to feel remaining is",
+   "meaning": "I am scared",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    19,
+    21,
+    23
+   ],
+   "type": "phrase",
+   "literal": "God's of sake",
+   "meaning": "for God's sake",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    25,
+    27,
+    29
+   ],
+   "type": "compound_verb",
+   "literal": "quiet be go",
+   "meaning": "be quiet",
+   "note": "जाना adds intensity/completion",
+   "source": "model"
+  },
+  {
+   "idx": [
+    38,
+    40
+   ],
+   "type": "compound_verb",
+   "literal": "turn on give",
+   "meaning": "turn on",
+   "note": "देना adds a sense of doing something for someone else, or completing the action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    44,
+    46,
+    48,
+    50
+   ],
+   "type": "conjunct_verb",
+   "literal": "fear to feel remaining is",
+   "meaning": "I am scared",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    58,
+    60,
+    62
+   ],
+   "type": "compound_verb",
+   "literal": "pale fall went",
+   "meaning": "turned pale",
+   "note": "जाना indicates completion of the action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    93,
+    97
+   ],
+   "type": "compound_verb",
+   "literal": "laughing will remain",
+   "meaning": "will keep laughing",
+   "note": "रहना indicates continuity of action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    112,
+    114
+   ],
+   "type": "conjunct_verb",
+   "literal": "memory keep",
+   "meaning": "remember",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    131,
+    133
+   ],
+   "type": "compound_verb",
+   "literal": "die will go",
+   "meaning": "will die",
+   "note": "जाना adds a sense of completion",
+   "source": "model"
+  },
+  {
+   "idx": [
+    150,
+    152
+   ],
+   "type": "compound_verb",
+   "literal": "do will be able",
+   "meaning": "be able to do",
+   "note": "सकना indicates ability",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

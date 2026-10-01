@@ -1,0 +1,323 @@
+{
+ "translation": "You know that she will die but will not marry anyone except Rufi, and Amma says that 'I will marry Shaukat.' Hey, the old woman is getting married! Rahat started up in surprise. 'I swear to God!'",
+ "words": {
+  "1": [
+   "to you",
+   "तुम",
+   "obl. pl"
+  ],
+  "3": [
+   "not",
+   "ना",
+   ""
+  ],
+  "5": [
+   "known",
+   "मालूम",
+   "adj"
+  ],
+  "7": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "9": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "11": [
+   "she",
+   "वह",
+   "sg"
+  ],
+  "13": [
+   "die",
+   "मरना",
+   "infinitive"
+  ],
+  "15": [
+   "will go",
+   "जाना",
+   "fut. 3sg f"
+  ],
+  "20": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "22": [
+   "Rufi",
+   "रूफ़ी",
+   "name"
+  ],
+  "24": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "26": [
+   "except",
+   "सिवा",
+   "postposition"
+  ],
+  "28": [
+   "anyone",
+   "कोई",
+   "obl. sg"
+  ],
+  "30": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "32": [
+   "marriage",
+   "शादी",
+   "f.sg"
+  ],
+  "34": [
+   "not",
+   "ना",
+   ""
+  ],
+  "36": [
+   "will do",
+   "करना",
+   "fut. 3sg f"
+  ],
+  "38": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "40": [
+   "Amma",
+   "अम्माँ",
+   "f.sg"
+  ],
+  "42": [
+   "says",
+   "कहना",
+   "pres. 3pl"
+  ],
+  "44": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "46": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "48": [
+   "I",
+   "मैं",
+   "1sg"
+  ],
+  "50": [
+   "emphatic",
+   "तो",
+   "particle"
+  ],
+  "52": [
+   "Shaukat",
+   "शौकत",
+   "name"
+  ],
+  "54": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "56": [
+   "will do",
+   "करना",
+   "fut. 1sg"
+  ],
+  "63": [
+   "hey",
+   "ए",
+   "interjection"
+  ],
+  "65": [
+   "hey",
+   "हे",
+   "interjection"
+  ],
+  "67": [
+   "old woman",
+   "बुढ़िया",
+   "f.sg"
+  ],
+  "69": [
+   "marriage",
+   "शादी",
+   "f.sg"
+  ],
+  "71": [
+   "doing",
+   "करना",
+   "conj. participle"
+  ],
+  "73": [
+   "staying",
+   "रहना",
+   "pres. participle"
+  ],
+  "75": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "81": [
+   "Rahat",
+   "राहत",
+   "name"
+  ],
+  "83": [
+   "startled",
+   "चौंकना",
+   "conj. participle"
+  ],
+  "85": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "87": [
+   "got up",
+   "उठना",
+   "perf. f.sg"
+  ],
+  "93": [
+   "to you",
+   "तुम",
+   "obl. pl"
+  ],
+  "95": [
+   "God",
+   "ख़ुदा",
+   "m.sg"
+  ],
+  "97": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "99": [
+   "oath",
+   "क़सम",
+   "f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    3,
+    5,
+    7
+   ],
+   "type": "conjunct_verb",
+   "literal": "not known is",
+   "meaning": "don't know",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    13,
+    15
+   ],
+   "type": "compound_verb",
+   "literal": "will die go",
+   "meaning": "will die (completely)",
+   "note": "जाना as vector verb indicates completion or finality of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    24,
+    26
+   ],
+   "type": "postposition",
+   "literal": "of except",
+   "meaning": "except for",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    32,
+    36
+   ],
+   "type": "conjunct_verb",
+   "literal": "marriage will do",
+   "meaning": "will marry",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    54,
+    56
+   ],
+   "type": "conjunct_verb",
+   "literal": "with will do",
+   "meaning": "will marry",
+   "note": "Here 'से करना' implies marrying someone.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    63,
+    65
+   ],
+   "type": "phrase",
+   "literal": "hey hey",
+   "meaning": "hey!",
+   "note": "An exclamation of surprise or calling attention.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    71,
+    73,
+    75
+   ],
+   "type": "conjunct_verb",
+   "literal": "marriage doing staying is",
+   "meaning": "is getting married",
+   "note": "The progressive aspect 'कर रही है' indicates an ongoing action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    83,
+    85,
+    87
+   ],
+   "type": "compound_verb",
+   "literal": "startled having done got up",
+   "meaning": "started up in surprise",
+   "note": "करना as a vector verb here emphasizes the suddenness or completion of the action of 'चौंकना'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    93,
+    95,
+    97,
+    99
+   ],
+   "type": "idiom",
+   "literal": "to you God's oath",
+   "meaning": "I swear to God / By God",
+   "note": "A common exclamation used to emphasize truthfulness or surprise.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

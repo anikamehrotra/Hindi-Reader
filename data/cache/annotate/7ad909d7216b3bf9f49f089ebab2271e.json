@@ -1,0 +1,124 @@
+{
+ "translation": "He had accepted defeat, and with shame, like a man, he was ultimately unable to penetrate the snare of civilization.",
+ "words": {
+  "3": [
+   "surrounded",
+   "घेरना",
+   "perf. m.sg"
+  ],
+  "9": [
+   "defeat",
+   "पराजय",
+   "f.sg"
+  ],
+  "11": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "13": [
+   "acceptance",
+   "स्वीकार",
+   "m.sg"
+  ],
+  "19": [
+   "shame",
+   "शर्मिंदगी",
+   "f.sg"
+  ],
+  "25": [
+   "display",
+   "प्रदर्शन",
+   "m.sg"
+  ],
+  "31": [
+   "man",
+   "मर्द",
+   "m.sg"
+  ],
+  "33": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "35": [
+   "like",
+   "तरह",
+   "f.sg"
+  ],
+  "41": [
+   "finally",
+   "अंततः",
+   "adverb"
+  ],
+  "47": [
+   "snare",
+   "फंदा",
+   "m.sg"
+  ],
+  "53": [
+   "civilization",
+   "सभ्यता",
+   "f.sg"
+  ],
+  "59": [
+   "penetrate",
+   "भेदना",
+   "infinitive"
+  ],
+  "65": [
+   "unable",
+   "असमर्थ",
+   "adj"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    9,
+    11,
+    13
+   ],
+   "type": "conjunct_verb",
+   "literal": "acceptance of defeat",
+   "meaning": "to accept defeat",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    31,
+    33,
+    35
+   ],
+   "type": "phrase",
+   "literal": "like a man",
+   "meaning": "like a man",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    53
+   ],
+   "type": "phrase",
+   "literal": "snare of civilization",
+   "meaning": "the trap/snare of civilization",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    59,
+    65
+   ],
+   "type": "conjunct_verb",
+   "literal": "unable to penetrate",
+   "meaning": "unable to penetrate",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

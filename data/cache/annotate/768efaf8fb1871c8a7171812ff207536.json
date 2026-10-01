@@ -1,0 +1,2966 @@
+{
+ "translation": "If he asked the reason, she would say nothing but \"Ooh-hoo\" and the tired Sundarlal would doze off again. However, once in the very beginning, Sundarlal had only asked this much about Lajwanti's dark days: \"Who was he?\" Lajwanti lowered her gaze and said, \"Jamal.\" Then she wanted to say something, fixing her gaze on Sundarlal's face, but Sundarlal was looking at Lajwanti's face with a strange look and stroking her hair. Lajwanti again lowered her eyes, and Sundarlal asked, \"Did he treat you well?\" \"Yes.\" \"He didn't hit you, did he?\" Lajwanti, sliding her head onto Sundarlal's chest, said, \"No.\" And then she spoke, \"He didn't hit me, but I was more afraid of him. You used to hit me too, but I wasn't afraid of you. Now you won't hit me, will you?\" Tears welled up in Sundarlal's eyes, and he said with great regret and remorse, \"No, Devi.\" “No, no, I won't hit you,” Sundarlal said. Lajwanti thought, and she too began to cry. And after that, Lajwanti wanted to tell everything, but Sundarlal said, “Let bygones be bygones. What fault is yours in this? The fault lies with our society, which does not give respect to goddesses like you in its midst. It does not harm you, it harms itself.” And Lajwanti's thoughts remained in her mind. She could not say everything and remained quiet and subdued, looking at her body, which after the partition had now become the body of a goddess, not Lajwanti's. She was happy, very happy, but immersed in such happiness that contained doubt and apprehension. She would suddenly sit up while lying down, as if, in moments of extreme happiness, hearing a sound, she would suddenly become attentive to it. When many days passed, doubt completely took the place of happiness. Not because Sundarlal Babu had started his old mistreatment again, but because he had started treating Lajo very well. Such treatment, which Lajo did not expect. She wanted to be the old Lajo who would fight over a carrot and be appeased by a radish. But now there was no question of a fight. Sunderlal had made her feel as if she was a glass object that would break with a touch. And Lajo would look at her reflection in the mirror and finally come to the conclusion that she could be everything else, but not Lajo. She was settled but ruined. Sunderlal had no eyes to see her tears, nor ears to hear her sighs. Morning processions kept coming out, and the neighborhood Mullah Shakoor, along with reformer Rasalu and Nekiram, kept singing in the same voice: 'The hands that brought the plants have withered, Lajo, the plants.'",
+ "words": {
+  "0": [
+   "reason",
+   "वजह",
+   "f.sg"
+  ],
+  "2": [
+   "if asked",
+   "पूछना",
+   "conj. participle"
+  ],
+  "4": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "6": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "9": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "13": [
+   "just like that",
+   "यूँ",
+   "adv."
+  ],
+  "15": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "19": [
+   "ooh-hoo (sound of assent/disinterest)",
+   "ऊँहूँ",
+   "interjection"
+  ],
+  "22": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "24": [
+   "besides",
+   "सिवा",
+   "postposition"
+  ],
+  "26": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "28": [
+   "anything",
+   "कुछ",
+   "pron."
+  ],
+  "30": [
+   "not",
+   "न",
+   "negator"
+  ],
+  "32": [
+   "would say",
+   "कहना",
+   "impf. f.sg"
+  ],
+  "34": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "36": [
+   "all",
+   "सारा",
+   "adj. m.pl"
+  ],
+  "38": [
+   "day",
+   "दिन",
+   "n. m.sg"
+  ],
+  "40": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "42": [
+   "tired",
+   "थका-हारा",
+   "adj. m.sg"
+  ],
+  "44": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "46": [
+   "again",
+   "फिर",
+   "adv."
+  ],
+  "48": [
+   "doze",
+   "ऊँघना",
+   "v. stem"
+  ],
+  "50": [
+   "go",
+   "जाना",
+   "v. perf. m.sg"
+  ],
+  "52": [
+   "however",
+   "अलबत्ता",
+   "adv."
+  ],
+  "54": [
+   "in the beginning",
+   "शुरू-शुरू",
+   "adv."
+  ],
+  "56": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "58": [
+   "one",
+   "एक",
+   "num. adj."
+  ],
+  "60": [
+   "time",
+   "दफा",
+   "n. f.sg"
+  ],
+  "62": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "64": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "66": [
+   "Lajwanti",
+   "लाजवंती",
+   "n. f.sg"
+  ],
+  "68": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "70": [
+   "dark",
+   "सियाह",
+   "adj."
+  ],
+  "72": [
+   "days",
+   "दिन",
+   "n. m.pl"
+  ],
+  "74": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "76": [
+   "about",
+   "बारे",
+   "n. m.obl"
+  ],
+  "78": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "80": [
+   "only",
+   "सिर्फ",
+   "adv."
+  ],
+  "82": [
+   "this much",
+   "इतना",
+   "pron."
+  ],
+  "84": [
+   "emphatic particle",
+   "सा",
+   "particle"
+  ],
+  "86": [
+   "asked",
+   "पूछना",
+   "v. perf. m.sg"
+  ],
+  "88": [
+   "was",
+   "होना",
+   "v. past. m.sg"
+  ],
+  "93": [
+   "who",
+   "कौन",
+   "pron."
+  ],
+  "95": [
+   "was",
+   "होना",
+   "v. past. m.sg"
+  ],
+  "97": [
+   "he",
+   "वह",
+   "pron. 3sg"
+  ],
+  "102": [
+   "Lajwanti",
+   "लाजवंती",
+   "n. f.sg"
+  ],
+  "104": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "106": [
+   "gaze",
+   "निगाह",
+   "n. f.pl"
+  ],
+  "108": [
+   "low",
+   "नीचा",
+   "adj. f.sg"
+  ],
+  "110": [
+   "doing",
+   "करना",
+   "v. pres. part."
+  ],
+  "112": [
+   "while",
+   "होना",
+   "v. conj. part."
+  ],
+  "114": [
+   "said",
+   "कहना",
+   "v. perf. m.sg"
+  ],
+  "119": [
+   "Jamal",
+   "जमाल",
+   "n. m.sg"
+  ],
+  "122": [
+   "then",
+   "फिर",
+   "adv."
+  ],
+  "124": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "126": [
+   "her own",
+   "अपना",
+   "pron. f.sg"
+  ],
+  "128": [
+   "gaze",
+   "निगाह",
+   "n. f.pl"
+  ],
+  "130": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "132": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "134": [
+   "face",
+   "चेहरा",
+   "n. m.obl"
+  ],
+  "136": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "138": [
+   "fixed",
+   "जमाना",
+   "v. perf. f.pl"
+  ],
+  "140": [
+   "while",
+   "होना",
+   "v. conj. part."
+  ],
+  "142": [
+   "something",
+   "कुछ",
+   "pron."
+  ],
+  "144": [
+   "to say",
+   "कहना",
+   "v. infinitive"
+  ],
+  "146": [
+   "wanted",
+   "चाहना",
+   "v. impf. f.sg"
+  ],
+  "148": [
+   "was",
+   "होना",
+   "v. past. f.sg"
+  ],
+  "151": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "153": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "155": [
+   "a",
+   "एक",
+   "num. adj."
+  ],
+  "157": [
+   "strange",
+   "अजीब",
+   "adj."
+  ],
+  "159": [
+   "like",
+   "सा",
+   "particle f.sg"
+  ],
+  "161": [
+   "gazes",
+   "नज़र",
+   "n. f.pl.obl"
+  ],
+  "163": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "165": [
+   "Lajwanti",
+   "लाजवंती",
+   "n. f.sg"
+  ],
+  "167": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "169": [
+   "face",
+   "चेहरा",
+   "n. m.sg"
+  ],
+  "171": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "173": [
+   "towards",
+   "तरफ",
+   "n. f.sg"
+  ],
+  "175": [
+   "looking",
+   "देखना",
+   "v. pres. part."
+  ],
+  "177": [
+   "staying",
+   "रहना",
+   "v. aux. m.sg"
+  ],
+  "179": [
+   "was",
+   "होना",
+   "v. past. m.sg"
+  ],
+  "181": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "183": [
+   "his",
+   "वह",
+   "pron. 3sg.obl"
+  ],
+  "185": [
+   "hair",
+   "बाल",
+   "n. m.pl.obl"
+  ],
+  "187": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "189": [
+   "stroking",
+   "सहलाना",
+   "v. pres. part."
+  ],
+  "191": [
+   "staying",
+   "रहना",
+   "v. aux. m.sg"
+  ],
+  "193": [
+   "was",
+   "होना",
+   "v. past. m.sg"
+  ],
+  "196": [
+   "Lajwanti",
+   "लाजवंती",
+   "n. f.sg"
+  ],
+  "198": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "200": [
+   "again",
+   "फिर",
+   "adv."
+  ],
+  "202": [
+   "eyes",
+   "आँख",
+   "n. f.pl"
+  ],
+  "204": [
+   "low",
+   "नीचा",
+   "adj. f.pl"
+  ],
+  "206": [
+   "having done",
+   "करना",
+   "v. conj. part."
+  ],
+  "208": [
+   "took",
+   "लेना",
+   "v. perf. f.pl"
+  ],
+  "210": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "212": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "214": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "216": [
+   "asked",
+   "पूछना",
+   "v. perf. m.sg"
+  ],
+  "221": [
+   "good",
+   "अच्छा",
+   "adj. m.sg"
+  ],
+  "223": [
+   "treatment",
+   "सुलूक",
+   "n. m.sg"
+  ],
+  "225": [
+   "doing",
+   "करना",
+   "v. impf. m.sg"
+  ],
+  "227": [
+   "was",
+   "होना",
+   "v. past. m.sg"
+  ],
+  "229": [
+   "he",
+   "वह",
+   "pron. 3sg"
+  ],
+  "235": [
+   "yes",
+   "हाँ",
+   "interjection"
+  ],
+  "241": [
+   "hitting",
+   "मारना",
+   "v. impf. m.sg"
+  ],
+  "243": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "245": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "247": [
+   "was",
+   "होना",
+   "v. past. m.sg"
+  ],
+  "252": [
+   "Lajwanti",
+   "लाजवंती",
+   "n. f.sg"
+  ],
+  "254": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "256": [
+   "her own",
+   "अपना",
+   "pron. m.sg"
+  ],
+  "258": [
+   "head",
+   "सिर",
+   "n. m.sg"
+  ],
+  "260": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "262": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "264": [
+   "chest",
+   "छाती",
+   "n. f.sg"
+  ],
+  "266": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "268": [
+   "sliding",
+   "सरकाना",
+   "v. pres. part."
+  ],
+  "270": [
+   "while",
+   "होना",
+   "v. conj. part."
+  ],
+  "272": [
+   "said",
+   "कहना",
+   "v. perf. m.sg"
+  ],
+  "277": [
+   "no",
+   "नहीं",
+   "negator"
+  ],
+  "282": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "284": [
+   "then",
+   "फिर",
+   "adv."
+  ],
+  "286": [
+   "spoke",
+   "बोलना",
+   "v. perf. f.sg"
+  ],
+  "291": [
+   "hitting",
+   "मारना",
+   "v. impf. m.sg"
+  ],
+  "293": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "295": [
+   "was",
+   "होना",
+   "v. past. m.sg"
+  ],
+  "298": [
+   "but",
+   "पर",
+   "conj."
+  ],
+  "300": [
+   "me",
+   "मैं",
+   "pron. 1sg.obl"
+  ],
+  "302": [
+   "from him",
+   "वह",
+   "pron. 3sg.obl"
+  ],
+  "304": [
+   "more",
+   "ज़्यादा",
+   "adv."
+  ],
+  "306": [
+   "fear",
+   "डर",
+   "n. m.sg"
+  ],
+  "308": [
+   "came",
+   "आना",
+   "v. impf. m.sg"
+  ],
+  "310": [
+   "was",
+   "होना",
+   "v. past. m.sg"
+  ],
+  "313": [
+   "you",
+   "तुम",
+   "pron. 2sg"
+  ],
+  "315": [
+   "me",
+   "मैं",
+   "pron. 1sg.obl"
+  ],
+  "317": [
+   "used to hit",
+   "मारना",
+   "v. impf. m.pl"
+  ],
+  "319": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "321": [
+   "were",
+   "होना",
+   "v. past. m.pl"
+  ],
+  "323": [
+   "but",
+   "पर",
+   "conj."
+  ],
+  "325": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "327": [
+   "from you",
+   "तुम",
+   "pron. 2sg.obl"
+  ],
+  "329": [
+   "afraid",
+   "डरना",
+   "v. impf. f.sg"
+  ],
+  "331": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "333": [
+   "was",
+   "होना",
+   "v. past. f.sg"
+  ],
+  "335": [
+   "now",
+   "अब",
+   "adv."
+  ],
+  "337": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "339": [
+   "not",
+   "न",
+   "negator"
+  ],
+  "341": [
+   "will hit",
+   "मारना",
+   "v. fut. 2pl"
+  ],
+  "346": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "348": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "350": [
+   "eyes",
+   "आँख",
+   "n. f.pl.obl"
+  ],
+  "352": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "354": [
+   "tears",
+   "आँसू",
+   "n. m.pl"
+  ],
+  "356": [
+   "welled up",
+   "उमड़ना",
+   "v. perf. m.pl"
+  ],
+  "358": [
+   "came",
+   "आना",
+   "v. perf. m.pl"
+  ],
+  "360": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "362": [
+   "he",
+   "वह",
+   "pron. 3sg.obl"
+  ],
+  "364": [
+   "great",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "366": [
+   "regret",
+   "नदामत",
+   "n. f.sg"
+  ],
+  "369": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "371": [
+   "great",
+   "बड़ा",
+   "adj. m.pl"
+  ],
+  "373": [
+   "remorse",
+   "तास्सुफ",
+   "n. m.sg"
+  ],
+  "376": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "378": [
+   "said",
+   "कहना",
+   "v. perf. m.sg"
+  ],
+  "382": [
+   "no",
+   "नहीं",
+   "negator"
+  ],
+  "384": [
+   "Devi",
+   "देवी",
+   "n. f.sg"
+  ],
+  "388": [
+   "now",
+   "अब",
+   ""
+  ],
+  "390": [
+   "no",
+   "नहीं",
+   ""
+  ],
+  "392": [
+   "no",
+   "नहीं",
+   ""
+  ],
+  "394": [
+   "I will hit",
+   "मारना",
+   "fut. 1sg"
+  ],
+  "400": [
+   "goddess (addressing Lajwanti)",
+   "देवी",
+   "f.sg"
+  ],
+  "405": [
+   "Lajwanti",
+   "लाजवंती",
+   "f.sg"
+  ],
+  "407": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "409": [
+   "thought",
+   "सोचना",
+   "perf. f.sg"
+  ],
+  "411": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "413": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "415": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "417": [
+   "tears",
+   "आँसू",
+   "m.pl"
+  ],
+  "419": [
+   "to shed",
+   "बहाना",
+   "inf. obl."
+  ],
+  "421": [
+   "began",
+   "लगना",
+   "perf. f.sg"
+  ],
+  "424": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "426": [
+   "her",
+   "उसका",
+   "poss. pron. 3sg f"
+  ],
+  "428": [
+   "after",
+   "बाद",
+   "postposition"
+  ],
+  "430": [
+   "Lajwanti",
+   "लाजवंती",
+   "f.sg"
+  ],
+  "432": [
+   "everything",
+   "सबकुछ",
+   "pron."
+  ],
+  "434": [
+   "to say",
+   "कहना",
+   "inf."
+  ],
+  "436": [
+   "to give",
+   "देना",
+   "inf."
+  ],
+  "438": [
+   "wanted",
+   "चाहना",
+   "impf. f.sg"
+  ],
+  "440": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "443": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "445": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "m.sg"
+  ],
+  "447": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "449": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "454": [
+   "to go",
+   "जाना",
+   "inf. obl."
+  ],
+  "456": [
+   "give",
+   "देना",
+   "imperative"
+  ],
+  "458": [
+   "past",
+   "बीतना",
+   "perf. f.sg"
+  ],
+  "460": [
+   "talks/matters",
+   "बात",
+   "f.pl"
+  ],
+  "464": [
+   "in this",
+   "यह",
+   "obl. pron. sg"
+  ],
+  "466": [
+   "your",
+   "तुम",
+   "poss. pron. 2sg"
+  ],
+  "468": [
+   "what",
+   "क्या",
+   "interrog. pron."
+  ],
+  "470": [
+   "fault",
+   "कुसूर",
+   "m.sg"
+  ],
+  "472": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "476": [
+   "in this",
+   "यह",
+   "obl. pron. sg"
+  ],
+  "478": [
+   "fault",
+   "कुसूर",
+   "m.sg"
+  ],
+  "480": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "482": [
+   "our",
+   "हमारा",
+   "poss. pron. 1pl"
+  ],
+  "484": [
+   "society",
+   "समाज",
+   "m.sg"
+  ],
+  "486": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "489": [
+   "which",
+   "जो",
+   "rel. pron."
+  ],
+  "491": [
+   "you (familiar)",
+   "तू",
+   "obl. pron. 2sg"
+  ],
+  "493": [
+   "such",
+   "ऐसा",
+   "adj. f.sg"
+  ],
+  "495": [
+   "goddesses",
+   "देवी",
+   "f.pl"
+  ],
+  "497": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "499": [
+   "own",
+   "अपना",
+   "poss. pron."
+  ],
+  "501": [
+   "here/in its midst",
+   "यहाँ",
+   "adv."
+  ],
+  "503": [
+   "respect",
+   "इज़्ज़त",
+   "f.sg"
+  ],
+  "505": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "507": [
+   "place",
+   "जगह",
+   "f.sg"
+  ],
+  "509": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "511": [
+   "gives",
+   "देना",
+   "pres. 3sg"
+  ],
+  "514": [
+   "it",
+   "वह",
+   "pron. 3sg"
+  ],
+  "516": [
+   "your",
+   "तुम्हारा",
+   "poss. pron. 2sg"
+  ],
+  "518": [
+   "harm",
+   "हानि",
+   "f.sg"
+  ],
+  "520": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "522": [
+   "does",
+   "करना",
+   "pres. 3sg"
+  ],
+  "525": [
+   "own",
+   "अपना",
+   "poss. pron."
+  ],
+  "527": [
+   "does",
+   "करना",
+   "pres. 3sg"
+  ],
+  "529": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "533": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "535": [
+   "Lajwanti",
+   "लाजवंती",
+   "f.sg"
+  ],
+  "537": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "539": [
+   "mind",
+   "मन",
+   "m.sg"
+  ],
+  "541": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "543": [
+   "mind",
+   "मन",
+   "m.sg"
+  ],
+  "545": [
+   "only",
+   "ही",
+   "emphatic particle"
+  ],
+  "547": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "549": [
+   "remained",
+   "रहना",
+   "perf. f.sg"
+  ],
+  "552": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "554": [
+   "to say",
+   "कहना",
+   "inf."
+  ],
+  "556": [
+   "not",
+   "न",
+   "neg. particle"
+  ],
+  "558": [
+   "could",
+   "सकना",
+   "perf. f.sg"
+  ],
+  "560": [
+   "entire",
+   "सारा",
+   "adj. f.sg"
+  ],
+  "562": [
+   "matter/thing",
+   "बात",
+   "f.sg"
+  ],
+  "564": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "566": [
+   "quiet and subdued",
+   "चुपकी-दुबकी",
+   "adj. f.sg"
+  ],
+  "568": [
+   "fell/remained",
+   "पड़ना",
+   "perf. f.sg"
+  ],
+  "570": [
+   "remained",
+   "रहना",
+   "perf. f.sg"
+  ],
+  "572": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "574": [
+   "her own",
+   "अपना",
+   "poss. pron."
+  ],
+  "576": [
+   "body",
+   "बदन",
+   "m.sg"
+  ],
+  "578": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "580": [
+   "towards",
+   "तरफ",
+   "postposition"
+  ],
+  "582": [
+   "looking",
+   "देखना",
+   "pres. part. f.sg"
+  ],
+  "584": [
+   "remained",
+   "रहना",
+   "perf. f.sg"
+  ],
+  "587": [
+   "which",
+   "जो",
+   "rel. pron."
+  ],
+  "589": [
+   "partition",
+   "बँटवारा",
+   "m.sg"
+  ],
+  "591": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "593": [
+   "after",
+   "बाद",
+   "postposition"
+  ],
+  "595": [
+   "now",
+   "अब",
+   "adv."
+  ],
+  "598": [
+   "goddess",
+   "देवी",
+   "f.sg"
+  ],
+  "601": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "603": [
+   "body",
+   "बदन",
+   "m.sg"
+  ],
+  "605": [
+   "to be",
+   "होना",
+   "inf."
+  ],
+  "607": [
+   "had become",
+   "चुकना",
+   "perf. m.sg"
+  ],
+  "609": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "612": [
+   "Lajwanti",
+   "लाजवंती",
+   "f.sg"
+  ],
+  "614": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "616": [
+   "not",
+   "न",
+   "neg. particle"
+  ],
+  "618": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "621": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "623": [
+   "happy",
+   "खुश",
+   "adj."
+  ],
+  "625": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "628": [
+   "very",
+   "बहुत",
+   "adv."
+  ],
+  "630": [
+   "happy",
+   "खुश",
+   "adj."
+  ],
+  "633": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "635": [
+   "a",
+   "एक",
+   "num."
+  ],
+  "637": [
+   "such",
+   "ऐसा",
+   "adj. f.sg"
+  ],
+  "639": [
+   "happiness",
+   "खुशी",
+   "f.sg"
+  ],
+  "641": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "643": [
+   "immersed",
+   "सरशार",
+   "adj."
+  ],
+  "647": [
+   "in which",
+   "जो",
+   "rel. pron. obl."
+  ],
+  "649": [
+   "a",
+   "एक",
+   "num."
+  ],
+  "651": [
+   "doubt",
+   "शक",
+   "m.sg"
+  ],
+  "653": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "655": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "657": [
+   "apprehensions",
+   "वसवसे",
+   "m.pl"
+  ],
+  "661": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "663": [
+   "lying down",
+   "लेटना",
+   "pres. part. f.sg"
+  ],
+  "665": [
+   "suddenly",
+   "अचानक",
+   "adv."
+  ],
+  "667": [
+   "to sit",
+   "बैठना",
+   "inf."
+  ],
+  "669": [
+   "goes",
+   "जाना",
+   "pres. 3sg f"
+  ],
+  "672": [
+   "as if",
+   "जैसे",
+   "conj."
+  ],
+  "674": [
+   "extreme",
+   "इंतहा",
+   "adj. obl."
+  ],
+  "676": [
+   "happiness",
+   "खुशी",
+   "f.sg"
+  ],
+  "678": [
+   "of",
+   "का",
+   "postposition m.pl"
+  ],
+  "680": [
+   "moments",
+   "लम्हा",
+   "m.pl"
+  ],
+  "682": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "684": [
+   "someone",
+   "कोई",
+   "pron."
+  ],
+  "686": [
+   "sound",
+   "आहट",
+   "f.sg"
+  ],
+  "688": [
+   "having found",
+   "पाना",
+   "conj. part."
+  ],
+  "690": [
+   "suddenly",
+   "एकाएकी",
+   "adv."
+  ],
+  "692": [
+   "her",
+   "उसका",
+   "poss. pron. 3sg f"
+  ],
+  "694": [
+   "towards",
+   "तरफ",
+   "postposition"
+  ],
+  "696": [
+   "attentive",
+   "मुतवज्जह",
+   "adj."
+  ],
+  "699": [
+   "to become",
+   "होना",
+   "inf."
+  ],
+  "701": [
+   "go",
+   "जाना",
+   "subj. 3sg"
+  ],
+  "703": [
+   "when",
+   "जब",
+   "adv."
+  ],
+  "705": [
+   "many",
+   "बहुत",
+   "adj."
+  ],
+  "707": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "709": [
+   "days",
+   "दिन",
+   "m.pl"
+  ],
+  "711": [
+   "passed",
+   "बीतना",
+   "perf. m.pl"
+  ],
+  "713": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "715": [
+   "then",
+   "तो",
+   "adv."
+  ],
+  "717": [
+   "happiness",
+   "खुशी",
+   "f.sg"
+  ],
+  "719": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "721": [
+   "place",
+   "जगह",
+   "f.sg"
+  ],
+  "723": [
+   "complete",
+   "पूरा",
+   "adj. m.sg"
+  ],
+  "725": [
+   "doubt",
+   "शक",
+   "m.sg"
+  ],
+  "727": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "729": [
+   "took",
+   "लेना",
+   "perf. f.sg"
+  ],
+  "731": [
+   "took",
+   "लेना",
+   "perf. f.sg"
+  ],
+  "734": [
+   "therefore",
+   "इसलिए",
+   "conj."
+  ],
+  "736": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "738": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "740": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "m.sg"
+  ],
+  "742": [
+   "Babu",
+   "बाबू",
+   "m.sg"
+  ],
+  "744": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "746": [
+   "again",
+   "फिर",
+   "adv."
+  ],
+  "748": [
+   "that same",
+   "वही",
+   "pron."
+  ],
+  "750": [
+   "old",
+   "पुराना",
+   "adj. f.sg"
+  ],
+  "752": [
+   "mistreatment",
+   "बदसुलूकी",
+   "f.sg"
+  ],
+  "754": [
+   "start",
+   "शुरू",
+   "m.sg"
+  ],
+  "756": [
+   "to do",
+   "करना",
+   "inf."
+  ],
+  "758": [
+   "gave",
+   "देना",
+   "perf. f.sg"
+  ],
+  "760": [
+   "was",
+   "होना",
+   "past. f.sg"
+  ],
+  "763": [
+   "rather",
+   "बल्कि",
+   "conj."
+  ],
+  "765": [
+   "therefore",
+   "इसलिए",
+   "conj."
+  ],
+  "767": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "769": [
+   "he",
+   "वह",
+   "pron. 3sg"
+  ],
+  "771": [
+   "Lajo",
+   "लाजो",
+   "f.sg"
+  ],
+  "773": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "775": [
+   "very",
+   "बहुत",
+   "adv."
+  ],
+  "777": [
+   "emphatic particle",
+   "ही",
+   "emphatic particle"
+  ],
+  "779": [
+   "good",
+   "अच्छा",
+   "adj. m.sg"
+  ],
+  "781": [
+   "treatment",
+   "सुलूक",
+   "m.sg"
+  ],
+  "783": [
+   "to do",
+   "करना",
+   "inf. obl."
+  ],
+  "785": [
+   "began",
+   "लगना",
+   "perf. m.sg"
+  ],
+  "787": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "790": [
+   "such",
+   "ऐसा",
+   "adj. m.sg"
+  ],
+  "792": [
+   "treatment",
+   "सुलूक",
+   "n. m.sg"
+  ],
+  "794": [
+   "which",
+   "जिसकी",
+   "pron. f.sg"
+  ],
+  "796": [
+   "Lajo",
+   "लाजो",
+   "n. f.sg"
+  ],
+  "798": [
+   "expected",
+   "मुतवक्का",
+   "adj. f.sg"
+  ],
+  "801": [
+   "not",
+   "न",
+   "neg. particle"
+  ],
+  "803": [
+   "was",
+   "होना",
+   "v. past 3sg f"
+  ],
+  "806": [
+   "she",
+   "वह",
+   "pron. 3sg f"
+  ],
+  "808": [
+   "Sunderlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "810": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "812": [
+   "same",
+   "वही",
+   "adj. f.sg"
+  ],
+  "814": [
+   "old",
+   "पुराना",
+   "adj. f.sg"
+  ],
+  "816": [
+   "Lajo",
+   "लाजो",
+   "n. f.sg"
+  ],
+  "818": [
+   "to be",
+   "होना",
+   "v. inf"
+  ],
+  "820": [
+   "wanted",
+   "चाहना",
+   "v. perf. f.sg"
+  ],
+  "822": [
+   "was",
+   "होना",
+   "v. past 3sg f"
+  ],
+  "824": [
+   "who",
+   "जो",
+   "pron. rel. f.sg"
+  ],
+  "826": [
+   "carrot",
+   "गाजर",
+   "n. f.sg"
+  ],
+  "828": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "830": [
+   "fight",
+   "लड़ना",
+   "v. stem"
+  ],
+  "832": [
+   "would fall",
+   "पड़ना",
+   "v. imperf. f.sg"
+  ],
+  "834": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "836": [
+   "radish",
+   "मूली",
+   "n. f.sg"
+  ],
+  "838": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "840": [
+   "be appeased",
+   "मानना",
+   "v. stem"
+  ],
+  "842": [
+   "would go",
+   "जाना",
+   "v. imperf. f.sg"
+  ],
+  "845": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "847": [
+   "now",
+   "अब",
+   "adv."
+  ],
+  "849": [
+   "fight",
+   "लड़ाई",
+   "n. f.sg"
+  ],
+  "851": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "853": [
+   "question",
+   "सवाल",
+   "n. m.sg"
+  ],
+  "855": [
+   "emphatic: only",
+   "ही",
+   "particle"
+  ],
+  "857": [
+   "not",
+   "न",
+   "neg. particle"
+  ],
+  "859": [
+   "was",
+   "होना",
+   "v. past 3sg m"
+  ],
+  "862": [
+   "Sunderlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "864": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "866": [
+   "her",
+   "वह",
+   "pron. 3sg obl"
+  ],
+  "868": [
+   "this",
+   "यह",
+   "pron. dem."
+  ],
+  "870": [
+   "feeling",
+   "महसूस",
+   "n. m.sg"
+  ],
+  "872": [
+   "made",
+   "कराना",
+   "v. perf. m.sg"
+  ],
+  "874": [
+   "gave",
+   "देना",
+   "v. perf. m.sg"
+  ],
+  "876": [
+   "as if",
+   "जैसे",
+   "conj."
+  ],
+  "878": [
+   "she",
+   "वह",
+   "pron. 3sg f"
+  ],
+  "880": [
+   "Lajwanti",
+   "लाजवंती",
+   "n. f.sg"
+  ],
+  "882": [
+   "glass",
+   "काँच",
+   "n. m.sg"
+  ],
+  "884": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "886": [
+   "some",
+   "कोई",
+   "pron. indef."
+  ],
+  "888": [
+   "thing",
+   "चीज़",
+   "n. f.sg"
+  ],
+  "890": [
+   "is",
+   "होना",
+   "v. pres. 3sg"
+  ],
+  "893": [
+   "which",
+   "जो",
+   "pron. rel. f.sg"
+  ],
+  "895": [
+   "touching",
+   "छूना",
+   "v. pres. part."
+  ],
+  "897": [
+   "emphatic: just",
+   "ही",
+   "particle"
+  ],
+  "899": [
+   "break",
+   "टूटना",
+   "v. stem"
+  ],
+  "901": [
+   "will go",
+   "जाना",
+   "v. fut. 3sg f"
+  ],
+  "903": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "905": [
+   "Lajo",
+   "लाजो",
+   "n. f.sg"
+  ],
+  "907": [
+   "mirror",
+   "आईना",
+   "n. m.sg"
+  ],
+  "909": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "911": [
+   "her own",
+   "अपना",
+   "pron. poss. f.sg"
+  ],
+  "913": [
+   "entire body",
+   "सरापा",
+   "n. m.sg"
+  ],
+  "916": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "918": [
+   "towards",
+   "तरफ",
+   "postposition"
+  ],
+  "920": [
+   "looking",
+   "देखना",
+   "v. pres. part. f.sg"
+  ],
+  "922": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "924": [
+   "finally",
+   "आखिर",
+   "adv."
+  ],
+  "926": [
+   "this",
+   "यह",
+   "pron. dem. obl"
+  ],
+  "928": [
+   "conclusion",
+   "नतीजा",
+   "n. m.sg"
+  ],
+  "930": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "932": [
+   "reaching",
+   "पहुँचना",
+   "v. pres. part. f.sg"
+  ],
+  "934": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "936": [
+   "she",
+   "वह",
+   "pron. 3sg f"
+  ],
+  "938": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "940": [
+   "then",
+   "तो",
+   "particle"
+  ],
+  "942": [
+   "everything",
+   "सबकुछ",
+   "pron. indef."
+  ],
+  "944": [
+   "be",
+   "होना",
+   "v. stem"
+  ],
+  "946": [
+   "can",
+   "सकना",
+   "v. pres. 3sg f"
+  ],
+  "948": [
+   "is",
+   "होना",
+   "v. pres. 3sg"
+  ],
+  "951": [
+   "but",
+   "पर",
+   "conj."
+  ],
+  "953": [
+   "Lajo",
+   "लाजो",
+   "n. f.sg"
+  ],
+  "955": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "957": [
+   "be",
+   "होना",
+   "v. stem"
+  ],
+  "959": [
+   "can",
+   "सकना",
+   "v. pres. 3sg f"
+  ],
+  "962": [
+   "she",
+   "वह",
+   "pron. 3sg f"
+  ],
+  "964": [
+   "just",
+   "बस",
+   "adv."
+  ],
+  "966": [
+   "settled",
+   "जाना",
+   "v. perf. f.sg"
+  ],
+  "969": [
+   "but",
+   "पर",
+   "conj."
+  ],
+  "971": [
+   "ruined",
+   "उजड़ना",
+   "v. perf. f.sg"
+  ],
+  "973": [
+   "went",
+   "जाना",
+   "v. perf. f.sg"
+  ],
+  "975": [
+   "Sunderlal",
+   "सुंदरलाल",
+   "n. m.sg"
+  ],
+  "977": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "979": [
+   "near",
+   "पास",
+   "postposition"
+  ],
+  "981": [
+   "his",
+   "उसका",
+   "pron. poss. m.sg"
+  ],
+  "983": [
+   "tears",
+   "आँसू",
+   "n. m.pl"
+  ],
+  "985": [
+   "to see",
+   "देखना",
+   "v. inf. obl"
+  ],
+  "987": [
+   "of",
+   "का",
+   "postposition m.pl"
+  ],
+  "989": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "991": [
+   "eyes",
+   "आँख",
+   "n. f.pl"
+  ],
+  "993": [
+   "were",
+   "होना",
+   "v. past 3pl"
+  ],
+  "995": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "997": [
+   "not",
+   "न",
+   "neg. particle"
+  ],
+  "999": [
+   "sighs",
+   "आह",
+   "n. f.pl"
+  ],
+  "1001": [
+   "to hear",
+   "सुनना",
+   "v. inf. obl"
+  ],
+  "1003": [
+   "of",
+   "का",
+   "postposition m.pl"
+  ],
+  "1005": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "1007": [
+   "ears",
+   "कान",
+   "n. m.pl"
+  ],
+  "1009": [
+   "morning processions",
+   "प्रभातफेरी",
+   "n. f.pl"
+  ],
+  "1011": [
+   "kept coming out",
+   "निकलना",
+   "v. imperf. f.pl"
+  ],
+  "1013": [
+   "remained",
+   "रहना",
+   "v. perf. f.pl"
+  ],
+  "1015": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "1017": [
+   "neighborhood",
+   "मुहल्ला",
+   "n. m.sg"
+  ],
+  "1019": [
+   "Mullah",
+   "मुल्ला",
+   "n. m.sg"
+  ],
+  "1021": [
+   "Shakoor",
+   "शकूर",
+   "n. prop. m.sg"
+  ],
+  "1023": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "1025": [
+   "reformer",
+   "सुधारक",
+   "n. m.sg"
+  ],
+  "1027": [
+   "Rasalu",
+   "रसालू",
+   "n. prop. m.sg"
+  ],
+  "1029": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "1031": [
+   "Nekiram",
+   "नेकीराम",
+   "n. prop. m.sg"
+  ],
+  "1033": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "1035": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "1037": [
+   "having met",
+   "मिलना",
+   "v. conj. part."
+  ],
+  "1039": [
+   "that same",
+   "उसी",
+   "pron. dem. obl"
+  ],
+  "1041": [
+   "voice",
+   "आवाज़",
+   "n. f.sg"
+  ],
+  "1043": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "1045": [
+   "singing",
+   "गाना",
+   "v. pres. part. m.sg"
+  ],
+  "1047": [
+   "remained",
+   "रहना",
+   "v. perf. m.sg"
+  ],
+  "1052": [
+   "hands",
+   "हाथ",
+   "n. m.pl"
+  ],
+  "1054": [
+   "that brought",
+   "लाना",
+   "v. perf. f.pl"
+  ],
+  "1056": [
+   "withered",
+   "कुम्हलाना",
+   "v. perf. f.pl"
+  ],
+  "1058": [
+   "Lajwanti",
+   "लाजवंती",
+   "n. f.sg"
+  ],
+  "1060": [
+   "give",
+   "देना",
+   "v. imp. 2sg"
+  ],
+  "1062": [
+   "plants",
+   "बूटा",
+   "n. m.pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    42
+   ],
+   "type": "phrase",
+   "literal": "tired-defeated",
+   "meaning": "tired, exhausted",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    48,
+    50
+   ],
+   "type": "compound_verb",
+   "literal": "doze go",
+   "meaning": "to doze off",
+   "note": "जाना as vector verb indicates completion or suddenness",
+   "source": "model"
+  },
+  {
+   "idx": [
+    54,
+    56
+   ],
+   "type": "phrase",
+   "literal": "start-start in",
+   "meaning": "in the very beginning",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    70,
+    72
+   ],
+   "type": "phrase",
+   "literal": "dark days",
+   "meaning": "difficult/troubled past",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    74,
+    76,
+    78
+   ],
+   "type": "postposition",
+   "literal": "of about in",
+   "meaning": "about, concerning",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    106,
+    108,
+    110,
+    112
+   ],
+   "type": "phrase",
+   "literal": "eyes low doing while",
+   "meaning": "lowering her gaze",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    138,
+    140
+   ],
+   "type": "phrase",
+   "literal": "fixed while",
+   "meaning": "fixing (her gaze)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    175,
+    177,
+    179
+   ],
+   "type": "compound_verb",
+   "literal": "see stay was",
+   "meaning": "was looking",
+   "note": "रहना as vector verb indicates continuous action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    189,
+    191,
+    193
+   ],
+   "type": "compound_verb",
+   "literal": "stroke stay was",
+   "meaning": "was stroking",
+   "note": "रहना as vector verb indicates continuous action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    202,
+    204,
+    206,
+    208
+   ],
+   "type": "compound_verb",
+   "literal": "eyes low having done took",
+   "meaning": "lowered her eyes (again)",
+   "note": "लेना as vector verb indicates the action is done for oneself or completed",
+   "source": "model"
+  },
+  {
+   "idx": [
+    221,
+    223,
+    225,
+    227
+   ],
+   "type": "conjunct_verb",
+   "literal": "good treatment doing was",
+   "meaning": "did he treat you well",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    268,
+    270
+   ],
+   "type": "phrase",
+   "literal": "sliding while",
+   "meaning": "while sliding",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    306,
+    308,
+    310
+   ],
+   "type": "conjunct_verb",
+   "literal": "fear came was",
+   "meaning": "was afraid",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    354,
+    356,
+    358
+   ],
+   "type": "compound_verb",
+   "literal": "tears welled up came",
+   "meaning": "tears welled up",
+   "note": "आना as vector verb indicates the action coming to completion or appearance",
+   "source": "model"
+  },
+  {
+   "idx": [
+    417,
+    419,
+    421
+   ],
+   "type": "compound_verb",
+   "literal": "tears to shed began",
+   "meaning": "began to cry",
+   "note": "लगना as a vector verb indicates the beginning of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    434,
+    436
+   ],
+   "type": "compound_verb",
+   "literal": "to say to give",
+   "meaning": "to tell completely",
+   "note": "देना as a vector verb adds the sense of completion or doing something for someone else's benefit.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    454,
+    456
+   ],
+   "type": "compound_verb",
+   "literal": "to go give",
+   "meaning": "let it go, forget it",
+   "note": "जाना as a vector verb here implies letting something pass or be forgotten.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    458,
+    460
+   ],
+   "type": "phrase",
+   "literal": "past talks",
+   "meaning": "bygones, past matters",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    503,
+    505,
+    507
+   ],
+   "type": "postposition",
+   "literal": "of respect place",
+   "meaning": "a place of respect",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    543,
+    545,
+    547,
+    549
+   ],
+   "type": "idiom",
+   "literal": "mind in mind only remained",
+   "meaning": "thoughts remained in her mind, she couldn't express them",
+   "note": "मन की मन ही में रहना is an idiom meaning one's desires or thoughts remain unexpressed.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    554,
+    556,
+    558
+   ],
+   "type": "compound_verb",
+   "literal": "to say not could",
+   "meaning": "could not say",
+   "note": "सकना as a vector verb indicates ability.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    566,
+    568,
+    570
+   ],
+   "type": "compound_verb",
+   "literal": "quiet-subdued fell remained",
+   "meaning": "remained quiet and subdued",
+   "note": "पड़ना and रहना as vector verbs here emphasize the state of being.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    582,
+    584
+   ],
+   "type": "compound_verb",
+   "literal": "looking remained",
+   "meaning": "kept looking",
+   "note": "रहना as a vector verb indicates continuation of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    605,
+    607,
+    609
+   ],
+   "type": "compound_verb",
+   "literal": "to be finished was",
+   "meaning": "had become",
+   "note": "चुकना as a vector verb indicates completion of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    667,
+    669
+   ],
+   "type": "compound_verb",
+   "literal": "to sit goes",
+   "meaning": "sits up",
+   "note": "जाना as a vector verb indicates a sudden or involuntary action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    699,
+    701
+   ],
+   "type": "compound_verb",
+   "literal": "to become go",
+   "meaning": "become",
+   "note": "जाना as a vector verb indicates a change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    711,
+    713
+   ],
+   "type": "compound_verb",
+   "literal": "passed went",
+   "meaning": "passed (completely)",
+   "note": "जाना as a vector verb indicates completion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    729,
+    731
+   ],
+   "type": "compound_verb",
+   "literal": "took took",
+   "meaning": "took over completely",
+   "note": "लेना as a vector verb indicates taking something for oneself or completion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    754,
+    756,
+    758
+   ],
+   "type": "conjunct_verb",
+   "literal": "start to do gave",
+   "meaning": "started",
+   "note": "शुरू करना is a common conjunct verb meaning 'to start'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    783,
+    785
+   ],
+   "type": "compound_verb",
+   "literal": "to do began",
+   "meaning": "began to do",
+   "note": "लगना as a vector verb indicates the beginning of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    830,
+    832
+   ],
+   "type": "compound_verb",
+   "literal": "to fight fall",
+   "meaning": "to fight (habitually)",
+   "note": "पड़ना as a vector verb adds intensity or suddenness, here habitual action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    840,
+    842
+   ],
+   "type": "compound_verb",
+   "literal": "to agree go",
+   "meaning": "to be appeased/convinced",
+   "note": "जाना as a vector verb indicates completion or change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    849,
+    851,
+    853
+   ],
+   "type": "phrase",
+   "literal": "question of fight",
+   "meaning": "question of a fight",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    853,
+    855,
+    857,
+    859
+   ],
+   "type": "phrase",
+   "literal": "question only not was",
+   "meaning": "there was no question at all",
+   "note": "ही न था emphasizes the complete absence.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    870,
+    872,
+    874
+   ],
+   "type": "conjunct_verb",
+   "literal": "feeling made gave",
+   "meaning": "made her feel",
+   "note": "महसूस करना is 'to feel', 'देना' adds the sense of 'to cause someone to feel'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    899,
+    901
+   ],
+   "type": "compound_verb",
+   "literal": "to break will go",
+   "meaning": "will break",
+   "note": "जाना as a vector verb indicates completion or change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    911,
+    913
+   ],
+   "type": "phrase",
+   "literal": "her own entire body",
+   "meaning": "her entire reflection",
+   "note": "सरापा refers to the entire body, often used for appearance.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    926,
+    928,
+    930
+   ],
+   "type": "phrase",
+   "literal": "on this conclusion",
+   "meaning": "to this conclusion",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    932,
+    934
+   ],
+   "type": "compound_verb",
+   "literal": "reaching that",
+   "meaning": "to conclude that",
+   "note": "पहुँचना 'to reach' is used here figuratively for reaching a conclusion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    944,
+    946
+   ],
+   "type": "compound_verb",
+   "literal": "to be can",
+   "meaning": "can be",
+   "note": "सकना as a vector verb indicates ability.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    957,
+    959
+   ],
+   "type": "compound_verb",
+   "literal": "to be can",
+   "meaning": "can be",
+   "note": "सकना as a vector verb indicates ability.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    964,
+    966
+   ],
+   "type": "compound_verb",
+   "literal": "just went",
+   "meaning": "was settled",
+   "note": "बसना 'to settle' + जाना 'to go' (vector verb for completion).",
+   "source": "model"
+  },
+  {
+   "idx": [
+    971,
+    973
+   ],
+   "type": "compound_verb",
+   "literal": "ruined went",
+   "meaning": "was ruined",
+   "note": "उजड़ना 'to be ruined' + जाना 'to go' (vector verb for completion).",
+   "source": "model"
+  },
+  {
+   "idx": [
+    985,
+    987,
+    989
+   ],
+   "type": "postposition",
+   "literal": "to see of for",
+   "meaning": "to see",
+   "note": "के लिए is a compound postposition meaning 'for' or 'in order to'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    1001,
+    1003,
+    1005
+   ],
+   "type": "postposition",
+   "literal": "to hear of for",
+   "meaning": "to hear",
+   "note": "के लिए is a compound postposition meaning 'for' or 'in order to'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    1033,
+    1035
+   ],
+   "type": "postposition",
+   "literal": "of with",
+   "meaning": "with",
+   "note": "के साथ is a compound postposition meaning 'with'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    1037,
+    1047
+   ],
+   "type": "compound_verb",
+   "literal": "having met singing remained",
+   "meaning": "kept singing together",
+   "note": "मिलकर 'having met' + गाता रहा 'kept singing'. रहना as a vector verb indicates continuation.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    1045,
+    1047
+   ],
+   "type": "compound_verb",
+   "literal": "singing remained",
+   "meaning": "kept singing",
+   "note": "रहना as a vector verb indicates continuation of an action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -25,6 +25,16 @@ add your openrouter key under ⚙ settings -- it's saved to `.env` here and neve
 
 everything lives in `data/library/<id>.json` (text, annotations, notes) plus `data/library/<id>/` (page images for scans). it's committed on purpose, so annotations you've paid for travel with the repo -- which is also why this repo is **private**: the library holds full texts of copyrighted stories. delete a file to delete a text.
 
+**nobody pays twice.** every model answer is also saved to `data/cache/` (one small file per answer, so two people adding translations never merge-conflict) and committed:
+
+| cache | keyed on | effect |
+|---|---|---|
+| `annotate/` | the paragraph's exact text | someone uploading or pasting the same story gets every already-done paragraph instantly, free, even without a key |
+| `translate/` | highlighted text + its surrounding paragraphs | the same highlight in the same story comes back free, marked "saved translation" |
+| `ocr/` | the page image | the same pdf's pages don't get read twice ("re-run ocr" in the review screen deliberately skips the cache) |
+
+when a prompt changes enough that old answers should be redone, bump the version strings at the top of `server/llm.py`. pull before reading to pick up other people's translations; commit `data/cache/` after.
+
 **underlines**: solid red = idiom or proverb. dotted blue ("phrases & verbs") = compound verbs (खा लिया), conjunct verbs (इंतज़ार करना), compound postpositions (के बारे में), set phrases.
 
 ## models

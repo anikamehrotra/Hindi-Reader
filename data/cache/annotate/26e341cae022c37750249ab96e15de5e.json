@@ -1,0 +1,27 @@
+{
+ "translation": "The Funeral of Ismat Chughtai",
+ "words": {
+  "0": [
+   "funeral procession",
+   "जनाज़ा",
+   "m.sg"
+  ],
+  "1": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "2": [
+   "Ismat",
+   "इस्मत",
+   "f.sg"
+  ],
+  "3": [
+   "Chughtai",
+   "चुग़ताई",
+   "f.sg"
+  ]
+ },
+ "units": [],
+ "model": "google/gemini-2.5-flash"
+}

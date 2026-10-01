@@ -1,0 +1,259 @@
+{
+ "translation": "The committee's procession had stopped near the temple, and people had gathered to listen to the description of the Ramayana story and verses. Sundarlal, hearing the last few lines, exclaimed, \"We don't want such a Ramraj, Baba!\"",
+ "words": {
+  "0": [
+   "committee",
+   "कमेटी",
+   "f.sg"
+  ],
+  "2": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "4": [
+   "procession",
+   "जुलूस",
+   "m.sg"
+  ],
+  "6": [
+   "temple",
+   "मंदिर",
+   "m.sg"
+  ],
+  "8": [
+   "near",
+   "के",
+   "postposition"
+  ],
+  "10": [
+   "near",
+   "पास",
+   "postposition"
+  ],
+  "12": [
+   "stopped",
+   "रुकना",
+   "perf. m.sg"
+  ],
+  "14": [
+   "had (vector verb)",
+   "चुकना",
+   "perf. m.sg"
+  ],
+  "16": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "18": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "20": [
+   "people",
+   "लोग",
+   "m.pl"
+  ],
+  "22": [
+   "Ramayana",
+   "रामायण",
+   "f.sg"
+  ],
+  "24": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "26": [
+   "story",
+   "कथा",
+   "f.sg"
+  ],
+  "28": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "30": [
+   "verse",
+   "श्लोक",
+   "m.sg"
+  ],
+  "32": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "34": [
+   "description",
+   "वर्णन",
+   "m.sg"
+  ],
+  "36": [
+   "to listen",
+   "सुनना",
+   "inf. obl"
+  ],
+  "38": [
+   "for",
+   "के",
+   "postposition"
+  ],
+  "40": [
+   "for",
+   "लिए",
+   "postposition"
+  ],
+  "42": [
+   "gathered",
+   "ठहरना",
+   "perf. m.pl"
+  ],
+  "44": [
+   "had (vector verb)",
+   "चुकना",
+   "perf. m.pl"
+  ],
+  "46": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "49": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "m.sg"
+  ],
+  "51": [
+   "last",
+   "आखिरी",
+   "adj"
+  ],
+  "53": [
+   "lines",
+   "फिक्रा",
+   "m.pl"
+  ],
+  "55": [
+   "hearing",
+   "सुनना",
+   "pres. part. obl"
+  ],
+  "57": [
+   "while being",
+   "होना",
+   "conj. part."
+  ],
+  "59": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "61": [
+   "exclaimed (vector verb)",
+   "उठना",
+   "perf. m.sg"
+  ],
+  "66": [
+   "us",
+   "हम",
+   "pron. 1pl obl"
+  ],
+  "68": [
+   "such",
+   "ऐसा",
+   "adj"
+  ],
+  "70": [
+   "Ramraj",
+   "रामराज",
+   "m.sg"
+  ],
+  "72": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "74": [
+   "is wanted",
+   "चाहना",
+   "pres. 3pl"
+  ],
+  "76": [
+   "Baba",
+   "बाबा",
+   "m.sg vocative"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    8,
+    10
+   ],
+   "type": "postposition",
+   "literal": "of near",
+   "meaning": "near",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    12,
+    14
+   ],
+   "type": "compound_verb",
+   "literal": "stopped had",
+   "meaning": "had stopped",
+   "note": "चुकना adds the sense of completion or finality to the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    38,
+    40
+   ],
+   "type": "postposition",
+   "literal": "of for",
+   "meaning": "for",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    42,
+    44
+   ],
+   "type": "compound_verb",
+   "literal": "gathered had",
+   "meaning": "had gathered",
+   "note": "चुकना adds the sense of completion or finality to the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    55,
+    57
+   ],
+   "type": "phrase",
+   "literal": "hearing being",
+   "meaning": "while hearing",
+   "note": "The construction 'verb + हुए' indicates an action happening concurrently with another.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    59,
+    61
+   ],
+   "type": "compound_verb",
+   "literal": "said rose",
+   "meaning": "exclaimed, blurted out",
+   "note": "उठना (to rise) as a vector verb adds the sense of suddenness or spontaneity to the action of speaking.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

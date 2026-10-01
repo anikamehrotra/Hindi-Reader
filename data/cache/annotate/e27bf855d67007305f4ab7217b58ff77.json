@@ -1,0 +1,888 @@
+{
+ "translation": "Shaukat is proud of his wealth, vain about his looks, and arrogant about his education. All this will be left behind. At three o'clock, Rahat and I reached Kishwar's place. Oh, seeing Kishwar, my heart was crushed. She was looking at me with strange, flustered, and lost eyes. She couldn't look me in the eye. Perhaps she was trying in vain to hide those tears that, having turned into blood, were shining on her cheeks. Although her eyes were dry, she was wearing a saffron-colored sari and pinning up her bun in front of the mirror. Seeing her in this flashy attire, I was scared that preparations for Sati were underway. But now I had arrived. I lovingly touched her chin, and she drowned in a dead-like laugh.",
+ "words": {
+  "0": [
+   "Shaukat",
+   "शौकत",
+   ""
+  ],
+  "2": [
+   "of",
+   "को",
+   "postposition"
+  ],
+  "4": [
+   "his",
+   "अपना",
+   "poss. adj. m.sg"
+  ],
+  "6": [
+   "wealth",
+   "दौलत",
+   "f.sg"
+  ],
+  "8": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "10": [
+   "pride",
+   "घमंड",
+   "m.sg"
+  ],
+  "12": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "15": [
+   "his",
+   "अपना",
+   "poss. adj. f.sg"
+  ],
+  "17": [
+   "looks",
+   "सूरत",
+   "f.sg"
+  ],
+  "19": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "21": [
+   "vanity",
+   "नाज़",
+   "m.sg"
+  ],
+  "23": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "25": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "27": [
+   "education",
+   "तालीम",
+   "f.sg"
+  ],
+  "31": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "33": [
+   "is arrogant",
+   "अकड़ना",
+   "pres. part. m.sg"
+  ],
+  "35": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "38": [
+   "this",
+   "यह",
+   "pron. m.sg"
+  ],
+  "40": [
+   "all",
+   "सब",
+   "adj"
+  ],
+  "42": [
+   "some",
+   "कुछ",
+   "pron"
+  ],
+  "44": [
+   "left behind",
+   "धरना",
+   "perf. part. f.sg"
+  ],
+  "46": [
+   "remain",
+   "रहना",
+   "inf"
+  ],
+  "48": [
+   "will go",
+   "जाना",
+   "fut. 3sg"
+  ],
+  "51": [
+   "three",
+   "सैह",
+   "num"
+  ],
+  "53": [
+   "o'clock",
+   "पहर",
+   "m.sg"
+  ],
+  "55": [
+   "at",
+   "को",
+   "postposition"
+  ],
+  "57": [
+   "Rahat",
+   "राहत",
+   ""
+  ],
+  "59": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "61": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "63": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "65": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "67": [
+   "place",
+   "यहां",
+   "adv"
+  ],
+  "69": [
+   "reached",
+   "पहुंचना",
+   "root"
+  ],
+  "71": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "77": [
+   "Oh",
+   "ओह",
+   "interj"
+  ],
+  "81": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "83": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "85": [
+   "seeing",
+   "देखना",
+   "conj. part"
+  ],
+  "87": [
+   "my",
+   "मैं",
+   "poss. adj. m.sg"
+  ],
+  "89": [
+   "heart",
+   "दिल",
+   "m.sg"
+  ],
+  "91": [
+   "crushed",
+   "मसलना",
+   "root"
+  ],
+  "93": [
+   "having done",
+   "करना",
+   "conj. part"
+  ],
+  "95": [
+   "remained",
+   "रहना",
+   "root"
+  ],
+  "97": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "102": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "104": [
+   "me",
+   "मैं",
+   "pron. 1sg obl"
+  ],
+  "106": [
+   "strange",
+   "अजीब",
+   "adj"
+  ],
+  "108": [
+   "flustered",
+   "घबराना",
+   "perf. part. f.sg"
+  ],
+  "110": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "112": [
+   "lost",
+   "खोना",
+   "perf. part. f.sg"
+  ],
+  "114": [
+   "been",
+   "होना",
+   "perf. part. f.sg"
+  ],
+  "116": [
+   "eyes",
+   "नज़र",
+   "f.pl"
+  ],
+  "118": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "120": [
+   "looking",
+   "देखना",
+   "pres. part"
+  ],
+  "122": [
+   "remaining",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "124": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "129": [
+   "me",
+   "मैं",
+   "pron. 1sg obl"
+  ],
+  "131": [
+   "gaze",
+   "नज़र",
+   "f.sg"
+  ],
+  "133": [
+   "full",
+   "भरना",
+   "root"
+  ],
+  "135": [
+   "having done",
+   "करना",
+   "conj. part"
+  ],
+  "137": [
+   "not",
+   "ना",
+   "neg"
+  ],
+  "139": [
+   "look",
+   "देखना",
+   "root"
+  ],
+  "141": [
+   "could",
+   "सकना",
+   "pres. 3sg f"
+  ],
+  "143": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "145": [
+   "perhaps",
+   "शायद",
+   "adv"
+  ],
+  "147": [
+   "those",
+   "वह",
+   "pron. pl obl"
+  ],
+  "149": [
+   "tears",
+   "आँसू",
+   "m.pl"
+  ],
+  "151": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "153": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "155": [
+   "in vain",
+   "बेकार",
+   "adv"
+  ],
+  "157": [
+   "to hide",
+   "छिपाना",
+   "inf"
+  ],
+  "159": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "161": [
+   "attempt",
+   "कोशिश",
+   "f.sg"
+  ],
+  "163": [
+   "doing",
+   "करना",
+   "pres. part"
+  ],
+  "165": [
+   "remaining",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "167": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "169": [
+   "which",
+   "जो",
+   "rel. pron"
+  ],
+  "171": [
+   "blood",
+   "ख़ून",
+   "m.sg"
+  ],
+  "173": [
+   "having become",
+   "बनना",
+   "conj. part"
+  ],
+  "175": [
+   "having done",
+   "करना",
+   "conj. part"
+  ],
+  "177": [
+   "her",
+   "वह",
+   "pron. 3sg obl"
+  ],
+  "179": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "181": [
+   "cheeks",
+   "रुख़्सार",
+   "m.pl"
+  ],
+  "183": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "185": [
+   "shining",
+   "दमकना",
+   "pres. part"
+  ],
+  "187": [
+   "remaining",
+   "रहना",
+   "pres. part. m.pl"
+  ],
+  "189": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "192": [
+   "although",
+   "गो",
+   "conj"
+  ],
+  "194": [
+   "her",
+   "वह",
+   "pron. 3sg obl"
+  ],
+  "196": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "198": [
+   "eyes",
+   "आँख",
+   "f.pl"
+  ],
+  "200": [
+   "dry",
+   "ख़ुश्क",
+   "adj"
+  ],
+  "202": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "204": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "206": [
+   "a",
+   "एक",
+   "indef. art"
+  ],
+  "208": [
+   "saffron-colored",
+   "शंगरनी",
+   "adj"
+  ],
+  "210": [
+   "color",
+   "रंग",
+   "m.sg"
+  ],
+  "212": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "214": [
+   "sari",
+   "साड़ी",
+   "f.sg"
+  ],
+  "216": [
+   "wearing",
+   "पहनना",
+   "pres. part"
+  ],
+  "218": [
+   "mirror",
+   "आईना",
+   "m.sg"
+  ],
+  "220": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "222": [
+   "in front",
+   "सामने",
+   "postposition"
+  ],
+  "224": [
+   "bun",
+   "जूड़ा",
+   "m.sg"
+  ],
+  "226": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "228": [
+   "pins",
+   "पिन",
+   "f.pl"
+  ],
+  "230": [
+   "putting",
+   "लगाना",
+   "pres. part"
+  ],
+  "232": [
+   "remaining",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "234": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "237": [
+   "her",
+   "वह",
+   "pron. 3sg obl"
+  ],
+  "239": [
+   "this",
+   "यह",
+   "dem. adj. m.sg"
+  ],
+  "241": [
+   "flashy",
+   "भड़कीला",
+   "adj. m.sg"
+  ],
+  "243": [
+   "attire",
+   "लिबास",
+   "m.sg"
+  ],
+  "245": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "247": [
+   "seeing",
+   "देखना",
+   "conj. part"
+  ],
+  "249": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "251": [
+   "was scared",
+   "सहमना",
+   "perf. f.sg"
+  ],
+  "253": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "255": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "257": [
+   "Sati",
+   "सती",
+   "f.sg"
+  ],
+  "259": [
+   "of becoming",
+   "होना",
+   "inf. obl"
+  ],
+  "261": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "263": [
+   "preparations",
+   "तैयारी",
+   "f.pl"
+  ],
+  "265": [
+   "being",
+   "होना",
+   "pres. part"
+  ],
+  "267": [
+   "remaining",
+   "रहना",
+   "pres. part. f.pl"
+  ],
+  "269": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "271": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "273": [
+   "now",
+   "अब",
+   "adv"
+  ],
+  "275": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "277": [
+   "come",
+   "आना",
+   "root"
+  ],
+  "279": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "281": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "286": [
+   "I",
+   "मैं",
+   "pron. 1sg obl"
+  ],
+  "288": [
+   "love",
+   "प्यार",
+   "m.sg"
+  ],
+  "290": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "292": [
+   "her",
+   "उसका",
+   "poss. adj. f.sg"
+  ],
+  "294": [
+   "chin",
+   "ठोढ़ी",
+   "f.sg"
+  ],
+  "296": [
+   "touched",
+   "छूना",
+   "perf. f.sg"
+  ],
+  "298": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "300": [
+   "she",
+   "वह",
+   "pron. 3sg"
+  ],
+  "302": [
+   "a",
+   "एक",
+   "indef. art"
+  ],
+  "304": [
+   "dead",
+   "मुर्दा",
+   "adj"
+  ],
+  "306": [
+   "like",
+   "सा",
+   "postposition"
+  ],
+  "308": [
+   "laugh",
+   "हंसी",
+   "f.sg"
+  ],
+  "310": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "312": [
+   "drowned",
+   "डूबना",
+   "perf. f.sg"
+  ],
+  "314": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    44,
+    46,
+    48
+   ],
+   "type": "compound_verb",
+   "literal": "placed remain will go",
+   "meaning": "will be left behind, will come to nothing",
+   "note": "धरना (to place) + रहना (to remain) + जाना (to go, vector verb indicating completion/passivity)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    51,
+    53
+   ],
+   "type": "phrase",
+   "literal": "three watch",
+   "meaning": "three o'clock",
+   "note": "पहर is a division of the day, roughly 3 hours",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    71
+   ],
+   "type": "compound_verb",
+   "literal": "reach went",
+   "meaning": "reached",
+   "note": "जाना (to go) as a vector verb indicating completion",
+   "source": "model"
+  },
+  {
+   "idx": [
+    91,
+    93,
+    95,
+    97
+   ],
+   "type": "compound_verb",
+   "literal": "crush having done remain went",
+   "meaning": "was crushed",
+   "note": "मसलना (to crush) + कर रहना (to remain doing) + जाना (vector verb indicating completion/passivity)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    131,
+    133,
+    135
+   ],
+   "type": "phrase",
+   "literal": "gaze full having done",
+   "meaning": "to look someone in the eye, to look fully",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    157,
+    159,
+    161,
+    163,
+    165,
+    167
+   ],
+   "type": "conjunct_verb",
+   "literal": "to hide of attempt doing remaining was",
+   "meaning": "was trying to hide",
+   "note": "कोशिश करना (to attempt) is a common conjunct verb",
+   "source": "model"
+  },
+  {
+   "idx": [
+    173,
+    175
+   ],
+   "type": "compound_verb",
+   "literal": "become having done",
+   "meaning": "having turned into",
+   "note": "बनना (to become) + करना (vector verb indicating completion)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    220,
+    222
+   ],
+   "type": "postposition",
+   "literal": "of in front",
+   "meaning": "in front of",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    251,
+    253
+   ],
+   "type": "compound_verb",
+   "literal": "scared went",
+   "meaning": "became scared",
+   "note": "जाना (to go) as a vector verb indicating change of state",
+   "source": "model"
+  },
+  {
+   "idx": [
+    259,
+    261,
+    263,
+    265,
+    267,
+    269
+   ],
+   "type": "conjunct_verb",
+   "literal": "of becoming of preparations being remaining are",
+   "meaning": "preparations for becoming Sati are underway",
+   "note": "तैयारीयाँ होना (preparations to be/happen) is a common conjunct verb",
+   "source": "model"
+  },
+  {
+   "idx": [
+    277,
+    279,
+    281
+   ],
+   "type": "compound_verb",
+   "literal": "come went was",
+   "meaning": "had arrived",
+   "note": "आना (to come) + जाना (vector verb indicating completion)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    312,
+    314
+   ],
+   "type": "compound_verb",
+   "literal": "drowned went",
+   "meaning": "drowned",
+   "note": "जाना (to go) as a vector verb indicating completion",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

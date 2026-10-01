@@ -1,0 +1,295 @@
+{
+ "translation": "There was also one madman in the asylum who called himself God. When Bishan Singh asked him one day whether Toba Tek Singh was in Pakistan or Hindustan, he let out his characteristic laugh and said, \"It is neither in Pakistan nor in Hindustan, because I have not given the order.\"",
+ "words": {
+  "0": [
+   "asylum",
+   "पागलखाना",
+   "sg"
+  ],
+  "2": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "4": [
+   "one",
+   "एक",
+   "indef. art."
+  ],
+  "6": [
+   "madman",
+   "पागल",
+   "m.sg"
+  ],
+  "8": [
+   "such",
+   "ऐसा",
+   "adj. m.sg"
+  ],
+  "10": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "12": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "15": [
+   "who",
+   "जो",
+   "rel. pron. m.sg"
+  ],
+  "17": [
+   "himself",
+   "खुद",
+   "reflexive pron."
+  ],
+  "19": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "21": [
+   "God",
+   "ख़ुदा",
+   "m.sg"
+  ],
+  "23": [
+   "used to call",
+   "कहना",
+   "impf. m.sg"
+  ],
+  "25": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "29": [
+   "from him",
+   "वह",
+   "obl. 3sg m"
+  ],
+  "31": [
+   "when",
+   "जब",
+   "conj."
+  ],
+  "33": [
+   "one",
+   "एक",
+   "num. adj."
+  ],
+  "35": [
+   "day",
+   "दिन",
+   "m.sg"
+  ],
+  "37": [
+   "Bishan",
+   "बिशन",
+   "proper noun"
+  ],
+  "39": [
+   "Singh",
+   "सिंह",
+   "proper noun"
+  ],
+  "41": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "43": [
+   "asked",
+   "पूछना",
+   "perf. m.sg"
+  ],
+  "45": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "47": [
+   "Toba",
+   "टोबा",
+   "proper noun"
+  ],
+  "49": [
+   "Tek Singh",
+   "टेकसिंह",
+   "proper noun"
+  ],
+  "51": [
+   "Pakistan",
+   "पाकिस्तान",
+   "m.sg"
+  ],
+  "53": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "55": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "57": [
+   "or",
+   "या",
+   "conj."
+  ],
+  "59": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "61": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "63": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "65": [
+   "he",
+   "वह",
+   "obl. 3sg m"
+  ],
+  "67": [
+   "his own",
+   "अपना",
+   "poss. adj. m.sg"
+  ],
+  "69": [
+   "natural",
+   "स्वाभाविक",
+   "adj. m.sg"
+  ],
+  "71": [
+   "guffaw",
+   "ठहाका",
+   "m.sg"
+  ],
+  "73": [
+   "let out",
+   "लगाना",
+   "perf. m.sg"
+  ],
+  "75": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "77": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "81": [
+   "it",
+   "वह",
+   "3sg"
+  ],
+  "83": [
+   "neither",
+   "न",
+   "neg. particle"
+  ],
+  "85": [
+   "Pakistan",
+   "पाकिस्तान",
+   "m.sg"
+  ],
+  "87": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "89": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "92": [
+   "nor",
+   "न",
+   "neg. particle"
+  ],
+  "94": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "96": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "99": [
+   "therefore",
+   "इसलिए",
+   "conj."
+  ],
+  "101": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "103": [
+   "we",
+   "हम",
+   "obl. 1pl"
+  ],
+  "105": [
+   "order",
+   "हुक्म",
+   "m.sg"
+  ],
+  "107": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "109": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    83,
+    85,
+    87,
+    92,
+    94,
+    96
+   ],
+   "type": "phrase",
+   "literal": "neither in Pakistan nor in Hindustan",
+   "meaning": "neither in Pakistan nor in Hindustan",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    105,
+    107,
+    109
+   ],
+   "type": "conjunct_verb",
+   "literal": "order not given",
+   "meaning": "have not given the order",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

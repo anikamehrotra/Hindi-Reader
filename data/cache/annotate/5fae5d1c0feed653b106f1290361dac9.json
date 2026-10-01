@@ -1,0 +1,292 @@
+{
+ "translation": "He had a daughter who, growing a finger's length every month, became a young woman in fifteen years. Bishan Singh didn't even recognize her. When she was a child, she would cry upon seeing her father. Even when she grew up, tears would flow from her eyes.",
+ "words": {
+  "0": [
+   "his",
+   "वह",
+   "poss. m.sg"
+  ],
+  "2": [
+   "one",
+   "एक",
+   "indef. art."
+  ],
+  "4": [
+   "daughter",
+   "लड़की",
+   "f.sg"
+  ],
+  "6": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "9": [
+   "who",
+   "जो",
+   "rel. pron."
+  ],
+  "11": [
+   "every",
+   "हर",
+   "adj."
+  ],
+  "13": [
+   "month",
+   "महीना",
+   "m.sg"
+  ],
+  "15": [
+   "one",
+   "एक",
+   "num. adj."
+  ],
+  "17": [
+   "finger",
+   "उँगली",
+   "f.sg"
+  ],
+  "19": [
+   "growing and growing",
+   "बढ़ना",
+   "pres. part. f.sg (reduplicated)"
+  ],
+  "22": [
+   "fifteen",
+   "पन्द्रह",
+   "num. adj."
+  ],
+  "24": [
+   "years",
+   "बरस",
+   "m.pl"
+  ],
+  "26": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "28": [
+   "young woman",
+   "जवान",
+   "adj. f.sg"
+  ],
+  "30": [
+   "having become",
+   "होना",
+   "conj. participle"
+  ],
+  "32": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "34": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "38": [
+   "Bishan",
+   "बिशन",
+   "m.sg"
+  ],
+  "40": [
+   "Singh",
+   "सिंह",
+   "m.sg"
+  ],
+  "42": [
+   "her",
+   "वह",
+   "obl. 3sg f"
+  ],
+  "44": [
+   "recognize",
+   "पहचानना",
+   "impf. m.sg"
+  ],
+  "46": [
+   "emphatic: even",
+   "ही",
+   "emphatic particle"
+  ],
+  "48": [
+   "not",
+   "न",
+   "neg. particle"
+  ],
+  "50": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "54": [
+   "she",
+   "वह",
+   "pron. 3sg f"
+  ],
+  "56": [
+   "child",
+   "बच्ची",
+   "f.sg"
+  ],
+  "58": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "60": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "62": [
+   "her own",
+   "अपना",
+   "poss. f.sg"
+  ],
+  "64": [
+   "father",
+   "बाप",
+   "m.sg"
+  ],
+  "66": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "68": [
+   "having seen",
+   "देखना",
+   "conj. participle"
+  ],
+  "70": [
+   "would cry",
+   "रोना",
+   "impf. f.sg"
+  ],
+  "72": [
+   "was",
+   "होना",
+   "past. 3sg f"
+  ],
+  "76": [
+   "young woman",
+   "जवान",
+   "adj. f.sg"
+  ],
+  "78": [
+   "became",
+   "होना",
+   "perf. f.sg"
+  ],
+  "80": [
+   "then",
+   "तब",
+   "adv."
+  ],
+  "82": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "84": [
+   "her",
+   "वह",
+   "poss. f.sg"
+  ],
+  "86": [
+   "eyes",
+   "आँख",
+   "obl. pl"
+  ],
+  "88": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "90": [
+   "tears",
+   "आँसू",
+   "m.pl"
+  ],
+  "92": [
+   "would flow",
+   "बहना",
+   "impf. m.pl"
+  ],
+  "94": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    19,
+    22,
+    24,
+    26,
+    28,
+    30,
+    32,
+    34
+   ],
+   "type": "phrase",
+   "literal": "growing-growing fifteen years in young woman having become went was",
+   "meaning": "growing steadily, became a young woman in fifteen years",
+   "note": "The reduplication 'बढ़ती-बढ़ती' emphasizes continuous, gradual growth. 'हो गयी थी' is a compound verb indicating completion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    30,
+    32
+   ],
+   "type": "compound_verb",
+   "literal": "having become went",
+   "meaning": "became",
+   "note": "जाना (gayi) acts as a vector verb indicating completion or transformation.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    44,
+    46,
+    48,
+    50
+   ],
+   "type": "phrase",
+   "literal": "recognize only not was",
+   "meaning": "didn't even recognize",
+   "note": "The 'ही न' construction emphasizes the complete lack of recognition.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    68,
+    70,
+    72
+   ],
+   "type": "compound_verb",
+   "literal": "having seen would cry was",
+   "meaning": "would cry upon seeing",
+   "note": "देखकर (dekhkar) is a conjunctive participle, indicating an action immediately preceding the main verb रोती थी (roti thi).",
+   "source": "model"
+  },
+  {
+   "idx": [
+    78,
+    80
+   ],
+   "type": "phrase",
+   "literal": "became then",
+   "meaning": "when she grew up",
+   "note": "हुई तब (hui tab) functions as a temporal clause.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

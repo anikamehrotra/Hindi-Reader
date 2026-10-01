@@ -1,0 +1,57 @@
+{
+ "translation": "Bishan Singh then asked, \"In Pakistan or in Hindustan?\"",
+ "words": {
+  "0": [
+   "Bishan",
+   "बिशन",
+   "prop. n."
+  ],
+  "2": [
+   "Singh",
+   "सिंह",
+   "prop. n."
+  ],
+  "4": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "6": [
+   "again",
+   "फिर",
+   "adverb"
+  ],
+  "8": [
+   "asked",
+   "पूछना",
+   "perf. m.sg"
+  ],
+  "12": [
+   "Pakistan",
+   "पाकिस्तान",
+   "prop. n."
+  ],
+  "14": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "16": [
+   "or",
+   "या",
+   "conjunction"
+  ],
+  "18": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "prop. n."
+  ],
+  "20": [
+   "in",
+   "में",
+   "postposition"
+  ]
+ },
+ "units": [],
+ "model": "google/gemini-2.5-flash"
+}

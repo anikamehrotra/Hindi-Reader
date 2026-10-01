@@ -1,0 +1,142 @@
+{
+ "translation": "Then mixed voices came: \"Quiet! We won't let him speak.\" And from one corner, this voice also came: \"We'll kill him!\"",
+ "words": {
+  "0": [
+   "then",
+   "फिर",
+   ""
+  ],
+  "2": [
+   "mixed",
+   "मिलिजुली",
+   "adj. f.sg"
+  ],
+  "4": [
+   "voices",
+   "आवाज़",
+   "n. f. pl"
+  ],
+  "6": [
+   "came",
+   "आना",
+   "perf. f. pl"
+  ],
+  "11": [
+   "quiet",
+   "खामोश",
+   "adj."
+  ],
+  "15": [
+   "we",
+   "हम",
+   "pron. 1pl"
+  ],
+  "17": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "19": [
+   "to speak",
+   "बोलना",
+   "inf. obl."
+  ],
+  "21": [
+   "will give",
+   "देना",
+   "fut. 1pl"
+  ],
+  "25": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "27": [
+   "one",
+   "एक",
+   "num."
+  ],
+  "29": [
+   "corner",
+   "कोना",
+   "n. m. obl. sg"
+  ],
+  "31": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "33": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "35": [
+   "this",
+   "यह",
+   "pron. dem."
+  ],
+  "37": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "39": [
+   "voice",
+   "आवाज़",
+   "n. f. sg"
+  ],
+  "41": [
+   "came",
+   "आना",
+   "perf. f. sg"
+  ],
+  "46": [
+   "strike",
+   "मारना",
+   "root"
+  ],
+  "48": [
+   "will give",
+   "देना",
+   "fut. 1pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    2,
+    4,
+    6
+   ],
+   "type": "phrase",
+   "literal": "mixed voices came",
+   "meaning": "mixed voices were heard",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    19,
+    21
+   ],
+   "type": "compound_verb",
+   "literal": "will not give to speak",
+   "meaning": "will not let speak",
+   "note": "देना as a vector verb means 'to allow' or 'to let'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    46,
+    48
+   ],
+   "type": "compound_verb",
+   "literal": "will give to strike",
+   "meaning": "will strike/kill",
+   "note": "देना as a vector verb adds intensity or completion to the action, here implying a threat of violence.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

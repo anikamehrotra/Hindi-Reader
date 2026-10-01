@@ -1,0 +1,427 @@
+{
+ "translation": "“Oh, no one,” she said in a defeated voice. “Tell me the truth, Kishwar, I mean, Rahat, has the thought of your gender's superiority ever crossed your mind? Do you ever think, 'How long will we endure the rule of oppressive men? How long will they keep us as their maids, imprisoned within four walls? How long will we continue to be suppressed and beaten like this?' Tell me, speak! Enthusiasm was once again overcoming me.”",
+ "words": {
+  "1": [
+   "Oh",
+   "ओहो",
+   ""
+  ],
+  "6": [
+   "no one",
+   "कोई",
+   "indef. pron."
+  ],
+  "8": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "10": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "16": [
+   "defeated",
+   "शिकस्त",
+   "adj."
+  ],
+  "18": [
+   "defeated",
+   "ख़ूर्दा",
+   "adj."
+  ],
+  "20": [
+   "voice",
+   "आवाज़",
+   "f.sg."
+  ],
+  "22": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "24": [
+   "said",
+   "कहना",
+   "perf. m.sg."
+  ],
+  "26": [
+   "was",
+   "जाना",
+   "perf. m.sg. (passive auxiliary)"
+  ],
+  "30": [
+   "truth",
+   "सच",
+   "m.sg."
+  ],
+  "32": [
+   "tell",
+   "बताना",
+   "imperative"
+  ],
+  "34": [
+   "Kishwar",
+   "किश्वर",
+   "proper noun"
+  ],
+  "39": [
+   "that",
+   "वो",
+   "demonstrative pron."
+  ],
+  "41": [
+   "my",
+   "मैं",
+   "poss. pron. f.sg."
+  ],
+  "43": [
+   "meaning",
+   "मतलब",
+   "m.sg."
+  ],
+  "45": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "47": [
+   "Rahat",
+   "राहत",
+   "proper noun"
+  ],
+  "50": [
+   "ever",
+   "कभी",
+   "adv."
+  ],
+  "52": [
+   "your",
+   "तुम",
+   "poss. pron. m.sg."
+  ],
+  "54": [
+   "heart",
+   "दिल",
+   "m.sg."
+  ],
+  "56": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "58": [
+   "one's own",
+   "अपना",
+   "poss. pron. f.sg."
+  ],
+  "60": [
+   "gender",
+   "जिन्स",
+   "f.sg."
+  ],
+  "62": [
+   "of",
+   "का",
+   "postposition f.sg."
+  ],
+  "64": [
+   "superiority",
+   "बरतरी",
+   "f.sg."
+  ],
+  "66": [
+   "of",
+   "का",
+   "postposition m.sg."
+  ],
+  "68": [
+   "thought",
+   "ख़्याल",
+   "m.sg."
+  ],
+  "70": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "72": [
+   "comes",
+   "आना",
+   "pres. 3sg"
+  ],
+  "74": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "79": [
+   "ever",
+   "कभी",
+   "adv."
+  ],
+  "81": [
+   "this",
+   "यह",
+   "demonstrative pron."
+  ],
+  "83": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "85": [
+   "thinks",
+   "सोचना",
+   "pres. part. f.sg."
+  ],
+  "87": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ],
+  "89": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "91": [
+   "we",
+   "हम",
+   "pron. 1pl"
+  ],
+  "93": [
+   "when",
+   "कब",
+   "interrogative adv."
+  ],
+  "95": [
+   "until",
+   "तक",
+   "postposition"
+  ],
+  "97": [
+   "oppressive",
+   "ज़ालिम",
+   "adj."
+  ],
+  "99": [
+   "men",
+   "मर्द",
+   "m.pl. obl."
+  ],
+  "101": [
+   "of",
+   "का",
+   "postposition f.sg."
+  ],
+  "103": [
+   "rule",
+   "हुकूमत",
+   "f.sg."
+  ],
+  "105": [
+   "will endure",
+   "सहना",
+   "fut. 1pl"
+  ],
+  "110": [
+   "when",
+   "कब",
+   "interrogative adv."
+  ],
+  "112": [
+   "until",
+   "तक",
+   "postposition"
+  ],
+  "114": [
+   "they",
+   "वो",
+   "pron. 3pl"
+  ],
+  "116": [
+   "us",
+   "हम",
+   "pron. 1pl obl."
+  ],
+  "118": [
+   "their own",
+   "अपना",
+   "poss. pron. f.pl."
+  ],
+  "120": [
+   "maids",
+   "लौंडी",
+   "f.pl."
+  ],
+  "122": [
+   "having made",
+   "बनाना",
+   "conj. participle"
+  ],
+  "124": [
+   "four-walled enclosure",
+   "चार-दीवारी",
+   "f.sg."
+  ],
+  "126": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "128": [
+   "imprisoned",
+   "क़ैद",
+   "adj."
+  ],
+  "130": [
+   "will keep",
+   "रखना",
+   "fut. 3pl"
+  ],
+  "135": [
+   "when",
+   "कब",
+   "interrogative adv."
+  ],
+  "137": [
+   "until",
+   "तक",
+   "postposition"
+  ],
+  "139": [
+   "like this",
+   "यूंही",
+   "adv."
+  ],
+  "141": [
+   "we",
+   "हम",
+   "pron. 1pl"
+  ],
+  "143": [
+   "suppressed",
+   "दबना",
+   "perf. pl."
+  ],
+  "145": [
+   "beating",
+   "मारना",
+   "noun f.sg."
+  ],
+  "147": [
+   "eating",
+   "खाना",
+   "pres. part. pl."
+  ],
+  "149": [
+   "will remain",
+   "रहना",
+   "fut. 1pl"
+  ],
+  "154": [
+   "tell",
+   "बताना",
+   "imperative"
+  ],
+  "156": [
+   "speak",
+   "बोलना",
+   "imperative"
+  ],
+  "162": [
+   "me",
+   "मैं",
+   "pron. 1sg obl."
+  ],
+  "164": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "166": [
+   "again",
+   "फिर",
+   "adv."
+  ],
+  "168": [
+   "enthusiasm",
+   "जोश",
+   "m.sg."
+  ],
+  "170": [
+   "mounted",
+   "सवार",
+   "adj."
+  ],
+  "172": [
+   "becoming",
+   "होना",
+   "pres. part. m.sg."
+  ],
+  "174": [
+   "remaining",
+   "रहना",
+   "pres. part. m.sg."
+  ],
+  "176": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    16,
+    18
+   ],
+   "type": "phrase",
+   "literal": "defeated eaten",
+   "meaning": "defeated",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    24,
+    26
+   ],
+   "type": "compound_verb",
+   "literal": "said went",
+   "meaning": "was said (passive)",
+   "note": "जाना as a vector verb indicates passive voice here",
+   "source": "model"
+  },
+  {
+   "idx": [
+    143,
+    145,
+    147,
+    149
+   ],
+   "type": "compound_verb",
+   "literal": "suppressed beating eating will remain",
+   "meaning": "will continue to be suppressed and beaten",
+   "note": "रहना as a vector verb indicates continuation of the action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    168,
+    170,
+    172,
+    174,
+    176
+   ],
+   "type": "conjunct_verb",
+   "literal": "enthusiasm mounted was remaining",
+   "meaning": "enthusiasm was overcoming",
+   "note": "जोश सवार होना means to be overcome by enthusiasm/passion",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

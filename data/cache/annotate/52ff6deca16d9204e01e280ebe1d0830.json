@@ -1,0 +1,645 @@
+{
+ "translation": "The society that does not accept these innocent and blameless women, that does not adopt them, is a rotten society and should be destroyed. He would urge that these women be settled in homes and inspire them to be given the same status that is given to any woman, any mother, daughter, sister, or wife in a home. Then he would say that they should not even be reminded of the things that happened to them, even by hints and allusions, because their hearts are wounded. They are delicate, like touch-me-nots; if you even touch them, they will wither.",
+ "words": {
+  "0": [
+   "society",
+   "समाज",
+   "m.sg"
+  ],
+  "2": [
+   "which",
+   "जो",
+   "rel. pron."
+  ],
+  "4": [
+   "these",
+   "यह",
+   "dem. pron. obl. pl"
+  ],
+  "6": [
+   "innocent",
+   "मासूम",
+   "adj"
+  ],
+  "8": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "10": [
+   "blameless",
+   "बेकुसूर",
+   "adj"
+  ],
+  "12": [
+   "women",
+   "औरत",
+   "f.pl. obl"
+  ],
+  "14": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "16": [
+   "accept",
+   "कुबूल",
+   "adj"
+  ],
+  "18": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "20": [
+   "does",
+   "करना",
+   "pres. part. m.sg"
+  ],
+  "23": [
+   "them",
+   "वह",
+   "pron. obl. pl"
+  ],
+  "25": [
+   "adopt",
+   "अपनाना",
+   "inf. m.sg"
+  ],
+  "27": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "29": [
+   "takes",
+   "लेना",
+   "pres. part. m.sg"
+  ],
+  "32": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "34": [
+   "rotten",
+   "गला-सड़ा",
+   "adj"
+  ],
+  "36": [
+   "society",
+   "समाज",
+   "m.sg"
+  ],
+  "38": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "40": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "42": [
+   "it",
+   "वह",
+   "pron. obl. sg"
+  ],
+  "44": [
+   "destroyed",
+   "ख़त्म",
+   "adj"
+  ],
+  "46": [
+   "do",
+   "करना",
+   "conj. participle"
+  ],
+  "48": [
+   "give",
+   "देना",
+   "inf"
+  ],
+  "50": [
+   "should",
+   "चाहना",
+   "pres. 3sg"
+  ],
+  "52": [
+   "he",
+   "वह",
+   "pron. m.sg"
+  ],
+  "54": [
+   "those",
+   "वह",
+   "dem. pron. obl. pl"
+  ],
+  "56": [
+   "women",
+   "औरत",
+   "f.pl. obl"
+  ],
+  "58": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "60": [
+   "homes",
+   "घर",
+   "m.pl. obl"
+  ],
+  "62": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "64": [
+   "settled",
+   "आबाद",
+   "adj"
+  ],
+  "66": [
+   "to do",
+   "करना",
+   "inf. obl"
+  ],
+  "68": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "70": [
+   "urging",
+   "तलकीन",
+   "f.sg"
+  ],
+  "73": [
+   "did",
+   "करना",
+   "perf. m.sg"
+  ],
+  "75": [
+   "used to do",
+   "करना",
+   "pres. part. m.sg"
+  ],
+  "77": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "79": [
+   "them",
+   "वह",
+   "pron. obl. pl"
+  ],
+  "81": [
+   "such",
+   "ऐसा",
+   "adj. m.sg"
+  ],
+  "83": [
+   "status",
+   "मर्तबा",
+   "m.sg"
+  ],
+  "85": [
+   "to give",
+   "देना",
+   "inf. obl"
+  ],
+  "87": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "89": [
+   "inspiration",
+   "प्रेरणा",
+   "f.sg"
+  ],
+  "91": [
+   "does",
+   "करना",
+   "pres. part. m.sg"
+  ],
+  "93": [
+   "which",
+   "जो",
+   "rel. pron."
+  ],
+  "95": [
+   "home",
+   "घर",
+   "m.sg"
+  ],
+  "97": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "99": [
+   "any",
+   "कोई",
+   "indef. pron. obl. sg"
+  ],
+  "101": [
+   "even",
+   "भी",
+   "emphatic"
+  ],
+  "103": [
+   "woman",
+   "औरत",
+   "f.sg"
+  ],
+  "106": [
+   "any",
+   "कोई",
+   "indef. pron. obl. sg"
+  ],
+  "108": [
+   "even",
+   "भी",
+   "emphatic"
+  ],
+  "110": [
+   "mother",
+   "माँ",
+   "f.sg"
+  ],
+  "113": [
+   "daughter",
+   "बेटी",
+   "f.sg"
+  ],
+  "116": [
+   "sister",
+   "बहन",
+   "f.sg"
+  ],
+  "118": [
+   "or",
+   "या",
+   "conj"
+  ],
+  "120": [
+   "wife",
+   "बीवी",
+   "f.sg"
+  ],
+  "122": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "124": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "126": [
+   "goes",
+   "जाना",
+   "pres. part. m.sg"
+  ],
+  "128": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "131": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "133": [
+   "he",
+   "वह",
+   "pron. m.sg"
+  ],
+  "135": [
+   "says",
+   "कहना",
+   "pres. 3sg"
+  ],
+  "140": [
+   "them",
+   "वह",
+   "pron. obl. pl"
+  ],
+  "142": [
+   "hints",
+   "इशारा",
+   "m.pl. obl"
+  ],
+  "144": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "146": [
+   "allusions",
+   "किनाया",
+   "m.pl. obl"
+  ],
+  "148": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "151": [
+   "even",
+   "भी",
+   "emphatic"
+  ],
+  "153": [
+   "such",
+   "ऐसा",
+   "adj. f.pl"
+  ],
+  "155": [
+   "things",
+   "बात",
+   "f.pl. obl"
+  ],
+  "157": [
+   "of",
+   "का",
+   "postposition f.pl"
+  ],
+  "159": [
+   "memory",
+   "याद",
+   "f.sg"
+  ],
+  "161": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "163": [
+   "should be reminded",
+   "दिलाना",
+   "inf. f.sg"
+  ],
+  "165": [
+   "should",
+   "चाहना",
+   "pres. 3sg"
+  ],
+  "167": [
+   "which",
+   "जो",
+   "rel. pron."
+  ],
+  "169": [
+   "their",
+   "वह",
+   "poss. pron. obl. pl"
+  ],
+  "171": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "173": [
+   "happened",
+   "होना",
+   "perf. f.pl"
+  ],
+  "176": [
+   "because",
+   "क्योंकि",
+   "conj"
+  ],
+  "178": [
+   "their",
+   "वह",
+   "poss. pron. obl. pl"
+  ],
+  "180": [
+   "hearts",
+   "दिल",
+   "m.pl"
+  ],
+  "182": [
+   "wounded",
+   "ज़ख़्मी",
+   "adj"
+  ],
+  "184": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "187": [
+   "they",
+   "वह",
+   "pron. pl"
+  ],
+  "189": [
+   "delicate",
+   "नाजुक",
+   "adj"
+  ],
+  "191": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "194": [
+   "touched",
+   "छूना",
+   "perf. f.sg"
+  ],
+  "196": [
+   "withered",
+   "मुआ",
+   "adj. f.sg"
+  ],
+  "198": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "200": [
+   "like",
+   "तरह",
+   "f.sg"
+  ],
+  "202": [
+   "hand",
+   "हाथ",
+   "m.sg"
+  ],
+  "204": [
+   "even",
+   "भी",
+   "emphatic"
+  ],
+  "206": [
+   "put",
+   "लगाना",
+   "imp. 2pl"
+  ],
+  "208": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "210": [
+   "will wither",
+   "कुम्हलाना",
+   "fut. 3pl"
+  ],
+  "212": [
+   "will go",
+   "जाना",
+   "fut. 3pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    16,
+    20
+   ],
+   "type": "conjunct_verb",
+   "literal": "to accept do",
+   "meaning": "to accept",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    25,
+    29
+   ],
+   "type": "conjunct_verb",
+   "literal": "to adopt take",
+   "meaning": "to adopt",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    34,
+    36
+   ],
+   "type": "phrase",
+   "literal": "rotten society",
+   "meaning": "a rotten society",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    44,
+    46,
+    48
+   ],
+   "type": "compound_verb",
+   "literal": "destroyed having done give",
+   "meaning": "to destroy completely",
+   "note": "देना adds a sense of completion or finality.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    64,
+    66
+   ],
+   "type": "conjunct_verb",
+   "literal": "to settle to do",
+   "meaning": "to settle",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    70,
+    73,
+    75
+   ],
+   "type": "conjunct_verb",
+   "literal": "urging did used to do",
+   "meaning": "used to urge",
+   "note": "किया करता is a habitual past tense.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    89,
+    91
+   ],
+   "type": "conjunct_verb",
+   "literal": "inspiration does",
+   "meaning": "inspires",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    142,
+    144,
+    146
+   ],
+   "type": "phrase",
+   "literal": "hints and allusions",
+   "meaning": "hints and allusions",
+   "note": "A common pairing for 'indirect references'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    159,
+    163
+   ],
+   "type": "conjunct_verb",
+   "literal": "memory to remind",
+   "meaning": "to remind",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    194,
+    196,
+    198,
+    200
+   ],
+   "type": "phrase",
+   "literal": "touched withered of like",
+   "meaning": "like a touch-me-not plant",
+   "note": "छुई-मुई is the Hindi name for the 'touch-me-not' plant (Mimosa pudica), which folds its leaves when touched.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    202,
+    206
+   ],
+   "type": "conjunct_verb",
+   "literal": "hand put",
+   "meaning": "to touch",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    210,
+    212
+   ],
+   "type": "compound_verb",
+   "literal": "will wither will go",
+   "meaning": "will wither away completely",
+   "note": "जाना adds a sense of completion or transformation.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

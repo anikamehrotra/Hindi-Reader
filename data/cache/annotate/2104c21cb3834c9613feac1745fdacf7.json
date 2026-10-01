@@ -1,0 +1,225 @@
+{
+ "translation": "Yes, crying brings a sparkle to the eyes. All the dust and grime, and your mind gets corrupted. Go, Rahat, I am not in a state to tolerate your bad taste right now. Go play tennis.",
+ "words": {
+  "1": [
+   "yes",
+   "हाँ",
+   ""
+  ],
+  "3": [
+   "crying",
+   "रोना",
+   "inf. obl."
+  ],
+  "5": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "7": [
+   "eyes",
+   "आँख",
+   "f. pl. obl."
+  ],
+  "9": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "11": [
+   "sparkle",
+   "चमक",
+   "f. sg."
+  ],
+  "13": [
+   "produced",
+   "पैदा",
+   "adj."
+  ],
+  "15": [
+   "is",
+   "होना",
+   "f. sg. imperfective"
+  ],
+  "17": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "20": [
+   "all",
+   "सारा",
+   "adj. m. sg."
+  ],
+  "22": [
+   "dust and grime",
+   "गर्द-ओ-ग़ुबार",
+   "m. sg."
+  ],
+  "29": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "31": [
+   "your",
+   "तुम",
+   "pron. 2nd sg. poss."
+  ],
+  "33": [
+   "mind",
+   "दिमाग़",
+   "m. sg."
+  ],
+  "35": [
+   "bad/corrupted",
+   "ख़राब",
+   "adj."
+  ],
+  "37": [
+   "to be",
+   "होना",
+   "conj. participle"
+  ],
+  "39": [
+   "goes",
+   "जाना",
+   "m. sg. imperfective"
+  ],
+  "41": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "46": [
+   "go",
+   "जाना",
+   "imp. 2nd sg."
+  ],
+  "48": [
+   "Rahat",
+   "राहत",
+   "proper noun"
+  ],
+  "50": [
+   "I",
+   "मैं",
+   "pron. 1st sg."
+  ],
+  "52": [
+   "this",
+   "यह",
+   "pron. dem. obl."
+  ],
+  "54": [
+   "time",
+   "वक़्त",
+   "m. sg."
+  ],
+  "56": [
+   "your",
+   "तुम",
+   "pron. 2nd sg. poss."
+  ],
+  "58": [
+   "bad taste",
+   "बद-मज़ाक़ी",
+   "f. sg."
+  ],
+  "60": [
+   "to tolerate",
+   "सहना",
+   "inf. obl."
+  ],
+  "62": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "64": [
+   "worthy/capable",
+   "लायक़",
+   "adj."
+  ],
+  "66": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "69": [
+   "go",
+   "जाना",
+   "imp. 2nd sg."
+  ],
+  "71": [
+   "tennis",
+   "टेनिस",
+   "m. sg."
+  ],
+  "73": [
+   "play",
+   "खेलना",
+   "imp. 2nd sg."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    13,
+    15,
+    17
+   ],
+   "type": "conjunct_verb",
+   "literal": "produced is is",
+   "meaning": "is produced/created",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    22
+   ],
+   "type": "phrase",
+   "literal": "dust and grime",
+   "meaning": "dust and grime (figuratively, mental clutter or negativity)",
+   "note": "A common compound for 'dust and dirt', often used metaphorically.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    35,
+    37,
+    39,
+    41
+   ],
+   "type": "compound_verb",
+   "literal": "bad having become goes is",
+   "meaning": "gets corrupted/spoiled",
+   "note": "हो जाना (ho jaanaa) is a common vector verb construction indicating a change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    52,
+    54
+   ],
+   "type": "phrase",
+   "literal": "this time",
+   "meaning": "right now, at this moment",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    62,
+    64
+   ],
+   "type": "postposition",
+   "literal": "of worthy",
+   "meaning": "capable of, in a state to",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

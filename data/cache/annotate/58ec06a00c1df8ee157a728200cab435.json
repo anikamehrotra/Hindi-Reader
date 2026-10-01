@@ -1,0 +1,561 @@
+{
+ "translation": "Kishwar, it's only five minutes to six. A heavy male voice came from the nearby room, and Kishwar trembled from head to toe. She rushed to the dressing table. I understood. Before she could open the drawer and the 'poison of the killer' could pass her lips, I reached her and pulled her towards me. Her sari's pallu fell, and she became extremely flustered. Kishwar, such cowardice? Do you know suicide?",
+ "words": {
+  "1": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "4": [
+   "six",
+   "छः",
+   "cardinal number"
+  ],
+  "6": [
+   "to strike (of clock)",
+   "बजना",
+   "infinitive, oblique"
+  ],
+  "8": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "10": [
+   "only",
+   "सिर्फ",
+   "adverb"
+  ],
+  "12": [
+   "five",
+   "पाँच",
+   "cardinal number"
+  ],
+  "14": [
+   "minutes",
+   "मिनट",
+   "m.pl"
+  ],
+  "16": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "20": [
+   "nearby",
+   "क़रीब",
+   "adverb"
+  ],
+  "22": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "24": [
+   "room",
+   "कमरा",
+   "m.sg"
+  ],
+  "26": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "28": [
+   "a",
+   "एक",
+   "indefinite article"
+  ],
+  "30": [
+   "heavy",
+   "भारी",
+   "adj. f.sg"
+  ],
+  "32": [
+   "like",
+   "सा",
+   "particle, f.sg"
+  ],
+  "34": [
+   "masculine",
+   "मर्दाना",
+   "adj. f.sg"
+  ],
+  "36": [
+   "voice",
+   "आवाज़",
+   "f.sg"
+  ],
+  "38": [
+   "came",
+   "आना",
+   "perf. f.sg"
+  ],
+  "40": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "42": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "44": [
+   "head",
+   "सर",
+   "m.sg"
+  ],
+  "46": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "48": [
+   "foot",
+   "पैर",
+   "m.sg"
+  ],
+  "50": [
+   "to",
+   "तक",
+   "postposition"
+  ],
+  "52": [
+   "trembled",
+   "लरज़ना",
+   "conj. participle"
+  ],
+  "54": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "57": [
+   "she",
+   "वो",
+   "pron. 3sg"
+  ],
+  "59": [
+   "rushed",
+   "झपटना",
+   "conj. participle"
+  ],
+  "61": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "63": [
+   "dressing",
+   "सिंघार",
+   "m.sg"
+  ],
+  "65": [
+   "table",
+   "मेज़",
+   "f.sg"
+  ],
+  "67": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "69": [
+   "near",
+   "क़रीब",
+   "adverb"
+  ],
+  "71": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "76": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "78": [
+   "understood",
+   "समझना",
+   "conj. participle"
+  ],
+  "80": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "83": [
+   "before this",
+   "यह",
+   "obl. pron. + postposition"
+  ],
+  "85": [
+   "before",
+   "पहले",
+   "adverb"
+  ],
+  "87": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "89": [
+   "she",
+   "वो",
+   "pron. 3sg"
+  ],
+  "91": [
+   "drawer",
+   "दराज़",
+   "f.sg"
+  ],
+  "93": [
+   "may open",
+   "खोलना",
+   "subj. 3sg f"
+  ],
+  "95": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "97": [
+   "poison of the killer",
+   "सिम-ए-क़ातिल",
+   "m.sg"
+  ],
+  "99": [
+   "her",
+   "वह",
+   "obl. pron. 3sg"
+  ],
+  "101": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "103": [
+   "lips",
+   "होंठ",
+   "m.pl"
+  ],
+  "105": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "107": [
+   "may pass",
+   "गुज़रना",
+   "subj. 3pl"
+  ],
+  "109": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "111": [
+   "reached",
+   "पहुंचना",
+   "conj. participle"
+  ],
+  "113": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "116": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "118": [
+   "her",
+   "वह",
+   "obl. pron. 3sg"
+  ],
+  "120": [
+   "my own",
+   "अपना",
+   "poss. adj. f.sg"
+  ],
+  "122": [
+   "direction",
+   "तरफ़",
+   "f.sg"
+  ],
+  "124": [
+   "pulled",
+   "खींचना",
+   "conj. participle"
+  ],
+  "126": [
+   "took",
+   "लेना",
+   "perf. m.sg"
+  ],
+  "129": [
+   "her",
+   "उसका",
+   "poss. adj. f.sg"
+  ],
+  "131": [
+   "sari",
+   "साड़ी",
+   "f.sg"
+  ],
+  "133": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "135": [
+   "loose end (of sari)",
+   "पल्लू",
+   "m.sg"
+  ],
+  "137": [
+   "fell",
+   "गिरना",
+   "conj. participle"
+  ],
+  "139": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "141": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "143": [
+   "she",
+   "वो",
+   "pron. 3sg"
+  ],
+  "145": [
+   "without",
+   "बे",
+   "prefix"
+  ],
+  "147": [
+   "manner",
+   "तरह",
+   "f.sg"
+  ],
+  "149": [
+   "flustered",
+   "घबराना",
+   "conj. participle"
+  ],
+  "151": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "155": [
+   "Kishwar",
+   "किश्वर",
+   ""
+  ],
+  "160": [
+   "so much",
+   "इतना",
+   "adverb"
+  ],
+  "162": [
+   "cowardice",
+   "बुज़्दिली",
+   "f.sg"
+  ],
+  "167": [
+   "know",
+   "जानना",
+   "pres. 2sg f"
+  ],
+  "169": [
+   "are",
+   "होना",
+   "pres. 2sg f"
+  ],
+  "171": [
+   "suicide",
+   "ख़ुदकुशी",
+   "f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6
+   ],
+   "type": "phrase",
+   "literal": "six striking",
+   "meaning": "six o'clock",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    20,
+    22
+   ],
+   "type": "postposition",
+   "literal": "near of",
+   "meaning": "nearby",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    30,
+    32
+   ],
+   "type": "phrase",
+   "literal": "heavy like",
+   "meaning": "a heavy-ish / somewhat heavy",
+   "note": "The particle 'सी' adds a sense of 'like' or 'somewhat'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    44,
+    46,
+    48,
+    50
+   ],
+   "type": "phrase",
+   "literal": "from head to foot",
+   "meaning": "from head to toe",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    52,
+    54
+   ],
+   "type": "compound_verb",
+   "literal": "trembled went",
+   "meaning": "trembled",
+   "note": "जाना (jana) as a vector verb indicates completion or intensity of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    59,
+    61
+   ],
+   "type": "compound_verb",
+   "literal": "rushed having done",
+   "meaning": "rushed",
+   "note": "कर (kar) here is part of a compound verb, indicating the manner of action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    63,
+    65
+   ],
+   "type": "conjunct_verb",
+   "literal": "dressing table",
+   "meaning": "dressing table",
+   "note": "A common collocation for 'dressing table'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    78,
+    80
+   ],
+   "type": "compound_verb",
+   "literal": "understood went",
+   "meaning": "understood",
+   "note": "जाना (jana) as a vector verb indicates completion of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    83,
+    85
+   ],
+   "type": "postposition",
+   "literal": "from this before",
+   "meaning": "before this",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    97,
+    99,
+    101
+   ],
+   "type": "phrase",
+   "literal": "poison of the killer her of",
+   "meaning": "the killer's poison",
+   "note": "सिम-ए-क़ातिल is an Urdu compound meaning 'poison of the killer'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    111,
+    113
+   ],
+   "type": "compound_verb",
+   "literal": "reached went",
+   "meaning": "reached",
+   "note": "जाना (jana) as a vector verb indicates completion of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    124,
+    126
+   ],
+   "type": "compound_verb",
+   "literal": "pulled took",
+   "meaning": "pulled",
+   "note": "लेना (lena) as a vector verb indicates the action is done for oneself or for the benefit of the subject.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    137,
+    139
+   ],
+   "type": "compound_verb",
+   "literal": "fell went",
+   "meaning": "fell",
+   "note": "जाना (jana) as a vector verb indicates completion of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    145,
+    147
+   ],
+   "type": "phrase",
+   "literal": "without manner",
+   "meaning": "extremely, badly",
+   "note": "An adverbial phrase meaning 'in a bad way' or 'excessively'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    149,
+    151
+   ],
+   "type": "compound_verb",
+   "literal": "flustered went",
+   "meaning": "became flustered",
+   "note": "जाना (jana) as a vector verb indicates a change of state.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,190 @@
+{
+ "translation": "In the same way, one Sikh madman asked another Sikh madman, \"Sardar ji, why are we being sent to Hindustan? We don't even know the language there.\"",
+ "words": {
+  "0": [
+   "in this way",
+   "इसी",
+   "pron. obl. sg"
+  ],
+  "2": [
+   "way",
+   "तरह",
+   "f.sg"
+  ],
+  "4": [
+   "one",
+   "एक",
+   "indef. art."
+  ],
+  "6": [
+   "Sikh",
+   "सिक्ख",
+   "m.sg"
+  ],
+  "8": [
+   "madman",
+   "पागल",
+   "m.sg"
+  ],
+  "10": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "12": [
+   "other",
+   "दूसरा",
+   "adj. m.sg"
+  ],
+  "14": [
+   "Sikh",
+   "सिक्ख",
+   "m.sg"
+  ],
+  "16": [
+   "madman",
+   "पागल",
+   "m.sg"
+  ],
+  "18": [
+   "from/to",
+   "से",
+   "postposition"
+  ],
+  "20": [
+   "asked",
+   "पूछना",
+   "perf. m.sg"
+  ],
+  "24": [
+   "Sardar",
+   "सरदार",
+   "m.sg"
+  ],
+  "26": [
+   "honorific",
+   "जी",
+   "particle"
+  ],
+  "29": [
+   "to us",
+   "हम",
+   "pron. 1pl obl"
+  ],
+  "31": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "33": [
+   "why",
+   "क्यों",
+   "interrog. adv."
+  ],
+  "35": [
+   "sent",
+   "भेजना",
+   "perf. m.sg"
+  ],
+  "37": [
+   "go/be",
+   "जाना",
+   "conj. participle"
+  ],
+  "39": [
+   "remaining/continuous",
+   "रहना",
+   "participle"
+  ],
+  "41": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "45": [
+   "to us",
+   "हम",
+   "pron. 1pl obl"
+  ],
+  "47": [
+   "emphatic",
+   "तो",
+   "particle"
+  ],
+  "49": [
+   "there",
+   "वहाँ",
+   "adv."
+  ],
+  "51": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "53": [
+   "language",
+   "बोली",
+   "f.sg"
+  ],
+  "55": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "57": [
+   "comes/know",
+   "आना",
+   "pres. 3sg f"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    0,
+    2
+   ],
+   "type": "phrase",
+   "literal": "this way",
+   "meaning": "in the same way",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    35,
+    37,
+    39,
+    41
+   ],
+   "type": "compound_verb",
+   "literal": "sent going remaining is",
+   "meaning": "is being sent",
+   "note": "passive voice with continuous aspect",
+   "source": "model"
+  },
+  {
+   "idx": [
+    51,
+    53
+   ],
+   "type": "phrase",
+   "literal": "of language",
+   "meaning": "the language of that place",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    53,
+    55,
+    57
+   ],
+   "type": "conjunct_verb",
+   "literal": "language not comes",
+   "meaning": "don't know the language",
+   "note": "बोली आना means 'to know a language'",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

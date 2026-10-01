@@ -1,0 +1,301 @@
+{
+ "translation": "Let it be. She quickly interrupted the conversation. \"Yes, Rahat, how's your tennis?\" she said, sitting next to me on the sofa. \"Tennis? Tennis? You... well, tell me, where is Shaukat?\" Rahat asked, and Kishwar's face flushed.",
+ "words": {
+  "1": [
+   "let it be",
+   "जाना",
+   "imperative"
+  ],
+  "3": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "5": [
+   "give",
+   "देना",
+   "imperative"
+  ],
+  "11": [
+   "she",
+   "वह",
+   "ergative sg"
+  ],
+  "13": [
+   "quickly",
+   "जल्दी",
+   "adverb"
+  ],
+  "15": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "17": [
+   "conversation",
+   "बात",
+   "f.sg"
+  ],
+  "19": [
+   "interrupted",
+   "काटना",
+   "perf. f.sg"
+  ],
+  "25": [
+   "yes",
+   "हाँ",
+   "interjection"
+  ],
+  "27": [
+   "Rahat",
+   "राहत",
+   "proper noun"
+  ],
+  "29": [
+   "that",
+   "वो",
+   "demonstrative pronoun"
+  ],
+  "31": [
+   "your",
+   "तुम",
+   "possessive m.sg"
+  ],
+  "33": [
+   "tennis",
+   "टेनिस",
+   "m.sg"
+  ],
+  "35": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "37": [
+   "what",
+   "क्या",
+   "interrogative pronoun"
+  ],
+  "39": [
+   "condition",
+   "हाल",
+   "m.sg"
+  ],
+  "41": [
+   "is",
+   "होना",
+   "present 3sg"
+  ],
+  "47": [
+   "she",
+   "वह",
+   "ergative sg"
+  ],
+  "49": [
+   "my",
+   "मैं",
+   "possessive m.sg"
+  ],
+  "51": [
+   "near",
+   "पास",
+   "postposition"
+  ],
+  "53": [
+   "sofa",
+   "सोफ़ा",
+   "obl. sg"
+  ],
+  "55": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "57": [
+   "sitting",
+   "बैठना",
+   "conj. participle"
+  ],
+  "59": [
+   "while",
+   "होना",
+   "conj. participle"
+  ],
+  "61": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "65": [
+   "tennis",
+   "टेनिस",
+   "m.sg"
+  ],
+  "70": [
+   "tennis",
+   "टेनिस",
+   "m.sg"
+  ],
+  "75": [
+   "you",
+   "तुम",
+   "pronoun"
+  ],
+  "80": [
+   "that",
+   "वो",
+   "demonstrative pronoun"
+  ],
+  "82": [
+   "now",
+   "अब",
+   "adverb"
+  ],
+  "87": [
+   "well",
+   "ख़ैर",
+   "interjection"
+  ],
+  "89": [
+   "tell",
+   "बताना",
+   "imperative"
+  ],
+  "92": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "94": [
+   "Shaukat",
+   "शौकत",
+   "proper noun"
+  ],
+  "96": [
+   "where",
+   "कहाँ",
+   "adverb"
+  ],
+  "98": [
+   "is",
+   "होना",
+   "present 3pl (polite)"
+  ],
+  "104": [
+   "Rahat",
+   "राहत",
+   "proper noun"
+  ],
+  "106": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "108": [
+   "asked",
+   "पूछना",
+   "perf. m.sg"
+  ],
+  "110": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "112": [
+   "Kishwar",
+   "किश्वर",
+   "proper noun"
+  ],
+  "114": [
+   "of",
+   "का",
+   "postposition m.sg"
+  ],
+  "116": [
+   "color",
+   "रंग",
+   "m.sg"
+  ],
+  "118": [
+   "flushed",
+   "तमतमाना",
+   "main verb"
+  ],
+  "120": [
+   "up",
+   "उठना",
+   "vector verb perf. m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3,
+    5
+   ],
+   "type": "phrase",
+   "literal": "let it also give",
+   "meaning": "let it be, forget it",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    13,
+    15
+   ],
+   "type": "postposition",
+   "literal": "with quick",
+   "meaning": "quickly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    17,
+    19
+   ],
+   "type": "conjunct_verb",
+   "literal": "cut talk",
+   "meaning": "interrupted the conversation",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    37,
+    39,
+    41
+   ],
+   "type": "phrase",
+   "literal": "what condition is",
+   "meaning": "how is...?",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    57,
+    59
+   ],
+   "type": "compound_verb",
+   "literal": "sitting being",
+   "meaning": "while sitting",
+   "note": "हुए adds a continuous aspect to the action of sitting",
+   "source": "model"
+  },
+  {
+   "idx": [
+    118,
+    120
+   ],
+   "type": "compound_verb",
+   "literal": "flushed rose",
+   "meaning": "flushed (up)",
+   "note": "उठना as a vector verb adds intensity or suddenness to the action.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

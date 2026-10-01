@@ -1,0 +1,91 @@
+{
+ "translation": "Fazaldeen said with a little surprise, \"Where is he? He is right there where he was.\"",
+ "words": {
+  "0": [
+   "Fazaldeen",
+   "फ़ज़लदीन",
+   "m.sg. proper noun"
+  ],
+  "2": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "4": [
+   "a little",
+   "ज़रा",
+   "adv"
+  ],
+  "6": [
+   "surprise",
+   "हैरत",
+   "f.sg"
+  ],
+  "8": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "10": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "14": [
+   "where",
+   "कहाँ",
+   "interrogative adv"
+  ],
+  "16": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "20": [
+   "right there",
+   "वहीं",
+   "adv"
+  ],
+  "22": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "25": [
+   "where",
+   "जहाँ",
+   "relative adv"
+  ],
+  "27": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6,
+    8
+   ],
+   "type": "phrase",
+   "literal": "a little surprise with",
+   "meaning": "with a little surprise",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    20,
+    25
+   ],
+   "type": "phrase",
+   "literal": "right there where",
+   "meaning": "right there where",
+   "note": "वहीं emphasizes the location 'वहीं जहाँ' means 'exactly where'",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,2290 @@
+{
+ "translation": "In Chiniot, a fat Muslim madman, who had been an enthusiastic member of the Muslim League and used to bathe fifteen or sixteen times a day, suddenly gave up this habit. His name was Muhammad Ali, so one day he declared in his cell that he was Qaid-e-Azam Muhammad Ali Jinnah. Seeing this, a Sikh madman became Master Tara Singh. It was close to a bloody fight in that cell, but both were declared dangerous madmen and locked up separately. There was a young Hindu lawyer from Lahore who had gone mad after failing in love. When he heard that Amritsar had gone to Hindustan, he was very sad. He had fallen in love with a Hindu girl in that same city, although that girl had rejected him. But even in his madness, he had not forgotten her. Consequently, he used to curse all those Hindu-Muslim leaders who had conspired together to divide Hindustan into two pieces. His beloved became Hindustani and he became Pakistani. When the talk of exchange started, many lunatics explained to the lawyer that he should not lose heart; he would be sent to Hindustan, to that Hindustan where his beloved lived. But he did not want to leave Lahore because he thought that his practice would not run in Amritsar. In the European ward, there were two Anglo-Indian lunatics. When they learned that the British had left after freeing Hindustan, they were very sad. They would secretly spend hours discussing this important problem: what would their status be in the asylum now? Would the European ward remain or would it be abolished? Would they get breakfast or not? Would they not have to eat bloody Indian chapatis instead of double roti? There was a Sikh who had been in the asylum for fifteen years. From his mouth, these strange words were heard all the time: 'O pad di gurgur di anekas di bedhyana di mung di dal of di lantern.' He would neither sleep during the day nor at night. The guards' statement was that in fifteen long years, he had not slept even for a moment. He wouldn't even lie down. However, sometimes he would lean against a wall.",
+ "words": {
+  "0": [
+   "Chiniot",
+   "चिन्नोट",
+   ""
+  ],
+  "2": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "4": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "6": [
+   "fat",
+   "मोटा",
+   "adj. m.sg"
+  ],
+  "8": [
+   "Muslim",
+   "मुसलमान",
+   "n. m.sg"
+  ],
+  "10": [
+   "madman",
+   "पागल",
+   "n. m.sg"
+  ],
+  "12": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "16": [
+   "who",
+   "जो",
+   "pron. m.sg"
+  ],
+  "18": [
+   "Muslim",
+   "मुस्लिम",
+   "adj."
+  ],
+  "20": [
+   "League",
+   "लीग",
+   "n. f.sg"
+  ],
+  "22": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "24": [
+   "enthusiastic",
+   "जोशीला",
+   "adj. m.sg"
+  ],
+  "26": [
+   "member",
+   "सदस्य",
+   "n. m.sg"
+  ],
+  "28": [
+   "to remain",
+   "रहना",
+   "v. inf"
+  ],
+  "30": [
+   "had finished",
+   "चुकना",
+   "perf. m.sg"
+  ],
+  "32": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "34": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "36": [
+   "day",
+   "दिन",
+   "n. m.sg"
+  ],
+  "38": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "40": [
+   "fifteen-sixteen",
+   "पन्द्रह-सोलह",
+   "num. adj."
+  ],
+  "42": [
+   "times",
+   "बार",
+   "n. f.sg"
+  ],
+  "44": [
+   "used to bathe",
+   "नहाना",
+   "v. perf. m.sg"
+  ],
+  "46": [
+   "used to do",
+   "करना",
+   "v. perf. m.sg"
+  ],
+  "48": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "52": [
+   "suddenly",
+   "सहसा",
+   "adv."
+  ],
+  "54": [
+   "this",
+   "यह",
+   "pron. dem."
+  ],
+  "56": [
+   "habit",
+   "आदत",
+   "n. f.sg"
+  ],
+  "58": [
+   "having left",
+   "छोड़ना",
+   "conj. participle"
+  ],
+  "60": [
+   "gave",
+   "देना",
+   "v. perf. f.sg"
+  ],
+  "64": [
+   "his",
+   "वह",
+   "pron. poss. m.sg"
+  ],
+  "66": [
+   "name",
+   "नाम",
+   "n. m.sg"
+  ],
+  "68": [
+   "Muhammad",
+   "मुहम्मद",
+   "n. prop."
+  ],
+  "70": [
+   "Ali",
+   "अली",
+   "n. prop."
+  ],
+  "72": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "76": [
+   "therefore",
+   "इसलिए",
+   "conj."
+  ],
+  "78": [
+   "he",
+   "वह",
+   "pron. 3sg m.obl"
+  ],
+  "80": [
+   "one",
+   "एक",
+   "num. adj."
+  ],
+  "82": [
+   "day",
+   "दिन",
+   "n. m.sg"
+  ],
+  "84": [
+   "his",
+   "अपना",
+   "pron. poss. m.sg"
+  ],
+  "86": [
+   "cell",
+   "जंगला",
+   "n. m.sg"
+  ],
+  "88": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "90": [
+   "declaration",
+   "ऐलान",
+   "n. m.sg"
+  ],
+  "92": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "94": [
+   "gave",
+   "देना",
+   "v. perf. m.sg"
+  ],
+  "96": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "98": [
+   "he",
+   "वह",
+   "pron. 3sg m"
+  ],
+  "100": [
+   "Qaid-e-Azam",
+   "क़ायदे-आज़म",
+   "n. prop."
+  ],
+  "102": [
+   "Muhammad",
+   "मुहम्मद",
+   "n. prop."
+  ],
+  "104": [
+   "Ali",
+   "अली",
+   "n. prop."
+  ],
+  "106": [
+   "Jinnah",
+   "जिन्ना",
+   "n. prop."
+  ],
+  "108": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "112": [
+   "his",
+   "वह",
+   "pron. poss. f.sg"
+  ],
+  "114": [
+   "imitation",
+   "देखा-देखी",
+   "n. f.sg"
+  ],
+  "116": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "118": [
+   "Sikh",
+   "सिक्ख",
+   "n. m.sg"
+  ],
+  "120": [
+   "madman",
+   "पागल",
+   "n. m.sg"
+  ],
+  "123": [
+   "Master",
+   "मास्टर",
+   "n. m.sg"
+  ],
+  "125": [
+   "Tara",
+   "तारा",
+   "n. prop."
+  ],
+  "127": [
+   "Singh",
+   "सिंह",
+   "n. prop."
+  ],
+  "129": [
+   "having become",
+   "बनना",
+   "conj. participle"
+  ],
+  "131": [
+   "went",
+   "जाना",
+   "v. perf. m.sg"
+  ],
+  "135": [
+   "near",
+   "क़रीब",
+   "adv."
+  ],
+  "137": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "139": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "141": [
+   "that",
+   "वह",
+   "pron. dem. obl."
+  ],
+  "143": [
+   "cell",
+   "जंगला",
+   "n. m.sg"
+  ],
+  "145": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "147": [
+   "bloodshed",
+   "खून-खराबा",
+   "n. m.sg"
+  ],
+  "149": [
+   "to happen",
+   "होना",
+   "v. inf."
+  ],
+  "151": [
+   "go",
+   "जाना",
+   "v. sub. 3sg"
+  ],
+  "154": [
+   "but",
+   "मगर",
+   "conj."
+  ],
+  "156": [
+   "both",
+   "दोनों",
+   "pron."
+  ],
+  "158": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "160": [
+   "dangerous",
+   "ख़तरनाक",
+   "adj."
+  ],
+  "162": [
+   "madmen",
+   "पागल",
+   "n. m.pl"
+  ],
+  "164": [
+   "declared",
+   "क़रार",
+   "n. m.sg"
+  ],
+  "166": [
+   "having given",
+   "देना",
+   "conj. participle"
+  ],
+  "168": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "171": [
+   "separately",
+   "अलग-अलग",
+   "adv."
+  ],
+  "173": [
+   "closed",
+   "बंद",
+   "adj."
+  ],
+  "175": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "177": [
+   "gave",
+   "देना",
+   "v. perf. m.sg"
+  ],
+  "179": [
+   "went",
+   "जाना",
+   "v. perf. m.sg"
+  ],
+  "183": [
+   "Lahore",
+   "लाहौर",
+   "n. prop."
+  ],
+  "185": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "187": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "189": [
+   "young",
+   "नौजवान",
+   "adj."
+  ],
+  "191": [
+   "Hindu",
+   "हिन्दू",
+   "adj."
+  ],
+  "193": [
+   "lawyer",
+   "वकील",
+   "n. m.sg"
+  ],
+  "195": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "198": [
+   "who",
+   "जो",
+   "pron. m.sg"
+  ],
+  "200": [
+   "love",
+   "प्रेम",
+   "n. m.sg"
+  ],
+  "202": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "204": [
+   "unsuccessful",
+   "असफल",
+   "adj."
+  ],
+  "206": [
+   "having become",
+   "होना",
+   "conj. participle"
+  ],
+  "208": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "210": [
+   "mad",
+   "पागल",
+   "adj."
+  ],
+  "212": [
+   "having become",
+   "होना",
+   "conj. participle"
+  ],
+  "214": [
+   "went",
+   "जाना",
+   "v. perf. m.sg"
+  ],
+  "216": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "220": [
+   "when",
+   "जब",
+   "adv."
+  ],
+  "222": [
+   "he",
+   "वह",
+   "pron. 3sg m.obl"
+  ],
+  "224": [
+   "heard",
+   "सुनना",
+   "v. perf. m.sg"
+  ],
+  "226": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "228": [
+   "Amritsar",
+   "अमृतसर",
+   "n. prop."
+  ],
+  "230": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "n. prop."
+  ],
+  "232": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "234": [
+   "having gone",
+   "चलना",
+   "conj. participle"
+  ],
+  "236": [
+   "went",
+   "जाना",
+   "v. perf. m.sg"
+  ],
+  "238": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "240": [
+   "then",
+   "तो",
+   "adv."
+  ],
+  "242": [
+   "him",
+   "वह",
+   "pron. 3sg m.obl"
+  ],
+  "244": [
+   "very",
+   "बहुत",
+   "adv."
+  ],
+  "246": [
+   "sadness",
+   "दुख",
+   "n. m.sg"
+  ],
+  "248": [
+   "happened",
+   "होना",
+   "v. perf. m.sg"
+  ],
+  "252": [
+   "that same",
+   "उसी",
+   "pron. dem. obl."
+  ],
+  "254": [
+   "city",
+   "शहर",
+   "n. m.sg"
+  ],
+  "256": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "258": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "260": [
+   "Hindu",
+   "हिन्दू",
+   "adj."
+  ],
+  "262": [
+   "girl",
+   "लड़की",
+   "n. f.sg"
+  ],
+  "264": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "266": [
+   "him",
+   "वह",
+   "pron. 3sg m.obl"
+  ],
+  "268": [
+   "love",
+   "प्रेम",
+   "n. m.sg"
+  ],
+  "270": [
+   "happened",
+   "होना",
+   "v. perf. m.sg"
+  ],
+  "272": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "276": [
+   "although",
+   "हालाँकि",
+   "conj."
+  ],
+  "278": [
+   "that",
+   "वह",
+   "pron. dem. obl."
+  ],
+  "280": [
+   "girl",
+   "लड़की",
+   "n. f.sg"
+  ],
+  "282": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "284": [
+   "him",
+   "वह",
+   "pron. 3sg m.obl"
+  ],
+  "286": [
+   "having rejected",
+   "ठुकराना",
+   "conj. participle"
+  ],
+  "288": [
+   "gave",
+   "देना",
+   "v. perf. m.sg"
+  ],
+  "290": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "293": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "295": [
+   "madness",
+   "पागलपन",
+   "n. m.sg"
+  ],
+  "297": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "299": [
+   "state",
+   "हालत",
+   "n. f.sg"
+  ],
+  "301": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "303": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "305": [
+   "he",
+   "वह",
+   "pron. 3sg m"
+  ],
+  "307": [
+   "her",
+   "वह",
+   "pron. 3sg f.obl"
+  ],
+  "309": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "311": [
+   "forgotten",
+   "भूलना",
+   "v. perf. m.sg"
+  ],
+  "313": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "317": [
+   "consequently",
+   "चुनाँचे",
+   "adv."
+  ],
+  "319": [
+   "he",
+   "वह",
+   "pron. 3sg m"
+  ],
+  "321": [
+   "those",
+   "वह",
+   "pron. dem. obl. pl"
+  ],
+  "323": [
+   "all",
+   "तमाम",
+   "adj."
+  ],
+  "325": [
+   "Hindu-Muslim",
+   "हिन्दू-मुसलमान",
+   "adj."
+  ],
+  "327": [
+   "leaders",
+   "नेता",
+   "n. m.pl.obl"
+  ],
+  "329": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "331": [
+   "abuses",
+   "गाली",
+   "n. f.pl"
+  ],
+  "333": [
+   "used to give",
+   "देना",
+   "v. perf. m.sg"
+  ],
+  "335": [
+   "was",
+   "होना",
+   "past. 3sg m"
+  ],
+  "338": [
+   "who",
+   "जो",
+   "pron. pl.obl"
+  ],
+  "340": [
+   "having conspired",
+   "मिल-मिला",
+   "conj. participle"
+  ],
+  "342": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "344": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "n. prop."
+  ],
+  "346": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "348": [
+   "two",
+   "दो",
+   "num. adj."
+  ],
+  "350": [
+   "pieces",
+   "टुकड़ा",
+   "n. m.pl"
+  ],
+  "352": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "354": [
+   "gave",
+   "देना",
+   "v. perf. m.pl"
+  ],
+  "358": [
+   "his",
+   "वह",
+   "poss. m.sg"
+  ],
+  "360": [
+   "beloved",
+   "प्रेमिका",
+   "f.sg"
+  ],
+  "362": [
+   "Hindustani",
+   "हिन्दुस्तानी",
+   "f.sg"
+  ],
+  "364": [
+   "became",
+   "बनना",
+   "perf. f.sg"
+  ],
+  "366": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "368": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "370": [
+   "he",
+   "वह",
+   "m.sg"
+  ],
+  "372": [
+   "Pakistani",
+   "पाकिस्तानी",
+   "m.sg"
+  ],
+  "376": [
+   "when",
+   "जब",
+   "adv"
+  ],
+  "378": [
+   "exchange",
+   "तबादला",
+   "m.sg.obl"
+  ],
+  "380": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "382": [
+   "talk",
+   "बात",
+   "f.sg"
+  ],
+  "384": [
+   "started",
+   "शुरू",
+   ""
+  ],
+  "386": [
+   "happened",
+   "होना",
+   "perf. f.sg"
+  ],
+  "388": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "390": [
+   "lawyer",
+   "वकील",
+   "m.sg"
+  ],
+  "392": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "394": [
+   "many",
+   "कई",
+   "adj"
+  ],
+  "396": [
+   "lunatics",
+   "पागल",
+   "m.pl.obl"
+  ],
+  "398": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "400": [
+   "explained",
+   "समझाना",
+   "perf. m.pl"
+  ],
+  "402": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "404": [
+   "he",
+   "वह",
+   "m.sg"
+  ],
+  "406": [
+   "heart",
+   "दिल",
+   "m.sg"
+  ],
+  "408": [
+   "bad",
+   "बुरा",
+   "adj"
+  ],
+  "410": [
+   "not",
+   "न",
+   "neg"
+  ],
+  "412": [
+   "do",
+   "करना",
+   "subj. 3sg"
+  ],
+  "415": [
+   "him",
+   "वह",
+   "obl. sg"
+  ],
+  "417": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "419": [
+   "sending",
+   "भेजना",
+   "conj. participle"
+  ],
+  "421": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "423": [
+   "will go",
+   "जाना",
+   "fut. 3sg"
+  ],
+  "426": [
+   "that",
+   "वह",
+   "dem. adj"
+  ],
+  "428": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "430": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "433": [
+   "where",
+   "जहाँ",
+   "adv"
+  ],
+  "435": [
+   "his",
+   "वह",
+   "poss. f.sg"
+  ],
+  "437": [
+   "beloved",
+   "प्रेमिका",
+   "f.sg"
+  ],
+  "439": [
+   "lives",
+   "रहना",
+   "pres. 3sg f"
+  ],
+  "441": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "445": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "447": [
+   "he",
+   "वह",
+   "m.sg"
+  ],
+  "449": [
+   "Lahore",
+   "लाहौर",
+   "m.sg"
+  ],
+  "451": [
+   "to leave",
+   "छोड़ना",
+   "inf. verb"
+  ],
+  "453": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "455": [
+   "wanted",
+   "चाहना",
+   "perf. m.sg"
+  ],
+  "457": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "460": [
+   "therefore",
+   "इसलिए",
+   "conj"
+  ],
+  "462": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "464": [
+   "his",
+   "वह",
+   "poss. m.sg"
+  ],
+  "466": [
+   "thought",
+   "ख़्याल",
+   "m.sg"
+  ],
+  "468": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "470": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "472": [
+   "Amritsar",
+   "अमृतसर",
+   "m.sg"
+  ],
+  "474": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "476": [
+   "his",
+   "वह",
+   "poss. f.sg"
+  ],
+  "478": [
+   "practice",
+   "प्रैक्टिस",
+   "f.sg"
+  ],
+  "480": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "482": [
+   "will run",
+   "चलना",
+   "fut. 3sg f"
+  ],
+  "486": [
+   "European",
+   "यूरोपियन",
+   "adj"
+  ],
+  "488": [
+   "ward",
+   "वॉर्ड",
+   "m.sg"
+  ],
+  "490": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "492": [
+   "two",
+   "दो",
+   "num"
+  ],
+  "494": [
+   "Anglo",
+   "एंग्लो",
+   "adj"
+  ],
+  "496": [
+   "Indian",
+   "इंडियन",
+   "adj"
+  ],
+  "498": [
+   "lunatics",
+   "पागल",
+   "m.pl"
+  ],
+  "500": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "504": [
+   "them",
+   "वह",
+   "obl. pl"
+  ],
+  "506": [
+   "when",
+   "जब",
+   "adv"
+  ],
+  "508": [
+   "known",
+   "मालूम",
+   "adj"
+  ],
+  "510": [
+   "became",
+   "होना",
+   "perf. m.sg"
+  ],
+  "512": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "514": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "516": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "518": [
+   "free",
+   "आज़ाद",
+   "adj"
+  ],
+  "520": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "522": [
+   "British",
+   "अँग्रेज़",
+   "m.pl"
+  ],
+  "524": [
+   "gone",
+   "चलना",
+   "perf. m.pl"
+  ],
+  "526": [
+   "gone",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "528": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "530": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "532": [
+   "them",
+   "वह",
+   "obl. pl"
+  ],
+  "534": [
+   "great",
+   "बड़ा",
+   "adj"
+  ],
+  "536": [
+   "sadness",
+   "दुख",
+   "m.sg"
+  ],
+  "538": [
+   "happened",
+   "होना",
+   "perf. m.sg"
+  ],
+  "542": [
+   "they",
+   "वह",
+   "m.pl"
+  ],
+  "544": [
+   "secretly",
+   "छिप-छिपकर",
+   "adv"
+  ],
+  "546": [
+   "hours",
+   "घंटा",
+   "m.pl.obl"
+  ],
+  "548": [
+   "this",
+   "यह",
+   "dem. adj"
+  ],
+  "550": [
+   "important",
+   "महत्त्वपूर्ण",
+   "adj"
+  ],
+  "552": [
+   "problem",
+   "समस्या",
+   "f.sg"
+  ],
+  "554": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "556": [
+   "thought",
+   "विचार",
+   "m.sg"
+  ],
+  "558": [
+   "do",
+   "करना",
+   "pres. pl"
+  ],
+  "560": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "562": [
+   "asylum",
+   "पागलखाना",
+   "m.sg.obl"
+  ],
+  "564": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "566": [
+   "now",
+   "अब",
+   "adv"
+  ],
+  "568": [
+   "their",
+   "वह",
+   "poss. f.pl"
+  ],
+  "570": [
+   "status",
+   "हैसियत",
+   "f.sg"
+  ],
+  "572": [
+   "what",
+   "क्या",
+   "interrog. pron"
+  ],
+  "574": [
+   "will be",
+   "होना",
+   "fut. 3sg f"
+  ],
+  "578": [
+   "European",
+   "यूरोपियन",
+   "adj"
+  ],
+  "580": [
+   "ward",
+   "वार्ड",
+   "m.sg"
+  ],
+  "582": [
+   "will remain",
+   "रहना",
+   "fut. 3sg"
+  ],
+  "584": [
+   "or",
+   "या",
+   "conj"
+  ],
+  "586": [
+   "blown",
+   "उड़ाना",
+   "perf. m.sg"
+  ],
+  "588": [
+   "given",
+   "देना",
+   "perf. m.sg"
+  ],
+  "590": [
+   "will go",
+   "जाना",
+   "fut. 3sg"
+  ],
+  "594": [
+   "breakfast",
+   "ब्रेकफ़ास्ट",
+   "m.sg"
+  ],
+  "596": [
+   "will be available",
+   "मिलना",
+   "fut. 3sg"
+  ],
+  "598": [
+   "will do",
+   "करना",
+   "fut. 3sg"
+  ],
+  "600": [
+   "or",
+   "अथवा",
+   "conj"
+  ],
+  "602": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "606": [
+   "them",
+   "वह",
+   "obl. pl"
+  ],
+  "608": [
+   "double",
+   "डबल",
+   "adj"
+  ],
+  "610": [
+   "bread",
+   "रोटी",
+   "f.sg"
+  ],
+  "612": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "614": [
+   "instead of",
+   "बजाय",
+   "postposition"
+  ],
+  "616": [
+   "bloody",
+   "ब्लडी",
+   "adj"
+  ],
+  "618": [
+   "Indian",
+   "इंडियन",
+   "adj"
+  ],
+  "620": [
+   "chapati",
+   "चपाती",
+   "f.sg"
+  ],
+  "622": [
+   "emphatic",
+   "तो",
+   "particle"
+  ],
+  "624": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "626": [
+   "to eat",
+   "खाना",
+   "inf. verb"
+  ],
+  "628": [
+   "will have to",
+   "पड़ना",
+   "fut. 3sg f"
+  ],
+  "632": [
+   "one",
+   "एक",
+   "num"
+  ],
+  "634": [
+   "Sikh",
+   "सिक्ख",
+   "m.sg"
+  ],
+  "636": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "639": [
+   "who",
+   "जो",
+   "rel. pron"
+  ],
+  "641": [
+   "asylum",
+   "पागलखाना",
+   "m.sg.obl"
+  ],
+  "643": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "645": [
+   "having come",
+   "आना",
+   "conj. participle"
+  ],
+  "647": [
+   "fifteen",
+   "पन्द्रह",
+   "num"
+  ],
+  "649": [
+   "years",
+   "बरस",
+   "m.pl"
+  ],
+  "651": [
+   "having",
+   "होना",
+   "conj. participle"
+  ],
+  "653": [
+   "finished",
+   "चुकना",
+   "perf. m.pl"
+  ],
+  "655": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "659": [
+   "his",
+   "वह",
+   "poss. m.sg"
+  ],
+  "661": [
+   "mouth",
+   "मुँह",
+   "m.sg.obl"
+  ],
+  "663": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "665": [
+   "every",
+   "हर",
+   "adj"
+  ],
+  "667": [
+   "time",
+   "वक़्त",
+   "m.sg"
+  ],
+  "669": [
+   "these",
+   "यह",
+   "dem. pl"
+  ],
+  "671": [
+   "strange",
+   "अजीबो-गरीब",
+   "adj"
+  ],
+  "673": [
+   "words",
+   "शब्द",
+   "m.pl"
+  ],
+  "675": [
+   "to hear",
+   "सुनना",
+   "inf. verb"
+  ],
+  "677": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "679": [
+   "came",
+   "आना",
+   "perf. m.pl"
+  ],
+  "681": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "685": [
+   "O",
+   "ओ",
+   "interjection"
+  ],
+  "687": [
+   "fall",
+   "पड़ना",
+   "imperative"
+  ],
+  "689": [
+   "of",
+   "देना",
+   "postposition (Punjabi)"
+  ],
+  "692": [
+   "gurgur",
+   "गुड़गुड़",
+   "onomatopoeia"
+  ],
+  "694": [
+   "of",
+   "देना",
+   "postposition (Punjabi)"
+  ],
+  "697": [
+   "anekas",
+   "अनेकस",
+   "unknown"
+  ],
+  "699": [
+   "of",
+   "देना",
+   "postposition (Punjabi)"
+  ],
+  "702": [
+   "careless",
+   "बेध्याना",
+   "adj"
+  ],
+  "704": [
+   "of",
+   "देना",
+   "postposition (Punjabi)"
+  ],
+  "707": [
+   "mung bean",
+   "मूंग",
+   "f.sg"
+  ],
+  "709": [
+   "of",
+   "देना",
+   "postposition (Punjabi)"
+  ],
+  "711": [
+   "lentil",
+   "दाल",
+   "f.sg"
+  ],
+  "713": [
+   "of",
+   "ऑफ़",
+   "postposition (English)"
+  ],
+  "715": [
+   "the",
+   "दी",
+   "article (English)"
+  ],
+  "717": [
+   "lantern",
+   "लालटेन",
+   "f.sg"
+  ],
+  "722": [
+   "day",
+   "दिन",
+   "m.sg"
+  ],
+  "724": [
+   "on",
+   "को",
+   "postposition"
+  ],
+  "726": [
+   "sleep",
+   "सोना",
+   "impf. m.sg"
+  ],
+  "728": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "730": [
+   "neither",
+   "न",
+   "conj."
+  ],
+  "732": [
+   "night",
+   "रात",
+   "f.sg"
+  ],
+  "734": [
+   "on",
+   "को",
+   "postposition"
+  ],
+  "738": [
+   "guards",
+   "पहरेदार",
+   "m.pl.obl"
+  ],
+  "740": [
+   "of",
+   "का",
+   "postposition. m.sg"
+  ],
+  "742": [
+   "this",
+   "यह",
+   "pron. dem"
+  ],
+  "744": [
+   "statement",
+   "कहना",
+   "m.sg"
+  ],
+  "746": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "748": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "750": [
+   "fifteen",
+   "पन्द्रह",
+   "num"
+  ],
+  "752": [
+   "years",
+   "बरस",
+   "m.pl"
+  ],
+  "754": [
+   "of",
+   "का",
+   "postposition. m.sg"
+  ],
+  "756": [
+   "long",
+   "लम्बा",
+   "adj. m.sg"
+  ],
+  "758": [
+   "period",
+   "अरसा",
+   "m.sg"
+  ],
+  "760": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "763": [
+   "he",
+   "वह",
+   "pron. 3sg"
+  ],
+  "765": [
+   "for a moment",
+   "पल-भर",
+   "m.sg"
+  ],
+  "767": [
+   "for",
+   "के",
+   "postposition"
+  ],
+  "769": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "771": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "773": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "775": [
+   "slept",
+   "सोना",
+   "perf. m.sg"
+  ],
+  "777": [
+   "had",
+   "होना",
+   "past. m.sg"
+  ],
+  "780": [
+   "lie down",
+   "लेटना",
+   "impf. m.sg"
+  ],
+  "782": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "784": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "786": [
+   "would",
+   "होना",
+   "past. m.sg"
+  ],
+  "789": [
+   "however",
+   "अलबत्ता",
+   "adv"
+  ],
+  "791": [
+   "sometimes",
+   "कभी-कभी",
+   "adv"
+  ],
+  "793": [
+   "some",
+   "कोई",
+   "pron. indef. obl"
+  ],
+  "795": [
+   "wall",
+   "दीवार",
+   "f.sg"
+  ],
+  "797": [
+   "of",
+   "के",
+   "postposition"
+  ],
+  "799": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "801": [
+   "support",
+   "टेक",
+   "f.sg"
+  ],
+  "803": [
+   "applying",
+   "लगाना",
+   "conj. participle"
+  ],
+  "805": [
+   "take",
+   "लेना",
+   "vector verb"
+  ],
+  "807": [
+   "would",
+   "होना",
+   "past. m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    6,
+    8,
+    10
+   ],
+   "type": "phrase",
+   "literal": "fat Muslim madman",
+   "meaning": "a fat Muslim madman",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    28,
+    30,
+    32
+   ],
+   "type": "compound_verb",
+   "literal": "remain finished was",
+   "meaning": "had been",
+   "note": "चुकना as a vector verb indicates completion of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    44,
+    46,
+    48
+   ],
+   "type": "compound_verb",
+   "literal": "bathed used to do was",
+   "meaning": "used to bathe",
+   "note": "करना as a vector verb indicates habitual action in the past.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    58,
+    60
+   ],
+   "type": "compound_verb",
+   "literal": "having left gave",
+   "meaning": "gave up",
+   "note": "देना as a vector verb indicates completion or finality of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    90,
+    92,
+    94
+   ],
+   "type": "conjunct_verb",
+   "literal": "declaration having done gave",
+   "meaning": "declared",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    114,
+    116,
+    118,
+    120,
+    123,
+    125,
+    127,
+    129,
+    131
+   ],
+   "type": "phrase",
+   "literal": "seeing-seeing a Sikh madman Master Tara Singh having become went",
+   "meaning": "seeing this, a Sikh madman became Master Tara Singh",
+   "note": "देखा-देखी means 'in imitation of' or 'seeing this, then doing the same'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    147,
+    149,
+    151
+   ],
+   "type": "conjunct_verb",
+   "literal": "bloodshed to happen go",
+   "meaning": "a bloody fight to happen",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    164,
+    166,
+    168
+   ],
+   "type": "conjunct_verb",
+   "literal": "declared having given having done",
+   "meaning": "were declared",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    171,
+    173,
+    175,
+    177,
+    179
+   ],
+   "type": "compound_verb",
+   "literal": "separately closed having done gave went",
+   "meaning": "were locked up separately",
+   "note": "कर देना as a compound verb indicates completion of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    204,
+    206,
+    208
+   ],
+   "type": "conjunct_verb",
+   "literal": "unsuccessful having become having done",
+   "meaning": "after failing",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    210,
+    212,
+    214,
+    216
+   ],
+   "type": "compound_verb",
+   "literal": "mad having become went was",
+   "meaning": "had gone mad",
+   "note": "हो जाना indicates a change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    234,
+    236,
+    238
+   ],
+   "type": "compound_verb",
+   "literal": "having gone went is",
+   "meaning": "had gone",
+   "note": "चला जाना indicates completion of movement.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    246,
+    248
+   ],
+   "type": "conjunct_verb",
+   "literal": "sadness happened",
+   "meaning": "he was sad",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    268,
+    270,
+    272
+   ],
+   "type": "conjunct_verb",
+   "literal": "love happened was",
+   "meaning": "had fallen in love",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    286,
+    288,
+    290
+   ],
+   "type": "compound_verb",
+   "literal": "having rejected gave was",
+   "meaning": "had rejected",
+   "note": "देना as a vector verb indicates completion or finality of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    309,
+    311,
+    313
+   ],
+   "type": "compound_verb",
+   "literal": "not forgotten was",
+   "meaning": "had not forgotten",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    331,
+    333,
+    335
+   ],
+   "type": "conjunct_verb",
+   "literal": "abuses used to give was",
+   "meaning": "used to curse",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    340,
+    342
+   ],
+   "type": "phrase",
+   "literal": "having met-met having done",
+   "meaning": "having conspired together",
+   "note": "मिल-मिला कर implies working together, often with a negative connotation of plotting.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    348,
+    350,
+    352,
+    354
+   ],
+   "type": "conjunct_verb",
+   "literal": "two pieces having done gave",
+   "meaning": "divided into two pieces",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    364,
+    366
+   ],
+   "type": "compound_verb",
+   "literal": "became went",
+   "meaning": "became",
+   "note": "जाना as a vector verb indicates completion or change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    384,
+    386
+   ],
+   "type": "conjunct_verb",
+   "literal": "start happened",
+   "meaning": "started",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    406,
+    408,
+    410,
+    412
+   ],
+   "type": "phrase",
+   "literal": "heart bad not do",
+   "meaning": "not to lose heart, not to feel bad",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    419,
+    421,
+    423
+   ],
+   "type": "compound_verb",
+   "literal": "having sent given will go",
+   "meaning": "will be sent",
+   "note": "देना as a vector verb indicates completion or benefit to another; जाना indicates passive voice.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    518,
+    520
+   ],
+   "type": "conjunct_verb",
+   "literal": "free having done",
+   "meaning": "having freed",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    524,
+    526
+   ],
+   "type": "compound_verb",
+   "literal": "gone went",
+   "meaning": "had left",
+   "note": "जाना as a vector verb indicates completion or finality.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    544
+   ],
+   "type": "phrase",
+   "literal": "hiding-hiding",
+   "meaning": "secretly, stealthily",
+   "note": "Reduplication for emphasis or continuous action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    556,
+    558
+   ],
+   "type": "conjunct_verb",
+   "literal": "thought do",
+   "meaning": "to discuss, to consider",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    586,
+    588,
+    590
+   ],
+   "type": "compound_verb",
+   "literal": "blown given will go",
+   "meaning": "will be abolished/destroyed",
+   "note": "देना as a vector verb indicates completion; जाना indicates passive voice.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    596,
+    598
+   ],
+   "type": "compound_verb",
+   "literal": "will meet will do",
+   "meaning": "will be available (regularly)",
+   "note": "करना as a vector verb indicates habitual or continuous action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    612,
+    614
+   ],
+   "type": "postposition",
+   "literal": "of instead",
+   "meaning": "instead of",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    626,
+    628
+   ],
+   "type": "compound_verb",
+   "literal": "to eat will fall",
+   "meaning": "will have to eat",
+   "note": "पड़ना as a vector verb indicates compulsion or necessity.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    645,
+    651,
+    653
+   ],
+   "type": "compound_verb",
+   "literal": "having come having finished",
+   "meaning": "had been (for a duration)",
+   "note": "हो चुकना indicates completion of a duration or state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    675,
+    677,
+    679
+   ],
+   "type": "compound_verb",
+   "literal": "to hear in came",
+   "meaning": "were heard",
+   "note": "आना as a vector verb indicates the coming into being or perception of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    722,
+    724,
+    730,
+    732,
+    734
+   ],
+   "type": "phrase",
+   "literal": "day on neither night on",
+   "meaning": "neither during the day nor at night",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    765,
+    767,
+    769
+   ],
+   "type": "phrase",
+   "literal": "moment for for",
+   "meaning": "even for a moment",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    801,
+    803,
+    805
+   ],
+   "type": "compound_verb",
+   "literal": "support apply take",
+   "meaning": "to lean/rest against",
+   "note": "लेना as a vector verb adds a sense of completion or doing something for oneself.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

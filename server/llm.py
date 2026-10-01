@@ -9,6 +9,11 @@ import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENV_PATH = os.path.join(ROOT, ".env")
+# bump when a prompt changes enough that cached answers (data/cache/) should be redone
+ANNOTATE_VERSION = "annotate-1"
+TRANSLATE_VERSION = "translate-1"
+OCR_VERSION = "ocr-2"  # 2: one line per paragraph, no printed line breaks
+
 URL = os.environ.get("OPENROUTER_URL", "https://openrouter.ai/api/v1/chat/completions")
 
 

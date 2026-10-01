@@ -1,0 +1,555 @@
+{
+ "translation": "But there were also some abducted women whose husbands, mothers, fathers, sisters, and brothers refused to recognize them. Why didn't they just die? Why didn't they take poison to save their honor and chastity? Why didn't they jump into a well? They were cowards who clung to life in this way. Hundreds of thousands of women gave their lives before their chastity was plundered. But what about them?",
+ "words": {
+  "0": [
+   "but",
+   "लेकिन",
+   ""
+  ],
+  "2": [
+   "abducted",
+   "मुग़विया",
+   "adj. f.pl"
+  ],
+  "4": [
+   "women",
+   "औरत",
+   "n.f.obl.pl"
+  ],
+  "6": [
+   "among",
+   "में",
+   "postposition"
+  ],
+  "8": [
+   "some",
+   "कुछ",
+   "indef.pron"
+  ],
+  "10": [
+   "such",
+   "ऐसा",
+   "adj.f.pl"
+  ],
+  "12": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "14": [
+   "were",
+   "होना",
+   "v.f.pl.past"
+  ],
+  "16": [
+   "whose",
+   "जिसका",
+   "pron.obl.pl"
+  ],
+  "18": [
+   "husbands",
+   "शौहर",
+   "n.m.obl.pl"
+  ],
+  "21": [
+   "whose",
+   "जिसका",
+   "pron.obl.pl"
+  ],
+  "23": [
+   "mothers",
+   "माँ",
+   "n.f.sg"
+  ],
+  "26": [
+   "fathers",
+   "बाप",
+   "n.m.sg"
+  ],
+  "29": [
+   "sisters",
+   "बहन",
+   "n.f.sg"
+  ],
+  "31": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "33": [
+   "brothers",
+   "भाई",
+   "n.m.obl.pl"
+  ],
+  "35": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "37": [
+   "them",
+   "वह",
+   "pron.obl.pl"
+  ],
+  "39": [
+   "to recognize",
+   "पहचानना",
+   "v.inf.obl"
+  ],
+  "41": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "43": [
+   "refusal",
+   "इनकार",
+   "n.m.sg"
+  ],
+  "45": [
+   "to do",
+   "करना",
+   "v.conj.part"
+  ],
+  "47": [
+   "gave",
+   "देना",
+   "v.perf.m.sg"
+  ],
+  "49": [
+   "was",
+   "होना",
+   "v.aux.past"
+  ],
+  "52": [
+   "after all",
+   "आखिर",
+   "adv"
+  ],
+  "54": [
+   "they",
+   "वह",
+   "pron.f.pl"
+  ],
+  "56": [
+   "to die",
+   "मरना",
+   "v.root"
+  ],
+  "58": [
+   "why",
+   "क्यों",
+   "adv"
+  ],
+  "60": [
+   "not",
+   "न",
+   "neg.particle"
+  ],
+  "62": [
+   "go",
+   "जाना",
+   "v.perf.f.pl"
+  ],
+  "66": [
+   "their own",
+   "अपना",
+   "pron.f.sg"
+  ],
+  "68": [
+   "honor",
+   "इफ़्फ़त",
+   "n.f.sg"
+  ],
+  "71": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "73": [
+   "chastity",
+   "इस्मत",
+   "n.f.sg"
+  ],
+  "75": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "77": [
+   "to save",
+   "बचाना",
+   "v.inf.obl"
+  ],
+  "79": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "81": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "83": [
+   "they",
+   "वह",
+   "pron.obl.pl"
+  ],
+  "85": [
+   "poison",
+   "ज़हर",
+   "n.m.sg"
+  ],
+  "87": [
+   "why",
+   "क्यों",
+   "adv"
+  ],
+  "89": [
+   "not",
+   "न",
+   "neg.particle"
+  ],
+  "91": [
+   "to eat",
+   "खाना",
+   "v.root"
+  ],
+  "93": [
+   "take",
+   "लेना",
+   "v.perf.m.sg"
+  ],
+  "97": [
+   "well",
+   "कुआँ",
+   "n.m.obl.sg"
+  ],
+  "99": [
+   "into",
+   "में",
+   "postposition"
+  ],
+  "101": [
+   "jump",
+   "छलाँग",
+   "n.f.sg"
+  ],
+  "103": [
+   "why",
+   "क्यों",
+   "adv"
+  ],
+  "105": [
+   "not",
+   "न",
+   "neg.particle"
+  ],
+  "107": [
+   "to put",
+   "लगाना",
+   "v.root"
+  ],
+  "109": [
+   "gave",
+   "देना",
+   "v.perf.f.sg"
+  ],
+  "113": [
+   "they",
+   "वह",
+   "pron.f.pl"
+  ],
+  "115": [
+   "cowardly",
+   "बुज़दिल",
+   "adj.f.pl"
+  ],
+  "117": [
+   "were",
+   "होना",
+   "v.f.pl.past"
+  ],
+  "119": [
+   "who",
+   "जो",
+   "rel.pron.f.pl"
+  ],
+  "121": [
+   "this",
+   "यह",
+   "dem.adj"
+  ],
+  "123": [
+   "way",
+   "तरह",
+   "n.f.sg"
+  ],
+  "125": [
+   "life",
+   "ज़िंदगी",
+   "n.f.sg"
+  ],
+  "127": [
+   "to",
+   "से",
+   "postposition"
+  ],
+  "129": [
+   "clinging",
+   "चिमटना",
+   "v.perf.f.pl"
+  ],
+  "131": [
+   "having been",
+   "होना",
+   "v.perf.f.pl"
+  ],
+  "133": [
+   "were",
+   "होना",
+   "v.f.pl.past"
+  ],
+  "136": [
+   "hundreds-thousands",
+   "सैकड़ों-हज़ारों",
+   "num.pl"
+  ],
+  "138": [
+   "women",
+   "औरत",
+   "n.f.obl.pl"
+  ],
+  "140": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "142": [
+   "chastity",
+   "इस्मत",
+   "n.f.sg"
+  ],
+  "144": [
+   "plundered",
+   "लुट",
+   "v.root"
+  ],
+  "146": [
+   "to go",
+   "जाना",
+   "v.inf.obl"
+  ],
+  "148": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "150": [
+   "before",
+   "पहले",
+   "adv"
+  ],
+  "152": [
+   "their own",
+   "अपना",
+   "pron.f.sg"
+  ],
+  "154": [
+   "life",
+   "जान",
+   "n.f.sg"
+  ],
+  "156": [
+   "to give",
+   "देना",
+   "v.root"
+  ],
+  "158": [
+   "gave",
+   "देना",
+   "v.perf.f.sg"
+  ],
+  "161": [
+   "but",
+   "लेकिन",
+   ""
+  ],
+  "163": [
+   "them",
+   "वह",
+   "pron.obl.pl"
+  ],
+  "165": [
+   "what",
+   "क्या",
+   "interrog.pron"
+  ],
+  "170": [
+   "advice",
+   "उपदेश",
+   "n.m.sg"
+  ],
+  "176": [
+   "indirectly",
+   "परोक्ष",
+   "adj"
+  ],
+  "178": [
+   "form",
+   "रूप",
+   "n.m.sg"
+  ],
+  "180": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "186": [
+   "most",
+   "सबसे",
+   "adv"
+  ],
+  "188": [
+   "appropriate",
+   "उपयुक्त",
+   "adj"
+  ],
+  "194": [
+   "safe",
+   "सुरक्षित",
+   "adj"
+  ],
+  "200": [
+   "opposition",
+   "विरोध",
+   "n.m.sg"
+  ],
+  "206": [
+   "sad",
+   "दुखद",
+   "adj"
+  ],
+  "212": [
+   "sometimes",
+   "कभी-कभी",
+   "adv"
+  ],
+  "218": [
+   "relative",
+   "रिश्तेदार",
+   "n.m.sg"
+  ],
+  "224": [
+   "purity",
+   "पवित्रता",
+   "n.f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    43,
+    45,
+    47
+   ],
+   "type": "conjunct_verb",
+   "literal": "refusal to do gave",
+   "meaning": "refused",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    56,
+    62
+   ],
+   "type": "compound_verb",
+   "literal": "to die went",
+   "meaning": "to die (emphatic/completed action)",
+   "note": "जाना as a vector verb indicates completion or intensity of the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    79,
+    81
+   ],
+   "type": "postposition",
+   "literal": "of for",
+   "meaning": "for the sake of",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    91,
+    93
+   ],
+   "type": "compound_verb",
+   "literal": "eat took",
+   "meaning": "to consume/take (poison)",
+   "note": "लेना as a vector verb indicates the action is done for oneself.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    107,
+    109
+   ],
+   "type": "compound_verb",
+   "literal": "put gave",
+   "meaning": "to make/do (a jump)",
+   "note": "देना as a vector verb indicates the action is done for others or completed.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    129,
+    131
+   ],
+   "type": "compound_verb",
+   "literal": "clinging having been",
+   "meaning": "clinging (to)",
+   "note": "होना as a vector verb indicates a state or continuous action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    142,
+    144,
+    146
+   ],
+   "type": "conjunct_verb",
+   "literal": "chastity plundered to go",
+   "meaning": "chastity to be plundered",
+   "note": "लुट जाना means 'to be plundered/lost'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    156,
+    158
+   ],
+   "type": "compound_verb",
+   "literal": "give gave",
+   "meaning": "to give (one's life)",
+   "note": "देना as a vector verb indicates the action is done for others or completed.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    176,
+    178,
+    180
+   ],
+   "type": "phrase",
+   "literal": "indirect form from",
+   "meaning": "indirectly",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

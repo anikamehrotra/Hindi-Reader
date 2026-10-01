@@ -1,0 +1,987 @@
+{
+ "translation": "My head was spinning. I wished that Hitler would come and with his fiery people, tear open the heart of this wretched earth, in which the existence of impure humans would be incinerated. It was as if the whole world had set out to provoke me. Any sapling I plant, is it possible that the merciless claws of chickens would not scratch it? Any flower I pick, why wouldn't it appeal to my dead friends, and why wouldn't they make it the adornment of their hair buns? In short, the world has become hostile to my every word and deed. And how small is my world! Just these few lost souls, two or four second-hand lovers, and some crude, quarrelsome, and fashion-obsessed friends. Is this even a world? A completely exhausted world, how much lower and farther it is from my imagination! And now, it seems, even more dust has started to fly in this world. I feel like I was born before my time.",
+ "words": {
+  "0": [
+   "my",
+   "मैं",
+   "poss. pron. 1st sg"
+  ],
+  "2": [
+   "head",
+   "सर",
+   "n.m. sg"
+  ],
+  "4": [
+   "spinning",
+   "घूमना",
+   "v. oblique infinitive"
+  ],
+  "6": [
+   "was",
+   "रहना",
+   "aux. v. imperfective"
+  ],
+  "8": [
+   "was",
+   "होना",
+   "aux. v. past. 3rd sg"
+  ],
+  "11": [
+   "heart/soul",
+   "जी",
+   "n.m. sg"
+  ],
+  "13": [
+   "wanted",
+   "चाहना",
+   "v. perf. m.sg"
+  ],
+  "15": [
+   "was",
+   "होना",
+   "aux. v. past. 3rd sg"
+  ],
+  "17": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "19": [
+   "I wish",
+   "काश",
+   "interj."
+  ],
+  "21": [
+   "Hitler",
+   "हिटलर",
+   "n.prop. m.sg"
+  ],
+  "23": [
+   "come",
+   "आना",
+   "v. stem"
+  ],
+  "25": [
+   "would come",
+   "जाना",
+   "v. subj. 3rd sg"
+  ],
+  "27": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "29": [
+   "his",
+   "अपना",
+   "poss. pron. 3rd sg"
+  ],
+  "31": [
+   "fiery",
+   "आतिश",
+   "adj."
+  ],
+  "33": [
+   "people",
+   "लोग",
+   "n.m. pl"
+  ],
+  "35": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "37": [
+   "this",
+   "यह",
+   "pron. obl. sg"
+  ],
+  "39": [
+   "wretched",
+   "ना-मुराद",
+   "adj."
+  ],
+  "41": [
+   "earth",
+   "ज़मीन",
+   "n.f. sg"
+  ],
+  "43": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "45": [
+   "heart",
+   "कलेजा",
+   "n.m. sg"
+  ],
+  "47": [
+   "tear",
+   "फाड़ना",
+   "v. stem"
+  ],
+  "49": [
+   "give",
+   "देना",
+   "v. stem"
+  ],
+  "52": [
+   "in which",
+   "जो",
+   "rel. pron. obl. sg"
+  ],
+  "54": [
+   "impure",
+   "नापाक",
+   "adj."
+  ],
+  "56": [
+   "human",
+   "इन्सान",
+   "n.m. sg"
+  ],
+  "58": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "60": [
+   "existence",
+   "हस्ती",
+   "n.f. sg"
+  ],
+  "62": [
+   "incinerated",
+   "भस्म",
+   "adj."
+  ],
+  "64": [
+   "become",
+   "होना",
+   "v. stem"
+  ],
+  "66": [
+   "will be",
+   "जाना",
+   "v. fut. 3rd sg f"
+  ],
+  "69": [
+   "entire",
+   "सारा",
+   "adj. f.sg"
+  ],
+  "71": [
+   "world",
+   "दुनिया",
+   "n.f. sg"
+  ],
+  "73": [
+   "as if",
+   "जैसा",
+   "conj."
+  ],
+  "75": [
+   "me",
+   "मैं",
+   "pron. obl. 1st sg"
+  ],
+  "77": [
+   "emphatic",
+   "ही",
+   "particle"
+  ],
+  "79": [
+   "to provoke",
+   "छेड़ना",
+   "v. oblique infinitive"
+  ],
+  "81": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "83": [
+   "bent",
+   "तुलना",
+   "v. perf. f.sg"
+  ],
+  "85": [
+   "gone",
+   "जाना",
+   "v. perf. f.sg"
+  ],
+  "87": [
+   "is",
+   "होना",
+   "v. pres. 3rd sg"
+  ],
+  "90": [
+   "I",
+   "मैं",
+   "pron. 1st sg"
+  ],
+  "92": [
+   "whatever",
+   "जो",
+   "rel. pron."
+  ],
+  "94": [
+   "sapling",
+   "पौदा",
+   "n.m. sg"
+  ],
+  "96": [
+   "plant",
+   "लगाना",
+   "v. perf. m.sg"
+  ],
+  "98": [
+   "give",
+   "देना",
+   "v. subj. 1st sg"
+  ],
+  "100": [
+   "is it possible",
+   "मजाल",
+   "n.f. sg"
+  ],
+  "102": [
+   "is",
+   "होना",
+   "v. pres. 3rd sg"
+  ],
+  "104": [
+   "that",
+   "कि",
+   "conj."
+  ],
+  "106": [
+   "it",
+   "वह",
+   "pron. obl. 3rd sg"
+  ],
+  "108": [
+   "chickens",
+   "मुर्ग़ी",
+   "n.f. pl. obl"
+  ],
+  "110": [
+   "of",
+   "का",
+   "postposition m.pl"
+  ],
+  "112": [
+   "merciless",
+   "बे-दर्द",
+   "adj."
+  ],
+  "114": [
+   "claws",
+   "पंजा",
+   "n.m. pl"
+  ],
+  "116": [
+   "to scratch",
+   "कुरेदना",
+   "v. oblique infinitive"
+  ],
+  "118": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "120": [
+   "leave",
+   "छोड़ना",
+   "v. stem"
+  ],
+  "122": [
+   "would leave",
+   "देना",
+   "v. subj. 3rd pl"
+  ],
+  "125": [
+   "I",
+   "मैं",
+   "pron. 1st sg"
+  ],
+  "127": [
+   "whatever",
+   "जो",
+   "rel. pron."
+  ],
+  "129": [
+   "flower",
+   "फूल",
+   "n.m. sg"
+  ],
+  "131": [
+   "pick",
+   "चुनना",
+   "v. subj. 1st sg"
+  ],
+  "133": [
+   "well",
+   "भला",
+   "adv."
+  ],
+  "135": [
+   "why",
+   "क्यों",
+   "adv."
+  ],
+  "137": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "139": [
+   "they",
+   "वह",
+   "pron. 3rd pl"
+  ],
+  "141": [
+   "dead",
+   "मरना",
+   "v. perf. f.pl"
+  ],
+  "143": [
+   "friends",
+   "सहेली",
+   "n.f. pl. obl"
+  ],
+  "145": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "147": [
+   "appeal",
+   "भाना",
+   "v. subj. 3rd pl"
+  ],
+  "150": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "152": [
+   "they",
+   "वह",
+   "pron. 3rd pl"
+  ],
+  "154": [
+   "why",
+   "क्यों",
+   "adv."
+  ],
+  "156": [
+   "not",
+   "ना",
+   "neg. particle"
+  ],
+  "158": [
+   "it",
+   "वह",
+   "pron. obl. 3rd sg"
+  ],
+  "160": [
+   "their",
+   "अपना",
+   "poss. pron. 3rd pl"
+  ],
+  "162": [
+   "hair bun",
+   "जूड़ा",
+   "n.m. sg"
+  ],
+  "164": [
+   "of",
+   "का",
+   "postposition f.sg"
+  ],
+  "166": [
+   "adornment",
+   "ज़ीनत",
+   "n.f. sg"
+  ],
+  "168": [
+   "make",
+   "बनाना",
+   "v. stem"
+  ],
+  "170": [
+   "take",
+   "लेना",
+   "v. subj. 3rd pl"
+  ],
+  "173": [
+   "in short",
+   "ग़र्ज़",
+   "adv."
+  ],
+  "175": [
+   "my",
+   "मेरा",
+   "poss. pron. 1st sg"
+  ],
+  "177": [
+   "every",
+   "हर",
+   "adj."
+  ],
+  "179": [
+   "word and deed",
+   "क़ौल-ओ-फे़ल",
+   "n.m. sg"
+  ],
+  "181": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "183": [
+   "world",
+   "दुनिया",
+   "n.f. sg"
+  ],
+  "185": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "187": [
+   "hostility",
+   "बैर",
+   "n.m. sg"
+  ],
+  "189": [
+   "become",
+   "होना",
+   "v. stem"
+  ],
+  "191": [
+   "gone",
+   "जाना",
+   "v. perf. m.sg"
+  ],
+  "193": [
+   "is",
+   "होना",
+   "v. pres. 3rd sg"
+  ],
+  "195": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "197": [
+   "my",
+   "मेरा",
+   "poss. pron. 1st sg"
+  ],
+  "199": [
+   "world",
+   "दुनिया",
+   "n.f. sg"
+  ],
+  "201": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "203": [
+   "how much",
+   "कितना",
+   "adv."
+  ],
+  "205": [
+   "is",
+   "होना",
+   "v. pres. 3rd sg"
+  ],
+  "208": [
+   "just this",
+   "यही",
+   "pron. emphatic"
+  ],
+  "210": [
+   "few",
+   "चंद",
+   "adj."
+  ],
+  "212": [
+   "lost and strayed",
+   "भूले-भटके",
+   "adj. m.pl"
+  ],
+  "214": [
+   "people",
+   "लोग",
+   "n.m. pl"
+  ],
+  "217": [
+   "two-four",
+   "दो-चार",
+   "adj."
+  ],
+  "219": [
+   "second",
+   "सेकेण्ड",
+   "n.m. sg"
+  ],
+  "221": [
+   "hand",
+   "हैंड",
+   "n.m. sg"
+  ],
+  "223": [
+   "lover",
+   "आशिक़",
+   "n.m. sg"
+  ],
+  "225": [
+   "temperament",
+   "मिज़ाज",
+   "n.m. sg"
+  ],
+  "227": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "229": [
+   "some",
+   "कुछ",
+   "pron."
+  ],
+  "231": [
+   "crude",
+   "फूहड़",
+   "adj."
+  ],
+  "234": [
+   "quarrelsome",
+   "लड़ाका",
+   "adj."
+  ],
+  "236": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "238": [
+   "fashion",
+   "फ़ैशन",
+   "n.m. sg"
+  ],
+  "240": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "242": [
+   "dying",
+   "मरना",
+   "v. oblique infinitive"
+  ],
+  "244": [
+   "one",
+   "वाला",
+   "adj. f.sg"
+  ],
+  "246": [
+   "friends",
+   "सहेली",
+   "n.f. pl"
+  ],
+  "251": [
+   "this",
+   "यह",
+   "pron. 3rd sg"
+  ],
+  "253": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "255": [
+   "any",
+   "कोई",
+   "pron."
+  ],
+  "257": [
+   "world",
+   "दुनिया",
+   "n.f. sg"
+  ],
+  "259": [
+   "is",
+   "होना",
+   "v. pres. 3rd sg"
+  ],
+  "262": [
+   "completely",
+   "बिलकुल",
+   "adv."
+  ],
+  "264": [
+   "tired",
+   "थकना",
+   "v. perf. f.sg"
+  ],
+  "266": [
+   "been",
+   "होना",
+   "aux. v. perf. f.sg"
+  ],
+  "268": [
+   "world",
+   "दुनिया",
+   "n.f. sg"
+  ],
+  "271": [
+   "my",
+   "मेरा",
+   "poss. pron. 1st sg"
+  ],
+  "273": [
+   "imagination",
+   "तख़य्युलात",
+   "n.m. pl"
+  ],
+  "275": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "277": [
+   "how much",
+   "कितना",
+   "adv."
+  ],
+  "279": [
+   "low",
+   "नीचा",
+   "adj. f.sg"
+  ],
+  "281": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "283": [
+   "far",
+   "दूर",
+   "adj."
+  ],
+  "288": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "290": [
+   "now",
+   "अब",
+   "adv."
+  ],
+  "292": [
+   "emphatic",
+   "तो",
+   "particle"
+  ],
+  "294": [
+   "this",
+   "यह",
+   "pron. obl. sg"
+  ],
+  "296": [
+   "world",
+   "दुनिया",
+   "n.f. sg"
+  ],
+  "298": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "300": [
+   "more",
+   "और",
+   "adv."
+  ],
+  "302": [
+   "also",
+   "भी",
+   "particle"
+  ],
+  "304": [
+   "dust",
+   "धूल",
+   "n.f. sg"
+  ],
+  "306": [
+   "to fly",
+   "उड़ना",
+   "v. oblique infinitive"
+  ],
+  "308": [
+   "began",
+   "लगना",
+   "v. perf. f.sg"
+  ],
+  "311": [
+   "known",
+   "मालूम",
+   "adj."
+  ],
+  "315": [
+   "seems",
+   "होना",
+   "v. imperf. 3rd sg"
+  ],
+  "317": [
+   "is",
+   "होना",
+   "v. pres. 3rd sg"
+  ],
+  "319": [
+   "before time",
+   "क़ब्ल-अज़-वक़्त",
+   "adv."
+  ],
+  "321": [
+   "born",
+   "पैदा",
+   "adj."
+  ],
+  "323": [
+   "become",
+   "होना",
+   "v. stem"
+  ],
+  "325": [
+   "gone",
+   "जाना",
+   "v. perf. f.sg"
+  ],
+  "327": [
+   "am",
+   "होना",
+   "v. pres. 1st sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6,
+    8
+   ],
+   "type": "compound_verb",
+   "literal": "head spinning was",
+   "meaning": "my head was spinning",
+   "note": "रहना as a vector verb indicates continuity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    11,
+    13,
+    15
+   ],
+   "type": "conjunct_verb",
+   "literal": "heart wanted was",
+   "meaning": "I wished / my heart desired",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    23,
+    25
+   ],
+   "type": "compound_verb",
+   "literal": "come go",
+   "meaning": "would come",
+   "note": "जाना as a vector verb adds a sense of completion or intensity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    49
+   ],
+   "type": "compound_verb",
+   "literal": "tear give",
+   "meaning": "tear open",
+   "note": "देना as a vector verb indicates completion or benefit to another",
+   "source": "model"
+  },
+  {
+   "idx": [
+    62,
+    64,
+    66
+   ],
+   "type": "compound_verb",
+   "literal": "incinerated become go",
+   "meaning": "would be incinerated",
+   "note": "हो जाना indicates a change of state",
+   "source": "model"
+  },
+  {
+   "idx": [
+    79,
+    81
+   ],
+   "type": "postposition",
+   "literal": "on provoking",
+   "meaning": "to provoke",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    83,
+    85
+   ],
+   "type": "compound_verb",
+   "literal": "bent gone",
+   "meaning": "had set out / was bent on",
+   "note": "जाना as a vector verb indicates completion or intensity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    96,
+    98
+   ],
+   "type": "compound_verb",
+   "literal": "plant give",
+   "meaning": "plant",
+   "note": "देना as a vector verb indicates completion or benefit to another",
+   "source": "model"
+  },
+  {
+   "idx": [
+    120,
+    122
+   ],
+   "type": "compound_verb",
+   "literal": "leave give",
+   "meaning": "leave",
+   "note": "देना as a vector verb indicates completion or benefit to another",
+   "source": "model"
+  },
+  {
+   "idx": [
+    168,
+    170
+   ],
+   "type": "compound_verb",
+   "literal": "make take",
+   "meaning": "make",
+   "note": "लेना as a vector verb indicates an action done for oneself",
+   "source": "model"
+  },
+  {
+   "idx": [
+    189,
+    191,
+    193
+   ],
+   "type": "compound_verb",
+   "literal": "hostility become gone is",
+   "meaning": "has become hostile",
+   "note": "हो जाना indicates a change of state",
+   "source": "model"
+  },
+  {
+   "idx": [
+    212,
+    214
+   ],
+   "type": "phrase",
+   "literal": "forgotten-strayed people",
+   "meaning": "lost souls / strayed people",
+   "note": "a common collocation",
+   "source": "model"
+  },
+  {
+   "idx": [
+    217,
+    219,
+    221,
+    223,
+    225
+   ],
+   "type": "phrase",
+   "literal": "two-four second hand lover temperament",
+   "meaning": "two or four second-hand lovers",
+   "note": "second-hand here implies not genuine or perhaps not the first choice",
+   "source": "model"
+  },
+  {
+   "idx": [
+    242,
+    244
+   ],
+   "type": "phrase",
+   "literal": "dying one",
+   "meaning": "obsessed with / dying for",
+   "note": "मरने वाला is a common idiom for being obsessed with something",
+   "source": "model"
+  },
+  {
+   "idx": [
+    264,
+    266
+   ],
+   "type": "compound_verb",
+   "literal": "tired been",
+   "meaning": "exhausted",
+   "note": "होना as a vector verb indicates a state of being",
+   "source": "model"
+  },
+  {
+   "idx": [
+    306,
+    308
+   ],
+   "type": "compound_verb",
+   "literal": "to fly began",
+   "meaning": "started to fly",
+   "note": "लगना as a vector verb indicates the beginning of an action",
+   "source": "model"
+  },
+  {
+   "idx": [
+    311,
+    313,
+    315,
+    317
+   ],
+   "type": "conjunct_verb",
+   "literal": "known become is",
+   "meaning": "it seems / it is known",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    321,
+    323,
+    325,
+    327
+   ],
+   "type": "compound_verb",
+   "literal": "born become gone am",
+   "meaning": "I was born",
+   "note": "पैदा होना is a conjunct verb, and जा हूँ indicates completion of the action",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

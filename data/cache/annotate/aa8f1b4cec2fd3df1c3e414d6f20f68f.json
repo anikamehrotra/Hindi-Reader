@@ -1,0 +1,206 @@
+{
+ "translation": "She got nervous and started looking around, and quickly began painting her nails. \"Who are you afraid of?\" She got even more nervous. \"Listen to me, Kishwar.\"",
+ "words": {
+  "0": [
+   "she",
+   "वह",
+   "f.sg"
+  ],
+  "2": [
+   "nervously",
+   "घबराना",
+   "adv"
+  ],
+  "4": [
+   "here and there",
+   "इधर-उधर",
+   "adv"
+  ],
+  "6": [
+   "to look",
+   "देखना",
+   "inf"
+  ],
+  "8": [
+   "began",
+   "लगना",
+   "perf. f.sg"
+  ],
+  "13": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "15": [
+   "quickly",
+   "जल्दी",
+   "adv"
+  ],
+  "17": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "19": [
+   "nails",
+   "नाख़ुन",
+   "m.sg"
+  ],
+  "21": [
+   "to paint",
+   "रंगना",
+   "inf"
+  ],
+  "23": [
+   "start",
+   "शुरू",
+   "m.sg"
+  ],
+  "25": [
+   "do",
+   "करना",
+   "conj. participle"
+  ],
+  "27": [
+   "gave",
+   "देना",
+   "perf. m.pl"
+  ],
+  "31": [
+   "you",
+   "तुम",
+   "2nd.sg"
+  ],
+  "33": [
+   "are afraid",
+   "डरना",
+   "pres. part. f.sg"
+  ],
+  "35": [
+   "whom",
+   "किस",
+   "obl. interrogative"
+  ],
+  "37": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "39": [
+   "are",
+   "होना",
+   "pres. 2nd.sg"
+  ],
+  "45": [
+   "she",
+   "वह",
+   "f.sg"
+  ],
+  "47": [
+   "even",
+   "और",
+   "adv"
+  ],
+  "49": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "51": [
+   "got nervous",
+   "घबराना",
+   "perf. f.sg"
+  ],
+  "57": [
+   "my",
+   "मेरा",
+   "f.sg"
+  ],
+  "59": [
+   "talk",
+   "बात",
+   "f.sg"
+  ],
+  "61": [
+   "listen",
+   "सुनना",
+   "imp. 2nd.sg"
+  ],
+  "63": [
+   "Kishwar",
+   "किश्वर",
+   "proper noun"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    2,
+    4,
+    6,
+    8
+   ],
+   "type": "compound_verb",
+   "literal": "having gotten nervous here and there to look began",
+   "meaning": "She nervously started looking around.",
+   "note": "The vector verb लगना adds the sense of beginning an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    4
+   ],
+   "type": "phrase",
+   "literal": "here-there",
+   "meaning": "here and there, all around",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    15,
+    17
+   ],
+   "type": "phrase",
+   "literal": "with quickness",
+   "meaning": "quickly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    23,
+    25,
+    27
+   ],
+   "type": "compound_verb",
+   "literal": "start having done gave",
+   "meaning": "began (to do something)",
+   "note": "शुरू करना is a conjunct verb, and देना here is a vector verb adding completion/finality to the action of starting.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    35,
+    37
+   ],
+   "type": "postposition",
+   "literal": "from whom",
+   "meaning": "of whom / from whom",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    47,
+    49
+   ],
+   "type": "phrase",
+   "literal": "and also",
+   "meaning": "even more",
+   "note": "और भी intensifies the following adjective/verb.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

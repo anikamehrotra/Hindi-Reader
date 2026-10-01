@@ -1,0 +1,75 @@
+{
+ "translation": "Price: ₹2 for the complete set of two volumes. Veena Bedi.",
+ "words": {
+  "0": [
+   "price",
+   "मूल्य",
+   "n.m.sg"
+  ],
+  "4": [
+   "rupees",
+   "रु",
+   "abbr. for रुपये"
+  ],
+  "9": [
+   "two",
+   "दो",
+   "num. adj."
+  ],
+  "11": [
+   "volumes",
+   "खंड",
+   "n.m.obl.pl"
+  ],
+  "13": [
+   "of",
+   "का",
+   "postposition, m.sg"
+  ],
+  "15": [
+   "complete",
+   "पूरा",
+   "adj.m.sg"
+  ],
+  "17": [
+   "set",
+   "सेट",
+   "n.m.sg"
+  ],
+  "21": [
+   "Veena",
+   "वीणा",
+   "n.f.sg"
+  ],
+  "23": [
+   "Bedi",
+   "बेदी",
+   "n.f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    9,
+    11
+   ],
+   "type": "phrase",
+   "literal": "two volumes",
+   "meaning": "two volumes",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    15,
+    17
+   ],
+   "type": "phrase",
+   "literal": "complete set",
+   "meaning": "complete set",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

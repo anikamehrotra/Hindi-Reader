@@ -1,0 +1,681 @@
+{
+ "translation": "Thus, when Sundarlal Babu, along with his companions Rasalu and Nekiram etc., would sing \"Hath Laiyan Kumhlanani Lajwanti De Boote\" while taking out the morning procession, Sundarlal's voice would immediately stop, and he would walk silently, thinking about Lajwanti: \"Where would she be? In what condition would she be? What would she be thinking about us? Will she ever come back or not?\" And walking on the stony floor, his steps would falter. And now it had come to such a pass that he had stopped thinking about Lajwanti altogether. His sorrow had now become the sorrow of the world. He had to escape his own pain.",
+ "words": {
+  "0": [
+   "thus",
+   "चुनांचे",
+   ""
+  ],
+  "2": [
+   "morning procession",
+   "प्रभातफेरी",
+   "f.sg"
+  ],
+  "4": [
+   "taking out",
+   "निकालना",
+   "conj. participle"
+  ],
+  "6": [
+   "being",
+   "होना",
+   "conj. participle"
+  ],
+  "8": [
+   "when",
+   "जब",
+   "adv"
+  ],
+  "10": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "m.sg"
+  ],
+  "12": [
+   "Babu",
+   "बाबू",
+   "m.sg"
+  ],
+  "15": [
+   "his",
+   "वह",
+   "obl. m.sg"
+  ],
+  "17": [
+   "companion",
+   "साथी",
+   "m.sg"
+  ],
+  "19": [
+   "Rasalu",
+   "रसालू",
+   "m.sg"
+  ],
+  "21": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "23": [
+   "Nekiram",
+   "नेकीराम",
+   "m.sg"
+  ],
+  "25": [
+   "etc.",
+   "वगैरह",
+   ""
+  ],
+  "27": [
+   "together",
+   "मिलना",
+   "conj. participle"
+  ],
+  "29": [
+   "singing",
+   "गाना",
+   "present participle"
+  ],
+  "34": [
+   "hands",
+   "हाथ",
+   "m.pl"
+  ],
+  "36": [
+   "brought",
+   "लाना",
+   "f.pl"
+  ],
+  "38": [
+   "withered",
+   "कुम्हलाना",
+   "f.pl"
+  ],
+  "40": [
+   "Lajwanti",
+   "लाजवंती",
+   "f.sg"
+  ],
+  "42": [
+   "of",
+   "देना",
+   "genitive marker"
+  ],
+  "44": [
+   "plants",
+   "बूटा",
+   "m.pl"
+  ],
+  "47": [
+   "then",
+   "तो",
+   "emphatic"
+  ],
+  "49": [
+   "Sundarlal's",
+   "सुंदरलाल",
+   "m.sg. possessive"
+  ],
+  "51": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "53": [
+   "voice",
+   "आवाज़",
+   "f.sg"
+  ],
+  "55": [
+   "immediately",
+   "एकदम",
+   "adv"
+  ],
+  "57": [
+   "stopped",
+   "बंद",
+   "adj"
+  ],
+  "59": [
+   "to be",
+   "होना",
+   "vector verb"
+  ],
+  "61": [
+   "goes",
+   "जाना",
+   "present participle"
+  ],
+  "63": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "65": [
+   "he",
+   "वह",
+   "m.sg"
+  ],
+  "67": [
+   "silence",
+   "खामोशी",
+   "f.sg"
+  ],
+  "69": [
+   "with",
+   "के",
+   "postposition"
+  ],
+  "71": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "73": [
+   "while walking",
+   "चलना",
+   "reduplicated participle"
+  ],
+  "75": [
+   "Lajwanti",
+   "लाजवंती",
+   "f.sg"
+  ],
+  "77": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "79": [
+   "about",
+   "बाबत",
+   "postposition"
+  ],
+  "81": [
+   "thinks",
+   "सोचना",
+   "present participle"
+  ],
+  "86": [
+   "who knows",
+   "जाना",
+   "imperative"
+  ],
+  "88": [
+   "she",
+   "वह",
+   "f.sg"
+  ],
+  "90": [
+   "where",
+   "कहाँ",
+   "adv"
+  ],
+  "92": [
+   "would be",
+   "होना",
+   "fut. 3sg f"
+  ],
+  "95": [
+   "what",
+   "कौन",
+   "interrogative"
+  ],
+  "97": [
+   "condition",
+   "हाल",
+   "m.sg"
+  ],
+  "99": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "101": [
+   "would be",
+   "होना",
+   "fut. 3sg f"
+  ],
+  "104": [
+   "our",
+   "हम",
+   "obl. pl. possessive"
+  ],
+  "106": [
+   "about",
+   "बाबत",
+   "postposition"
+  ],
+  "108": [
+   "what",
+   "क्या",
+   "interrogative"
+  ],
+  "110": [
+   "thought",
+   "सोचना",
+   "noun"
+  ],
+  "112": [
+   "remaining",
+   "रहना",
+   "auxiliary verb"
+  ],
+  "114": [
+   "would be",
+   "होना",
+   "fut. 3sg f"
+  ],
+  "117": [
+   "she",
+   "वह",
+   "f.sg"
+  ],
+  "119": [
+   "ever",
+   "कभी",
+   "adv"
+  ],
+  "121": [
+   "will come",
+   "आना",
+   "fut. 3sg f"
+  ],
+  "123": [
+   "also",
+   "भी",
+   "emphatic"
+  ],
+  "125": [
+   "or",
+   "या",
+   "conj"
+  ],
+  "127": [
+   "not",
+   "नहीं",
+   "negation"
+  ],
+  "132": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "134": [
+   "stony",
+   "पथरीला",
+   "adj. m.sg"
+  ],
+  "136": [
+   "floor",
+   "फर्श",
+   "m.sg"
+  ],
+  "138": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "140": [
+   "while walking",
+   "चलना",
+   "reduplicated participle"
+  ],
+  "142": [
+   "his",
+   "वह",
+   "obl. m.sg. possessive"
+  ],
+  "144": [
+   "steps",
+   "कदम",
+   "m.pl"
+  ],
+  "146": [
+   "to falter",
+   "लड़खड़ाना",
+   "infinitive"
+  ],
+  "148": [
+   "begin",
+   "लगना",
+   "present participle"
+  ],
+  "151": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "153": [
+   "now",
+   "अब",
+   "adv"
+  ],
+  "155": [
+   "indeed",
+   "तो",
+   "emphatic"
+  ],
+  "157": [
+   "here",
+   "यहाँ",
+   "adv"
+  ],
+  "159": [
+   "up to",
+   "तक",
+   "postposition"
+  ],
+  "161": [
+   "situation",
+   "नौबत",
+   "f.sg"
+  ],
+  "163": [
+   "come",
+   "आना",
+   "perf. f.sg"
+  ],
+  "165": [
+   "gone",
+   "जाना",
+   "vector verb"
+  ],
+  "167": [
+   "was",
+   "होना",
+   "past aux. f.sg"
+  ],
+  "169": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "171": [
+   "he",
+   "वह",
+   "obl. m.sg"
+  ],
+  "173": [
+   "Lajwanti",
+   "लाजवंती",
+   "f.sg"
+  ],
+  "175": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "177": [
+   "about",
+   "बारा",
+   "postposition"
+  ],
+  "179": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "181": [
+   "to think",
+   "सोचना",
+   "infinitive"
+  ],
+  "183": [
+   "only",
+   "ही",
+   "emphatic"
+  ],
+  "185": [
+   "left",
+   "छोड़ना",
+   "perf. m.sg"
+  ],
+  "187": [
+   "given",
+   "देना",
+   "vector verb"
+  ],
+  "189": [
+   "was",
+   "होना",
+   "past aux. m.sg"
+  ],
+  "192": [
+   "his",
+   "वह",
+   "obl. m.sg. possessive"
+  ],
+  "194": [
+   "sorrow",
+   "ग़म",
+   "m.sg"
+  ],
+  "196": [
+   "now",
+   "अब",
+   "adv"
+  ],
+  "198": [
+   "world",
+   "दुनिया",
+   "f.sg"
+  ],
+  "200": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "202": [
+   "sorrow",
+   "ग़म",
+   "m.sg"
+  ],
+  "204": [
+   "become",
+   "होना",
+   "perf. m.sg"
+  ],
+  "206": [
+   "become",
+   "चुकना",
+   "vector verb"
+  ],
+  "208": [
+   "was",
+   "होना",
+   "past aux. m.sg"
+  ],
+  "211": [
+   "he",
+   "वह",
+   "obl. m.sg"
+  ],
+  "213": [
+   "his own",
+   "अपना",
+   "adj. m.sg"
+  ],
+  "215": [
+   "pain",
+   "दुख",
+   "m.sg"
+  ],
+  "217": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "219": [
+   "to escape",
+   "बचना",
+   "infinitive"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    4,
+    6
+   ],
+   "type": "compound_verb",
+   "literal": "taking out being",
+   "meaning": "while taking out",
+   "note": "होना as a vector verb here indicates continuous action or state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    27,
+    29
+   ],
+   "type": "compound_verb",
+   "literal": "meeting singing",
+   "meaning": "singing together",
+   "note": "मिलकर (having met) + गाना (to sing)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    34,
+    36,
+    38,
+    40,
+    42,
+    44
+   ],
+   "type": "phrase",
+   "literal": "hands brought withered Lajwanti of plants",
+   "meaning": "The plants of Lajwanti that were brought by hand have withered",
+   "note": "A line from a folk song, implying something precious and delicate has been lost or damaged.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    57,
+    59,
+    61
+   ],
+   "type": "compound_verb",
+   "literal": "closed be goes",
+   "meaning": "would stop/become silent",
+   "note": "हो जाना (to become) indicates a change of state.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    71
+   ],
+   "type": "postposition",
+   "literal": "with with",
+   "meaning": "with",
+   "note": "के साथ is a common compound postposition.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    73,
+    73
+   ],
+   "type": "phrase",
+   "literal": "walking-walking",
+   "meaning": "while walking continuously",
+   "note": "Reduplication of participles indicates continuous or repeated action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    77,
+    79
+   ],
+   "type": "postposition",
+   "literal": "of about",
+   "meaning": "about",
+   "note": "की बाबत is a compound postposition.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    140,
+    140
+   ],
+   "type": "phrase",
+   "literal": "walking-walking",
+   "meaning": "while walking continuously",
+   "note": "Reduplication of participles indicates continuous or repeated action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    146,
+    148
+   ],
+   "type": "compound_verb",
+   "literal": "to falter begin",
+   "meaning": "would begin to falter",
+   "note": "लगना as a vector verb indicates the beginning of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    157,
+    159
+   ],
+   "type": "postposition",
+   "literal": "here up to",
+   "meaning": "up to this point",
+   "note": "यहाँ तक is a common phrase meaning 'to this extent' or 'until now'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    161,
+    163,
+    165,
+    167
+   ],
+   "type": "phrase",
+   "literal": "situation come gone was",
+   "meaning": "it had come to such a pass",
+   "note": "नौबत आ जाना is an idiom meaning 'a situation has arisen' or 'it has come to a critical point'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    175,
+    177,
+    179
+   ],
+   "type": "postposition",
+   "literal": "of about in",
+   "meaning": "about",
+   "note": "के बारे में is a common compound postposition.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    185,
+    187
+   ],
+   "type": "compound_verb",
+   "literal": "left given",
+   "meaning": "had stopped/given up",
+   "note": "छोड़ देना (to give up, to abandon) is a compound verb where देना adds intensity or completion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    204,
+    206,
+    208
+   ],
+   "type": "compound_verb",
+   "literal": "become completed was",
+   "meaning": "had become",
+   "note": "हो चुकना (to have become completely) is a compound verb where चुकना indicates completion.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

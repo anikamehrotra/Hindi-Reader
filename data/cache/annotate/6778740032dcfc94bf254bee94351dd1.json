@@ -1,0 +1,770 @@
+{
+ "translation": "But later, \"Of the Toba Tek Singh Government\" took the place of \"Of the Pakistan Government,\" and he began asking other lunatics where Toba Tek Singh, the place he belonged to, was. But no one knew whether it was in Pakistan or Hindustan. Those who tried to explain would get entangled in the confusion that Sialkot was first in Hindustan, but now it's heard to be in Pakistan. Who knows if Lahore, which is in Pakistan today, might go to Hindustan tomorrow, or if all of Hindustan might become Pakistan? And who could say with certainty that both Hindustan and Pakistan might not disappear completely one day?",
+ "words": {
+  "0": [
+   "but",
+   "लेकिन",
+   ""
+  ],
+  "2": [
+   "later",
+   "बाद",
+   ""
+  ],
+  "4": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "7": [
+   "of",
+   "ऑफ़",
+   "English loanword"
+  ],
+  "9": [
+   "the",
+   "दी",
+   "English loanword"
+  ],
+  "11": [
+   "Pakistan",
+   "पाकिस्तान",
+   "proper noun"
+  ],
+  "13": [
+   "Government",
+   "गौरमेंट",
+   "English loanword"
+  ],
+  "16": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "18": [
+   "place",
+   "जगह",
+   "f.sg"
+  ],
+  "21": [
+   "of",
+   "ऑफ़",
+   "English loanword"
+  ],
+  "23": [
+   "the",
+   "दी",
+   "English loanword"
+  ],
+  "25": [
+   "Toba",
+   "टोबा",
+   "proper noun"
+  ],
+  "27": [
+   "Tek Singh",
+   "टेकसिंह",
+   "proper noun"
+  ],
+  "29": [
+   "Government",
+   "गौरमेंट",
+   "English loanword"
+  ],
+  "32": [
+   "ergative marker",
+   "ने",
+   "postposition"
+  ],
+  "34": [
+   "taken",
+   "लेना",
+   "perf. m.sg"
+  ],
+  "36": [
+   "took",
+   "लेना",
+   "vector verb, perf. f.sg"
+  ],
+  "38": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "40": [
+   "he (ergative)",
+   "वह",
+   "pron. m.sg.obl"
+  ],
+  "42": [
+   "other",
+   "दूसरा",
+   "adj. m.pl"
+  ],
+  "44": [
+   "lunatics",
+   "पागल",
+   "m.pl.obl"
+  ],
+  "46": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "48": [
+   "to ask",
+   "पूछना",
+   "inf. m.sg"
+  ],
+  "50": [
+   "started",
+   "शुरू",
+   "adj"
+  ],
+  "52": [
+   "did",
+   "करना",
+   "perf. m.sg"
+  ],
+  "54": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "56": [
+   "Toba",
+   "टोबा",
+   "proper noun"
+  ],
+  "58": [
+   "Tek Singh",
+   "टेकसिंह",
+   "proper noun"
+  ],
+  "60": [
+   "where",
+   "कहाँ",
+   "interrogative adverb"
+  ],
+  "62": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "65": [
+   "where",
+   "जहाँ",
+   "relative adverb"
+  ],
+  "67": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "69": [
+   "he",
+   "वह",
+   "pron. m.sg"
+  ],
+  "71": [
+   "to live",
+   "रहना",
+   "inf. obl"
+  ],
+  "73": [
+   "one who",
+   "वाला",
+   "suffix"
+  ],
+  "75": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "78": [
+   "but",
+   "लेकिन",
+   ""
+  ],
+  "80": [
+   "anyone",
+   "कोई",
+   "pron. obl"
+  ],
+  "82": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "84": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "86": [
+   "known",
+   "मालूम",
+   "adj"
+  ],
+  "88": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "90": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "92": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "94": [
+   "it",
+   "वह",
+   "pron. m.sg"
+  ],
+  "96": [
+   "Pakistan",
+   "पाकिस्तान",
+   "proper noun"
+  ],
+  "98": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "100": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "102": [
+   "or",
+   "या",
+   "conjunction"
+  ],
+  "104": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "proper noun"
+  ],
+  "106": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "110": [
+   "those who",
+   "जो",
+   "relative pron. pl"
+  ],
+  "112": [
+   "to tell",
+   "बताना",
+   "inf. obl"
+  ],
+  "114": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "116": [
+   "attempt",
+   "कोशिश",
+   "f.sg"
+  ],
+  "118": [
+   "did",
+   "करना",
+   "pres. pl"
+  ],
+  "120": [
+   "were",
+   "होना",
+   "past. pl"
+  ],
+  "123": [
+   "they",
+   "वह",
+   "pron. pl"
+  ],
+  "125": [
+   "this",
+   "यह",
+   "demonstrative pron. obl"
+  ],
+  "127": [
+   "cycle/confusion",
+   "चक्कर",
+   "m.sg"
+  ],
+  "129": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "131": [
+   "getting entangled",
+   "उलझना",
+   "conj. participle"
+  ],
+  "133": [
+   "remained",
+   "रहना",
+   "perf. m.pl"
+  ],
+  "135": [
+   "went",
+   "जाना",
+   "vector verb, perf. m.pl"
+  ],
+  "137": [
+   "were",
+   "होना",
+   "past. pl"
+  ],
+  "139": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "141": [
+   "Sialkot",
+   "सियालकोट",
+   "proper noun"
+  ],
+  "143": [
+   "earlier",
+   "पहले",
+   "adverb"
+  ],
+  "145": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "proper noun"
+  ],
+  "147": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "149": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "152": [
+   "but",
+   "पर",
+   "conjunction"
+  ],
+  "154": [
+   "now",
+   "अब",
+   "adverb"
+  ],
+  "156": [
+   "heard",
+   "सुनना",
+   "perf. m.sg"
+  ],
+  "158": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "160": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "162": [
+   "Pakistan",
+   "पाकिस्तान",
+   "proper noun"
+  ],
+  "164": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "166": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "169": [
+   "what",
+   "क्या",
+   "interrogative pron."
+  ],
+  "171": [
+   "known",
+   "मालूम",
+   "adj"
+  ],
+  "173": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "175": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "177": [
+   "Lahore",
+   "लाहौर",
+   "proper noun"
+  ],
+  "180": [
+   "which",
+   "जो",
+   "relative pron. m.sg"
+  ],
+  "182": [
+   "today",
+   "आज",
+   "adverb"
+  ],
+  "184": [
+   "Pakistan",
+   "पाकिस्तान",
+   "proper noun"
+  ],
+  "186": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "188": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "191": [
+   "tomorrow",
+   "कल",
+   "adverb"
+  ],
+  "193": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "proper noun"
+  ],
+  "195": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "197": [
+   "go",
+   "चलना",
+   "perf. m.sg"
+  ],
+  "199": [
+   "may go",
+   "जाना",
+   "subj. 3sg"
+  ],
+  "201": [
+   "or",
+   "या",
+   "conjunction"
+  ],
+  "203": [
+   "all",
+   "सारा",
+   "adj. m.sg"
+  ],
+  "205": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "proper noun"
+  ],
+  "207": [
+   "emphatic",
+   "ही",
+   "emphatic particle"
+  ],
+  "209": [
+   "Pakistan",
+   "पाकिस्तान",
+   "proper noun"
+  ],
+  "211": [
+   "become",
+   "बनना",
+   "perf. m.sg"
+  ],
+  "213": [
+   "may become",
+   "जाना",
+   "subj. 3sg"
+  ],
+  "217": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "219": [
+   "this",
+   "यह",
+   "demonstrative pron. m.sg"
+  ],
+  "221": [
+   "also",
+   "भी",
+   "emphatic particle"
+  ],
+  "223": [
+   "who",
+   "कौन",
+   "interrogative pron."
+  ],
+  "225": [
+   "chest",
+   "सीना",
+   "m.sg.obl"
+  ],
+  "227": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "229": [
+   "hand",
+   "हाथ",
+   "m.sg"
+  ],
+  "231": [
+   "keeping",
+   "रखना",
+   "root"
+  ],
+  "233": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "235": [
+   "say",
+   "कहना",
+   "root"
+  ],
+  "237": [
+   "could",
+   "सकना",
+   "pres. 3sg"
+  ],
+  "239": [
+   "was",
+   "होना",
+   "past. 3sg"
+  ],
+  "241": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "243": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "proper noun"
+  ],
+  "245": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "247": [
+   "Pakistan",
+   "पाकिस्तान",
+   "proper noun"
+  ],
+  "251": [
+   "both",
+   "दोनों",
+   "pron. pl"
+  ],
+  "253": [
+   "some",
+   "कोई",
+   "pron. obl"
+  ],
+  "255": [
+   "day",
+   "दिन",
+   "m.sg"
+  ],
+  "257": [
+   "from the beginning",
+   "सिरा",
+   "m.sg.obl"
+  ],
+  "259": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "261": [
+   "disappeared",
+   "गायब",
+   "adj"
+  ],
+  "263": [
+   "emphatic",
+   "ही",
+   "emphatic particle"
+  ],
+  "265": [
+   "not",
+   "न",
+   "negator"
+  ],
+  "267": [
+   "become",
+   "होना",
+   "root"
+  ],
+  "269": [
+   "may go",
+   "जाना",
+   "subj. 3pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    16,
+    18
+   ],
+   "type": "postposition",
+   "literal": "of place",
+   "meaning": "in place of, instead of",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    34,
+    36
+   ],
+   "type": "compound_verb",
+   "literal": "took went",
+   "meaning": "took (completely)",
+   "note": "जाना as vector verb adds completion/finality",
+   "source": "model"
+  },
+  {
+   "idx": [
+    48,
+    50,
+    52
+   ],
+   "type": "conjunct_verb",
+   "literal": "to ask started did",
+   "meaning": "began to ask",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    71,
+    73
+   ],
+   "type": "phrase",
+   "literal": "one who lives",
+   "meaning": "resident of, belonging to",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    116,
+    118
+   ],
+   "type": "conjunct_verb",
+   "literal": "attempt did",
+   "meaning": "tried, attempted",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    131,
+    133,
+    135
+   ],
+   "type": "compound_verb",
+   "literal": "having entangled remained went",
+   "meaning": "remained entangled, got completely entangled",
+   "note": "रहना as vector verb indicates continuation; जाना as vector verb indicates completion/finality",
+   "source": "model"
+  },
+  {
+   "idx": [
+    197,
+    199
+   ],
+   "type": "compound_verb",
+   "literal": "walked go",
+   "meaning": "go away, be transferred",
+   "note": "जाना as vector verb adds completion/finality",
+   "source": "model"
+  },
+  {
+   "idx": [
+    211,
+    213
+   ],
+   "type": "compound_verb",
+   "literal": "become go",
+   "meaning": "become (completely)",
+   "note": "जाना as vector verb adds completion/finality",
+   "source": "model"
+  },
+  {
+   "idx": [
+    225,
+    227,
+    229,
+    231,
+    233
+   ],
+   "type": "idiom",
+   "literal": "on chest hand keeping having done",
+   "meaning": "with certainty, confidently",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    257,
+    259
+   ],
+   "type": "postposition",
+   "literal": "from end",
+   "meaning": "completely, entirely",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    261,
+    267,
+    269
+   ],
+   "type": "compound_verb",
+   "literal": "disappeared not become go",
+   "meaning": "not disappear completely",
+   "note": "जाना as vector verb adds completion/finality",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

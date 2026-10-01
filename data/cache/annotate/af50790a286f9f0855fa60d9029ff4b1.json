@@ -1,0 +1,284 @@
+{
+ "translation": "“Okay, when will Rahat's sorrow turn to happiness? If not to her, then to whom? Kishwar is my friend, and I am Zameer's sister, and Zameer is Rahat's forced lover. I decided that today I am here, and Zameer is a complete pig.”",
+ "words": {
+  "1": [
+   "okay",
+   "अच्छा",
+   ""
+  ],
+  "3": [
+   "when",
+   "कब",
+   ""
+  ],
+  "10": [
+   "Rahat (name)",
+   "राहत",
+   "f.sg.obl"
+  ],
+  "12": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "14": [
+   "Kishwar (name)",
+   "किश्वर",
+   "f.sg"
+  ],
+  "16": [
+   "of",
+   "के",
+   "postposition"
+  ],
+  "18": [
+   "sorrow",
+   "दुख",
+   "m.sg"
+  ],
+  "20": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "22": [
+   "happiness",
+   "सुख",
+   "m.sg"
+  ],
+  "24": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "26": [
+   "will reach",
+   "पहुँचना",
+   "fut. 3sg m"
+  ],
+  "28": [
+   "then",
+   "तो",
+   "emphatic"
+  ],
+  "30": [
+   "to whom",
+   "किसे",
+   "pron. obl"
+  ],
+  "32": [
+   "will reach",
+   "पहुँचना",
+   "fut. 3sg m"
+  ],
+  "35": [
+   "Kishwar (name)",
+   "किश्वर",
+   "f.sg"
+  ],
+  "37": [
+   "is",
+   "ठहरना",
+   "f.sg. perf. (colloquial for 'is')"
+  ],
+  "39": [
+   "my",
+   "मेरा",
+   "f.sg"
+  ],
+  "41": [
+   "friend",
+   "दोस्त",
+   "m.sg"
+  ],
+  "43": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "45": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "47": [
+   "Zameer (name)",
+   "ज़मीर",
+   "m.sg.obl"
+  ],
+  "49": [
+   "of",
+   "की",
+   "postposition"
+  ],
+  "51": [
+   "sister",
+   "बहन",
+   "f.sg"
+  ],
+  "53": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "55": [
+   "Zameer (name)",
+   "ज़मीर",
+   "m.sg"
+  ],
+  "57": [
+   "Rahat (name)",
+   "राहत",
+   "f.sg.obl"
+  ],
+  "59": [
+   "of",
+   "की",
+   "postposition"
+  ],
+  "61": [
+   "forced",
+   "ज़बरदस्ती",
+   "adverb"
+  ],
+  "63": [
+   "of",
+   "के",
+   "postposition"
+  ],
+  "65": [
+   "lover",
+   "आशिक़",
+   "m.sg"
+  ],
+  "68": [
+   "I",
+   "मैं",
+   "pron. 1sg.obl"
+  ],
+  "70": [
+   "intention",
+   "इरादा",
+   "m.sg"
+  ],
+  "72": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "74": [
+   "took",
+   "लेना",
+   "perf. m.sg"
+  ],
+  "76": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "78": [
+   "today",
+   "आज",
+   "adverb"
+  ],
+  "80": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "82": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "84": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "86": [
+   "Zameer (name)",
+   "ज़मीर",
+   "m.sg"
+  ],
+  "89": [
+   "pig",
+   "सूअर",
+   "m.sg"
+  ],
+  "91": [
+   "of somewhere",
+   "कहीं",
+   "adverb"
+  ],
+  "93": [
+   "of",
+   "का",
+   "postposition"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    18,
+    20,
+    22,
+    24,
+    26
+   ],
+   "type": "phrase",
+   "literal": "sorrow from happiness not will reach",
+   "meaning": "sorrow will not turn to happiness",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    35,
+    37
+   ],
+   "type": "phrase",
+   "literal": "Kishwar stood",
+   "meaning": "Kishwar is (my friend)",
+   "note": "Colloquial usage of ठहरना to mean 'is' or 'happens to be'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    61,
+    63,
+    65
+   ],
+   "type": "phrase",
+   "literal": "of force's lover",
+   "meaning": "forced lover",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    70,
+    72,
+    74
+   ],
+   "type": "conjunct_verb",
+   "literal": "intention having done took",
+   "meaning": "decided",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    89,
+    91,
+    93
+   ],
+   "type": "idiom",
+   "literal": "pig of somewhere",
+   "meaning": "a complete pig / utterly despicable person",
+   "note": "Used to emphasize a negative quality, similar to 'a total X' or 'X of the highest order'.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

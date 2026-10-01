@@ -1,0 +1,213 @@
+{
+ "translation": "On that side was Hindustan behind barbed wires. On this side, behind similar wires, was Pakistan. In between, on that piece of land which had no name, lay Toba Tek Singh.",
+ "words": {
+  "0": [
+   "on that side",
+   "उधर",
+   ""
+  ],
+  "2": [
+   "barbed",
+   "काँटेदार",
+   "adj. m.sg"
+  ],
+  "4": [
+   "wires",
+   "तार",
+   "n. m. pl. obl"
+  ],
+  "6": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "8": [
+   "behind",
+   "पीछे",
+   "postposition"
+  ],
+  "10": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "n. m. sg"
+  ],
+  "12": [
+   "was",
+   "होना",
+   "v. past 3sg m"
+  ],
+  "15": [
+   "on this side",
+   "इधर",
+   ""
+  ],
+  "17": [
+   "similar",
+   "ऐसा",
+   "adj. m. pl. obl"
+  ],
+  "19": [
+   "emphatic",
+   "ही",
+   "particle"
+  ],
+  "21": [
+   "wires",
+   "तार",
+   "n. m. pl. obl"
+  ],
+  "23": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "25": [
+   "behind",
+   "पीछे",
+   "postposition"
+  ],
+  "27": [
+   "Pakistan",
+   "पाकिस्तान",
+   "n. m. sg"
+  ],
+  "31": [
+   "in between",
+   "बीच",
+   "n. m. sg. obl"
+  ],
+  "33": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "36": [
+   "land",
+   "ज़मीन",
+   "n. f. sg"
+  ],
+  "38": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "40": [
+   "that",
+   "वह",
+   "pron. m. sg. obl"
+  ],
+  "42": [
+   "piece",
+   "टुकड़ा",
+   "n. m. sg. obl"
+  ],
+  "44": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "47": [
+   "whose",
+   "जो",
+   "pron. m. sg. obl"
+  ],
+  "49": [
+   "any",
+   "कोई",
+   "pron. m. sg"
+  ],
+  "51": [
+   "name",
+   "नाम",
+   "n. m. sg"
+  ],
+  "53": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "55": [
+   "was",
+   "होना",
+   "v. past 3sg m"
+  ],
+  "58": [
+   "Toba",
+   "टोबा",
+   "n. m. sg"
+  ],
+  "60": [
+   "Tek Singh",
+   "टेकसिंह",
+   "n. m. sg"
+  ],
+  "62": [
+   "lay",
+   "पड़ना",
+   "v. perf. m. sg"
+  ],
+  "64": [
+   "was",
+   "होना",
+   "v. past 3sg m"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    2,
+    4
+   ],
+   "type": "phrase",
+   "literal": "thorny wires",
+   "meaning": "barbed wire",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    6,
+    8
+   ],
+   "type": "postposition",
+   "literal": "of behind",
+   "meaning": "behind",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    23,
+    25
+   ],
+   "type": "postposition",
+   "literal": "of behind",
+   "meaning": "behind",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    31,
+    33
+   ],
+   "type": "postposition",
+   "literal": "in middle",
+   "meaning": "in between",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    62,
+    64
+   ],
+   "type": "compound_verb",
+   "literal": "fell was",
+   "meaning": "lay",
+   "note": "पड़ना as a vector verb indicates an involuntary or sudden action, or a state of being in this context.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

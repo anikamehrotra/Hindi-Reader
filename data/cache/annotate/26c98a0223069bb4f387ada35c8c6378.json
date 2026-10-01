@@ -1,0 +1,135 @@
+{
+ "translation": "Sundarlal said, \"I understand one thing, Baba. In Ramraj, the washerman's voice is heard, but Sundarlal's is not.\"",
+ "words": {
+  "0": [
+   "Sundarlal",
+   "सुंदरलाल",
+   ""
+  ],
+  "2": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "4": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "9": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "11": [
+   "one",
+   "एक",
+   "adj."
+  ],
+  "13": [
+   "thing",
+   "बात",
+   "f.sg"
+  ],
+  "15": [
+   "emphatic",
+   "तो",
+   "particle"
+  ],
+  "17": [
+   "understand",
+   "समझना",
+   "pres. part. m.sg"
+  ],
+  "19": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "21": [
+   "Baba",
+   "बाबा",
+   "m.sg"
+  ],
+  "24": [
+   "Ramraj",
+   "रामराज",
+   "m.sg"
+  ],
+  "26": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "28": [
+   "washerman",
+   "धोबी",
+   "m.sg"
+  ],
+  "30": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "32": [
+   "voice",
+   "आवाज़",
+   "f.sg"
+  ],
+  "34": [
+   "emphatic",
+   "तो",
+   "particle"
+  ],
+  "36": [
+   "heard",
+   "सुनना",
+   "perf. part. f.sg"
+  ],
+  "38": [
+   "goes",
+   "जाना",
+   "pres. part. f.sg"
+  ],
+  "40": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "42": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "44": [
+   "Sundarlal",
+   "सुंदरलाल",
+   "m.sg"
+  ],
+  "46": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "48": [
+   "not",
+   "नहीं",
+   "negator"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    36,
+    38,
+    40
+   ],
+   "type": "compound_verb",
+   "literal": "voice heard goes is",
+   "meaning": "voice is heard",
+   "note": "जाना as a vector verb indicates passivity here.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

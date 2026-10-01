@@ -1,0 +1,190 @@
+{
+ "translation": "Oh God, so much drama! So, I'm supposed to write a love poem for your Kishwars and Rafis? You mean Kishwar, right? That Rufi Kishwar?",
+ "words": {
+  "1": [
+   "Oh God!",
+   "अल्लाह",
+   "interjection"
+  ],
+  "3": [
+   "so much",
+   "इतना",
+   "adv"
+  ],
+  "5": [
+   "to become, to be made",
+   "बनना",
+   "verb"
+  ],
+  "10": [
+   "Ugh!",
+   "ऊँह",
+   "interjection"
+  ],
+  "15": [
+   "then, so",
+   "तो",
+   "particle"
+  ],
+  "17": [
+   "as if, so",
+   "गोया",
+   "conj"
+  ],
+  "19": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "21": [
+   "your",
+   "तुम",
+   "pron. 2sg.obl.f.poss"
+  ],
+  "23": [
+   "Kishwars",
+   "किश्वर",
+   "noun.f.pl"
+  ],
+  "25": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "27": [
+   "Rafis",
+   "रफी",
+   "noun.m.pl"
+  ],
+  "29": [
+   "for",
+   "का",
+   "postposition.obl"
+  ],
+  "31": [
+   "register, record",
+   "रजिस्टर",
+   "noun.m"
+  ],
+  "33": [
+   "for, for the sake of",
+   "लेना",
+   "postposition"
+  ],
+  "35": [
+   "their",
+   "वह",
+   "pron.3pl.obl.f.poss"
+  ],
+  "37": [
+   "masnavi (a type of poem)",
+   "मसनवी",
+   "noun.f"
+  ],
+  "39": [
+   "write",
+   "लिखना",
+   "verb.perf.f.sg"
+  ],
+  "41": [
+   "used to do",
+   "करना",
+   "verb.habitual.f.sg"
+  ],
+  "43": [
+   "am",
+   "होना",
+   "verb.pres.1sg"
+  ],
+  "46": [
+   "your",
+   "तुम",
+   "pron.2sg.obl.m.poss"
+  ],
+  "48": [
+   "meaning",
+   "मतलब",
+   "noun.m"
+  ],
+  "50": [
+   "Kishwar",
+   "किश्वर",
+   "noun.f"
+  ],
+  "52": [
+   "from, with",
+   "से",
+   "postposition"
+  ],
+  "54": [
+   "is",
+   "होना",
+   "verb.pres.3sg"
+  ],
+  "59": [
+   "that",
+   "वह",
+   "pron.dem.sg"
+  ],
+  "61": [
+   "Rufi",
+   "रूफ़ी",
+   "noun.f"
+  ],
+  "63": [
+   "Kishwar",
+   "किश्वर",
+   "noun.f"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3,
+    5
+   ],
+   "type": "phrase",
+   "literal": "God so much to become",
+   "meaning": "Oh God, so much drama/fuss!",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    31,
+    33
+   ],
+   "type": "postposition",
+   "literal": "of register for",
+   "meaning": "for the register/sake of",
+   "note": "Here 'रजिस्टर' is used in a slightly idiomatic way, implying 'for the sake of' or 'on behalf of'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    39,
+    41,
+    43
+   ],
+   "type": "compound_verb",
+   "literal": "wrote used to do am",
+   "meaning": "used to write",
+   "note": "The combination of perfect participle + 'करना' + 'होना' indicates habitual past action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    46,
+    48
+   ],
+   "type": "phrase",
+   "literal": "your meaning",
+   "meaning": "you mean",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

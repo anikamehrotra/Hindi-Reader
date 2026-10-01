@@ -1,0 +1,954 @@
+{
+ "translation": "But a word heard in the morning does not go to waste. It keeps spinning in the mind all day long, like an argument, and sometimes a person doesn't even understand its meaning, but keeps humming it. It was due to this voice taking root that in those days, when Miss Mridula Sarabhai brought back abducted women in exchange between India and Pakistan, some men from Mullah Shakur's neighborhood were ready to resettle them. Their heirs went to meet them at Chowki Kalan, outside the city. The abducted women and their relatives looked at each other for a while, and then, with bowed heads, set about rebuilding their ruined homes. Risalu, Nekiram, and Sunderlal Babu kept chanting slogans, sometimes \"Mahendra Singh Zindabad\" and sometimes \"Sohanlal Zindabad,\" and they kept chanting those slogans until their throats dried up.",
+ "words": {
+  "0": [
+   "but",
+   "लेकिन",
+   ""
+  ],
+  "2": [
+   "morning",
+   "सुब्ह",
+   "f.sg"
+  ],
+  "4": [
+   "of",
+   "का",
+   "obl. m.sg"
+  ],
+  "6": [
+   "time",
+   "समय",
+   "m.sg"
+  ],
+  "8": [
+   "ear",
+   "कान",
+   "m.sg"
+  ],
+  "10": [
+   "in",
+   "में",
+   ""
+  ],
+  "12": [
+   "fallen",
+   "पड़ना",
+   "perf. m.sg"
+  ],
+  "14": [
+   "having been",
+   "होना",
+   "conj. participle"
+  ],
+  "16": [
+   "word",
+   "शब्द",
+   "m.sg"
+  ],
+  "18": [
+   "useless",
+   "बेकार",
+   "adj"
+  ],
+  "20": [
+   "not",
+   "नहीं",
+   ""
+  ],
+  "22": [
+   "goes",
+   "जाना",
+   "pres. 3sg"
+  ],
+  "25": [
+   "that",
+   "वह",
+   "pron. 3sg"
+  ],
+  "27": [
+   "all",
+   "सारा",
+   "adj. m.sg"
+  ],
+  "29": [
+   "day",
+   "दिन",
+   "m.sg"
+  ],
+  "31": [
+   "a",
+   "एक",
+   "num"
+  ],
+  "33": [
+   "argument",
+   "तकरार",
+   "f.sg"
+  ],
+  "35": [
+   "with",
+   "के",
+   "postposition"
+  ],
+  "37": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "39": [
+   "mind",
+   "दिमाग़",
+   "m.sg"
+  ],
+  "41": [
+   "in",
+   "में",
+   ""
+  ],
+  "43": [
+   "spinning",
+   "चक्कर",
+   "m.sg"
+  ],
+  "45": [
+   "applying",
+   "लगाना",
+   "pres. part. m.sg"
+  ],
+  "47": [
+   "remains",
+   "रहना",
+   "pres. 3sg"
+  ],
+  "49": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "51": [
+   "and",
+   "और",
+   ""
+  ],
+  "53": [
+   "some",
+   "बाज़",
+   "adj"
+  ],
+  "55": [
+   "time",
+   "वक़्त",
+   "m.sg"
+  ],
+  "58": [
+   "then",
+   "तो",
+   "emphatic"
+  ],
+  "60": [
+   "person",
+   "इनसान",
+   "m.sg"
+  ],
+  "62": [
+   "its",
+   "वह",
+   "obl. gen. 3sg"
+  ],
+  "64": [
+   "meaning",
+   "मानी",
+   "m.sg"
+  ],
+  "66": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "68": [
+   "even",
+   "भी",
+   "emphatic"
+  ],
+  "70": [
+   "not",
+   "नहीं",
+   ""
+  ],
+  "72": [
+   "understands",
+   "समझना",
+   "pres. 3sg"
+  ],
+  "75": [
+   "but",
+   "पर",
+   "conj"
+  ],
+  "77": [
+   "humming",
+   "गुनगुनाना",
+   "pres. part. m.sg"
+  ],
+  "79": [
+   "gone",
+   "चलना",
+   "perf. m.sg"
+  ],
+  "81": [
+   "goes",
+   "जाना",
+   "pres. 3sg"
+  ],
+  "83": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "86": [
+   "this",
+   "यह",
+   "obl. f.sg"
+  ],
+  "88": [
+   "voice",
+   "आवाज़",
+   "f.sg"
+  ],
+  "90": [
+   "of",
+   "का",
+   "obl. f.sg"
+  ],
+  "92": [
+   "home",
+   "घर",
+   "m.sg"
+  ],
+  "94": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "96": [
+   "going",
+   "जाना",
+   "inf. obl"
+  ],
+  "98": [
+   "of",
+   "का",
+   "f.sg"
+  ],
+  "100": [
+   "due to",
+   "बदौलत",
+   "f.sg"
+  ],
+  "102": [
+   "only",
+   "ही",
+   "emphatic"
+  ],
+  "105": [
+   "those",
+   "वह",
+   "obl. pl"
+  ],
+  "107": [
+   "days",
+   "दिन",
+   "m.pl"
+  ],
+  "109": [
+   "while",
+   "जबकि",
+   "conj"
+  ],
+  "111": [
+   "Miss",
+   "मिस",
+   "f.sg"
+  ],
+  "113": [
+   "Mridula",
+   "मृदुला",
+   "f.sg"
+  ],
+  "115": [
+   "Sarabhai",
+   "साराभाई",
+   "f.sg"
+  ],
+  "117": [
+   "India",
+   "हिंद",
+   "m.sg"
+  ],
+  "119": [
+   "and",
+   "और",
+   ""
+  ],
+  "121": [
+   "Pakistan",
+   "पाकिस्तान",
+   "m.sg"
+  ],
+  "123": [
+   "of",
+   "का",
+   "obl. m.sg"
+  ],
+  "125": [
+   "between",
+   "दरमियान",
+   "postposition"
+  ],
+  "127": [
+   "abducted",
+   "अगवाशुदा",
+   "adj. f.pl"
+  ],
+  "129": [
+   "women",
+   "औरत",
+   "f.pl"
+  ],
+  "131": [
+   "exchange",
+   "तबादला",
+   "m.sg"
+  ],
+  "133": [
+   "in",
+   "में",
+   ""
+  ],
+  "135": [
+   "brought",
+   "लाना",
+   "perf. f.pl"
+  ],
+  "137": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "139": [
+   "neighborhood",
+   "मुहल्ला",
+   "m.sg"
+  ],
+  "141": [
+   "Mullah",
+   "मुल्ला",
+   "m.sg"
+  ],
+  "143": [
+   "Shakur",
+   "शकूर",
+   "m.sg"
+  ],
+  "145": [
+   "of",
+   "का",
+   "obl. m.sg"
+  ],
+  "147": [
+   "some",
+   "कुछ",
+   "adj"
+  ],
+  "149": [
+   "men",
+   "आदमी",
+   "m.pl"
+  ],
+  "151": [
+   "them",
+   "वह",
+   "obl. pl"
+  ],
+  "153": [
+   "again",
+   "फिर",
+   "adv"
+  ],
+  "155": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "157": [
+   "to resettle",
+   "बसाना",
+   "inf. obl"
+  ],
+  "159": [
+   "of",
+   "का",
+   "obl. m.sg"
+  ],
+  "161": [
+   "for",
+   "लिए",
+   "postposition"
+  ],
+  "163": [
+   "ready",
+   "तैयार",
+   "adj"
+  ],
+  "165": [
+   "become",
+   "होना",
+   "conj. participle"
+  ],
+  "167": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "170": [
+   "their",
+   "वह",
+   "obl. gen. pl"
+  ],
+  "172": [
+   "heirs",
+   "वारिस",
+   "m.pl"
+  ],
+  "174": [
+   "city",
+   "शहर",
+   "m.sg"
+  ],
+  "176": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "178": [
+   "outside",
+   "बाहर",
+   "adv"
+  ],
+  "180": [
+   "Chowki",
+   "चौकी",
+   "f.sg"
+  ],
+  "182": [
+   "Kalan",
+   "कलाँ",
+   "adj"
+  ],
+  "184": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "186": [
+   "them",
+   "वह",
+   "obl. pl"
+  ],
+  "188": [
+   "to meet",
+   "मिलना",
+   "inf. obl"
+  ],
+  "190": [
+   "of",
+   "का",
+   "obl. m.sg"
+  ],
+  "192": [
+   "for",
+   "लिए",
+   "postposition"
+  ],
+  "194": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "197": [
+   "abducted",
+   "मुग़विया",
+   "adj. f.pl"
+  ],
+  "199": [
+   "women",
+   "औरत",
+   "f.pl"
+  ],
+  "201": [
+   "and",
+   "और",
+   ""
+  ],
+  "203": [
+   "their",
+   "वह",
+   "obl. gen. pl"
+  ],
+  "205": [
+   "relatives",
+   "लवाहकीन",
+   "m.pl"
+  ],
+  "208": [
+   "some",
+   "कुछ",
+   "adj"
+  ],
+  "210": [
+   "time",
+   "देर",
+   "f.sg"
+  ],
+  "212": [
+   "each other",
+   "एक-दूसरे",
+   "pron. obl"
+  ],
+  "214": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "216": [
+   "looking",
+   "देखना",
+   "pres. part. m.pl"
+  ],
+  "218": [
+   "remained",
+   "रहना",
+   "perf. m.pl"
+  ],
+  "220": [
+   "and",
+   "और",
+   ""
+  ],
+  "222": [
+   "then",
+   "फिर",
+   "adv"
+  ],
+  "224": [
+   "head",
+   "सिर",
+   "m.sg"
+  ],
+  "226": [
+   "bowed",
+   "झुकाना",
+   "perf. m.pl"
+  ],
+  "228": [
+   "their respective",
+   "अपने-अपने",
+   "adj. pl"
+  ],
+  "230": [
+   "ruined",
+   "बरबाद",
+   "adj"
+  ],
+  "232": [
+   "homes",
+   "घर",
+   "m.pl"
+  ],
+  "234": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "236": [
+   "again",
+   "फिर",
+   "adv"
+  ],
+  "238": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "240": [
+   "settled",
+   "आबाद",
+   "adj"
+  ],
+  "242": [
+   "to do",
+   "करना",
+   "inf. obl"
+  ],
+  "244": [
+   "of",
+   "का",
+   "obl. m.sg"
+  ],
+  "246": [
+   "work",
+   "काम",
+   "m.sg"
+  ],
+  "248": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "250": [
+   "set out",
+   "चलना",
+   "perf. m.pl"
+  ],
+  "252": [
+   "gave",
+   "देना",
+   "perf. m.pl"
+  ],
+  "255": [
+   "Risalu",
+   "रिसालू",
+   "m.sg"
+  ],
+  "257": [
+   "and",
+   "और",
+   ""
+  ],
+  "259": [
+   "Nekiram",
+   "नेकीराम",
+   "m.sg"
+  ],
+  "261": [
+   "and",
+   "और",
+   ""
+  ],
+  "263": [
+   "Sunderlal",
+   "सुंदरलाल",
+   "m.sg"
+  ],
+  "265": [
+   "Babu",
+   "बाबू",
+   "m.sg"
+  ],
+  "267": [
+   "sometimes",
+   "कभी",
+   "adv"
+  ],
+  "270": [
+   "Mahendra",
+   "महेंद्र",
+   "m.sg"
+  ],
+  "272": [
+   "Singh",
+   "सिंह",
+   "m.sg"
+  ],
+  "274": [
+   "long live",
+   "जिंदाबाद",
+   "exclamation"
+  ],
+  "277": [
+   "and",
+   "और",
+   ""
+  ],
+  "279": [
+   "sometimes",
+   "कभी",
+   "adv"
+  ],
+  "282": [
+   "Sohanlal",
+   "सोहनलाल",
+   "m.sg"
+  ],
+  "284": [
+   "long live",
+   "जिंदाबाद",
+   "exclamation"
+  ],
+  "287": [
+   "of",
+   "का",
+   "obl. m.sg"
+  ],
+  "289": [
+   "slogans",
+   "नारा",
+   "m.pl"
+  ],
+  "291": [
+   "making",
+   "लगाना",
+   "pres. part. m.pl"
+  ],
+  "293": [
+   "and",
+   "और",
+   ""
+  ],
+  "295": [
+   "they",
+   "वह",
+   "pron. 3pl"
+  ],
+  "297": [
+   "slogans",
+   "नारा",
+   "m.pl"
+  ],
+  "299": [
+   "making",
+   "लगाना",
+   "pres. part. m.pl"
+  ],
+  "301": [
+   "remained",
+   "रहना",
+   "perf. m.pl"
+  ],
+  "304": [
+   "until",
+   "हत्ता",
+   "conj"
+  ],
+  "306": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "308": [
+   "their",
+   "वह",
+   "obl. gen. pl"
+  ],
+  "310": [
+   "throats",
+   "गला",
+   "m.pl"
+  ],
+  "312": [
+   "dried",
+   "सूखना",
+   "perf. m.pl"
+  ],
+  "314": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    12,
+    14
+   ],
+   "type": "compound_verb",
+   "literal": "fallen having been",
+   "meaning": "heard (passive sense)",
+   "note": "पड़ा हुआ is often used to indicate a state of being, here implying 'something that has fallen into the ear' or 'been heard'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    35,
+    37
+   ],
+   "type": "postposition",
+   "literal": "with the company of",
+   "meaning": "like, along with",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    43,
+    45,
+    47
+   ],
+   "type": "compound_verb",
+   "literal": "making circles remains",
+   "meaning": "keeps spinning/revolving",
+   "note": "लगाना is the main verb, रहना is the vector verb indicating continuity.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    79,
+    81
+   ],
+   "type": "compound_verb",
+   "literal": "gone goes",
+   "meaning": "keeps going, continues to",
+   "note": "चलना is the main verb, जाना is the vector verb indicating continuity/completion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    92,
+    94,
+    96
+   ],
+   "type": "conjunct_verb",
+   "literal": "making home going",
+   "meaning": "taking root, becoming established",
+   "note": "घर करना is a common conjunct verb meaning 'to settle in' or 'to take root'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    98,
+    100
+   ],
+   "type": "postposition",
+   "literal": "of due to",
+   "meaning": "due to, because of",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    123,
+    125
+   ],
+   "type": "postposition",
+   "literal": "of in between",
+   "meaning": "between",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    157,
+    159,
+    161
+   ],
+   "type": "postposition",
+   "literal": "to settle of for",
+   "meaning": "to resettle",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    165,
+    167
+   ],
+   "type": "compound_verb",
+   "literal": "become went",
+   "meaning": "became",
+   "note": "होना is the main verb, जाना is the vector verb indicating completion.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    188,
+    190,
+    192
+   ],
+   "type": "postposition",
+   "literal": "to meet of for",
+   "meaning": "to meet",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    212,
+    214
+   ],
+   "type": "phrase",
+   "literal": "one-another to",
+   "meaning": "each other",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    224,
+    226
+   ],
+   "type": "conjunct_verb",
+   "literal": "head bowed",
+   "meaning": "with bowed heads",
+   "note": "सिर झुकाना means 'to bow one's head'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    240,
+    242
+   ],
+   "type": "conjunct_verb",
+   "literal": "settled to do",
+   "meaning": "to resettle, to rebuild",
+   "note": "आबाद करना means 'to settle' or 'to make prosperous'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    250,
+    252
+   ],
+   "type": "compound_verb",
+   "literal": "walk gave",
+   "meaning": "set out, departed",
+   "note": "चल देना is a compound verb meaning 'to set off' or 'to depart suddenly'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    289,
+    291
+   ],
+   "type": "conjunct_verb",
+   "literal": "slogans making",
+   "meaning": "to chant slogans",
+   "note": "नारे लगाना is a common conjunct verb.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    299,
+    301
+   ],
+   "type": "compound_verb",
+   "literal": "making remained",
+   "meaning": "kept making/chanting",
+   "note": "लगाना is the main verb, रहना is the vector verb indicating continuity.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    312,
+    314
+   ],
+   "type": "compound_verb",
+   "literal": "dried went",
+   "meaning": "dried up",
+   "note": "सूखना is the main verb, जाना is the vector verb indicating completion.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,109 @@
+{
+ "translation": "Narayan Baba said in a very sweet voice, \"You do not understand the dignity of the scriptures, Sunderlal.\"",
+ "words": {
+  "0": [
+   "Narayan",
+   "नारायण",
+   "prop. n."
+  ],
+  "2": [
+   "Baba",
+   "बाबा",
+   "n. m. sg."
+  ],
+  "4": [
+   "ergative marker",
+   "ने",
+   "postposition"
+  ],
+  "6": [
+   "very",
+   "बड़ा",
+   "adv."
+  ],
+  "8": [
+   "sweet",
+   "मीठा",
+   "adj. f. sg."
+  ],
+  "10": [
+   "voice",
+   "आवाज़",
+   "n. f. sg."
+  ],
+  "12": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "14": [
+   "said",
+   "कहना",
+   "perf. m. sg."
+  ],
+  "19": [
+   "you",
+   "तुम",
+   "pron. 2nd pl. / fam. sg."
+  ],
+  "21": [
+   "scriptures",
+   "शास्त्र",
+   "n. m. pl. obl."
+  ],
+  "23": [
+   "of",
+   "का",
+   "postposition f. sg."
+  ],
+  "25": [
+   "dignity",
+   "मान-मर्यादा",
+   "n. f. sg."
+  ],
+  "27": [
+   "object marker",
+   "को",
+   "postposition"
+  ],
+  "29": [
+   "not",
+   "नहीं",
+   "neg. particle"
+  ],
+  "31": [
+   "understand",
+   "समझना",
+   "impf. 2nd pl. / fam. sg."
+  ],
+  "33": [
+   "Sunderlal",
+   "सुंदरलाल",
+   "prop. n."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    6,
+    8
+   ],
+   "type": "phrase",
+   "literal": "big sweet",
+   "meaning": "very sweet",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    25
+   ],
+   "type": "conjunct_verb",
+   "literal": "honor-dignity",
+   "meaning": "dignity, honor",
+   "note": "A compound noun formed by two words with similar meanings, emphasizing the concept.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

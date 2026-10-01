@@ -1,0 +1,863 @@
+{
+ "translation": "That is what they call a heart of comfort and a heart of iron. We played together, grew up together, went to school together, and then college. But to this insensitive lump of flesh... Ugh! My blood boiled again. Be quiet, merciless one! I wish that instead of a human, God had made you a rock, on which I couldn't even find a meaningful word. Your indifference doesn't hurt others. Just think, what wrong did innocent Kishwar do to you? What pain did she cause you? She, who is more innocent than a little bird. She, who has bowed her head and endured the world's sorrows, and is still enduring them. She, whom her cruel mother is sacrificing for wealth and fame. She, who is going with her head bowed, willingly, towards the sacrificial altar.",
+ "words": {
+  "1": [
+   "comfort",
+   "राहत",
+   "f.sg"
+  ],
+  "3": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "5": [
+   "liver/courage",
+   "कलेजा",
+   "m.sg"
+  ],
+  "7": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "9": [
+   "iron",
+   "लोहा",
+   "m.sg"
+  ],
+  "11": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "13": [
+   "heart",
+   "दिल",
+   "m.sg"
+  ],
+  "15": [
+   "that very",
+   "उसी",
+   "pron. obl. sg"
+  ],
+  "17": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "19": [
+   "call",
+   "कहना",
+   "verb. pres. pl"
+  ],
+  "21": [
+   "are",
+   "होना",
+   "verb. pres. 3pl"
+  ],
+  "26": [
+   "together",
+   "साथ",
+   "postposition"
+  ],
+  "28": [
+   "played",
+   "खेलना",
+   "perf. m.pl"
+  ],
+  "31": [
+   "together",
+   "साथ",
+   "postposition"
+  ],
+  "33": [
+   "grew",
+   "बढ़ना",
+   "perf. m.pl"
+  ],
+  "36": [
+   "together",
+   "साथ",
+   "postposition"
+  ],
+  "38": [
+   "school",
+   "स्कूल",
+   "m.sg"
+  ],
+  "40": [
+   "went",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "42": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "44": [
+   "then",
+   "फिर",
+   "adverb"
+  ],
+  "46": [
+   "college",
+   "कॉलेज",
+   "m.sg"
+  ],
+  "51": [
+   "but",
+   "मगर",
+   "conjunction"
+  ],
+  "53": [
+   "this",
+   "यह",
+   "pron. obl. sg"
+  ],
+  "55": [
+   "insensitive",
+   "बे-हिस",
+   "adj"
+  ],
+  "57": [
+   "flesh",
+   "गोश्त",
+   "m.sg"
+  ],
+  "59": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "61": [
+   "lump",
+   "लोथड़ा",
+   "m.sg"
+  ],
+  "63": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "69": [
+   "ugh",
+   "ओफ़्फ़ो",
+   "interjection"
+  ],
+  "74": [
+   "my",
+   "मैं",
+   "pron. gen. m.sg"
+  ],
+  "76": [
+   "blood",
+   "ख़ून",
+   "m.sg"
+  ],
+  "78": [
+   "again",
+   "फिर",
+   "adverb"
+  ],
+  "80": [
+   "boiled",
+   "खौलना",
+   "conj. participle"
+  ],
+  "82": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "86": [
+   "quiet",
+   "चुप",
+   "adj"
+  ],
+  "88": [
+   "remain",
+   "रहना",
+   "verb. imp. 2pl"
+  ],
+  "90": [
+   "merciless",
+   "बे-रहम",
+   "adj"
+  ],
+  "92": [
+   "I wish",
+   "काश",
+   "interjection"
+  ],
+  "94": [
+   "instead of",
+   "बजाय",
+   "postposition"
+  ],
+  "96": [
+   "human",
+   "इन्सान",
+   "m.sg"
+  ],
+  "98": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "100": [
+   "God",
+   "ख़ुदा",
+   "m.sg"
+  ],
+  "102": [
+   "you",
+   "तुम",
+   "pron. obl. 2pl"
+  ],
+  "104": [
+   "a",
+   "एक",
+   "numeral"
+  ],
+  "106": [
+   "rock",
+   "चट्टान",
+   "f.sg"
+  ],
+  "108": [
+   "had made",
+   "बनाना",
+   "perf. m.sg"
+  ],
+  "110": [
+   "which",
+   "जो",
+   "pron. obl. sg"
+  ],
+  "112": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "117": [
+   "which",
+   "जो",
+   "pron. obl. sg"
+  ],
+  "119": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "125": [
+   "to me",
+   "मैं",
+   "pron. obl. 1sg"
+  ],
+  "127": [
+   "any",
+   "कोई",
+   "pron. indef"
+  ],
+  "129": [
+   "meaningful",
+   "पुर-मअनी",
+   "adj"
+  ],
+  "131": [
+   "word",
+   "लफ़्ज़",
+   "m.sg"
+  ],
+  "133": [
+   "emphatic: even",
+   "ही",
+   "particle"
+  ],
+  "135": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "137": [
+   "found",
+   "मिलना",
+   "perf. m.sg"
+  ],
+  "141": [
+   "your",
+   "तुम",
+   "pron. gen. f.sg"
+  ],
+  "143": [
+   "indifference",
+   "बेरुख़ी",
+   "f.sg"
+  ],
+  "145": [
+   "others",
+   "दूसरा",
+   "adj. obl. pl"
+  ],
+  "147": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "149": [
+   "pain",
+   "दुख",
+   "m.sg"
+  ],
+  "151": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "153": [
+   "cause",
+   "पहुँचाना",
+   "verb. pres. 3sg f"
+  ],
+  "158": [
+   "just",
+   "ज़रा",
+   "adverb"
+  ],
+  "160": [
+   "think",
+   "सोचना",
+   "verb. imp. 2pl"
+  ],
+  "162": [
+   "innocent",
+   "बेक़ुसूर",
+   "adj"
+  ],
+  "164": [
+   "Kishwar",
+   "किश्वर",
+   "f.sg"
+  ],
+  "166": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "168": [
+   "your",
+   "तुम",
+   "pron. gen. obl. 2pl"
+  ],
+  "170": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "172": [
+   "what",
+   "क्या",
+   "pron. interrogative"
+  ],
+  "174": [
+   "wrong",
+   "बदी",
+   "f.sg"
+  ],
+  "176": [
+   "did",
+   "करना",
+   "perf. f.sg"
+  ],
+  "178": [
+   "is",
+   "होना",
+   "verb. pres. 3sg"
+  ],
+  "181": [
+   "she",
+   "वह",
+   "pron. obl. 3sg"
+  ],
+  "183": [
+   "you",
+   "तुम",
+   "pron. obl. 2pl"
+  ],
+  "185": [
+   "what",
+   "क्या",
+   "pron. interrogative"
+  ],
+  "187": [
+   "pain",
+   "दुख",
+   "m.sg"
+  ],
+  "189": [
+   "caused",
+   "पहुँचाना",
+   "perf. m.sg"
+  ],
+  "192": [
+   "she",
+   "वो",
+   "pron. 3sg"
+  ],
+  "194": [
+   "who",
+   "जो",
+   "pron. rel"
+  ],
+  "196": [
+   "a",
+   "एक",
+   "numeral"
+  ],
+  "198": [
+   "innocent",
+   "मासूम",
+   "adj"
+  ],
+  "200": [
+   "bird",
+   "चिड़िया",
+   "f.sg"
+  ],
+  "202": [
+   "than",
+   "से",
+   "postposition"
+  ],
+  "204": [
+   "even",
+   "भी",
+   "particle"
+  ],
+  "206": [
+   "innocent",
+   "मासूम",
+   "adj"
+  ],
+  "208": [
+   "is",
+   "होना",
+   "verb. pres. 3sg"
+  ],
+  "211": [
+   "she",
+   "वो",
+   "pron. 3sg"
+  ],
+  "213": [
+   "who",
+   "जो",
+   "pron. rel. obl"
+  ],
+  "215": [
+   "head",
+   "सर",
+   "m.sg"
+  ],
+  "217": [
+   "bowed",
+   "झुकना",
+   "conj. participle"
+  ],
+  "219": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "221": [
+   "world",
+   "दुनिया",
+   "f.sg"
+  ],
+  "223": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "225": [
+   "sorrows",
+   "दुख",
+   "m.pl"
+  ],
+  "227": [
+   "endured",
+   "सहना",
+   "conj. participle"
+  ],
+  "229": [
+   "taken",
+   "लेना",
+   "perf. m.pl"
+  ],
+  "231": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "233": [
+   "enduring",
+   "सहना",
+   "conj. participle"
+  ],
+  "235": [
+   "remaining",
+   "रहना",
+   "verb. pres. part. f.sg"
+  ],
+  "237": [
+   "is",
+   "होना",
+   "verb. pres. 3sg"
+  ],
+  "239": [
+   "she",
+   "वो",
+   "pron. 3sg"
+  ],
+  "241": [
+   "whom",
+   "जो",
+   "pron. rel. obl"
+  ],
+  "243": [
+   "her",
+   "वह",
+   "pron. gen. f.sg"
+  ],
+  "245": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "247": [
+   "cruel",
+   "ज़ालिम",
+   "adj"
+  ],
+  "249": [
+   "mother",
+   "माँ",
+   "f.sg"
+  ],
+  "251": [
+   "wealth",
+   "दौलत",
+   "f.sg"
+  ],
+  "253": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "255": [
+   "fame",
+   "शौहरत",
+   "f.sg"
+  ],
+  "257": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "259": [
+   "offering",
+   "भेंट",
+   "f.sg"
+  ],
+  "261": [
+   "offering up",
+   "चढ़ाना",
+   "conj. participle"
+  ],
+  "263": [
+   "remaining",
+   "रहना",
+   "verb. pres. part. f.sg"
+  ],
+  "265": [
+   "is",
+   "होना",
+   "verb. pres. 3sg"
+  ],
+  "268": [
+   "who",
+   "जो",
+   "pron. rel"
+  ],
+  "270": [
+   "head",
+   "सर",
+   "m.sg"
+  ],
+  "272": [
+   "hanging",
+   "लटकाना",
+   "conj. participle"
+  ],
+  "274": [
+   "willingly",
+   "राज़ी-ब-रज़ा",
+   "adverb"
+  ],
+  "276": [
+   "sacrifice",
+   "क़ुर्बान",
+   "m.sg"
+  ],
+  "278": [
+   "place",
+   "गाह",
+   "f.sg"
+  ],
+  "280": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "282": [
+   "towards",
+   "तरफ़",
+   "postposition"
+  ],
+  "284": [
+   "going",
+   "जाना",
+   "conj. participle"
+  ],
+  "286": [
+   "remaining",
+   "रहना",
+   "verb. pres. part. f.sg"
+  ],
+  "288": [
+   "is",
+   "होना",
+   "verb. pres. 3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3,
+    5,
+    7,
+    9,
+    11,
+    13
+   ],
+   "type": "phrase",
+   "literal": "comfort's liver and iron's heart",
+   "meaning": "a heart of comfort and a heart of iron (i.e., a strong, unfeeling heart)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    26,
+    28
+   ],
+   "type": "phrase",
+   "literal": "together played",
+   "meaning": "played together",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    31,
+    33
+   ],
+   "type": "phrase",
+   "literal": "together grew",
+   "meaning": "grew up together",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    36,
+    38,
+    40
+   ],
+   "type": "phrase",
+   "literal": "together school went",
+   "meaning": "went to school together",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    55,
+    57,
+    59,
+    61
+   ],
+   "type": "phrase",
+   "literal": "insensitive flesh's lump",
+   "meaning": "insensitive lump of flesh",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    80,
+    82
+   ],
+   "type": "compound_verb",
+   "literal": "boiled went",
+   "meaning": "boiled (completely)",
+   "note": "जाना as vector verb indicates completion or intensity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    86,
+    88
+   ],
+   "type": "compound_verb",
+   "literal": "quiet remain",
+   "meaning": "be quiet",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    94,
+    96,
+    98
+   ],
+   "type": "postposition",
+   "literal": "instead of human",
+   "meaning": "instead of a human",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    129,
+    131
+   ],
+   "type": "phrase",
+   "literal": "meaningful word",
+   "meaning": "meaningful word",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    149,
+    153
+   ],
+   "type": "conjunct_verb",
+   "literal": "pain not cause",
+   "meaning": "not cause pain",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    187,
+    189
+   ],
+   "type": "conjunct_verb",
+   "literal": "pain caused",
+   "meaning": "caused pain",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    215,
+    217,
+    219
+   ],
+   "type": "phrase",
+   "literal": "head bowed having done",
+   "meaning": "having bowed her head",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    227,
+    229
+   ],
+   "type": "compound_verb",
+   "literal": "endured took",
+   "meaning": "endured (completely)",
+   "note": "लेना as vector verb indicates completion or benefit to the subject",
+   "source": "model"
+  },
+  {
+   "idx": [
+    233,
+    235,
+    237
+   ],
+   "type": "compound_verb",
+   "literal": "enduring remaining is",
+   "meaning": "is enduring",
+   "note": "रहना as vector verb indicates continuity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    259,
+    261,
+    263,
+    265
+   ],
+   "type": "compound_verb",
+   "literal": "offering offering up remaining is",
+   "meaning": "is sacrificing",
+   "note": "चढ़ा देना means to offer up, here with रहना for continuity",
+   "source": "model"
+  },
+  {
+   "idx": [
+    270,
+    272
+   ],
+   "type": "phrase",
+   "literal": "head hanging",
+   "meaning": "with her head bowed",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    274,
+    276,
+    278,
+    280,
+    282
+   ],
+   "type": "postposition",
+   "literal": "willingly sacrifice place's towards",
+   "meaning": "willingly towards the sacrificial altar",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    284,
+    286,
+    288
+   ],
+   "type": "compound_verb",
+   "literal": "going remaining is",
+   "meaning": "is going",
+   "note": "रहना as vector verb indicates continuity",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,444 @@
+{
+ "translation": "Today, our innocent Sita has been expelled from home. Sita, Lajwanti, and Sunderlal Babu started crying. Risalu and Nekiram picked up all those red flags on which, just today, the schoolboys had neatly cut and pasted slogans. And they all marched on, chanting \"Long live Sunderlal Babu!\" From the procession, one person said, \"Long live the great chaste Sita!\" From one side, a voice came, \"Shriramchandra!\"",
+ "words": {
+  "1": [
+   "today",
+   "आज",
+   ""
+  ],
+  "3": [
+   "our",
+   "हमारा",
+   "poss. pl"
+  ],
+  "5": [
+   "Sita",
+   "सीता",
+   "f.sg"
+  ],
+  "7": [
+   "innocent",
+   "निर्दोष",
+   "adj"
+  ],
+  "9": [
+   "home",
+   "घर",
+   "m.sg"
+  ],
+  "11": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "13": [
+   "expelled",
+   "निकालना",
+   "conj. participle"
+  ],
+  "15": [
+   "given",
+   "देना",
+   "perf. f.sg"
+  ],
+  "17": [
+   "went",
+   "जाना",
+   "perf. f.sg"
+  ],
+  "19": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "22": [
+   "Sita",
+   "सीता",
+   "f.sg"
+  ],
+  "24": [
+   "Lajwanti",
+   "लाजवंती",
+   "f.sg"
+  ],
+  "28": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "30": [
+   "Sunderlal",
+   "सुंदरलाल",
+   "m.sg"
+  ],
+  "32": [
+   "Babu",
+   "बाबू",
+   "m.sg"
+  ],
+  "34": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "36": [
+   "to cry",
+   "रोना",
+   "infinitive"
+  ],
+  "38": [
+   "start",
+   "शुरू",
+   "m.sg"
+  ],
+  "40": [
+   "do",
+   "करना",
+   "conj. participle"
+  ],
+  "42": [
+   "gave",
+   "देना",
+   "perf. m.sg"
+  ],
+  "45": [
+   "Risalu",
+   "रिसालू",
+   "m.sg"
+  ],
+  "47": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "49": [
+   "Nekiram",
+   "नेकीराम",
+   "m.sg"
+  ],
+  "51": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "53": [
+   "all",
+   "तमाम",
+   "adj"
+  ],
+  "55": [
+   "those",
+   "वह",
+   "dem. pron. pl"
+  ],
+  "57": [
+   "red",
+   "सुर्ख",
+   "adj"
+  ],
+  "59": [
+   "flags",
+   "झंडा",
+   "m.pl"
+  ],
+  "61": [
+   "having picked up",
+   "उठाना",
+   "conj. participle"
+  ],
+  "63": [
+   "took",
+   "लेना",
+   "perf. m.pl"
+  ],
+  "65": [
+   "which",
+   "जो",
+   "rel. pron. obl. pl"
+  ],
+  "67": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "69": [
+   "today",
+   "आज",
+   ""
+  ],
+  "71": [
+   "emphatic",
+   "ही",
+   "particle"
+  ],
+  "73": [
+   "school",
+   "स्कूल",
+   "m.sg"
+  ],
+  "75": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "77": [
+   "boys",
+   "छोकरा",
+   "m.pl. obl"
+  ],
+  "79": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "81": [
+   "big",
+   "बड़ा",
+   "adj. f.sg"
+  ],
+  "83": [
+   "neatness",
+   "सफाई",
+   "f.sg"
+  ],
+  "85": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "87": [
+   "slogans",
+   "नारा",
+   "m.pl"
+  ],
+  "89": [
+   "having cut",
+   "काटना",
+   "conj. participle"
+  ],
+  "91": [
+   "having pasted",
+   "चिपकाना",
+   "conj. participle"
+  ],
+  "93": [
+   "gave",
+   "देना",
+   "perf. m.pl"
+  ],
+  "95": [
+   "were",
+   "होना",
+   "past. 3pl"
+  ],
+  "97": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "99": [
+   "they",
+   "वह",
+   "pron. 3pl"
+  ],
+  "101": [
+   "all",
+   "सब",
+   "pron. pl"
+  ],
+  "104": [
+   "Sunderlal",
+   "सुंदरलाल",
+   "m.sg"
+  ],
+  "106": [
+   "Babu",
+   "बाबू",
+   "m.sg"
+  ],
+  "108": [
+   "long live",
+   "जिंदाबाद",
+   "exclamation"
+  ],
+  "111": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "113": [
+   "slogans",
+   "नारा",
+   "m.pl"
+  ],
+  "115": [
+   "making",
+   "लगाना",
+   "pres. part. m.pl"
+  ],
+  "117": [
+   "being",
+   "होना",
+   "conj. participle"
+  ],
+  "119": [
+   "having walked",
+   "चलना",
+   "conj. participle"
+  ],
+  "121": [
+   "gave",
+   "देना",
+   "perf. m.pl"
+  ],
+  "124": [
+   "procession",
+   "जुलूस",
+   "m.sg"
+  ],
+  "126": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "128": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "130": [
+   "one",
+   "एक",
+   "num"
+  ],
+  "132": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "134": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "139": [
+   "great chaste woman",
+   "महासती",
+   "f.sg"
+  ],
+  "141": [
+   "Sita",
+   "सीता",
+   "f.sg"
+  ],
+  "144": [
+   "long live",
+   "जिंदाबाद",
+   "exclamation"
+  ],
+  "149": [
+   "one",
+   "एक",
+   "num"
+  ],
+  "151": [
+   "side",
+   "तरफ",
+   "f.sg"
+  ],
+  "153": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "155": [
+   "voice",
+   "आवाज़",
+   "f.sg"
+  ],
+  "157": [
+   "came",
+   "आना",
+   "perf. f.sg"
+  ],
+  "162": [
+   "Shriramchandra",
+   "श्रीरामचंद्र",
+   "m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    13,
+    15,
+    17,
+    19
+   ],
+   "type": "compound_verb",
+   "literal": "having expelled given went is",
+   "meaning": "has been expelled",
+   "note": "passive construction with निकालना + देना + जाना",
+   "source": "model"
+  },
+  {
+   "idx": [
+    36,
+    38,
+    40,
+    42
+   ],
+   "type": "conjunct_verb",
+   "literal": "to cry start having done gave",
+   "meaning": "started crying",
+   "note": "रोना शुरू करना - to start crying",
+   "source": "model"
+  },
+  {
+   "idx": [
+    61,
+    63
+   ],
+   "type": "compound_verb",
+   "literal": "having picked up took",
+   "meaning": "picked up",
+   "note": "उठा लेना - to pick up (vector लेना adds completion/finality)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    89,
+    91,
+    93
+   ],
+   "type": "compound_verb",
+   "literal": "having cut having pasted gave",
+   "meaning": "cut and pasted",
+   "note": "काटकर चिपका देना - to cut and paste (vector देना adds completion/finality)",
+   "source": "model"
+  },
+  {
+   "idx": [
+    115,
+    117
+   ],
+   "type": "compound_verb",
+   "literal": "making being",
+   "meaning": "chanting",
+   "note": "लगाते हुए - while chanting",
+   "source": "model"
+  },
+  {
+   "idx": [
+    119,
+    121
+   ],
+   "type": "compound_verb",
+   "literal": "having walked gave",
+   "meaning": "marched on",
+   "note": "चल देना - to set off, to start walking (vector देना adds suddenness/completion)",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

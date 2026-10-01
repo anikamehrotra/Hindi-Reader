@@ -1,0 +1,280 @@
+{
+ "translation": "I didn't listen to her at all now. From the nearby room, that same gurgling sound was laughing loudly. Deep, suppressed laughter, and Kishwar, as if, was sobbing. Thin and suppressed sighs. \"Lahol wala quwwa!\" she said in a thick voice.",
+ "words": {
+  "0": [
+   "I",
+   "मैं",
+   "1st.sg.obl"
+  ],
+  "2": [
+   "now",
+   "अब",
+   ""
+  ],
+  "4": [
+   "her",
+   "वह",
+   "3rd.sg.obl"
+  ],
+  "6": [
+   "talk",
+   "बात",
+   "f.sg"
+  ],
+  "8": [
+   "at all",
+   "एक",
+   "emphatic"
+  ],
+  "10": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "12": [
+   "heard",
+   "सुनना",
+   "perf.f.sg"
+  ],
+  "15": [
+   "near",
+   "पास",
+   ""
+  ],
+  "17": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "19": [
+   "room",
+   "कमरा",
+   "m.sg.obl"
+  ],
+  "21": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "23": [
+   "that same",
+   "वही",
+   "demonstrative"
+  ],
+  "25": [
+   "gurgling",
+   "गुड़-गुड़ाना",
+   "pres.part.f.sg"
+  ],
+  "27": [
+   "sound",
+   "आवाज़",
+   "f.sg"
+  ],
+  "29": [
+   "loud laughter",
+   "क़ह-क़हा",
+   "m.sg"
+  ],
+  "31": [
+   "applying",
+   "लगाना",
+   "conj.part"
+  ],
+  "33": [
+   "staying",
+   "रहना",
+   "prog.part.f.sg"
+  ],
+  "35": [
+   "was",
+   "होना",
+   "past.f.sg"
+  ],
+  "38": [
+   "suppressed",
+   "दबना",
+   "perf.part.m.pl"
+  ],
+  "40": [
+   "having been",
+   "होना",
+   "perf.part.m.pl"
+  ],
+  "42": [
+   "deep",
+   "गहरा",
+   "adj.m.pl"
+  ],
+  "44": [
+   "loud laughter",
+   "क़ह-क़हा",
+   "m.pl"
+  ],
+  "46": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "48": [
+   "Kishwar",
+   "किश्वर",
+   "f.sg"
+  ],
+  "50": [
+   "as if",
+   "गोया",
+   "adverb"
+  ],
+  "52": [
+   "sobs",
+   "सिसकी",
+   "f.pl"
+  ],
+  "54": [
+   "taking",
+   "लेना",
+   "conj.part"
+  ],
+  "56": [
+   "staying",
+   "रहना",
+   "prog.part.f.sg"
+  ],
+  "58": [
+   "was",
+   "होना",
+   "past.f.sg"
+  ],
+  "61": [
+   "thin",
+   "बारीक",
+   "adj"
+  ],
+  "63": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "65": [
+   "suppressed",
+   "दबना",
+   "perf.part.f.pl"
+  ],
+  "67": [
+   "having been",
+   "होना",
+   "perf.part.f.pl"
+  ],
+  "69": [
+   "sighs",
+   "आह",
+   "f.pl"
+  ],
+  "73": [
+   "Lahol",
+   "लाहौल",
+   "interjection"
+  ],
+  "75": [
+   "wala quwwa",
+   "वलाक़ुव्वा",
+   "interjection"
+  ],
+  "81": [
+   "she",
+   "वह",
+   "3rd.sg"
+  ],
+  "83": [
+   "thick",
+   "मोटा",
+   "adj.f.sg"
+  ],
+  "85": [
+   "voice",
+   "आवाज़",
+   "f.sg.obl"
+  ],
+  "87": [
+   "in",
+   "से",
+   "postposition"
+  ],
+  "89": [
+   "spoke",
+   "बोलना",
+   "perf.f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    8,
+    10,
+    12
+   ],
+   "type": "phrase",
+   "literal": "one not heard",
+   "meaning": "didn't listen at all",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    31
+   ],
+   "type": "conjunct_verb",
+   "literal": "to apply loud laughter",
+   "meaning": "to laugh loudly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    38,
+    40
+   ],
+   "type": "phrase",
+   "literal": "having been suppressed",
+   "meaning": "suppressed",
+   "note": "passive construction",
+   "source": "model"
+  },
+  {
+   "idx": [
+    52,
+    54
+   ],
+   "type": "conjunct_verb",
+   "literal": "to take sobs",
+   "meaning": "to sob",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    65,
+    67
+   ],
+   "type": "phrase",
+   "literal": "having been suppressed",
+   "meaning": "suppressed",
+   "note": "passive construction",
+   "source": "model"
+  },
+  {
+   "idx": [
+    73,
+    75
+   ],
+   "type": "idiom",
+   "literal": "Lahol wala quwwa",
+   "meaning": "There is no power or strength except with God (an exclamation of exasperation, annoyance, or to ward off evil)",
+   "note": "From Arabic: 'La hawla wa la quwwata illa billah'. Often used as an exclamation of dismay or to express that something is beyond one's control.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

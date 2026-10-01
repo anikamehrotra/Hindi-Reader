@@ -1,0 +1,351 @@
+{
+ "translation": "Bishan Singh looked at Fazaldeen and began to mumble something. Fazaldeen stepped forward and placed his hand on his shoulder. \"I had been thinking for many days that I should meet you, but I didn't get the chance. All your people have gone to Hindustan safely. I helped as much as I could. Your daughter Roop Kaur...\"",
+ "words": {
+  "0": [
+   "Bishan",
+   "बिशन",
+   ""
+  ],
+  "2": [
+   "Singh",
+   "सिंह",
+   ""
+  ],
+  "4": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "6": [
+   "Fazaldeen",
+   "फ़ज़लदीन",
+   ""
+  ],
+  "8": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "10": [
+   "direction",
+   "ओर",
+   "postposition"
+  ],
+  "12": [
+   "looked",
+   "देखना",
+   "perf. m.sg"
+  ],
+  "14": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "16": [
+   "something",
+   "कुछ",
+   "pronoun"
+  ],
+  "18": [
+   "mumbling",
+   "बड़बड़ाना",
+   "inf. obl"
+  ],
+  "20": [
+   "began",
+   "लगना",
+   "perf. m.sg"
+  ],
+  "24": [
+   "Fazaldeen",
+   "फ़ज़लदीन",
+   ""
+  ],
+  "26": [
+   "agent marker",
+   "ने",
+   "postposition"
+  ],
+  "28": [
+   "forward",
+   "आगे",
+   "adverb"
+  ],
+  "30": [
+   "having stepped",
+   "बढ़ना",
+   "conj. participle"
+  ],
+  "33": [
+   "his",
+   "वह",
+   "obl. sg"
+  ],
+  "35": [
+   "shoulder",
+   "कन्धा",
+   "sg"
+  ],
+  "37": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "39": [
+   "hand",
+   "हाथ",
+   "m.sg"
+  ],
+  "41": [
+   "placed",
+   "रखना",
+   "perf. m.sg"
+  ],
+  "45": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "47": [
+   "very",
+   "बहुत",
+   "adverb"
+  ],
+  "49": [
+   "days",
+   "दिन",
+   "m.pl"
+  ],
+  "51": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "53": [
+   "thinking",
+   "सोचना",
+   "pres. part."
+  ],
+  "55": [
+   "remaining",
+   "रहना",
+   "perf. m.sg"
+  ],
+  "57": [
+   "was",
+   "होना",
+   "past. m.sg"
+  ],
+  "59": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "61": [
+   "you",
+   "तुम",
+   "obl. 2sg"
+  ],
+  "63": [
+   "I should meet",
+   "मिलना",
+   "subj. 1sg"
+  ],
+  "66": [
+   "but",
+   "लेकिन",
+   "conjunction"
+  ],
+  "68": [
+   "leisure/opportunity",
+   "फुरसत",
+   "f.sg"
+  ],
+  "70": [
+   "emphatic: indeed",
+   "ही",
+   "particle"
+  ],
+  "72": [
+   "not",
+   "न",
+   "particle"
+  ],
+  "74": [
+   "was found",
+   "मिलना",
+   "perf. f.sg"
+  ],
+  "77": [
+   "your",
+   "तुम",
+   "poss. 2sg"
+  ],
+  "79": [
+   "all",
+   "सब",
+   "adjective"
+  ],
+  "81": [
+   "people",
+   "आदमी",
+   "m.pl"
+  ],
+  "83": [
+   "safely",
+   "खैरियत",
+   "f.sg"
+  ],
+  "85": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "87": [
+   "Hindustan",
+   "हिन्दुस्तान",
+   "m.sg"
+  ],
+  "89": [
+   "gone",
+   "चलना",
+   "perf. m.pl"
+  ],
+  "91": [
+   "gone",
+   "जाना",
+   "perf. m.pl"
+  ],
+  "93": [
+   "are",
+   "होना",
+   "pres. pl"
+  ],
+  "96": [
+   "by me",
+   "मैं",
+   "obl. 1sg"
+  ],
+  "98": [
+   "as much as",
+   "जितना",
+   "adjective"
+  ],
+  "100": [
+   "help",
+   "मदद",
+   "f.sg"
+  ],
+  "102": [
+   "could be",
+   "होना",
+   "conj. part."
+  ],
+  "104": [
+   "could",
+   "सकना",
+   "perf. f.sg"
+  ],
+  "107": [
+   "by me",
+   "मैं",
+   "obl. 1sg"
+  ],
+  "109": [
+   "did",
+   "करना",
+   "perf. f.sg"
+  ],
+  "112": [
+   "your",
+   "तुम",
+   "poss. 2sg"
+  ],
+  "114": [
+   "daughter",
+   "बेटी",
+   "f.sg"
+  ],
+  "116": [
+   "Roop",
+   "रूप",
+   ""
+  ],
+  "118": [
+   "Kaur",
+   "कौर",
+   ""
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    8,
+    10
+   ],
+   "type": "postposition",
+   "literal": "of direction",
+   "meaning": "towards",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    18,
+    20
+   ],
+   "type": "compound_verb",
+   "literal": "mumbling began",
+   "meaning": "began to mumble",
+   "note": "लगना as a vector verb indicates the beginning of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    28,
+    30
+   ],
+   "type": "phrase",
+   "literal": "forward having stepped",
+   "meaning": "stepped forward",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    53,
+    55,
+    57
+   ],
+   "type": "compound_verb",
+   "literal": "thinking remaining was",
+   "meaning": "had been thinking",
+   "note": "रहना as a vector verb indicates continuation of an action; था indicates past perfect continuous.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    89,
+    91,
+    93
+   ],
+   "type": "compound_verb",
+   "literal": "gone gone are",
+   "meaning": "have gone",
+   "note": "जाना as a vector verb indicates completion of an action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    102,
+    104
+   ],
+   "type": "compound_verb",
+   "literal": "could be able",
+   "meaning": "could be done",
+   "note": "सकना as a vector verb indicates ability or possibility.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

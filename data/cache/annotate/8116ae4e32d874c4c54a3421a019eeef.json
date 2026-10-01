@@ -1,0 +1,525 @@
+{
+ "translation": "When I was returning to the veranda with faltering steps, head bowed, I saw Zameer with a long parcel. He was taking out a new racket for himself from it. She herself was engrossed in looking at the sparkle of the ring on her finger. She laughed, but my ears, far from my body, were hearing a song of death somewhere, and my eyes were seeing thousands of funeral processions passing in the air.",
+ "words": {
+  "0": [
+   "when",
+   "जब",
+   ""
+  ],
+  "2": [
+   "I",
+   "मैं",
+   "1sg.nom"
+  ],
+  "4": [
+   "veranda",
+   "बरामदा",
+   "m.sg.obl"
+  ],
+  "6": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "8": [
+   "head",
+   "सर",
+   "m.sg"
+  ],
+  "10": [
+   "hanging",
+   "लटकाना",
+   "conj. participle"
+  ],
+  "12": [
+   "faltering",
+   "लड़खड़ाना",
+   "conj. participle"
+  ],
+  "14": [
+   "steps",
+   "क़दम",
+   "m.pl.obl"
+  ],
+  "16": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "18": [
+   "back",
+   "वापिस",
+   "adv"
+  ],
+  "20": [
+   "being",
+   "होना",
+   "conj. participle"
+  ],
+  "22": [
+   "staying",
+   "रहना",
+   "f.sg"
+  ],
+  "24": [
+   "was",
+   "होना",
+   "f.sg"
+  ],
+  "26": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "28": [
+   "I",
+   "मैं",
+   "1sg.erg"
+  ],
+  "30": [
+   "Zameer",
+   "ज़मीर",
+   "m.sg"
+  ],
+  "32": [
+   "to",
+   "को",
+   "postposition"
+  ],
+  "34": [
+   "a",
+   "एक",
+   "indef. art"
+  ],
+  "36": [
+   "long",
+   "लम्बा",
+   "adj.m.sg"
+  ],
+  "38": [
+   "like",
+   "सा",
+   "particle"
+  ],
+  "40": [
+   "parcel",
+   "पार्सल",
+   "m.sg"
+  ],
+  "42": [
+   "taken",
+   "लेना",
+   "conj. participle"
+  ],
+  "44": [
+   "saw",
+   "देखना",
+   "perf.m.sg"
+  ],
+  "46": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "48": [
+   "in it",
+   "वह",
+   "3sg.obl + postposition"
+  ],
+  "50": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "52": [
+   "his",
+   "वह",
+   "3sg.gen.m"
+  ],
+  "54": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "56": [
+   "new",
+   "नया",
+   "adj.m.sg"
+  ],
+  "58": [
+   "racket",
+   "रैकट",
+   "m.sg"
+  ],
+  "60": [
+   "taking out",
+   "निकालना",
+   "conj. participle"
+  ],
+  "62": [
+   "staying",
+   "रहना",
+   "m.sg"
+  ],
+  "64": [
+   "was",
+   "होना",
+   "m.sg"
+  ],
+  "67": [
+   "she",
+   "वो",
+   "3sg.nom"
+  ],
+  "69": [
+   "herself",
+   "ख़ुद",
+   "pron"
+  ],
+  "71": [
+   "her own",
+   "अपना",
+   "pos.adj.f.sg"
+  ],
+  "73": [
+   "finger",
+   "उंगली",
+   "f.sg"
+  ],
+  "75": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "77": [
+   "ring",
+   "अँगूठी",
+   "f.sg"
+  ],
+  "79": [
+   "of",
+   "का",
+   "gen.f.sg"
+  ],
+  "81": [
+   "sparkle",
+   "चमक",
+   "f.sg"
+  ],
+  "83": [
+   "seeing",
+   "देखना",
+   "inf.obl"
+  ],
+  "85": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "87": [
+   "engrossed",
+   "ग़र्क़",
+   "adj"
+  ],
+  "89": [
+   "was",
+   "होना",
+   "f.sg"
+  ],
+  "92": [
+   "she",
+   "वो",
+   "3sg.nom"
+  ],
+  "94": [
+   "laughed",
+   "हँसना",
+   "perf.3pl"
+  ],
+  "97": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "99": [
+   "my",
+   "मैं",
+   "1sg.gen.m.pl"
+  ],
+  "101": [
+   "ears",
+   "कान",
+   "m.pl"
+  ],
+  "103": [
+   "my",
+   "मैं",
+   "1sg.gen.m.sg"
+  ],
+  "105": [
+   "body",
+   "जिस्म",
+   "m.sg"
+  ],
+  "107": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "109": [
+   "far",
+   "दूर",
+   "adv"
+  ],
+  "111": [
+   "somewhere",
+   "कहीं",
+   "adv"
+  ],
+  "113": [
+   "death",
+   "मौत",
+   "f.sg"
+  ],
+  "115": [
+   "of",
+   "का",
+   "gen.m.sg"
+  ],
+  "117": [
+   "like",
+   "सा",
+   "particle"
+  ],
+  "119": [
+   "song",
+   "नग़मा",
+   "m.sg"
+  ],
+  "121": [
+   "hearing",
+   "सुनना",
+   "conj. participle"
+  ],
+  "123": [
+   "staying",
+   "रहना",
+   "m.pl"
+  ],
+  "125": [
+   "were",
+   "होना",
+   "m.pl"
+  ],
+  "127": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "129": [
+   "my",
+   "मैं",
+   "1sg.gen.f.pl"
+  ],
+  "131": [
+   "eyes",
+   "आँख",
+   "f.pl"
+  ],
+  "133": [
+   "air",
+   "फ़िज़ा",
+   "f.sg"
+  ],
+  "135": [
+   "in",
+   "मैं",
+   "postposition"
+  ],
+  "137": [
+   "thousands",
+   "हज़ार",
+   "num.pl"
+  ],
+  "139": [
+   "funerals",
+   "जनाज़ा",
+   "m.pl.obl"
+  ],
+  "141": [
+   "of",
+   "का",
+   "gen.m.pl"
+  ],
+  "143": [
+   "processions",
+   "जलूस",
+   "m.pl"
+  ],
+  "145": [
+   "passing",
+   "गुज़रना",
+   "perf.m.pl"
+  ],
+  "147": [
+   "seeing",
+   "देखना",
+   "conj. participle"
+  ],
+  "149": [
+   "staying",
+   "रहना",
+   "f.pl"
+  ],
+  "151": [
+   "were",
+   "होना",
+   "f.pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    8,
+    10
+   ],
+   "type": "phrase",
+   "literal": "head hanging",
+   "meaning": "with head bowed",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    12,
+    14,
+    16
+   ],
+   "type": "phrase",
+   "literal": "with faltering steps",
+   "meaning": "with faltering steps",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    18,
+    20,
+    22,
+    24
+   ],
+   "type": "compound_verb",
+   "literal": "was being returned",
+   "meaning": "was returning",
+   "note": "होना + रहना forms a continuous aspect",
+   "source": "model"
+  },
+  {
+   "idx": [
+    36,
+    38
+   ],
+   "type": "phrase",
+   "literal": "long like",
+   "meaning": "quite long, a longish",
+   "note": "सा adds an approximate or qualifying sense",
+   "source": "model"
+  },
+  {
+   "idx": [
+    42,
+    44
+   ],
+   "type": "compound_verb",
+   "literal": "took saw",
+   "meaning": "saw (him) taking",
+   "note": "लेना as a vector verb here implies the action was completed or observed",
+   "source": "model"
+  },
+  {
+   "idx": [
+    60,
+    62,
+    64
+   ],
+   "type": "compound_verb",
+   "literal": "was taking out",
+   "meaning": "was taking out",
+   "note": "रहना + होना forms a continuous aspect",
+   "source": "model"
+  },
+  {
+   "idx": [
+    87,
+    89
+   ],
+   "type": "conjunct_verb",
+   "literal": "engrossed was",
+   "meaning": "was engrossed",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    109,
+    111
+   ],
+   "type": "phrase",
+   "literal": "far somewhere",
+   "meaning": "somewhere far away",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    113,
+    115,
+    117,
+    119
+   ],
+   "type": "phrase",
+   "literal": "like a song of death",
+   "meaning": "a death-like song, a song of death",
+   "note": "सा adds an approximate or qualifying sense",
+   "source": "model"
+  },
+  {
+   "idx": [
+    121,
+    123,
+    125
+   ],
+   "type": "compound_verb",
+   "literal": "were hearing",
+   "meaning": "were hearing",
+   "note": "रहना + होना forms a continuous aspect",
+   "source": "model"
+  },
+  {
+   "idx": [
+    137,
+    139,
+    141,
+    143
+   ],
+   "type": "phrase",
+   "literal": "processions of thousands of funerals",
+   "meaning": "thousands of funeral processions",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    147,
+    149,
+    151
+   ],
+   "type": "compound_verb",
+   "literal": "were seeing",
+   "meaning": "were seeing",
+   "note": "रहना + होना forms a continuous aspect",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

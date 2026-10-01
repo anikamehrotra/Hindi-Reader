@@ -1,0 +1,529 @@
+{
+ "translation": "He would find out. So he would tell the warder that his meeting was coming up. On that day, he would bathe well, rub a lot of soap on his body, and comb his hair after putting oil in it. He would take out and wear his clothes that he never used. And thus, having dressed up, he would go to those who came to meet him. If they asked him anything, he would remain silent or occasionally say \"Opad di gudgud di anekas di bedhyana di mung di dal of di lalten.\"",
+ "words": {
+  "2": [
+   "to know",
+   "पता",
+   ""
+  ],
+  "4": [
+   "to come",
+   "चलना",
+   "conj. participle"
+  ],
+  "6": [
+   "to go",
+   "जाना",
+   "perf. m.sg"
+  ],
+  "8": [
+   "was",
+   "होना",
+   "past cont. m.sg"
+  ],
+  "12": [
+   "so",
+   "चुनाँचे",
+   ""
+  ],
+  "14": [
+   "he",
+   "वह",
+   "m.sg"
+  ],
+  "16": [
+   "warder",
+   "दफ़ेदार",
+   "m.sg"
+  ],
+  "18": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "20": [
+   "would say",
+   "कहना",
+   "habitual past m.sg"
+  ],
+  "22": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "24": [
+   "his",
+   "उसका",
+   "poss. m.sg"
+  ],
+  "26": [
+   "meeting",
+   "मुलाक़ात",
+   "f.sg"
+  ],
+  "28": [
+   "coming",
+   "आना",
+   "pres. part."
+  ],
+  "30": [
+   "remaining",
+   "रहना",
+   "pres. part. f.sg"
+  ],
+  "32": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "35": [
+   "that",
+   "वह",
+   "adj. m.sg"
+  ],
+  "37": [
+   "day",
+   "दिन",
+   "m.sg"
+  ],
+  "39": [
+   "he",
+   "वह",
+   "m.sg"
+  ],
+  "41": [
+   "well",
+   "अच्छा",
+   "f.sg"
+  ],
+  "43": [
+   "way",
+   "तरह",
+   "f.sg"
+  ],
+  "45": [
+   "would bathe",
+   "नहाना",
+   "habitual past m.sg"
+  ],
+  "48": [
+   "body",
+   "शरीर",
+   "m.sg"
+  ],
+  "50": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "52": [
+   "a lot",
+   "खूब",
+   "adverb"
+  ],
+  "54": [
+   "soap",
+   "साबुन",
+   "m.sg"
+  ],
+  "56": [
+   "would rub",
+   "मलना",
+   "habitual past m.sg"
+  ],
+  "58": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "60": [
+   "head",
+   "सिर",
+   "m.sg"
+  ],
+  "62": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "64": [
+   "oil",
+   "तेल",
+   "m.sg"
+  ],
+  "66": [
+   "putting",
+   "डालना",
+   "conj. participle"
+  ],
+  "68": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "70": [
+   "comb",
+   "कंघी",
+   "f.sg"
+  ],
+  "72": [
+   "would do",
+   "करना",
+   "habitual past m.sg"
+  ],
+  "76": [
+   "his own",
+   "अपना",
+   "poss. m.sg"
+  ],
+  "78": [
+   "clothes",
+   "कपड़ा",
+   "m.pl"
+  ],
+  "81": [
+   "which",
+   "जो",
+   "pronoun"
+  ],
+  "83": [
+   "ever",
+   "कभी",
+   "adverb"
+  ],
+  "85": [
+   "use",
+   "इस्तेमाल",
+   "m.sg"
+  ],
+  "87": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "89": [
+   "would do",
+   "करना",
+   "habitual past m.sg"
+  ],
+  "91": [
+   "was",
+   "होना",
+   "past cont. m.sg"
+  ],
+  "94": [
+   "having taken out",
+   "निकलवाना",
+   "conj. participle"
+  ],
+  "96": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "98": [
+   "would wear",
+   "पहनना",
+   "habitual past m.sg"
+  ],
+  "100": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "102": [
+   "thus",
+   "यूँ",
+   "adverb"
+  ],
+  "104": [
+   "having dressed up",
+   "बन-सँवरना",
+   "conj. participle"
+  ],
+  "106": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "108": [
+   "to meet",
+   "मिलना",
+   "inf. obl."
+  ],
+  "110": [
+   "ones",
+   "वाला",
+   "agentive m.pl.obl"
+  ],
+  "112": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "114": [
+   "near",
+   "पास",
+   "postposition"
+  ],
+  "116": [
+   "would go",
+   "जाना",
+   "habitual past m.sg"
+  ],
+  "120": [
+   "they",
+   "वह",
+   "m.pl"
+  ],
+  "122": [
+   "from him",
+   "वह",
+   "obl. m.sg"
+  ],
+  "124": [
+   "anything",
+   "कुछ",
+   "pronoun"
+  ],
+  "126": [
+   "would ask",
+   "पूछना",
+   "habitual past m.pl"
+  ],
+  "129": [
+   "then",
+   "तो",
+   "conjunction"
+  ],
+  "131": [
+   "silent",
+   "चुप",
+   "adjective"
+  ],
+  "133": [
+   "would remain",
+   "रहना",
+   "habitual past m.sg"
+  ],
+  "135": [
+   "or",
+   "या",
+   "conjunction"
+  ],
+  "137": [
+   "occasionally",
+   "कभी-कभार",
+   "adverb"
+  ],
+  "142": [
+   "Opad",
+   "ओपड़",
+   "proper noun"
+  ],
+  "144": [
+   "of",
+   "देना",
+   "postposition (corrupted)"
+  ],
+  "147": [
+   "Gudgud",
+   "गुड़गुड़",
+   "proper noun"
+  ],
+  "149": [
+   "of",
+   "देना",
+   "postposition (corrupted)"
+  ],
+  "152": [
+   "Anekas",
+   "अनेकस",
+   "proper noun"
+  ],
+  "154": [
+   "of",
+   "देना",
+   "postposition (corrupted)"
+  ],
+  "157": [
+   "Bedhyana",
+   "बेध्याना",
+   "proper noun"
+  ],
+  "159": [
+   "of",
+   "देना",
+   "postposition (corrupted)"
+  ],
+  "162": [
+   "Mung",
+   "मूंग",
+   "proper noun"
+  ],
+  "164": [
+   "of",
+   "देना",
+   "postposition (corrupted)"
+  ],
+  "166": [
+   "Dal",
+   "दाल",
+   "proper noun"
+  ],
+  "168": [
+   "of",
+   "ऑफ़",
+   "postposition (English)"
+  ],
+  "170": [
+   "the",
+   "देना",
+   "article (corrupted)"
+  ],
+  "172": [
+   "Lantern",
+   "लालटेन",
+   "proper noun"
+  ],
+  "175": [
+   "saying",
+   "कहना",
+   "conj. participle"
+  ],
+  "177": [
+   "would give",
+   "देना",
+   "habitual past m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    2,
+    4,
+    6,
+    8
+   ],
+   "type": "compound_verb",
+   "literal": "knowledge come go was",
+   "meaning": "would find out",
+   "note": "चल जाना is a compound verb meaning 'to become known' or 'to be revealed'. Here, with पता, it means 'to find out'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    28,
+    30,
+    32
+   ],
+   "type": "compound_verb",
+   "literal": "coming remaining is",
+   "meaning": "is coming up",
+   "note": "आ रही है indicates a continuous or impending action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    41,
+    43
+   ],
+   "type": "phrase",
+   "literal": "good way",
+   "meaning": "well, properly",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    66,
+    68
+   ],
+   "type": "compound_verb",
+   "literal": "having put having done",
+   "meaning": "after putting",
+   "note": "डाल कर is a conjunctive participle construction, meaning 'having put' or 'after putting'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    94,
+    96
+   ],
+   "type": "compound_verb",
+   "literal": "having caused to take out of",
+   "meaning": "having taken out",
+   "note": "निकलवा के is a colloquial form of निकलवा कर, a conjunctive participle meaning 'having caused to take out'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    104,
+    106
+   ],
+   "type": "conjunct_verb",
+   "literal": "made-adorned having done",
+   "meaning": "having dressed up, having groomed oneself",
+   "note": "बन-सँवरना is a conjunct verb meaning 'to dress up' or 'to groom oneself'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    108,
+    110,
+    112,
+    114
+   ],
+   "type": "postposition",
+   "literal": "to meet ones of near",
+   "meaning": "to those who came to meet",
+   "note": "मिलने वालों के पास literally means 'near the ones who come to meet'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    131,
+    133
+   ],
+   "type": "compound_verb",
+   "literal": "silent would remain",
+   "meaning": "would remain silent",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    137
+   ],
+   "type": "phrase",
+   "literal": "sometimes-rarely",
+   "meaning": "occasionally, rarely",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    142,
+    144,
+    147,
+    149,
+    152,
+    154,
+    157,
+    159,
+    162,
+    164,
+    166,
+    168,
+    170,
+    172
+   ],
+   "type": "phrase",
+   "literal": "Opad of Gudgud of Anekas of Bedhyana of Mung of Dal of the Lantern",
+   "meaning": "Opad di Gudgud di Anekas di Bedhyana di Mung di Dal of the Lantern",
+   "note": "This is a nonsensical phrase spoken by Bishan Singh, representing his fragmented and confused speech. The 'di' is a corruption of 'की' (ki) or 'दे' (de), and 'ऑफ़ दी' is English 'of the'.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

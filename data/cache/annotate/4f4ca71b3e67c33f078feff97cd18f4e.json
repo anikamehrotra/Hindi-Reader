@@ -1,0 +1,350 @@
+{
+ "translation": "So what, I asked, 'Hey brother, isn't it that I don't know, I don't have intelligence like yours, and don't argue with me. Do you remember that I could never argue at all? This is the point, that Zameer...'",
+ "words": {
+  "1": [
+   "then, so",
+   "जभी",
+   ""
+  ],
+  "3": [
+   "emphatic particle",
+   "तो",
+   ""
+  ],
+  "5": [
+   "what",
+   "क्या",
+   "interrogative pronoun"
+  ],
+  "11": [
+   "by me",
+   "मैं",
+   "obl. sg. by postposition"
+  ],
+  "13": [
+   "burning",
+   "जलना",
+   "stem"
+  ],
+  "15": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "17": [
+   "asked",
+   "पूछना",
+   "perf. m.sg"
+  ],
+  "21": [
+   "hey",
+   "ए",
+   "interjection"
+  ],
+  "23": [
+   "brother",
+   "भई",
+   "vocative"
+  ],
+  "25": [
+   "this very",
+   "यही",
+   "emphatic demonstrative"
+  ],
+  "27": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "32": [
+   "brother",
+   "भई",
+   "vocative"
+  ],
+  "34": [
+   "to me",
+   "मैं",
+   "obl. sg. by postposition"
+  ],
+  "36": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "41": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "43": [
+   "known",
+   "मालूम",
+   "adjective"
+  ],
+  "45": [
+   "known",
+   "मालूम",
+   "adjective"
+  ],
+  "47": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "49": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "51": [
+   "in me",
+   "मैं",
+   "obl. sg. by postposition"
+  ],
+  "53": [
+   "your",
+   "तुम",
+   "poss. f.sg"
+  ],
+  "55": [
+   "like",
+   "जैसा",
+   "postposition"
+  ],
+  "57": [
+   "intelligence",
+   "अक़्ल",
+   "f.sg"
+  ],
+  "59": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "61": [
+   "and",
+   "और",
+   "conjunction"
+  ],
+  "63": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "65": [
+   "with me",
+   "मैं",
+   "obl. sg. by postposition"
+  ],
+  "67": [
+   "argument",
+   "बहस",
+   "f.sg"
+  ],
+  "69": [
+   "done",
+   "करना",
+   "perf. f.sg"
+  ],
+  "71": [
+   "go",
+   "जाना",
+   "subj. 3sg"
+  ],
+  "76": [
+   "to you",
+   "तुम",
+   "obl. pl"
+  ],
+  "78": [
+   "remembered",
+   "याद",
+   "f.sg"
+  ],
+  "80": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "82": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "84": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "86": [
+   "emphatic particle",
+   "तो",
+   ""
+  ],
+  "88": [
+   "any",
+   "कोई",
+   "indefinite pronoun"
+  ],
+  "93": [
+   "completely",
+   "बिलकुल",
+   "adverb"
+  ],
+  "98": [
+   "brother",
+   "भई",
+   "vocative"
+  ],
+  "100": [
+   "ever",
+   "कभी",
+   "adverb"
+  ],
+  "102": [
+   "argument",
+   "बहस",
+   "f.sg"
+  ],
+  "104": [
+   "do",
+   "करना",
+   "stem"
+  ],
+  "106": [
+   "emphatic particle",
+   "ही",
+   ""
+  ],
+  "108": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "110": [
+   "could",
+   "सकना",
+   "perf. f.sg"
+  ],
+  "112": [
+   "this very",
+   "यही",
+   "emphatic demonstrative"
+  ],
+  "114": [
+   "emphatic particle",
+   "तो",
+   ""
+  ],
+  "116": [
+   "matter",
+   "बात",
+   "f.sg"
+  ],
+  "118": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "120": [
+   "that",
+   "कि",
+   "conjunction"
+  ],
+  "122": [
+   "Zameer",
+   "ज़मीर",
+   "m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3,
+    5
+   ],
+   "type": "phrase",
+   "literal": "then emphatic what",
+   "meaning": "So what?",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    13,
+    15,
+    17
+   ],
+   "type": "compound_verb",
+   "literal": "having burned asked",
+   "meaning": "asked angrily/impatiently",
+   "note": "जलना (to burn) as a main verb, करना (to do) as a conjunctive participle, and पूछना (to ask) as the main verb. The conjunctive participle adds the sense of 'having done X, then did Y'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    41,
+    43,
+    45,
+    47
+   ],
+   "type": "conjunct_verb",
+   "literal": "not known is",
+   "meaning": "don't know",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    71
+   ],
+   "type": "compound_verb",
+   "literal": "done go",
+   "meaning": "should be done",
+   "note": "Passive construction with जाना as the vector verb, indicating that the action should not be performed.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    78,
+    80
+   ],
+   "type": "conjunct_verb",
+   "literal": "remembered is",
+   "meaning": "do you remember",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    100,
+    102,
+    104,
+    106,
+    108,
+    110
+   ],
+   "type": "compound_verb",
+   "literal": "ever argument do emphatic not could",
+   "meaning": "could never argue at all",
+   "note": "The 'ही ना सकना' construction emphasizes the inability to do something.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    112,
+    114,
+    116,
+    118
+   ],
+   "type": "phrase",
+   "literal": "this very emphatic matter is",
+   "meaning": "This is the point",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

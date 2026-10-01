@@ -1,0 +1,86 @@
+{
+ "translation": "Not in India, not in Pakistan, Fazaldeen seemed to have gone mad.",
+ "words": {
+  "1": [
+   "India",
+   "हिन्दुस्तान",
+   "n.sg"
+  ],
+  "3": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "10": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "13": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "19": [
+   "Pakistan",
+   "पाकिस्तान",
+   "n.sg"
+  ],
+  "21": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "33": [
+   "Fazaldeen",
+   "फज़लदीन",
+   "n.sg"
+  ],
+  "35": [
+   "somewhat agitated/mad",
+   "बौखला-सा",
+   "adj"
+  ],
+  "37": [
+   "went",
+   "जाना",
+   "perf. m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3
+   ],
+   "type": "postposition",
+   "literal": "Hindustan in",
+   "meaning": "in India",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    19,
+    21
+   ],
+   "type": "postposition",
+   "literal": "Pakistan in",
+   "meaning": "in Pakistan",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    35,
+    37
+   ],
+   "type": "compound_verb",
+   "literal": "agitated-like went",
+   "meaning": "seemed to have gone mad/agitated",
+   "note": "The 'सा' suffix adds a sense of 'like' or 'as if', softening the statement.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

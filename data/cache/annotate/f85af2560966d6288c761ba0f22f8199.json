@@ -1,0 +1,196 @@
+{
+ "translation": "“She will definitely find someone. She won't lack anything. This is what I'm saying, she's foolish. Yes, that's the point. That's why I'm saying it.” Rahat beamed with joy.",
+ "words": {
+  "1": [
+   "will find",
+   "मिलना",
+   "fut. 3sg f"
+  ],
+  "3": [
+   "emphatic: definitely",
+   "ही",
+   "emphatic particle"
+  ],
+  "5": [
+   "will go/become",
+   "जाना",
+   "fut. 3sg f"
+  ],
+  "10": [
+   "to her",
+   "वह",
+   "obl. sg"
+  ],
+  "12": [
+   "lack",
+   "कमी",
+   "f.sg"
+  ],
+  "14": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "17": [
+   "this",
+   "यह",
+   "dem. pron. sg"
+  ],
+  "19": [
+   "indeed",
+   "तो",
+   "particle"
+  ],
+  "24": [
+   "she",
+   "वह",
+   "pron. sg"
+  ],
+  "26": [
+   "foolish",
+   "बेवक़ूफ़",
+   "adj. m.sg"
+  ],
+  "28": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "33": [
+   "yes",
+   "हाँ",
+   "interjection"
+  ],
+  "38": [
+   "this",
+   "यह",
+   "dem. pron. sg"
+  ],
+  "40": [
+   "point",
+   "बात",
+   "f.sg"
+  ],
+  "42": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "44": [
+   "that's why",
+   "जभी",
+   "adv"
+  ],
+  "46": [
+   "then",
+   "तो",
+   "particle"
+  ],
+  "48": [
+   "I",
+   "मैं",
+   "pron. 1sg"
+  ],
+  "50": [
+   "say",
+   "कहना",
+   "pres. part. f.sg"
+  ],
+  "52": [
+   "am",
+   "होना",
+   "pres. 1sg"
+  ],
+  "58": [
+   "Rahat",
+   "राहत",
+   "f.sg"
+  ],
+  "60": [
+   "joy",
+   "ख़ुशी",
+   "f.sg"
+  ],
+  "62": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "64": [
+   "beamed",
+   "चमकना",
+   "perf. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    5
+   ],
+   "type": "compound_verb",
+   "literal": "to meet go",
+   "meaning": "to find, to get",
+   "note": "जाना as vector verb adds sense of completion or certainty",
+   "source": "model"
+  },
+  {
+   "idx": [
+    1,
+    3,
+    5
+   ],
+   "type": "compound_verb",
+   "literal": "to meet indeed go",
+   "meaning": "will definitely find/get",
+   "note": "ही adds emphasis to the certainty",
+   "source": "model"
+  },
+  {
+   "idx": [
+    10,
+    12,
+    14
+   ],
+   "type": "phrase",
+   "literal": "to her lack not",
+   "meaning": "she won't lack anything",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    44,
+    46
+   ],
+   "type": "phrase",
+   "literal": "then then",
+   "meaning": "that's why",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    50,
+    52
+   ],
+   "type": "compound_verb",
+   "literal": "say am",
+   "meaning": "am saying",
+   "note": "कहना + होना forms a continuous aspect",
+   "source": "model"
+  },
+  {
+   "idx": [
+    60,
+    62
+   ],
+   "type": "phrase",
+   "literal": "with joy",
+   "meaning": "with joy",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

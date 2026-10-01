@@ -1,0 +1,47 @@
+{
+ "translation": "This is Bedi. Photo courtesy: Padma Machdev, Lajwanti.",
+ "words": {
+  "2": [
+   "this very",
+   "यही",
+   "pron. emphatic"
+  ],
+  "4": [
+   "is",
+   "होना",
+   "pres. 3sg"
+  ],
+  "8": [
+   "Bedi (name)",
+   "बेदी",
+   "prop. n."
+  ],
+  "10": [
+   "photo",
+   "फोटो",
+   "n. m. sg."
+  ],
+  "12": [
+   "courtesy",
+   "सौजन्य",
+   "n. m. sg."
+  ],
+  "16": [
+   "Padma (name)",
+   "पद्मा",
+   "prop. n."
+  ],
+  "18": [
+   "Machdev (name)",
+   "मचदेव",
+   "prop. n."
+  ],
+  "20": [
+   "Lajwanti (name)",
+   "लाजवंती",
+   "prop. n."
+  ]
+ },
+ "units": [],
+ "model": "google/gemini-2.5-flash"
+}

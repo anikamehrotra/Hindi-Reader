@@ -1,0 +1,118 @@
+{
+ "translation": "You call him a 'skinny wretch', but ask Kishwar's heart: Kishwar is always rotten.",
+ "words": {
+  "1": [
+   "you",
+   "तुम",
+   "2nd pl. pron."
+  ],
+  "3": [
+   "him",
+   "वह",
+   "3rd sg. pron. obl."
+  ],
+  "5": [
+   "skinny wretch",
+   "मरघिल्ला",
+   "m.sg. noun"
+  ],
+  "7": [
+   "say",
+   "कहना",
+   "impf. f.sg"
+  ],
+  "9": [
+   "are",
+   "होना",
+   "pres. 2nd pl."
+  ],
+  "14": [
+   "but",
+   "लेकिन",
+   "conj."
+  ],
+  "16": [
+   "Kishwar",
+   "किश्वर",
+   "f.sg. noun"
+  ],
+  "18": [
+   "of",
+   "का",
+   "postposition, f.sg."
+  ],
+  "20": [
+   "heart",
+   "दिल",
+   "m.sg. noun"
+  ],
+  "22": [
+   "from",
+   "से",
+   "postposition"
+  ],
+  "24": [
+   "ask",
+   "पूछना",
+   "imp. 2nd pl."
+  ],
+  "29": [
+   "Kishwar",
+   "किश्वर",
+   "f.sg. noun"
+  ],
+  "31": [
+   "emphatic particle",
+   "तो",
+   "emphatic particle"
+  ],
+  "33": [
+   "always",
+   "सदा",
+   "adv."
+  ],
+  "35": [
+   "of",
+   "का",
+   "postposition, f.sg."
+  ],
+  "37": [
+   "rottenness",
+   "सड़न",
+   "f.sg. noun"
+  ],
+  "39": [
+   "is",
+   "होना",
+   "pres. 3rd sg."
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    18,
+    20,
+    22,
+    24
+   ],
+   "type": "phrase",
+   "literal": "from Kishwar's heart ask",
+   "meaning": "ask Kishwar (what she feels)",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    33,
+    35,
+    37
+   ],
+   "type": "phrase",
+   "literal": "always of rottenness",
+   "meaning": "always rotten / always a source of decay",
+   "note": "",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

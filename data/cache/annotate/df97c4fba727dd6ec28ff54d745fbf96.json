@@ -1,0 +1,226 @@
+{
+ "translation": "Why are you scared? I looked her in the eyes, but she avoided my gaze and started picking out nail polish bottles of suitable colors on her sari.",
+ "words": {
+  "1": [
+   "scared",
+   "डरना",
+   "pres. part. f.sg"
+  ],
+  "3": [
+   "why",
+   "क्यों",
+   "interrog. adv"
+  ],
+  "5": [
+   "are",
+   "होना",
+   "pres. 2sg"
+  ],
+  "11": [
+   "I",
+   "मैं",
+   "pron. 1sg.obl"
+  ],
+  "13": [
+   "her",
+   "वह",
+   "pron. 3sg.obl"
+  ],
+  "15": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "17": [
+   "eyes",
+   "आँख",
+   "f.pl.obl"
+  ],
+  "19": [
+   "in",
+   "में",
+   "postposition"
+  ],
+  "21": [
+   "eyes",
+   "आँख",
+   "f.pl"
+  ],
+  "23": [
+   "put",
+   "डालना",
+   "perf. f.pl"
+  ],
+  "26": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "28": [
+   "she",
+   "वो",
+   "pron. 3sg"
+  ],
+  "30": [
+   "gaze",
+   "नज़र",
+   "f.sg"
+  ],
+  "32": [
+   "avoided",
+   "बचना",
+   "perf. f.sg"
+  ],
+  "34": [
+   "went",
+   "जाना",
+   "vector verb"
+  ],
+  "39": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "41": [
+   "nails",
+   "नाख़ून",
+   "m.pl.obl"
+  ],
+  "43": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "45": [
+   "polish",
+   "पालिश",
+   "f.sg"
+  ],
+  "47": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "49": [
+   "bottles",
+   "शीशी",
+   "f.pl"
+  ],
+  "51": [
+   "taking out",
+   "निकालना",
+   "conj. participle"
+  ],
+  "53": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "55": [
+   "her own",
+   "अपना",
+   "adj"
+  ],
+  "57": [
+   "sari",
+   "साड़ी",
+   "f.sg"
+  ],
+  "59": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "61": [
+   "placing",
+   "रखना",
+   "conj. participle"
+  ],
+  "63": [
+   "having done",
+   "करना",
+   "conj. participle"
+  ],
+  "65": [
+   "suitable",
+   "मौज़ूं",
+   "adj"
+  ],
+  "67": [
+   "color",
+   "रंग",
+   "m.sg"
+  ],
+  "69": [
+   "to pick out",
+   "छाँटना",
+   "inf. obl"
+  ],
+  "71": [
+   "began",
+   "लगना",
+   "perf. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    17,
+    19,
+    21,
+    23
+   ],
+   "type": "idiom",
+   "literal": "put eyes in eyes",
+   "meaning": "to look someone in the eyes",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    30,
+    32,
+    34
+   ],
+   "type": "compound_verb",
+   "literal": "gaze saved went",
+   "meaning": "avoided gaze",
+   "note": "जाना as vector verb indicates completion or suddenness",
+   "source": "model"
+  },
+  {
+   "idx": [
+    51,
+    53
+   ],
+   "type": "compound_verb",
+   "literal": "take out having done",
+   "meaning": "taking out",
+   "note": "कर is a conjunctive participle, meaning 'having done X'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    61,
+    63
+   ],
+   "type": "compound_verb",
+   "literal": "place having done",
+   "meaning": "placing",
+   "note": "कर is a conjunctive participle, meaning 'having done X'",
+   "source": "model"
+  },
+  {
+   "idx": [
+    69,
+    71
+   ],
+   "type": "compound_verb",
+   "literal": "to pick began",
+   "meaning": "began to pick out",
+   "note": "लगना as a vector verb indicates the beginning of an action",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

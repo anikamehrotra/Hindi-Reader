@@ -1,0 +1,118 @@
+{
+ "translation": "Oh wow! Who will stop me? But it doesn't feel good. I feel pity for the poor fellow. Others...",
+ "words": {
+  "1": [
+   "oh wow (interjection)",
+   "भई",
+   "interjection"
+  ],
+  "3": [
+   "oh wow (interjection)",
+   "वाह",
+   "interjection"
+  ],
+  "8": [
+   "will stop",
+   "रोकना",
+   "fut. 3sg"
+  ],
+  "10": [
+   "who",
+   "कौन",
+   "pron. interrogative"
+  ],
+  "15": [
+   "but",
+   "पर",
+   "conj."
+  ],
+  "17": [
+   "good",
+   "अच्छा",
+   "adj."
+  ],
+  "19": [
+   "not",
+   "नहीं",
+   "negator"
+  ],
+  "21": [
+   "feels",
+   "लगना",
+   "pres. 3sg"
+  ],
+  "26": [
+   "to me",
+   "मैं",
+   "pron. 1sg obl."
+  ],
+  "28": [
+   "poor, helpless",
+   "बेचारा",
+   "adj. m.sg"
+  ],
+  "30": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "32": [
+   "pity",
+   "रहम",
+   "n.m.sg"
+  ],
+  "34": [
+   "comes",
+   "आना",
+   "pres. 3sg"
+  ],
+  "36": [
+   "is",
+   "होना",
+   "aux. pres. 3sg"
+  ],
+  "43": [
+   "others",
+   "दूसरा",
+   "pron. m.pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3
+   ],
+   "type": "phrase",
+   "literal": "brother wow",
+   "meaning": "Oh wow! / Wow!",
+   "note": "An exclamation of surprise or admiration, often used sarcastically here.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    17,
+    19,
+    21
+   ],
+   "type": "phrase",
+   "literal": "good not feels",
+   "meaning": "it doesn't feel good",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    32,
+    34,
+    36
+   ],
+   "type": "conjunct_verb",
+   "literal": "pity comes is",
+   "meaning": "to feel pity",
+   "note": "रहम आना is a common conjunct verb meaning 'to feel pity' or 'to have mercy'.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

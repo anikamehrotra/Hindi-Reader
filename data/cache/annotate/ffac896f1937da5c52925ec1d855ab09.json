@@ -1,0 +1,219 @@
+{
+ "translation": "Huh! What is Saeed's courage? If Saeed were even a little happy, why would I have to use these words? Such a broad and tall person, and you say something?",
+ "words": {
+  "1": [
+   "huh",
+   "हुंह",
+   ""
+  ],
+  "6": [
+   "Saeed",
+   "सईद",
+   "prop. n."
+  ],
+  "8": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "10": [
+   "courage",
+   "हिम्मत",
+   "f.sg."
+  ],
+  "15": [
+   "that",
+   "वह",
+   "pron. 3sg"
+  ],
+  "17": [
+   "is",
+   "होना",
+   "v. pres. 3sg"
+  ],
+  "19": [
+   "what",
+   "क्या",
+   "interrog. pron."
+  ],
+  "21": [
+   "thing",
+   "चीज़",
+   "f.sg."
+  ],
+  "26": [
+   "if",
+   "अगर",
+   "conj."
+  ],
+  "28": [
+   "Saeed",
+   "सईद",
+   "prop. n."
+  ],
+  "30": [
+   "a little",
+   "ज़रा",
+   "adv."
+  ],
+  "32": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "34": [
+   "happy",
+   "ख़ुश",
+   "adj."
+  ],
+  "36": [
+   "were",
+   "होना",
+   "v. subj. pl."
+  ],
+  "38": [
+   "then",
+   "तो",
+   "conj."
+  ],
+  "40": [
+   "to me",
+   "मैं",
+   "pron. 1sg obl."
+  ],
+  "42": [
+   "these",
+   "यह",
+   "pron. dem. pl."
+  ],
+  "44": [
+   "words",
+   "अलफ़ाज़",
+   "m.pl."
+  ],
+  "46": [
+   "why",
+   "क्यों",
+   "interrog. adv."
+  ],
+  "48": [
+   "use",
+   "इस्तेमाल",
+   "m.sg."
+  ],
+  "50": [
+   "to do",
+   "करना",
+   "v. inf. obl."
+  ],
+  "52": [
+   "would have to",
+   "पड़ना",
+   "v. cond. pl."
+  ],
+  "57": [
+   "such",
+   "इत्ता",
+   "adj."
+  ],
+  "59": [
+   "broad",
+   "चौड़ा",
+   "adj. m.sg."
+  ],
+  "62": [
+   "wide",
+   "चकला",
+   "adj. m.sg."
+  ],
+  "64": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "66": [
+   "tall",
+   "ऊंचा",
+   "ऊंचा"
+  ],
+  "68": [
+   "person",
+   "इन्सान",
+   "m.sg."
+  ],
+  "70": [
+   "and",
+   "और",
+   "conj."
+  ],
+  "72": [
+   "you",
+   "तुम",
+   "pron. 2pl"
+  ],
+  "77": [
+   "something",
+   "कुछ",
+   "pron. indef."
+  ],
+  "79": [
+   "say",
+   "कहना",
+   "v. pres. 2pl f."
+  ],
+  "81": [
+   "are",
+   "होना",
+   "v. pres. 2pl"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    8,
+    10
+   ],
+   "type": "phrase",
+   "literal": "Saeed's courage",
+   "meaning": "Saeed's courage",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    19,
+    21
+   ],
+   "type": "phrase",
+   "literal": "what thing",
+   "meaning": "what (is it)",
+   "note": "rhetorical question",
+   "source": "model"
+  },
+  {
+   "idx": [
+    48,
+    50,
+    52
+   ],
+   "type": "compound_verb",
+   "literal": "to do use to fall",
+   "meaning": "to have to use",
+   "note": "पड़ना as a vector verb indicates compulsion",
+   "source": "model"
+  },
+  {
+   "idx": [
+    57,
+    59,
+    62
+   ],
+   "type": "phrase",
+   "literal": "such broad wide",
+   "meaning": "such a broad and wide",
+   "note": "चौड़ा-चकला is a common collocation meaning 'broad/wide'",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

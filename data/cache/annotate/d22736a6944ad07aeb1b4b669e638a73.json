@@ -1,0 +1,151 @@
+{
+ "translation": "The touch-me-not plants of Lajwanti withered. These are touch-me-not plants, dear. If you even touch them, they wither. A Punjabi song.",
+ "words": {
+  "1": [
+   "by hand",
+   "हाथ",
+   ""
+  ],
+  "3": [
+   "touched",
+   "लगाना",
+   "perf. f.pl"
+  ],
+  "5": [
+   "withered",
+   "कुम्हलाना",
+   "perf. f.pl"
+  ],
+  "7": [
+   "Lajwanti",
+   "लाजवंती",
+   "f.sg"
+  ],
+  "9": [
+   "of",
+   "दे",
+   "gen. f.sg"
+  ],
+  "11": [
+   "plants",
+   "बूटा",
+   "m.pl"
+  ],
+  "17": [
+   "these",
+   "यह",
+   "dem. pron. pl"
+  ],
+  "19": [
+   "touch-me-not",
+   "छुई-मुई",
+   "f.sg"
+  ],
+  "21": [
+   "of",
+   "का",
+   "gen. m.pl"
+  ],
+  "23": [
+   "plants",
+   "पौधा",
+   "m.pl"
+  ],
+  "25": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "27": [
+   "dear",
+   "री",
+   "vocative particle f"
+  ],
+  "30": [
+   "hand",
+   "हाथ",
+   "m.sg"
+  ],
+  "32": [
+   "even",
+   "भी",
+   "emphatic particle"
+  ],
+  "34": [
+   "you touch",
+   "लगाना",
+   "pres. 2pl.subjunctive"
+  ],
+  "36": [
+   "then",
+   "तो",
+   "conditional particle"
+  ],
+  "38": [
+   "wither",
+   "कुम्हलाना",
+   "conj. participle"
+  ],
+  "40": [
+   "go",
+   "जाना",
+   "pres. 3pl"
+  ],
+  "42": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "47": [
+   "a",
+   "एक",
+   "indef. art."
+  ],
+  "49": [
+   "Punjabi",
+   "पंजाबी",
+   "adj."
+  ],
+  "51": [
+   "song",
+   "गीत",
+   "m.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    1,
+    3
+   ],
+   "type": "conjunct_verb",
+   "literal": "hand applied",
+   "meaning": "touched",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    19,
+    23
+   ],
+   "type": "phrase",
+   "literal": "touch-me-not plant",
+   "meaning": "touch-me-not plant",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    38,
+    40
+   ],
+   "type": "compound_verb",
+   "literal": "wither go",
+   "meaning": "wither (completely)",
+   "note": "जाना as a vector verb adds completion or intensity",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

@@ -1,0 +1,215 @@
+{
+ "translation": "Yes, exactly. What else can a poor person do but cry? We women are born only to cry. I said these last few words to myself and couldn't hold back a cold sigh.",
+ "words": {
+  "1": [
+   "yes",
+   "जी",
+   ""
+  ],
+  "3": [
+   "that very one",
+   "वही",
+   "pron. m.sg"
+  ],
+  "8": [
+   "cry",
+   "रोना",
+   "conj. participle"
+  ],
+  "10": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "12": [
+   "then",
+   "तो",
+   "emphatic particle"
+  ],
+  "14": [
+   "poor",
+   "ग़रीब",
+   "adj. m.sg"
+  ],
+  "16": [
+   "what",
+   "क्या",
+   "interrogative pronoun"
+  ],
+  "18": [
+   "do",
+   "करना",
+   "subj. 3sg"
+  ],
+  "23": [
+   "we",
+   "हम",
+   "pron. 1pl"
+  ],
+  "25": [
+   "women",
+   "औरत",
+   "n. f. pl"
+  ],
+  "27": [
+   "indeed",
+   "तो",
+   "emphatic particle"
+  ],
+  "29": [
+   "to cry",
+   "रोना",
+   "n. m. obl. sg"
+  ],
+  "31": [
+   "for",
+   "का",
+   "postposition"
+  ],
+  "33": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "35": [
+   "only",
+   "ही",
+   "emphatic particle"
+  ],
+  "37": [
+   "born",
+   "पैदा",
+   "adj"
+  ],
+  "39": [
+   "are",
+   "होना",
+   "perf. f. pl"
+  ],
+  "41": [
+   "are",
+   "होना",
+   "pres. 3pl"
+  ],
+  "45": [
+   "these",
+   "यह",
+   "pron. pl"
+  ],
+  "47": [
+   "few",
+   "चंद",
+   "adj"
+  ],
+  "49": [
+   "last",
+   "आख़िरी",
+   "adj"
+  ],
+  "51": [
+   "words",
+   "लफ़्ज़",
+   "n. m. pl"
+  ],
+  "53": [
+   "I",
+   "मैं",
+   "pron. 1sg obl"
+  ],
+  "55": [
+   "myself",
+   "ख़ुद",
+   "pron. reflexive"
+  ],
+  "57": [
+   "to",
+   "से",
+   "postposition"
+  ],
+  "59": [
+   "said",
+   "कहना",
+   "perf. m.sg"
+  ],
+  "61": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "63": [
+   "cold",
+   "ठंडा",
+   "adj. m.sg"
+  ],
+  "65": [
+   "sigh",
+   "सांस",
+   "n. f. sg"
+  ],
+  "67": [
+   "not",
+   "ना",
+   "negator"
+  ],
+  "69": [
+   "hold back",
+   "रोकना",
+   "verb stem"
+  ],
+  "71": [
+   "could",
+   "सकना",
+   "perf. f.sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    8,
+    10
+   ],
+   "type": "compound_verb",
+   "literal": "cry not",
+   "meaning": "not cry",
+   "note": "The 'na' here negates the action of crying.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    29,
+    31,
+    33
+   ],
+   "type": "postposition",
+   "literal": "of for",
+   "meaning": "for",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    37,
+    39,
+    41
+   ],
+   "type": "compound_verb",
+   "literal": "born happen are",
+   "meaning": "are born",
+   "note": "पैदा होना is a common conjunct verb meaning 'to be born'.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    67,
+    69,
+    71
+   ],
+   "type": "compound_verb",
+   "literal": "not hold could",
+   "meaning": "could not hold back",
+   "note": "सकना as a vector verb indicates ability or possibility.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}

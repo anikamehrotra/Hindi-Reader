@@ -1,0 +1,496 @@
+{
+ "translation": "The storyline is a story about a girl who advocates for free thought and women's rights, and for this, she even fights with her friends. One day, she finds out that her friend Kishwar is being forcibly married, so she sets out on a mission to save her. But she gets nothing but disappointment because her friend surrenders silently to fate.",
+ "words": {
+  "0": [
+   "storyline",
+   "स्टोरीलाइन",
+   ""
+  ],
+  "2": [
+   "free",
+   "आज़ाद",
+   "adj"
+  ],
+  "4": [
+   "thought",
+   "ख़्याल",
+   "n.m.sg"
+  ],
+  "6": [
+   "and",
+   "और",
+   "conj"
+  ],
+  "8": [
+   "woman",
+   "औरत",
+   "n.f.sg"
+  ],
+  "10": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "12": [
+   "rights",
+   "अधिकार",
+   "n.m.pl"
+  ],
+  "14": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "16": [
+   "advocacy",
+   "वकालत",
+   "n.f.sg"
+  ],
+  "18": [
+   "doing",
+   "करना",
+   "v.inf"
+  ],
+  "20": [
+   "one who does",
+   "वाला",
+   "adj"
+  ],
+  "22": [
+   "girl",
+   "लड़की",
+   "n.f.sg"
+  ],
+  "24": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "26": [
+   "story",
+   "कहानी",
+   "n.f.sg"
+  ],
+  "28": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "31": [
+   "who",
+   "जो",
+   "pron"
+  ],
+  "33": [
+   "this",
+   "यह",
+   "pron.obl.sg"
+  ],
+  "35": [
+   "for",
+   "लेना",
+   "postposition"
+  ],
+  "37": [
+   "her own",
+   "अपना",
+   "pron.poss"
+  ],
+  "39": [
+   "friends",
+   "सहेली",
+   "n.f.pl.obl"
+  ],
+  "41": [
+   "up to",
+   "तक",
+   "postposition"
+  ],
+  "43": [
+   "with",
+   "से",
+   "postposition"
+  ],
+  "45": [
+   "fighting",
+   "लड़ना",
+   "v.stem"
+  ],
+  "47": [
+   "goes",
+   "जाना",
+   "v.pres.3sg.f"
+  ],
+  "49": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "52": [
+   "one",
+   "एक",
+   "num"
+  ],
+  "54": [
+   "day",
+   "रोज़",
+   "n.m.sg"
+  ],
+  "56": [
+   "to her",
+   "वह",
+   "pron.obl.sg"
+  ],
+  "58": [
+   "known",
+   "पता",
+   "n.m.sg"
+  ],
+  "60": [
+   "becomes",
+   "चलना",
+   "v.pres.3sg"
+  ],
+  "62": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "64": [
+   "that",
+   "कि",
+   "conj"
+  ],
+  "66": [
+   "her",
+   "वह",
+   "pron.poss.f"
+  ],
+  "68": [
+   "friend",
+   "सहेली",
+   "n.f.sg"
+  ],
+  "70": [
+   "Kishwar",
+   "किश्वर",
+   "n.f.sg"
+  ],
+  "72": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "74": [
+   "forcibly",
+   "ज़बरदस्ती",
+   "adv"
+  ],
+  "76": [
+   "marriage",
+   "शादी",
+   "n.f.sg"
+  ],
+  "78": [
+   "being done",
+   "कराना",
+   "v.perf.f"
+  ],
+  "80": [
+   "going",
+   "जाना",
+   "v.stem"
+  ],
+  "82": [
+   "remaining",
+   "रहना",
+   "v.cont.f"
+  ],
+  "84": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "86": [
+   "then",
+   "तो",
+   "conj"
+  ],
+  "88": [
+   "she",
+   "वह",
+   "pron.f.sg"
+  ],
+  "90": [
+   "her",
+   "वह",
+   "pron.obl.sg"
+  ],
+  "92": [
+   "to save",
+   "बचाना",
+   "v.inf.obl"
+  ],
+  "94": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "96": [
+   "mission",
+   "मुहीम",
+   "n.f.sg"
+  ],
+  "98": [
+   "on",
+   "पर",
+   "postposition"
+  ],
+  "100": [
+   "to set out",
+   "निकलना",
+   "v.stem"
+  ],
+  "102": [
+   "falls",
+   "पड़ना",
+   "v.pres.3sg.f"
+  ],
+  "104": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ],
+  "107": [
+   "but",
+   "मगर",
+   "conj"
+  ],
+  "109": [
+   "to her",
+   "वह",
+   "pron.obl.sg"
+  ],
+  "111": [
+   "except for",
+   "सिवाए",
+   "postposition"
+  ],
+  "113": [
+   "disappointment",
+   "मायूसी",
+   "n.f.sg"
+  ],
+  "115": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "117": [
+   "anything",
+   "कुछ",
+   "pron"
+  ],
+  "119": [
+   "emphatic",
+   "भी",
+   "particle"
+  ],
+  "121": [
+   "hand",
+   "हाथ",
+   "n.m.sg"
+  ],
+  "123": [
+   "not",
+   "नहीं",
+   "neg"
+  ],
+  "125": [
+   "is obtained",
+   "लगना",
+   "v.pres.3sg"
+  ],
+  "128": [
+   "because",
+   "क्योंकि",
+   "conj"
+  ],
+  "130": [
+   "her",
+   "वह",
+   "pron.poss.f"
+  ],
+  "132": [
+   "friend",
+   "सहेली",
+   "n.f.sg"
+  ],
+  "134": [
+   "fate",
+   "होना",
+   "n.f.sg"
+  ],
+  "136": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "138": [
+   "in front of",
+   "आगे",
+   "postposition"
+  ],
+  "140": [
+   "silence",
+   "ख़ामोशी",
+   "n.f.sg"
+  ],
+  "142": [
+   "of",
+   "का",
+   "postposition"
+  ],
+  "144": [
+   "with",
+   "साथ",
+   "postposition"
+  ],
+  "146": [
+   "weapons",
+   "हथियार",
+   "n.m.pl"
+  ],
+  "148": [
+   "putting down",
+   "डालना",
+   "v.stem"
+  ],
+  "150": [
+   "gives",
+   "देना",
+   "v.pres.3sg.f"
+  ],
+  "152": [
+   "is",
+   "होना",
+   "v.pres.3sg"
+  ]
+ },
+ "units": [
+  {
+   "idx": [
+    2,
+    4
+   ],
+   "type": "phrase",
+   "literal": "free thought",
+   "meaning": "free thought",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    16,
+    18
+   ],
+   "type": "conjunct_verb",
+   "literal": "doing advocacy",
+   "meaning": "to advocate",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    45,
+    47
+   ],
+   "type": "compound_verb",
+   "literal": "fights goes",
+   "meaning": "fights (intensified)",
+   "note": "जाना as a vector verb adds intensity or completeness to the action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    58,
+    60
+   ],
+   "type": "conjunct_verb",
+   "literal": "known becomes",
+   "meaning": "to find out, to become known",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    78,
+    80,
+    82
+   ],
+   "type": "compound_verb",
+   "literal": "being done going remaining",
+   "meaning": "is being done (passive continuous)",
+   "note": "कराई जा रही है indicates a passive continuous action.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    100,
+    102
+   ],
+   "type": "compound_verb",
+   "literal": "to set out falls",
+   "meaning": "to set out (suddenly/compulsively)",
+   "note": "पड़ना as a vector verb indicates an action done suddenly, involuntarily, or with force.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    111,
+    115
+   ],
+   "type": "postposition",
+   "literal": "except for of",
+   "meaning": "except for",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    121,
+    123,
+    125
+   ],
+   "type": "idiom",
+   "literal": "hand not gets",
+   "meaning": "to get nothing, to be unsuccessful",
+   "note": "",
+   "source": "model"
+  },
+  {
+   "idx": [
+    134,
+    138
+   ],
+   "type": "postposition",
+   "literal": "fate in front of",
+   "meaning": "to fate",
+   "note": "होनी refers to destiny or fate.",
+   "source": "model"
+  },
+  {
+   "idx": [
+    146,
+    148,
+    150
+   ],
+   "type": "idiom",
+   "literal": "to put down weapons gives",
+   "meaning": "to surrender, to give up",
+   "note": "देना as a vector verb here adds the sense of 'giving away' or 'completing' the action of putting down.",
+   "source": "model"
+  }
+ ],
+ "model": "google/gemini-2.5-flash"
+}
