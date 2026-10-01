@@ -56,6 +56,7 @@ function syncTransLabels() {
     const tr = b.closest(".col").querySelector(".translation");
     b.textContent = tr && !tr.hidden ? "▾ hide translation" : "▸ translation";
   });
+  scheduleNoteLayout();  // anything that changes text size or adds translations moves the lines
 }
 $("#tIdioms").onchange = (e) => { prefs.idioms = e.target.checked; savePrefs(); applyPrefs(); };
 $("#tPhrases").onchange = (e) => { prefs.phrases = e.target.checked; savePrefs(); applyPrefs(); };
@@ -268,7 +269,49 @@ function renderMarginNotes(pi) {
   if (!margin) return;
   margin.innerHTML = "";
   for (const n of (state.doc.notes || []).filter((n) => n.anchor.p0 === pi)) margin.appendChild(noteEl(n));
+  scheduleNoteLayout();
 }
+
+/** Put each sticky note level with the line its highlight starts on, nudging
+ *  notes down when two would overlap. On narrow screens the margin sits under
+ *  the paragraph instead, and notes just stack. */
+const WIDE = window.matchMedia("(min-width: 1001px)");
+let layoutQueued = false;
+function scheduleNoteLayout() {
+  if (layoutQueued) return;
+  layoutQueued = true;
+  setTimeout(() => { layoutQueued = false; layoutNotes(); }, 0);
+}
+function layoutNotes() {
+  for (const margin of $$(".margin")) {
+    const notes = $$(".note", margin);
+    margin.classList.toggle("placed", WIDE.matches && notes.length > 0);
+    if (!WIDE.matches || !notes.length) {
+      margin.style.minHeight = "";
+      notes.forEach((el) => (el.style.top = ""));
+      continue;
+    }
+    const pi = margin.dataset.p;
+    const base = margin.getBoundingClientRect().top;
+    const placed = notes.map((el) => {
+      const n = state.doc.notes.find((x) => x.id === el.dataset.id);
+      const tok = n && $(`.para[data-p="${pi}"] [data-i="${n.anchor.t0}"]`);
+      return { el, want: tok ? tok.getBoundingClientRect().top - base - 6 : 0 };
+    }).sort((a, b) => a.want - b.want);
+    let bottom = 0;
+    for (const p of placed) {
+      const top = Math.max(p.want, bottom);
+      p.el.style.top = top + "px";
+      bottom = top + p.el.offsetHeight + 10;
+    }
+    margin.style.minHeight = bottom + "px";
+  }
+}
+window.addEventListener("resize", scheduleNoteLayout);
+WIDE.addEventListener?.("change", scheduleNoteLayout);
+document.fonts?.ready.then(scheduleNoteLayout);
+// font size, transliteration, translations shown/hidden: anything that reflows the text
+new ResizeObserver(scheduleNoteLayout).observe($("#reader"));
 
 function noteEl(n) {
   const el = document.createElement("div");
@@ -280,7 +323,7 @@ function noteEl(n) {
     <div class="bar">${["yellow", "pink", "blue", "green"].map((c) => `<button class="sw ${c}" data-c="${c}" title="${c}"></button>`).join("")}
       <button class="x" title="Delete note">delete</button></div>`;
   const ta = $("textarea", el);
-  const grow = () => { ta.style.height = "auto"; ta.style.height = ta.scrollHeight + "px"; };
+  const grow = () => { ta.style.height = "auto"; ta.style.height = ta.scrollHeight + "px"; scheduleNoteLayout(); };
   requestAnimationFrame(grow);
   let timer;
   ta.oninput = () => {

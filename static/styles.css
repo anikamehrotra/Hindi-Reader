@@ -141,6 +141,7 @@ rt { display: none; font-family: var(--serif); font-style: italic; font-size: .4
 
 /* ---------- margin sticky notes */
 .margin { position: relative; }
+.margin.placed .note { position: absolute; left: 0; right: 0; margin: 0; }
 .note { position: relative; background: var(--note-yellow); border-radius: 3px 3px 10px 3px; padding: 10px 12px 8px; margin-bottom: 10px;
   box-shadow: 0 1px 2px rgba(0,0,0,.08), 0 4px 10px rgba(0,0,0,.05); font-size: 13.5px; transform: rotate(-.4deg); transition: transform .15s, box-shadow .15s; }
 .note:nth-child(even) { transform: rotate(.5deg); }
